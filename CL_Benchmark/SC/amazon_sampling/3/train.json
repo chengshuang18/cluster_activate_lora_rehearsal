@@ -1,0 +1,402 @@
+[
+    {
+        "label": "negative",
+        "sentence": "Title: cute little guide\nText: mine was cut improperly by the machine, so some of the words got cut off and it's pretty unreadable. It's also for kids, not for someone who really wants to learn about spiders. If you're looking for something very informative and interesting, try this book:Biology of Spiders, 2nd Edition\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Title: Looking To Put Your Music Notes\nText: This book assumes you learn to play an instrument without learnning to read music notation. It tries to match the note with the sound, and test you to see if you know the notes. You take each test using the CD. In order to use the CD correctly The author recommends a CD player that \"searches tracks\", not a CD that shows \"time remaining\". You can use a \"time remaining CD to synchronize but it's not easy.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Title: buck 119 special fixed blade knife\nText: so right out of the box this knife comes extremely sharp and shiny. even after some rough field dressing the edge still holds and is fairly easy to sharpen and re-sharpen. the grip on the knife is smooth but you will still have a firm hold on it if your hands are covered in a slippery substance such as blood, water, urine( you never know) oils from animal fat, so the handle is ok. this knife in particular is a very pretty knife out of the box but after some use, it may look pretty rough. One of the very best things I like about it is that it is MADE IN THE U.S.A! the only real con about the buck 119 that I found is that the blade will rust fairly easily. for my uses this is a problem and is also why I only gave it 4 out of 5 stars.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Title: Nice backpack\nText: I bought it to use with my notebook.But it is so cool that i use it for traveling too.Good space inside! And well divided.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: spoiler rant\nText: I do not leave reviews but after watching this I have to say's what kind of society to we live in where its ok to take people kids because they are not living as high and mighty as others. Why not just help the parents. Do you know how many small town kids who lived in trailer or worst make it out of that. Or a ghetto. Or even the rich kids who commit suicide or kill others. This film is a slap in the face to every hard working. Mother every hard working family who hasce some troubles but still love there kids and try to give them everything. Let social services do that job by this movie saying someone should kidnap someones child because rich society does not feel like they are raised right is wrong. By the way I'm middle class. And was raised. In new York. Without a silver spoon and my kids have more and will gain more knownledge by everything around them. As I continue to grow myself. This is sickening. Not a bad movie but in bad taste.\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Title: big disappointment\nText: I already had a SanDisk 1 GB flashdrive. However this 2 GB with U3 technology is full of problems. I checked the manufacturer's website, and it listed 20 error messages and possible solutions.\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Title: This is one of the most horrible things I've ever heard.\nText: First of all, let me say THANK GOD I was only subjected to the short clips from this CD via the Amazon.com web page. This is truly one of the worst things I've ever heard. Techno-Zeppelin?? Riot-Zeppelin??? Some of the tracks bear absolutely no resemblance to the original scores. I thought it was bad enough when \"Dred Zeppelin\" came out with their awful Elvis-sings-Rasta-Zeppelin music, but this remix \"tribute\" (more accurately, an insult) to one of the greatest and most enduring bands of the rock genre is simply repulsive. Please - don't buy it. In fact, write to your Congressman and DEMAND that this sort of mockery be made a federal offense...I'd hate to see the look on Robert Plant's face when he gets a load of this cover-band dementia.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: BOUGHT THE BIG ONES!\nText: BOUGHT THE BIG ONES! AND THEY ARE TIGHT! I would size up if you have man hands like I do.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: I wish they would offer Sunset Ride Album for sale on CD!!!\nText: I had an album by (LP)Zypher that I gave away as a gift (after I recorded it on my reel-to-reel) The album cover had a cartoon type airplane flying into a south pacific type sunset. I believe the album lable was Warner Bros. and the title was \"Sunset Ride\". It was one of the best (female vocal) blues albums I have ever heard. It there anybody out there who knows of this album. Maybe it was just a dream!!Jeff\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: corporate\nText: Electrolux Eureka Sanitaire Commercial Canister Vacuum CleanerI have used this product in other of my offices because it picks up paper clips and has a place for a HEPA filter. This product came with a broken wheel. It is plastic and the plastic tab which held the wheel to the machine was broken. Shoplet sent a Return Authorization promplty, however, the part is $2.50 from Eureka and the box a UPS Store would cost more. Shoplet graciously agreed to accept the vacuum in its entirety but unwilling to simply order the $2.50 part. I ordered myself from Eureka. Seemed like a waist of resources.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Title: Power Lines\nText: I have been an Anne McCaffrey fan for many years. It is interesting to come into closer contact with her with this book.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Title: SImply the best book on advanced C++\nText: This book is a must if you want to take yourself from a beginner to a more intermediate C++ programmer.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: An okay duty belt\nText: I bought this to allow me to side carry my hand cannon. When it arrived, i found the belt to be VERY stiff and almost impossible to adjust without a lot of muscle. I bought it bigger than i needed in order to make sure i had enough adjustment to secure it tightly. I am going to try washing is a few times to see if it will relax some and make it easier to adjust. Not a bad product but a little to stiff for my liking.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Title: A better Dean Koontz\nText: I've always liked Dean Koontz. This one however is different from his others. It is still a fast read; I found hard to put down. I have already ordered the second and have started on it. This is one saga I won't want to end.\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Title: This mouse pad slides\nText: I bought this and on the first day was looking for some glue to keep it from sliding around on my formica desktop. When it slides the mouse pointer won't move reliably; pretty much defeats the purpose of having a mouse pad. Even with the pad glued down (yes, I glued it down to my desk) I found it to be too small when using a large monitor.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: BORING\nText: This was given to my daughter as a birthday gift and even if she was younger than a year old, it still wouldn't be very good. All it did was startle her when it first started up and did nothing but waddle around, stop and turn and go in another direction with the same annoying monkey sound and music. Pretty boring. My daughter was already almost walking so it was too late to assist her in crawling, but it might encourage younger babies to get moving.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: OK but......\nText: As everyone else said, this looses a lot in the translation, which this company has done to pretty much all the animes it get. The voices are bad (I mean come on! Joey lives in Japan, but sounds like he's from Brooklin) Get this if you like the Kid's WB version but I suggest you get an import from the Japaneese to get the real effect. Another reason to get the Jap is because they have a season before this that never was, and to our dismay probly never will be, released in America\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Title: Feel the buzzzzzzzz\nText: Switched from a different kind of ultrasonic toothbrus to this, and WOW this leaves your mouth all tingly and clean.It was a little rough at first, taking a bit getting used to, learning how to use it without it splattering toothpaste everywhere. But, now that I have the hang of it, I'm impressed! It's great.I have had no problem with it not getting water in the battery. I assume Philips knows these things get used around WATER and have the battery compartment sealed sufficiently as long as I'm not using it in the tub or something! It has a 2 yr warranty and only cost $20ish so it's not a big deal if it does break - I would call it a defect if it gets wet inside and expect it to be replaced.Glad I got this to replace my old toothbrush. Excellent device and great for this price! Love being able to swap out any set of AA batteries I have too (I use rechargables.)\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: Not much help for me\nText: I didn't find this book much help in finding either an agent or a publisher. Too much is done on the internet today. Hard copy like this becomes outdated before it's on the shelf. Too much change is now taking place in the publishing world.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: Better than nothing but...\nText: This unit is confusing. It ignores the UPS truck. It ignores small (Tacoma) sized pickups. It always picksup my larger Tundra truck or my wife's Dodge Van. Still, it is better than nothing but it is also disappointing and NOT worth the $90 price... Cheaper technology from other vendors would also prove to be as unreliable as this one!\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: stay away from plastic\nText: Poor design and cheap materials on the handle. The back half of the handle broke off on first dive with normal use. Now the the rest of the plastic is starting to crack even though I rinse with freshwater after every dive. Bottom line...Avoid any dive knife with plastic parts. At least make sure they are not part of the structural components of the knife. On the other hand I love the Kydex sheath design, especially the straps that are made for quick release. Makes for easy on/off. Over all, if you are going to go with Kershaw, go for the Amphibian. Same sheath, better knife.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: Trading in Oil Futures and Options\nText: More than hundred-twenty dollars for 160 pages of fundamentals and introductions, published in the 80ties and just updated... This is really too much!Sexy title do not justify such expense. Book worth max 20-30 dollars.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: Good, but not...\nText: These bearings are good, but they take longer then a normal bearing to break in. But thats not why I gave it three stars. I gave it three stars because for the price they just aren't worth it. I have 2 sets of reds bearings. They spin smoother and longer then these, and for much less. So They are good, but if Your gonna want good bearings, get reds...\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Title: A good game gets even better!\nText: I love this game. New in this version is Powersliding, which is a real fun travel power your character starts with, which is somewhat faster than Sprint.The graphics are phenomenal, and I even enjoy the game music. It's become my addiction as I try out different characters and work on building them up and fighting crime in Paragon City.The one down side to the game is that it's a pay subscription to play ($15.00/month), but the moderators and tech support are so great that it's worth it in my opinion. Servers are maintained on a regular basis as well.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Title: Great item with a great price\nText: I bought this item for my godchild. They have told me that it's durable and safe. My godchild loves the wagon and I also purchased the umbrella with it.The umbrella is ideal for the beach. I would recommend this to anyone that has one or two children.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: Eh not as good as you would think\nText: Ok so I was excited to see this movie.. I thought wow a good actress is in it.. That's a bad sign.. I find sometimes horror movies with unknown actors are better..So the beginning is good. The blonde leader kid is good. Creepy. BUT then it starts getting DUMB. So the whole egg scene is bizzare. I dont wanna give away too much but she's just stupid the second time she puts up with it..and WHY on earth didn't she tell her friends!!!!!!! CMON!Then I also thought she has knives in the kitchen she couldve grabbed one quick and sliced the guys! BUT NOOOOOOOO............Overall.. I was dissapointed. The ending was UGH.. I spent 5 bucks renting this and I wish I had waiting for it to be on HBO. You should all just wait. see no evil is a better flick!\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: Read 'Death of a Salesman' instead\nText: This was an ok play, but I don't understand why so many people like it so much. It was interesting and somewhat entertaining, but it was incredibly depressing and almost nihilistic. The people in the play sit in a bar all day and don't do anything. As a matter of fact, they don't even try to do anything. This play is similar to Arthur Miller's `Death of a Salesman' in the respect that both plays are sad and depressing, but Willy Loman in `Death of a Salesman' is a good, family man who is at least working hard and is at least trying to improve his life unlike the complete bums and pathetic losers in `The Iceman Cometh'. Save your time, skip this play, and go directly to `Death of a Salesman'.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Title: Excellent survey, well written, needs just a few more drawings\nText: Enjoyed this book very much, extra detail found in (for example) the \"US Submarines\" book was not especially missed. Flowed well, just a tiny bit of repetition. Only criticism is lack of at least a few cross sections, end elevations or plan views for modeling purposes. For the excellent Kindle price, though, I can wing it from the side elevations.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: Watch The Original\nText: Being a huge fan of Stargate I was disappointed watching this. After watching it I went back to the Season 1 DVD set version. The scenes 'added' and 'replaced' do not add anything to the story and in fact detract from it. In their enthusiasm to change a scene they even clipped Jack O'Neill's line towards end of the movie. They show Tealc slowly 'shaking his head' in disapproval - that was not in the original. I didn't find the video quality any better. I almost get the impression they did this to keep interest up in Stargate because of upcoming movies including Stargate Universe. I would recommend sticking to the Season 1 DVD set so you can have a better pilot and the start of the series.\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Title: If you like sappy, soapy stories this is for you\nText: Unfortunately, I don't like sappy, soapy stories. I gagged my way through the first 20% of this Kindle book, then hopped quickly through to the end. I'm so glad I didn't pay any money for this one; not only is the story soapy, but there's an extreme amount of preaching going on.I read this to take a bit of a break from my usual fare of fast paced thrillers - it served the purpose for that.\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Title: HASBRO FAILED ON THIS ONE!!!!!\nText: My 6 year old son received this game as a Christmas gift three weeks ago. This was his \"favorite\" toy until it started giving us trouble. First of all, week one it lost all volume. Then from that point on it has been slowly breaking all together, now it won't turn on. We tried all of the trouble shooting and changed the batteries twice, but no luck. Pretty sad toy for $50. Actually, terrible quality even at the sale price!!! Anyway, my 6 year old is very upset about this, and I thought we should give people a heads-up before your as disappointed at we are!!!!\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Title: You won't be able to sit still. This song jams!\nText: This song makes you want to dance and party! Best dance song of 1999\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Title: He's gone commercial\nText: I have read all his works. Up to now he's been great, but I think the plot of this one is weak, predictable and shallow. His characterization fails completely,unless he was trying to write comedy. Perhaps he has to grind stuff out to meet contractual obligations, but putting the Chief Justice of the California Supreme Court in Federal prison with a couple of buffoons fails the test of credibility. As a retired attorney and a real Grisham fan, I was terribly disappointed.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Title: In Plain Sight should be seen.\nText: Good stories and good characters made this series worth watching. I didn't catch on until the last season so went back and watched it from the beginning. Sad to see the series end.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: This socks have changed\nText: This is the third time I have purchased this brand/style of sock from Amazon, and this time the socks are much more sheer than before. I saved the old packaging and the previous wool content was 54% the socks just delivered are 56% wool. The real change is the thickness of the product. The new product is much more sheer. Don't know If I will keep them or not,. The description of these socks on the web site shows the old fabric content.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Title: Words of comfort and insights well written\nText: I was particularly moved by the authors insights into the death of children. I feel that although the subject of hell was addressed aggressively, the book was full of hope for all. I have read this book several times, mainly all the bent-edge pages. It is always by the nightstand.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Title: So much fun!\nText: Santa brought this to my kids - Ages 13, 4, and 1 year old twins. Within minutes we had our first fort and everyone (including my husband and I) were having a blast. It's not as study as I would like it to be - but the pieces snap together so easy it didn't really matter. When not put together the tips of the tube things are hard - I definitely had to keep an eye on the kids while they were playing with this. This is going to be a great indoor toy when the weather is bad and I want the TV off. When it gets nice out it's rated for outdoors too!\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: Copping out....\nText: This book was a watershed for me. Lehane is an icon, whose works have been SO stand-out, with his earlier works absolutely brilliant, especially Shutter Island (in my opinion his Kafka-esque masterpiece). Now this.... It can only be called a cop-out, an escape from the widespread criticism Shutter Island received (from doltheads); what he's done here, in this evocation of early 20th-c. Boston, is sort of an evasive action, it seems to me. Much as I've loved every one of Lehane's earlier works, this one was beyond me -- uninteresting period and place, and very uninteresting characters (with the possible exception of an imagined Babe Ruth in the first chapter). Hard as I tried, I had to give up on page 169. This kind of historical thing from someone like Lehane is like Hemingway doing a Barbara Cartland.................... Please, Dennis, no more.\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Title: A Bad 70's \"Western\"\nText: Encouraged by many positive reviews, I purchased this DVD for viewing at a \"movie nite\" with a group of friends. Unfortunately, the film was a great disappointment - one of the least entertaining films I have seen, and often painful to watch. Even Slim Pickins couldnt save this artifact of the 70's. None of us found this film funny, and it is perhaps the only film in recent memory that was so awful and dated that I found myself hoping it would just hurry up and end starting painfully early-on in the film. Viewed on a 10' home theater screen, the video quality was only fair at best. Audio quality is similary only fair, and despite my like of Jimmy Buffet, his music did not make this film more tolerable.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: A trip in the natural pockets left within suburban sprawl.\nText: Pyle grew up near an irrigation canal running through Denver and Aurora, Colorado. He has returned to this canal throughout his life, and in this book he tells their stories. Urbanization leaves these pockets of unclaimed land behind, and this book is a durable guide to one example. Coloradans will find Pyle's work especially relevant.At times, the author strays into a didactic zeal as he warns of the need to protect such places, but this is by far the lesser part of The Thunder Tree.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: Held my interest for minutes at a time\nText: Some really nice animation and some segments that held my interest for minutes at a time, but mostly disjointed and tiresome. The talented cast improves the quality of the film, but not a lot.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Title: Undergriund Railroad Sampler\nText: I am a Quilter, and I found this book to be a real Eye opener for what went on during the slavery days. I never knew how Quilts were used as codes to direct the slaves to freedom. This book is a real history lesson, that I am so glad to learn about and be a part in helping with the teaching of the slavery days. I was asked by a teacher to make this quilt. She is going to hang it in her classroom for her 5th grade students to make paper blocks, to match the Quilt. The Quilt tells the story. It's AWESOME, and I really enjoyed making it. Thank you Amazon for having this Quilt Book.\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Title: waste of time and money\nText: Would work great if laptop was kept in one location. It's too small, flimsy, and hard to use for mobile or laptop use.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: Boring\nText: Read this book because of all the great reviews. Good world but really need more info as to how the bells etc and how all the creepy people work. Characters are flat and there doesn't ssem to be enough people in the world to flesh out the reality. Wouldn't recommend it and won't read the next one. May not even try to read any other of Nix's books. I am an adult and read a lot of fantasy.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: MOST INCONVENIENT AND NOT USER FRIENDLY BOOK !\nText: I would have given 5, if all the herbs are combined in one section in alphabetical order. Every time I have to look in all three sections to find the name of herb. The section do not even match with listed herbs.I hope they publish new edition with only one section with all the herbs in alphabetical order. No one is interested to know which is commonly available or which is special oriental or which is special Ayurvedic and Chinese!!!\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: Ok...but\nText: Kinda cute but had a big gouge in it when it came. Not worth the trouble of trying to exchange it since it can't be seen b/c it is up high enough on the wall. Had to add spacers to the back or else the shelves tip forward too much. (Used the sticky pads you put on the bottom of chairs!) Made in China :(-\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Title: JVC HARX500 Over-the-Ear Headphones\nText: ok i had toughts about buyin this products because of some online reviews by other buyers..but after i gave up and bought it anywaes... i NEVER regretted buying these headphones..the sound quality is GREAT..the noise cancelation is 90%,,, dnt hesistate and buy this product because u wont regret it...i take these headphones where ever i go and it really help and ive got alot of compliments for these heaphones... the problem is wire is kinda too long and i have to fold it..and that doesnt even cause any mayham..dis headphones are awsome..they actually in my ears while im writing this review..good luck... i'd rate it a 5 starts for everything it has and its quality\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: Great item, okay graphics\nText: I love table toppers and have used them with 2 kids. The graphic on this one is just okay. I prefer ones that have lots of letters and numbers or the Dora ones with many objects in 2 languages. It makes waiting for meals more of an opportunity for learning. These are just fun with the characters on them. Better for babies that aren't up to the letter learning yet.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Title: So far, very good\nText: From the very beginning, you realize that if you are committed to changing your lifestyle this is the book that will get you there.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: The story is about......\nText: The title makes one want to read. However, the book talks about a lot of nothing. I would have rather seen more dialogue about the title and what the story was suppose to be about.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: Cute but poor design\nText: Let me start by saying that I love Fiestaware and always get a thrill out of buying a new piece for my collection. This set was no exception. I thought it would be nice to finally have a pretty everyday set so we could retire the diner-style sugar pourer and wouldn't have to pour our milk straight from the carton. Unfortunately the pieces are thoughtlessly designed. It is impossible to pour the cream without it dripping, no matter how careful we are, and the sugar bowl should have a cutout for the spoon. I'm giving two stars for it's utter cuteness, but this is a kitchen utensil and should be more functional.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Title: A Character-Driven Story\nText: This story fills in the gap of Jeffery Sinclair's life from the end of Season 1 to the middle of Season 3 of Babylon 5. If you're looking for action, go elsewhere. The story's focus is on how Sinclair's paradigm was altered, a change not explained on the show. The novel succeeds in doing what it was intended to, and leaves the reader wanting more, as good writing should. If you were intrigued by the Sinclair character or just want to fill in the gaps of the B5 story, this book is worth it. BUT BE WARNED! This book is a spoiler if you haven't seen the season 3 episodes \"WAR WITHOUT END\" parts 1&2. Great book, though.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: Very out of date\nText: In 1964 this referece was timely and very authoratative. Today, forty-seven years later, it is horribly out of date. I have contacted several of the larger orders over the years and addresses and phones have changed, mission objectives have altered, etc. Many orders are almost extinct and many have such dwindled numbers that they haven't had a profession for years.To be helpfull and of value this needs to be drastically updated.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Title: Good, and it works!\nText: I bought this to use for counting paces (steps) while working outside in the field.. and it works perfect for that!The casing is sturdy enough that I can hike around with it without feeling I am going to squeeze it apart... thats a good thing!Being right handed, I naturally put this in my right hand... but for counting tallies, it goes in the left hand! (just a note for any left handers... its not changeable!)My counter numbers are not centered in the window... it almost cuts the 1000ths digit off, but it is still perfect readable from an angle.Has worked great for me so far.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Title: Phenomenol!\nText: I love this cd! It is the best! Its for anybody who likes or loves upbeat, danceable, pop-style music, would love this cd! I would recommend it to anybody hands down!\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: MADDEN\nText: NOT TOO IMPRESSED WITH THIS ONE. WORKMANSHIP IS OK BUT THE OVERALL QUALITY DISSAPOINTS ME. IM USUALLY HAPPY WITH STEVE MADDEN SHOES BUT NOT THIS ONE.IM SURE ILL WEAR IT SOMETIMES BUT I WOULDNT CALLE THIS ONE A WINNER.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: Does the job\nText: Can't get real excited over this product. It does the job, but is fairly noisy and overpriced.I purchased a dual fan laptop pad at the same time I purchased this fan. It was half the priceand much quieter. But I couldn't really find anything else that was as unobtrusive.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: Verbose\nText: I feel like the message of the book is good and useful... but this could have been an essay instead of a 250 page book. Boys aren't encouraged to explore their emotions, which leads to feelings being bottled up and ignored. This can lead to emotional problems in some boys. I didn't find their case studies to be very compelling or their conclusions to be particularly helpful or actionable.\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Title: Offensive and uncivilised\nText: Call me a prude. I expected constructive descriptions about the founding and growth of a landmark virtual community. The vulgarity and coarsenes of this book, both in language and treatment of topic matter, is gratuitous and offensive. Are virtual communities this uncivilised? I should think not.One star is too many.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: Meagre content disguised by vague writing and padding\nText: There isn't much real content in this book and you have to trudge through a lot of vague and cumbersome writing to get to it.Here's a representative extract:\"What should be obvious to any practitionaer is that effective engineering of a schema requires expertise with metadata and related data archtitecture disciplines. Wihtout a metadata and data architecture focus, the broad proliferation of nonstandard and ad hoc XML transactions and schemas will be seen, resulting in increased data disparity, integration complexity, and a failure to reduce related technology costs.\" (page 197)It also has a very poorly produced index, which makes it far less useful than it might have been as a XML schema reference book.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: Being from Wisconsin\nText: This book takes on special meaning since I am from Wisconsin and recognize most of the places mentioned. However, the book drags on, especially toward the end. Maybe I would related more to the story line if I were at a different place in my life right now. I recomend the read, but leave your expectations at the foot of your statue of the Buddha.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Title: Adorable\nText: This is a very cute little umbrella for kids. The color is exactly like the picture, kind of muted, but it is still very cute. Any child who loves dinosaurs will love this!\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Title: Very encouraging, and uplifting\nText: I love the book, I read it daily. It helps me to keep things in perspective and keeps me centered when obstacles arise that I can identify with, with regard to a reading I read in the book. I love Iyanla!\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Title: I really, really wanted to like this kit....\nText: I love HABA toys and own many. Personally I find this kit to be adorable and was excited to see an alternative to the plastic toys which are generally less attractive (not to mention the health concern of plastic). Unfortunately the lack of durability in this product has led me to only give it one star. Within a week of fairly normal children's play all three of ours were broken in some fashion or another.The kids did enjoy them while they were together, but they too quickly ended up in the trash for what should have been a quality toy.\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Title: Sadly Noisy\nText: Ogunde begins like a intense, beautiful cry but then it turns into something that seems more like if a million of cats started to fight each other, and there's nothing to say about My Favourite Things...disappointing, this is a really disappointing album\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: The Unbearable Density of Solaris\nText: I recall seeing the original Tarkovsky film in the then dirty and dingy Cinema Village on E. 12th Street. It struck me as an ambitious mess, at times, even crude, hardly crying out for a \"re-make\". Unfortunately, egos not reasons rule in Hollywood.That said, I have enjoyed the non-commercial films of Mr. Soderbergh (THE LIMEY; sex, lies, and videotape,etc.) as opposed to his commercial (ERIN BROCKOVITCH, TRAFFIC,etc.) ones. This time, Mr. Soderbergh's creativity seems to have been subordinate to the company he kept during its making. The filmakers seem so determined to make the viewer prostrate before their consideration of \"serious issues\", the film becomes pervaded by a smugness that renders the material as leaden, inert and lifeless as a small moon.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: canopy bed frame\nText: I like the look of this bed and it wasn't hard to put together but its so flimsy and shaky! It moves every time you sit on the bed and doesn't fit around it correctly. I actually looks like its about to fall over! A bit disappointed.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: Good plot but went too fast\nText: The plot was good, even the cliffhanger. I don't mind it, I really don't. But the book simply goes too fast, leaping from one topic to another like a flea, never truly going into the minds of the characters with enough detail. For example, did Rachel feel any guilt whatsoever when she killed Tom? I would have liked a little more emotion. It also leaves too much out, like what happened to the auxillary animorphs. Did they all die or something? It would be nice to know what happened to them. It was a good plot, a good idea, but it would have been a lot better if it had slowed down, added a lot more character analysis, and explained things more clearly instead of leaving the readers to do a lot of guesswork. Still, readable and very sad to get to the end... but I would have liked it more if it had slowed down a lot.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: Great sound, great price, not sturdy\nText: There was great sound from these very inexpensive headphones, but before a year was up, the cable started getting flaky right around the base. If I didn't have the cable bent just right, the sound in one or both ears would drop out. It's a shame because they sound so much better than the phones that came with my Zune. But I guess at $10 or whatever I paid for it, there's not much I can complain about. Great sound though, and inexpensive.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: Not the best 311 cd....but ok.\nText: Okay, this is pure 311 without a doubt but its not the best stuff they've done. The cd itself is alright, with tracks like \"Random\" and \"Down\", but I would definetly recommend Grassroots, Music, or Omaha Sessions if you really like this cd.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Title: one of the better health books that I've read\nText: It seems that the number of studies in this important area are few - probably because the prospect of big-money profits is low; nor does government fund many studies that won't lead to profits for those who donate to politicians. . . a pity.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: Please..... let there be a fourth book!\nText: I really liked the first two books. Darkangel and A Gathering of Gargolyes. I particularly liked the second volume because Aerial displayed great character and courage. However, the last book, The Pearl of the Soul of the World did not live up to my expectations. Aerial lacked character, she didn't do anything extraordinary in this book. There was no adventure like the second volume. I was disappointed at the way the story ended. Aerial sacrificed herself throughout the story. Despite the finality of this triolgy, the story line is wonderful. Everyone who loves adventure and fantasy stories should consider reading this trilogy. The ending leaves me longing for more. Could Aerial take part in any other story that you're writing Ms. Pierce? I would love to see Aerial again, along with her trusted friend Erin. Thnak you for a wonderful journey.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: Hunting, hunting and more hunting\nText: I started out enjoying this book about \"the olden days\" in the country, but after a while I began to be revolted by the constant descriptions of hunting. It's hard to see how most people who aren't hunters would really enjoy this book. Even if hunting was a near constant activity, reading about it, at least for me, started to wear thin about half way through the book. The ratio of hunting versus descriptions of other activities, or of nature itself, is about 3 to 4.\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Title: Glaring Error\nText: For all the experts enlisted for technical review and such, shame on Ann Douglas for not catching an obvious error on pps 86-87: the cervix is NOT high during the beginning of the menstrual cycle.Incorrect information is bad but to place it in context of pregnancy achievement is blatently irresponsible.After catching this error, the book left a bad taste in my mouth.There are much better books on pregnancy than this one...\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: More than just math - yet not interesting\nText: I have read a few math books, prime obsession most recently, and this book wasn't technically very interesting, it also wasn't fun to read either. There are some good parts at the very beginning and end but middle is incoherently dry. Basically I believe that in some ways the way the author was trying to thought provoking and intelectual is where it lost it's was. Neither technical, historical, or fun enough you lost your audience\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Title: WRONG BATTERY ADVERTISED BY AMAZON FOR LUMIX ZS1\nText: THIS IS THE WRONG BATTERY FOR THE LUMIX DCE ZS1, which I just bought on Amazon. It should NOT be offered by Amazon as it does not fit the camera or the charger. i do not know why Amazon has mislead it's customers who trust Amazon for truthful and good customer service. Perhaps it is just an unintentional mistake. I bought 2 of these unusable batteries. Amazon, please remove these from the website for this item before other trusting customers are mislead into purchasing them. I understand that the sub contractor who sells the batteries charges S&H to return them. Amazon does not. I wonder if Amazon has any suggestions to remedy this unfortunate situation.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: You'll get the idea\nText: A true story, this film presents facts within a most bizarre, theatrical whirlwind. I had never heard this story before watching the film, but I was taken into the fantasy world that one youth made into reality. From the perspective of a deeply involved participant, viewers are taken on the chaotic club ride led by a youth who was on a downward spiral. He remained delusional to the very conclusion, perhaps as confused as any viewer of this film. Amazingly, he collected an enormous following, occupying hundreds of hungry night life addicts. If you found something missing in the news reports, you'll get it after watching this film.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: Derivitive Pap\nText: Like many others here, I read the Sword of Shannara at a young age, although after reading the Lord of the Rings. Even then (I must have been about 12 or so), I could see how much of a copy this was. It's as if someone gave an adolescent the Cliff's Notes to Lord of the Rings and told him to write a book based on it. I don't buy the idea that that's OK because 'no one has any original ideas after Tolkien.' Apparently these people have never read A Song of Ice and Fire by George R.R. Martin, which I HIGHLY recommend.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: Wrong DVD sent\nText: This is not a review of the content, but a warning, as one of the reviewers wrote, I ordered 1st and 2nd series, but only was sent the 2nd series, completely different DVD.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: Basic Recipes - Nothing Unusual\nText: I found this cookbook just okay. It had recipes in it that are pretty common Italian family fare - nothing unusual or fancy - Not really representative of Giada's normal style and flare. I bought this for a gift for someone with a family. I would not have bought this particular cookbook if I knew what was in it ahead of time. I would have picked a different Giada cookbook.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Title: A whimsical collection\nText: Fans of the newspaper cartoon Foxtrot are in for a surprise in this collection, which portrays the sleuthing duo of Jason and Marcus as they follow clues to finding a thief. Encyclopedia Brown And White provides a whimsical collection of their unusual sleuthing abilities in a title all ages will enjoy.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Title: Pretty good, but pricey\nText: Well, there's isn't much to these. They're thermally insulated, but really, there isn't enough liquid in an espresso shot to stay warm and you drink it too fast anyway. I also have the large Bodum mugs for coffee and tea and those are great.There are two reasons why I didn't give them 5 stars.1. They're very expensive2. There are sometimes imperfections in the glass and the hole at the bottom takes away from the visual appeal.That being set, I am planning on buying more!\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Title: Entertaining\nText: Mr. Barfknecht's book is pretty entertaining. It's especially interesting when you know you've been to an area that is mentioned as a site of supernatural occurrances.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: as authentic as a plastic souvenir\nText: I bought this CD because I wanted to listen to Zulu voices, and the blurb on the back claims this is \"one of the most authentic ethnic performances every produced.\" Perhaps I neglected the line that said \"Additional music written by George Raphael,\" because the Zulu singing is degraded by electronic accompaniment. This is about as ethnically authentic as a plastic trinket you buy in Disneyland. The original singing sounds good, but you can barely hear it under the muck of the `additional music.\" Really too bad. If you want to hear Zulu voices, I suggest you look elsewhere.\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Title: Not the worst cd I've heard\nText: Not the worst but pretty damn close. This is VERY different from Experience, Jilted, or Fat of the Land. I've been a fan ever since Jilted Generation was released and I have to say that Always Outnumbered just doesn't do it for me.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Title: One of Simak's better books\nText: Our descendants from 500 years in the future have to leave their own time frame because earth has been invaded by creatures which are systematically wiping out the population. Gale the leader states that the whole population of 3 billion people will be travelling through timegates to temporarily settle in the present day. They then plan to build new timegates which will carry them back to the Miocene era so they will not upset the natural evolution of man. The rush is on to get everyone through as soon as possible because the threat of one of the aliens arriving through time would be catastrophic because of their fast breeding cycle. One creature gets through and the chase is on to destroy it before it breeds. Simak creates a believable situation in regard to how our politicians and religious leaders react to the invasion from the future. This was a thoroughly enjoyable book and if the subject of time travel is your genre then I suggest you check this book out\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Title: zulu shamanism\nText: Here we get a fascinating account of how a Zulu shaman gets called to his profession and what healing and divination entail in the context of South African native healers (sangomas). Mutwa brings in details that I haven't seen anywhere else... for example, how divination bones, the essential aspect of sangoma art, are obtained and how a combination of plants and energy are used in healing mentally and physically sick people. He talks about ancient power objects held in storage by his tribe and about the knowledge, accumulated by his tribe of hundreds of years, of the alternate reality that one can encounter in the bush. Above all, this book allows one to one witness the sophistication of the Zulu, including their techniques for training and retraining the initiate's perception and awareness.This is a valuable book.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: Small gravy boat\nText: Maybe this would work for syrup or sauce, but honestly, it's way too small for a gravy boat. It only holds 8 or 9 ounces of liquid. You would either be refilling it 2 to 4 times before everyone is served, or you would need several on the table. What could Mikasa be thinking? On the upside, unlike a lot of gravy boats, it pours nicely, and has a nice saucer to catch any drips.In hindsight, I should have shopped around and gotten something larger and not wasted my money on this one.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: Go Back To Lab\nText: I'm a fan of down south music and No Limit, but Master P has really done it with this one. This is a straight garbage album. No Limit hasn't put out a good album in years. The Last Don was P's last great effort. If P don't straighten up, no limit won't be getting anymore of my money.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: A nice keyboard, but...\nText: I'm pretty disappointed. I bought this keyboard to play games in the dark, but when the room is dark I can't see the keys at all. I liked the idea of the macro pad and assumed it was the same as the Saitek Eclipse. I was quite wrong. If you want a keyboard for use in a darkened room this ISN'T the one. :(Otherwise, it was an alright keyboard. The design was nice and it typed well.Needless to say I'm returning this and getting the Saitek Eclipse!\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: Factual content good, but a very unpleasant read\nText: I bought this book to research roadside attractions for a cross-country trip. While there is a fair amount of decent information about many offbeat attractions, the tone of the book really bugged me.Instead of celebrating the uniqueness and fun of the subject matter, the authors denigrate every single attraction. You read a couple of pages of this, and you wonder why they wrote this book, since they seem to have genuine contempt for their subject matter.So, if you are just looking for facts, it may be worth a try. However, if you are a fan of such things, it will really turn you off.\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Title: Dont waste your money\nText: This game plays terrible! This game has fixed cameras so it is very easy to walk off camera. Then you have to guess which way to turn or walk to get back into camera site. At first I could not get this game to play on my computer but after ONLY 2 weeks of e-mails to their tec department and a new sound card I got it to play. Funny thing, My sound card worked fine on ALL of my other games.\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Title: Creates only a small amount of steam\nText: I would not buy this again. It creates only a small amount of steam. Adding salt increased the amount of steam somewhat, but then the thing started to sputter water. When I was a kid my grandparents had a vaporizer that put out a LOT of steam. I have no idea what brand that old vaporizer was. This Vicks vaporizer probably has more safety features than that old vaporizer, but it doesn't create nearly as much steam. There must be better vaporizers out there, but I don't know what to recommend. (Incidentally, I did not buy it from Amazon. I needed it NOW, so I went to a local pharmacy to buy it.)\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Title: good improvement, but not monumental\nText: I'm in the city, so I already get a lot of stations - I wanted them even cleaner and more potent through my Sangean hd1 radio tuner. By adding replacing the antenna that came with the unit with the Crane, I got more oomph in the bass (and it was still tight, without spreading out) and more fullness and musicality in the treble. Sounds like a lot of flowery talk, but it did improve the sound. Was it a night and day change? No - with the exception of small chamber ensembles played on our classical station - WOW, better than a cd and about as good as nice vinyl. Did I expect to improve my 8 grand system phenominally or to a point that I couldn't live without it with a 30$ atenna, no - but there was an improvement.In the end, it works, no huge change, and I guess that some people could see similar or better improvements for relatively cheap by upgrading their interconnect wires. It did make a better sound and I'm keeping them.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Title: Unsettling at first, but ultimately enjoyable\nText: I wasn't very receptive to this film when I first saw it. I was distracted by the foul-mouthed Allen character; made to feel uncomfortable. Which was the point I guess. The film opens with a vicious argument and a strange, repeated image that unsettles. If you were expecting something else, you have to adjust.I adjusted better the second time through and enjoyed it much more, hence this edited review. There are plenty of good jokes (like the out of focus actor, played surprisingly subtly by Robin Williams) and set pieces. The scene when Harry visits his sister is particularly funny - classic Woody Allen.On the whole, I felt the film was treading old ground perhaps a little more than usual. I don't think of it as one of my favourite Woody Allen films, but it does stand repeated viewing.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Title: AUSSIES ROCKED TO HEADPINS TOO !\nText: IF ANYONE HAS ABSOLUTELY ANYTHING ON HEADPINS I NEED TO KNOW. I AM ORIGINALLY FROM SYDNEY,AUSTRALIA BUT NOW LIVE IN ENGLAND. I WORK IN MUSIC RADIO AND ARE DESPERATE TO GET MORE INFO ON THE 80'S BEST ROCK OUTFIT. IN 1984 I MANAGED TO GET HOLD OF A COPY OF \"LINE OF FIRE\", IN FACT I GOT 2 COPIES, ONE IS WITH ME NOW THE OTHER IS UNTOUCHED AND LIVING AT MY MUM'S PLACE BACK IN SYDNEY. ABOUT A YEAR AGO I MET A GUY WHO HAD A COPY OF \"HEAD OVER HEELS\", STUPIDLY HE LENT IT TO ME (LIKE HELL I'M GIVING IT BACK). BOTH ALBUMS ARE GREATLY CHERISHED AND GO EVERYWHERE WITH ME. I REMEMBER A TRIBUTE SHOW AND/OR A CONCERT BEING SHOWN ON U.K. TV AFTER THE PASSING OF BRIAN MacLEOD SHOWING FOOTAGE OF THEM PERFORMING LIVE. NO ONE SEEMS TO WHAT THE SHOW WAS SO IT'S IMPOSSIBLE TO TRACE.I'VE NEVER SEEN THEM LIVE AND SADLY NEVER WILL. IF YOU CAN HELP PLEASE GIVE ME A SHOUT. CHEERS ANDY\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: An infomercial?\nText: When I see a caption for an illustration that reads something like \"Experience personal customer design consultations in the tradition of the old mantel masters, Wohners' one-on-one sessions ensure the highest quality of your mantel design and selection,\" I can't help but wonder at the purpose of the book as a whole. I did find the section on the Rumford Fireplace interesting, and the mantels shown intriguing, but as for actual designs that I could build I found the book lacking. In fact many of the designs in the \"Mantels Portfolio\" reminded me a great deal of the \"mantel\" which was on the fireplace of my first residence --- a mobile home.I did give it 3 stars for the ideas, but practical information given is minimal.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Title: Disappointed\nText: While I love Krentz's books, I would not buy another in this series. It doesn't seem to measure up to her other trilogies with hollow characters and plot.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Title: Workstation Holds A Lot\nText: I bought this to try to organize my electronics. I have a desktop and put an HP All-In-One scanner/printer in the well, which fits perfectly. The flat-screen monitor I have fights for space with the keyboard, but I usually take the kb into my lap anyway. It is very sturdy and goes together easily. My only problem with this item was the top shelf was misdrilled, so the last two screws couldn't go in. It works all right despite this. After 3 emails to VisionDecor, I finally got assurance that my replacement shelf is coming. Despite the shelf glitch, I give this item 5 stars because it works so well and is so sturdy.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Title: Still Chronic\nText: i personally have listened to the dope album,n purchased it, n i was disappointed as to where in the f**k is Sen Dog, mostly this album consisits of B-Real, i mean i fought cypress hill were a group, cuz i don't hear much of sen dog, maybe b-real should go solo, cuz he's half way there. don't get me wrong tho, this album is dope, n if i had to say, i would say \"Throw your set in the air\", which was on the simpsons episode which starred cypress hill, is good, n most off the tracks, cuz if u like the first song your probably going to like the rest, cuz most of the songs sound alike. keep it reall all y'all\n"
+    }
+]

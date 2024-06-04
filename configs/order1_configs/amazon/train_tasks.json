@@ -1,0 +1,26 @@
+{
+    "SC": [
+        {
+            "sampling strategy": "full",
+            "dataset name": "amazon"
+        } 
+    ],
+    "TC": [
+        {
+            "sampling strategy": "full",
+            "dataset name": "dbpedia_sampling/2"
+        }
+    ],
+    "NLI": [   
+    ],
+    "QQP": [ 
+    ],
+    "WiC": [ 
+    ],
+    "MultiRC": [ 
+    ],
+    "COPA": [
+    ],
+    "BoolQA": [
+    ]
+}
