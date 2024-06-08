@@ -1,0 +1,22 @@
+[
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: B: So again, it never really penalizes, the company doing the wrong. A: Right. That will, B: They can go right on doing the same old thing they always used to. A: Huh. B: And if they know some practice is wrong, you know,\nsentence 2: some practice is wrong"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: A: Boy that's scary, isn't it. B: Oh, can you imagine, because it happens in the middle of the night, so you know, these parents didn't know the kid was gone until the kid is knocking on the door screaming, let me in.\nsentence 2: the kid was gone"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: A: Well, presumably those who find out such information, if they are doing it, I would prefer to not to be known, and, I mean, you know, the classic, oh, I don't know C I  conspiracy theories or whatever, would have such parties trying to do it without your knowledge. So there's,, things that invade that second type of privacy where you do know about them and possibly things that invade that second type of privacy without you knowing about it, and I can't talk about the second one other than to generate paranoia. It's a surmise and, I'd like to think that it's quite low, at least in this country. B: to surmise. It is there. A: I don't think I'd like the KGB monitoring my phone or anything like that.\nsentence 2: he would like the KGB monitoring his phone"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: ``Ely,'' I said (that was her name and the first time I 'd ever used it), ``I want to be free.'' She looked stunned. I don't think she 'd considered this.\nsentence 2: Ely had considered him wanting to be free"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: B: I did, too. A: I mean, it was just more for my money. B: Yeah. I didn't think it was too long at all.\nsentence 2: it was too long"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "sentence": "sentence 1: The skill, they say, is to find a slot machine that's hitting ; that is, a computer that's programmed to pay out big money.\nsentence 2: There is no skill spoken of in the search for slot machines.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The commitments describe a limited number of critical actions; objectives, such as personal development objectives; and/or results that the executive will work to achieve.\nsentence 2: The commitments describe a limited number of critical actions for the organization.  ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Most Puerto Ricans were tied to the large agricultural companies they lived in company houses and were paid in tokens that could only be spent at company stores.\nsentence 2: Large agricultural companies used to employ most Puerto Ricans.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Even children on foot or in strollers wear a miniature version of the costumes.\nsentence 2: There is a smaller version of the costumes for children.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: That certain Kings reigned, and certain battles were fought, we can depend upon as true; but all the colouring, all the philosophy, of history is conjecture.\nsentence 2: Historians are notoriously unreliable when it comes to recording unbiased accounts of their experience.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: You see that road.\nsentence 2: Do you see that road up ahead?",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Soon, the Western Journalism Center republished Ruddy's story in its newsletter, Dispatches (Experts say Foster 'suicide' note forged).\nsentence 2: Ruddy's story wasn't republished by the Western Journalism Center.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: And the Coffin Fellowship Program provides money for attorneys who do domestic relations work.\nsentence 2: The program gives money to attorneys.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: In the tourist season, small shops often stay open on a Saturday evening and Sunday morning.\nsentence 2: Small shops are always closed at the weekend.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: That's why GAO's strategic plan and associated annual performance plan are consistent with the requirements and best practices of GPRA.\nsentence 2: The GAO's strategies are consistent with the requirements.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: What he may not realize is that we really didn't know how to measure output in a medium-tech industrial economy, either.\nsentence 2: He knows that we haven't yet figured out how to measure the industrial economy's output.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The Benefits Agency administers programs such as Income Support and Jobseeker's Allowance Benefits.\nsentence 2: Jobseeker's Allowance Benefits are administered by the Benefits Agency.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Island society has seen more change in the last twenty years than in the previous thousand.\nsentence 2: Island society has been changing very slowly.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The size and vehemence of their protests, which spread countrywide, forced the government to negotiate with the Solidarno ? (Solidarity) trade union, granting its workers' demands and allowing free trade unions limited autonomy to oversee their industries.\nsentence 2: Despite massive protests, workers' rights were cut back and unions outlawed.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: A second problem is that a Gulf War Syndrome with consistent symptoms has yet to be defined.\nsentence 2: Symptoms of a Gulf War Syndrome have been defined.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: well what what kind of weather are you having right now\nsentence 2: It's raining there at the moment.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: About 5 km (3 miles) west of Edinburgh's center, past the rugby ground at Murrayfield, you will find Corstorphine.\nsentence 2: Corstorphine is past the rugby field at Muarryfield. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: What sort of anger would that spawn?\nsentence 2: People might get angry as a result.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: It was here that St. Denis was martyred (see page 13) and where St. Ignatius Loyola launched the Jesuit movement in 1534.\nsentence 2: St. Denis was martyred over here.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: around responsibilities, commitments, and a retention standard.\nsentence 2: A standard for retention.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Back on the river, perched above a 150-m- (490-ft-) deep ravine, is the fairytale castle of Beynac-et-Cazenac.\nsentence 2: Beynac-et-Cazenac is a beautiful and enchanting castle.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Rational does not mean risk-neutral.\nsentence 2: It is never rational to take risks.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: This is different from the value of a particular, identified life saved.\nsentence 2: It is not different from a life saved.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The courtyard of the three-story building can be visited and, if enough rupees are collected, the Kumari herself may appear briefly at a beautifully carved upstairs window.\nsentence 2: The Kumari will come to the window only if enough people pay their rupees to come into the courtyard.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: He was answered by cries and shouts from the gathering crowd as five more wagons, each with a trailer hooked to its main bulk, pulled in around the edge of the open area, until the center of the town was full and the din of braying mules was deafening.\nsentence 2: He was shocked because he knew a fight was about to break out.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: that was so funny had to or was it Kmart uh he had to buy his underwear at Kmart\nsentence 2: He doesn't wear underwear.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Yes, Ford cooperated with Hitler, but it was Chevy that made 19 zillion truck ads with Bob Seger's 'Like a Rock.\nsentence 2: Car companies have never been involved with any politics.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The museum's 1974 addition was a re-creation of Villa dei Papiri, a Roman villa destroyed by the terrible eruption of Mount Vesuvi us in a.d. 79.\nsentence 2: A re-creation of Villa dei Papiri was the museum's addition in 1974.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: She answered with a terse nod, striding straight out.\nsentence 2: She agreed with me and then left quickly.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Before I wrote you, I investigated your position in the planetary economy.\"\nsentence 2: I investigated your position in the planetary economy after I wrote to you.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Well, what are we going to do? Golly, will we get a whopping if they find out? He was shivering.\nsentence 2: They had given him a whopping before.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: But Bologna, Parma, Perugia, Rome, and Palermo also have fine regional houses.\nsentence 2: Numerous Italian cities have fine regional houses.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Tuppence and Julius! \nsentence 2: Tommy and Julius called to Tuppence.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: We have traveled with your friend, Ca'daan for some time now.\nsentence 2: Ca'daan has been traveling with a large group.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: He suggests that processing and transportation of mail do not seem to be characterized by scale economies, and that they could be provided by competing firms.\nsentence 2: He claims that economies of scale do not apply to mail treatment.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Mr. Carter nodded.\nsentence 2: Mr. Carter was unmoved.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: But I'd wager he's telling Beatty about how the disaffected voters who turned out to elect Ventura might be mobilized in a national campaign.\nsentence 2: The voters were more than two thousand.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Do you remember what the young lady did with the telegram?\" Henry gasped and spoke.\nsentence 2: Henry gasped out loud, remembering what the girl did.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: FEDERAL MISSION PROPERTY, PLANT, &amp; EQUIPMENT (PP&amp;E) -Items used to meet a Federal Government mission in which the specific PP&amp;E used is an integral part of the output of the mission.\nsentence 2: PP&E are items used to meet a Federal Government mission.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Here was an idea intellectuals might also embrace.\nsentence 2: In the newspapers there was an idea intellectuals will probably hate.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Bening plays the scene on a cascade of emotion, so that she really seems to be speaking from a different world.\nsentence 2: She might seem to be speaking from another world due to the emotions she displays.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Today, millions of children go to bed hungry at night.\nsentence 2: Every American kid is well fed.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: However, emergency physicians do not engage in analysis of insurance contracts before providing care and are therefore unaware of the type of coverage, if any, carried by the patient.\nsentence 2: The life of a patient is more important than whether or not insurance will cover the bill.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: well we're supposed to get rain but no  snow\nsentence 2: We would've preferred to see snow instead of rain.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: huh-uh you know you you see them on interview they interview everybody and everybody says the same things\nsentence 2: Everybody contradicts each other during their interviews.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: 95 each, not including shipping and handling).\nsentence 2: 95 for each before shipping and handling shipping and handling raises the cost two-fold.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Francisco de Goya painted a court portrait of the next king, Charles IV, in which he looked strangely like George Washington.\nsentence 2: de Goya painted a portrait that made him look strange and angered him.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Informally, other members would no longer include a violator in sensitive conversations.\nsentence 2: Other members would prevent a violater from being in conversations about national security.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: But FYI, the two famous scientists - creators of microhockey were not longer engaged in scientific research - they were simply too wealthy for that.\nsentence 2: Two scientists were very rich.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: It absorbs the tourism neighboring Positano cannot accommodate.\nsentence 2: Positano can easily serve all the tourists that visit it. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Wigand's dark night of the soul is in a hotel, indicted, financially ruined, threatened with death, minus his wife and daughters; Bergman's is in an expensive-looking beach house with his warmly supportive spouse (Lindsay Crouse).\nsentence 2: They were so alike it was clear why they got along so well.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: We have no data available which directly relate rural delivery cost to population density, but it seems very likely that boxes per mile is highly correlated with population density.\nsentence 2: We don't have any current data about rural delivery costs.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: About two hundred, said Jon.\nsentence 2: Jon said about two hundred.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: East of the Bindu Sagar, the tenth-century Muktesvara, is a rust-colored stone temple dedicated to Shiva, with a small bathing tank and gracefully arched torana gate.\nsentence 2: The people who came to the Muktesvara used the bathing tank to cleanse themselves before worshiping.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: It did work for Washington, D.C., Mayor Marion Barry, a self-professed sex addict who rehabilitated himself politically after a drug conviction by declaring his powerlessness over drugs and sex, repenting, and entering a program.\nsentence 2: After his admission about his sex addiction, he could not rehabilitate himself politically at all.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: have you been talking to males yeah yeah this is this is probably more interesting if it had been a male and a female\nsentence 2: You should only talk to guys. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: yeah well i can understand that it's it's that time of the year uh we just uh my wife and i just recently moved into our house so we're\nsentence 2: My wife and I moved into our new house a week ago.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Other reviews echo the enthusiasm, comparing her tale of an aristocratic Indian family in decline to the work of Rushdie, Faulkner, and Dickens.\nsentence 2: The family is getting together.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The tools available to organizations assessing the internal environment include program evaluations, employee surveys, independent audits, and reviews of business processes.\nsentence 2: Employee surveys are a tool that the organization cannot use.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: really yes well i had that that cat that i mentioned i'll be one morning and you know the first thing you do is you get up and you you you you you you feed this cat something something and and you make sure that it can get to its litterbox well\nsentence 2: The first thing you do in the morning is feed the cat. ",
+        "label": "entailment"
+    }
+]

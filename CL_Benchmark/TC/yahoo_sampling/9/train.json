@@ -1,0 +1,802 @@
+[
+    {
+        "label": "Computers & Internet",
+        "sentence": "Title: saving color in a variable in java?\nQuestion: I am trying to create a variable to store a color in, either red or blue. i have already imported java.awt. This is what i have, but it won't compile...\\n\\nColor color = new Color(Color.blue);\nAnswer: Color.blue is a static instance of Color that is set to the color blue.  You don't need to instantiate a new Color object to use it, just say:\\n\\nColor color = Color.blue;\n"
+    },
+    {
+        "label": "Health",
+        "sentence": "Question: Is it true that taking a shower after having sex with HIV+ person reduces chances of infection?\nAnswer: Myth. \\ntaking a shower after sex will not reduce your chances of infection\\n\\nFact\\nAids can only be tranfered to a person through contact body fluids  such as semen, blood, and vaginal discharge.\\n\\nFact/myth/plain dump\\n\\nunless you could take your vagina out and put it in the wash cycle or wring out your penis after hand washing it.\n"
+    },
+    {
+        "label": "Sports",
+        "sentence": "Question: Qui connaît Hayet  Abidal  , si oui comment vous la trouvez ?\nAnswer: C'est la femme d'eric abidal?\\nnon je connais pas\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Question: Is the Bible the greatest piece of surrealistic artwork ever written?\nAnswer: Yes.\n"
+    },
+    {
+        "label": "Education & Reference",
+        "sentence": "Title: quick poll: college life?\nQuestion: what is your major?\\nIn what year of college are you?\\nOn average, how many hours do you study per week?\nAnswer: For my undergraduate work (working on my bachelor's degree) I majored in sociology.  I spent about 25 hrs/week studying/writing papers/reading/etc.\\n\\nFor my graduate studies in sociology I spend about 40-50 hours studying/writing papers/thesis work/reading\n"
+    },
+    {
+        "label": "Computers & Internet",
+        "sentence": "Question: Why does it take so lomg for my Windoew Media Player to download a video. It does in bits and sputs?\nAnswer: Do you have broadband? If you are on dial up, that would be a major issue. If you do have broadband, how much ram do you have? It could be that you don't have enough ram to do this smoothly. Especially if you have other programs running at the same time. To optimize  your pc's performance, you should always keep your cookies deleted, your history deleted, and defrag your disk on a regular basis. Also run spyware detection programs on a regular basis.\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Question: If you smoke, how many cigarettes do you smoke per day?\nAnswer: Depends how many people cut me off in traffic\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Question: 3 major problem at central luzon Philippines?\nAnswer: what do you mean 3? we got a whole crapload of problems in the whole of the philippines, not just central luzon.\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Title: Tossing someone's salad?\nQuestion: ...im confused. Is that giving someone a rim job!?\nAnswer: yes\\n\\nor you could be fixing them a real salad\n"
+    },
+    {
+        "label": "Education & Reference",
+        "sentence": "Question: What is the role of women in Educational Technology?\nAnswer: I think you should try to talk with some women I.T. techs that work for any school district in any county\n"
+    },
+    {
+        "label": "Sports",
+        "sentence": "Question: my friend sucks at sports what should i do?\nAnswer: Teach him your amazing moves.\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Question: hi 28boy from egypt i would like to marry to an australian do you think it could happen thanks?\nAnswer: Its a small world, anything is possible.\n"
+    },
+    {
+        "label": "Health",
+        "sentence": "Question: Any tips on how to lose weight (the healthy way) Please let me know?.?\nAnswer: My theory: everything in moderation.\\n\\nDon\"t deny yourself. People who obsess about what they eat generally give up quickly. If you really want ice cream, have ice cream. Not \"once a week\". Just when you REALLY want it. But before you choose a high-calorie, low-nutrition food, think about it.\\n\\n1. You should be eating six small meals a day - not three large ones. Even if you arn't really hungry, sit down and eat a small meal. Eat at 8, 10, 12, 3, 6 and 8. And if you want to snack between, and don't think you can wait, go ahead. And I fully endorse a bed-time snack.\\n\\n2. When you eat, eat foods that will keep you full. ie: whole grains.\\n\\n3. If you want that snack in-between, but arn't sure you need it, drink an 8 oz glass of water or juice or tea and wait 15 min. If you still want a snack, have one. Often, you'll find that your body was saying \"drink\" and you heard \"eat\".\\n\\n4. Consider a healthier alternative. That's healthier - not low-fat. If you want strawberry ice cream, no amount of non-fat strawberry yogurt is going to help. But a rich, creamy Dannon Fruit-on-the-Bottom might just satisfy that craving. (or two- those cups are small) And since it provides the nutrients your body wants, it just may keep you from craving more, especially if you add some whole grain cereal on the top, or pair it with some whole-wheat toast or a granola bar.\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Title: What does 'bakti' mean?\nQuestion: Just trying to find translations to my name as I've heard it used in different languages...i.e. 'Bhakti' in sanskrit means 'devotion?' i think?\nAnswer: A bakti is a multipurpose wooden tool. Bakti culture used the tool for agriculture; ecological pruning; war; hunting and as a light, convenient aid to certain vunerable physical conditions. The necessity to feed these functions have created, throughout the course of time, varying designs of Bakti specifically suited to the task in hand.\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Question: what is your element and sign!!?\nAnswer: Scorpio here, don't know about elements.\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Question: Does anyone know when the \"Transformers\" movie comes out?\nAnswer: 1986\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Title: My gf says I don't care about her feelings. How can I show her I care about her feelings?\nQuestion: She says all I care about are my feelings. I do all sorts of sweet stuff for her, like take her out to movies, dinner, trips, etc.. I treat her like gold. So how can I show her I care about her feelings?\nAnswer: You mentioned many good things to not only impress a woman but to keep her satisfied materialistically. However, in my experience, when a woman says that you don't care about her feelings that usually means she feels that you don't listen to or try to help her with her problems or you don't ask for or respect her opinions. Both of these will require you to work on your listening skills. In the case of her problems she may only require someone to listen to her, if you have any advice, guidance or help to give then by all means give it. If not, then let her know that you will be there for her if she needs something from you. In the case of her opinions not only will you have to ask for them but also do what she wants to do, even when you don't want to.\\nGifts, trips, dates, these are all things that all women want, but they are far from ways that show that you care. Listening, offering your service, and respecting her opinion are but some of the ways to show a woman that you care about her feelings.\n"
+    },
+    {
+        "label": "Education & Reference",
+        "sentence": "Question: If you dug a hole straight through the centre of the earth would you come out feet first on the other side?\nAnswer: well if you forgot about the fact that the heat (the core is molten rock and iron) along with the pressure (the closer you get to the center of the earth the more pressure there is) would easily kill you no you would fall and get stuck in the center because a person can only gain so much momentum before they begin the slow down again and you wouldn't have enough to get out the other side\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Title: Where can I see Student Academy Awarded short films?\nQuestion: also sundance\nAnswer: when you find out. pls e-mail me partypao@yahoo.com.. i'd really want to watch those indie films......\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Title: i saw a video,women ejeculate like men do...?\nQuestion: i thought they're peeing.may it be possible?\nAnswer: \n"
+    },
+    {
+        "label": "Sports",
+        "sentence": "Question: can someone tell me what toejam is and do you ever get that? and i don't mean sock lint.?\nAnswer: ITS FOOT FUNGUS, NASTINESS NO I DON'T GET IT CAUSE I KEEP MY FEET CLEAN!!\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Title: Why is it a double standard in marriage?\nQuestion: I wrote before about how my husband always puts the guilt trip on me for wanting to go out - anywhere. Now hes just gone out to a motorcross race and drinking after arguing with me last night about me wanting to go to a shoe & bag party at a friends house. I ended up staying home. He told me he was going to his dads this arvo and he ended up at the races. I wouldnt mind at all if i got the same freedom as i give him. How selfish\nAnswer: Who says you can't do what you want? He does.\\nJust do it. IF he gets out of sorts, leave again.\\nIF he stays home, yoiu still go to the things you go to.\\n\\nThey are not bad or bad for you or him.\\nHe is childish. Make him grow up.\n"
+    },
+    {
+        "label": "Business & Finance",
+        "sentence": "Title: a calculation question?\nQuestion: if you save 99409.12 in an account, and the annual interest rate is 4.5%, after how many days there will be 100,000 in that account? Thank you!\nAnswer: Turning  99409.12 into 100000 is a 0.594% gain. This can be obtained in .594/4.5 = 0.132 years. Which is 48.2 days.\n"
+    },
+    {
+        "label": "Business & Finance",
+        "sentence": "Title: what should I do? what will happen?\nQuestion: i had $130 in my debit account and used my debit card to buy something for $140. it says i went ovet $10 when i call the hotline 2 check. will i have to pay extra?\nAnswer: You will probably have to pay a penalty for overdrawing your account and interest on the $10 that you \"borrowed\".  The bank is always looking for ways to take your money for any reason.\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Question: Malay Cultural Activities?\nAnswer: Results 1 - 10 of about 211,000 for MALAY CULTURAL ACTIVITIES - 0.15 sec. (About this page)\\n\\nSPONSOR RESULTS\\nStudent Field Trips - Live Performances \\nwww.nationaltheaterae.com Live educational and cultural performances for your middle and high school students.\\nLuxury Tours for Women \\nwww.sightsandsoul.com Discover hot, new European destination: Poland.\\nWEB RESULTS\\nPersada Masyarakat @ Persadaku . Org - Internet Newsletter of Fuchun Community Club Malay Activity Executive ...  \\n... participate in many cultural activities in their spare ... Activities by Sembawang Town Council, Marsiling Zone 7 & Zone 6 RCs. Pesta Bahasa & Budaya 2004 / Malay Language & Cultural ...www.go.to/fuchunccmaec - 173k - Cached - More from this site - Save - Block\\nDunearn Malay Literary Drama and Debating Society  \\nDunearn Malay Literary Drama and Debating Society (MLDDS) Objectives. To develop pupils abilities and potential in language, literature and cultural activities. ... cultural activities. To provide students with the opportunities to learn and appreciate our rich Malay cultural heritage ...www.geocities.com/dssperbayu/home.htm - 6k - Cached - More from this site - Save - Block\\n* * * Welcome to CyberMelayu.com * * *  \\n... Information, Music, IT, Science, Cultural activities, School activities, Fan club, Monthly Contest and ... We have Malay Cultural or Cross Cultural programmes which is an important ...www.cybermelayu.com/cyberm/about.html - 22k - Cached - More from this site - Save - Block\\nPersada Masyarakat @ Persadaku . Org - Fuchun Community Club Malay Activity Executive Committee - Fuchun CC MAEC  \\nPersada Masyarakat - Internet Newsletter, the web site of Singapore's Fuchun Community Center Malay Activity Executive Committee (MAEC). ... participate in many cultural activities in their spare ... Activities by Sembawang Town Council, Marsiling Zone 7 & Zone 6 RCs. Pesta Bahasa & Budaya 2004 / Malay Language & Cultural ...persadaku.org - 167k - Cached - More from this site - Save - Block\\nUntitled Document  \\nThe Malay Wedding. Merisik. Meminang. Akad Nikah. Adat Berinai. The Bersanding or Hari Langsung. Sambut menyambutwww.geocities.com/malayculture/cus_wedd.htm - 35k - Cached - More from this site - Save - Block\\nBrudirect.com - Local News  \\nBruneiDirect.Com. Preserving The Malay Heritage. By Rosli Abidin Yahya ... Seminar and Dialogue: Malay Cultural Leaders Summit\", was attended ... various activities and dialogues such as Malay Stock Culture Town that encompassed cultural events, exhibition ...www.brudirect.com/DailyInfo/News/Archive/June05/090605/nite22.htm - 9k - Cached - More from this site - Save - Block\\nhttp://pemantau.tripod.com/artikel/03Nov_Farish.html  \\nPAS's proposal to build 'multicultural' Mosque in Kelantan laudable. By Farish A. ... The Chinese Cultural Fest, which will feature both traditional Chinese as well as traditional Malay folk art, cultural activities, music and performances will ...pemantau.tripod.com/artikel/03Nov_Farish.html - 17k - Cached - More from this site - Save - Block\\nTwo panels set up to promote learning of Malay and Tamil  \\n... the learning and use of the Malay and Tamil languages ... cultural activities. These activities will help broaden the language environment, to encourage students to continue using Malay ...sg.news.yahoo.com/060213/5/singapore192945.html - 8k - Cached - More from this site - Save - Block\\nMalaysia (PDF)  \\n... had left many cultural and religious imprints on. Malay society. The coastal Malay settlements grew ... public involvement in cultural activities, the Culture Division of the Ministry of ...www.icronet.org/Temp/Nimrokh/Malaysia.pdf - 206k - View as html - More from this site - Save - Block\\nBrudirect.com - Local News  \\nBruneiDirect.Com. Labuan Cultural Centre To Woo Tourists. By Rosli Abidin Yahya ... He said the planned cultural centre will host cultural activities that would contribute towards making Labuan a ... is a descendent of\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Question: why do women constantly want to date me then after six months want ou of the relationship?\nAnswer: Maybe after the dating, they find flaws in you that you don't see or you won't overcome, so it's easier to leave and find someone more compatible.\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Title: the greatest ever sex scene in a main line film?\nQuestion: it is causing arguements in my house as no one agrees.  who ever gets the most votes from you guys wins.  here the thing we ain't going to tell you our choices, we want to here yours without influence from us\nAnswer: i would say halle berry in monster ball with ........forgotten is name\n"
+    },
+    {
+        "label": "Sports",
+        "sentence": "Title: Which is better? ncode six-one tour 90 or hyper prostaff 6.1 95?\nQuestion: I'm looking for a ncode six-one tour 90 with a 4 1/4 grip. Is it better than what I currently have which is a hyper prostaff 6.1 95.\nAnswer: This is really a matter of preferance, they are both good frames.  I have used the Wilson 6.1 classic prostaff for years and it is comparable to the two frames you have listed.  The hyper prostaff will have a slightly larger sweetspot with the larger head size, but I have heard good things about the ncode six-one tour.  Another racket to consider which I have recently played with is the Head liquidmetal prestige red frame.  It has a denser string pattern but suprisingly generates a generous amount of spin.  Actually it took me about 3 days of hitting before i really started liking the Head Prestige, but it was time well spent.  You may want to change to the n-code for no other reason except the hyper prostaff could be discontinued in the near future.  Anyways, good luck with your choice.\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Question: If you take a dump at someone’s house, and it leaves a skid mark, how do your remove it from the toilet wall?\nAnswer: This actually happened to me the other day. I had just finished wiping my arse with the shower curtain, when I considered just how inappropriate thet was. Thankfully there were several toothbrushes in a cup by the sink. These helped clean up the mess and spare my blushes. No harm Done eh? Thank God!\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Title: Do you ♥SCREW or HAMMER♥......?\nQuestion: Pictures to the wall.\nAnswer: It depends...I like both.  Then again, it's always fun to get hammered, and then screw...it to the wall....= )\n"
+    },
+    {
+        "label": "Business & Finance",
+        "sentence": "Title: Is anybody else saddened by Anheuser's Busch's purchase of Rolling Rock beer?\nQuestion: I always enjoyed drinking Rolling Rock and felt that it was the anti-Bud.  Now that RR has been bought out, I feel like Luke Skywalker has sold out to the Evil Empire\nAnswer: Yes, I am saddened by this news.  I went to college just down the road from the Rolling Rock brewery, so I consider it to be my alma mater beer.  In my opinion, Rolling Rock that isn't made in Latrobe isn't really Rolling Rock.\n"
+    },
+    {
+        "label": "Health",
+        "sentence": "Question: can i still have sex if i have genital warts?\nAnswer: Of course you can! Is it dangerous for your partner? YES! But you can still have sex no matter what kind of disease, but its always a risk for your partner.\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Question: where can i find women to date in the R.I. area i'm 43 white and alot of fun?\nAnswer: eharmony.com\\nmatch.com\\n\\nand check your local paper for singles events.\n"
+    },
+    {
+        "label": "Science & Mathematics",
+        "sentence": "Question: I am looking for the full details for the production of a high speed twist drill?\nAnswer: Try Dormer Drills website\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Question: How do I approach another couple or girl to join myself and husband back home?  You know what I mean....?\nAnswer: You DON'T!\\n\\nSleazy, promiscuous behavior is really stupid.  You made a vow when you got married about forsaking all others.  That kinda eliminates sleazy swinger trashy behavior.\\n\\nNow, be happy with your hubby.  Be LOYAL to your marriage vows and your husband.  Same goes for your husband.\\n\\nWhere is Dr. Laura when YOU, and I mean you, need her to slap some sense across your face!\n"
+    },
+    {
+        "label": "Science & Mathematics",
+        "sentence": "Question: what is a two digit  number with the two digit double the ones and both digits added up equals 12?\nAnswer: 84. so the possible numbers for ones is 0,1,2,3,4,5,6,7,8,9 obviously u can't choose more than 5 or 5 because when u double it it would be 3 digits. so 4,3,2,1 so try 4 if u double it =8 so 8+4=12. and 8 is double of 4.\n"
+    },
+    {
+        "label": "Education & Reference",
+        "sentence": "Question: can i get some info about canine dogs?please...........................help me its urgent?\nAnswer: What kind of information?  Information on one specific breed of dog can fill volumes.\\n\\nAnd by the way, ALL dogs are canines.\n"
+    },
+    {
+        "label": "Science & Mathematics",
+        "sentence": "Title: bentonite or montmorillonite?\nQuestion: is montmorillonite is it affected by magnets or how will it react...\nAnswer: Montmorillonite's water content is variable and it increases greatly in volume when it absorbs water. Chemically it is hydrated sodium calcium aluminium magnesium silicate hydroxide (Na,Ca)x(Al,Mg)2(Si4O10)(OH)2·nH2O. Potassium, iron, and other cations are common substitutes, the exact ratio of cations varies with source.\\n\\nI would assume it could be magnetic, but not always. As for the affect/reaction I didnt find any information either way.\n"
+    },
+    {
+        "label": "Sports",
+        "sentence": "Title: Can someone please explain to me the process of winning the world cup ?\nQuestion: Everyone seems to be talking about it and I want to understanding it please help!\\nI know how the game is played........But need better understanding!\\nThank you so much!!!!!!!\nAnswer: The easiest way is to win all the games. You can lose some in the early rounds when it is round robin.\n"
+    },
+    {
+        "label": "Education & Reference",
+        "sentence": "Title: Please tell me the best way to show a High School Boys Basketball star to college coaches for a scholarship.?\nQuestion: 16 year old high school junior plays point guard at Lemoore High School.  Lemoore, California.  Lemoore has highest ratio of made 3 point shots in central section, Alex has highest ratio at Lemoore High School.  5'9\" 160lbs.  3.5gpa\nAnswer: Believe it or not, the coaches usually come to you -- early.  I know a 15-year-old, 6'3\" high school basketball star who started receiving letters from universities as a freshman.  This was before he was invited to join the varsity basketball team as a freshman.  In short, Big Ten university coaches have been courting him and his parents since he was 14.\\n\\nSince your star has not been approached at this point, you must take matter into your own hands.  Despite the height factor, treat your star like a product.  Become your own Arliss or Jerry Maguire, i.e., sports agent.  Look at the college sports pages for top twenty lists to map out your target schools.  Assemble a media kit with the newspaper clippings, high school transcripts, a personal essay, letters of recommendation from faculty and community leaders, and action photographs of your star.  Pitch your star to the head coach and assistant coaches.  If they require more information, offer to send them a media kit.  Request an interview.  If possible try to bring your star to meet the coach if his/her team is playing at a nearby university.  Send a thank you note.\\n\\nIf that does not work, network, network, network ... Cultivate relationships with the sports writers at your local and big city newspapers and the sports anchors of your local television networks.  Ask for help.  Then ask for recommendations.  For the most part, if your star is not on the front page of the sports section, then you must be aggressive in gaining coverage.  \\n\\nAdditional keys to boosting the profile of your star are park districts, regional tournaments, traveling teams, basketball festivals, and summer camps.  The more people know about the talents of your star, the better.  It may sound overwhelming (and expensive), but practice and multiple performance venues make perfect public relations for budding NCAA stars.  If your star has not been playing basketball year-round, since kintergarten, then expedite your media campaign -- yesterday.\\n\\nIf your star is really a star, then a scholarship is in your reach.  So, roll up your sleeves and claim it.  Ask the basketball coach, athletic director, principal and teachers for support in your endeavor because the universities will confirm your information.\\n\\nAgain, year-round participation is of vital importance.  So, research leagues outside of high school.\\n\\nHave a grateful day.\n"
+    },
+    {
+        "label": "Business & Finance",
+        "sentence": "Question: I am looking for rental assistance in portland, or have any ideas where to go?\nAnswer: Depends. Are you in Oregon or Maine?\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Title: What could have happened?\nQuestion: About 3 months ago I asked a girl out, we both had a great time. That night she always took my arm or hand and we also stayed with eachother for the rest of the evening. I did not cross the line with her, as I only held her in my arms until morning. The next day she told me she had such a great time, and we have gone out on what I would consider dates several more times. She continues to go out with me, she has no other male friends or boyfriends, yet she seems to keep her distance when we enter an environment where we could be intimate? Should I move on? Does she just consider me her friend? I have no idea what to do, I am just plain confused and tired of trying to figure this out.\nAnswer: Take it slow. Good things are worth waiting for.\n"
+    },
+    {
+        "label": "Health",
+        "sentence": "Title: what to do when you slightly overdose on vicodin?\nQuestion: my friend just called me and told me she took 2 500mg vicodin pills. she feels sick. i am worried. what should she do.\nAnswer: I generally drink a couple beers and watch some TV at that point.... oh you mean unintentional.... She'll be ok, just don't let her drive.\n"
+    },
+    {
+        "label": "Computers & Internet",
+        "sentence": "Title: how do i do i get the search mode to stop when i double click on the a file?\nQuestion: when i doulble click on a file, it goes into search mode. how do i get it to stop? i want to be able to double click on the file and have it open up the way it use to.\nAnswer: Right click on the file, choose Open with... then click Choose Program.  Locate the program that is supposed to open the file on the list that appears, and make sure the box that reads \"Always use this program\" is checked, then click OK.  \\n\\nIf you don't know what program is supposed to open the file, you can post a new question with the three letter extension of the file and ask (ie, *.PDF, *.XLS, etc)\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Question: this one is for the guys do you like girls that pay lots of attention or girls that you have to fight for?\nAnswer: \n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Title: Adult diapers - any women using them?\nQuestion: I've been reading that more and more women are using them...any women out there strong enough to admit it? I am - and I find some of them pretty good...\nAnswer: i'm still at the age where sanitary napkin and panty liners are my feminine necessities. if i came to that health point when i don't have control of my nature callings, i guess i would have to use those adult diapers\\nuntil then,...\n"
+    },
+    {
+        "label": "Politics & Government",
+        "sentence": "Question: What's the middle name of the current president of the united states?\nAnswer: raisin brain\n"
+    },
+    {
+        "label": "Sports",
+        "sentence": "Title: wut happened to manchester united?\nQuestion: they got tied, does this mean they arent #1? wut happens now? now that they have tied with chelsea!\nAnswer: Manchester United still maintain the 3 points lead at the top of the English Premier League ahead of Chelsea after both teams play out to a 1-1 at Old Trafford, Manchester on Sunday, 26 November 2006.\n"
+    },
+    {
+        "label": "Health",
+        "sentence": "Question: when you lose a substantial amount of weight, is it normal to reduce your hat size?\nAnswer: It can happen\n"
+    },
+    {
+        "label": "Business & Finance",
+        "sentence": "Question: United Airlines is in the _____ stage of the product life cycle.  This is evidenced by ______.?\nAnswer: A guess: The decline stage, as evidenced by a bankruptcy filing four years ago, its exploration of possible mergers with other airlines, and by high fuel prices, which have affected profitability.\n"
+    },
+    {
+        "label": "Science & Mathematics",
+        "sentence": "Title: Work PROblem here?\nQuestion: Two men and 3 women can paint 3 houses in 5 hours. Three men and 2 women can paint 5 houses in 4 7/17 hours. Based from this, how long will it take 3 men and 4 women to paint 2 houses?\\n\\n^_^\nAnswer: Write the text out as a simultaneous equation:\\n\\nTwo men (2m) + Three women (3w) = Three Houses in five hours (3/5)\\n2m + 3w = 3/5\\n\\nThe other statement would be\\n3m + 2w = 5/(4 7/17)\\n\\nNow you can solve for m by eliminating w (clue: multiply eq.2 by 1.5 and subtract from eq.1), and then you can work out 3m + 4w = ??\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Title: wat you fave song?\nQuestion: me techno logic , bring sally up, scars , grllz, riding dirty , were u go, hey yea ,laffy taffy , PIMP , YEAH , hips dont lie.\nAnswer: I've got heaps of fave songs.  One of my all time favourite songs is \"Try again\" by Aaliyah.  \\n\\nAt the moment i love \"beep\" by the pussycat dolls and \"Flaunt it\" by TV rock as well as Bob Sinclairs new stuff. I also love \"Pump it\" by the Black Eyed Peas\\n\\nBut I have heaps of songs that I love, my favourite songs change all the time!  I love anything by Ciara, Usher and Beyonce\n"
+    },
+    {
+        "label": "Business & Finance",
+        "sentence": "Title: I'm trying to secure some further funding for the 100% non-profit project i manage www.3cycle.org?\nQuestion: Can anyone provide me with information on grants/funding etc. I've started a non-profit project in Bolivia, South America, called 3Cycle (www.3cycle.org). 3Cycle employs disadvantaged Bolivians to make export quality products (bags, wallets, artworks and much more) out of household and industrial waste - killing two birds with one stone - poverty and landfill.\\nTo date we've put a lot of work into the project, we have some great prototypes and it looks very positive to create a sustainable sustainable enterprise for the poorest nation of South America. But we desperately need another round of funding to ensure its success.\\n\\nAny contacts, links, advice would be greatly appreciated.\\n\\n(We are a Bolivian registered NGO)\nAnswer: How about an internet-based fundraising campaign? Go to www.charitablepathways.com for more information.\n"
+    },
+    {
+        "label": "Sports",
+        "sentence": "Title: can henry be the FIFA player of the year this year ?\nQuestion: he is premiership's top scorer\nAnswer: Yes, I think he stands a great chance of being FIFA's player of the year. It really all comes down to how he performs this summer, and how far their team gets into the cup. I think if France faces Brazil, and France manages to come out on top (somehow) then Henry should win player of the year for sure.\n"
+    },
+    {
+        "label": "Science & Mathematics",
+        "sentence": "Title: Question about Meiosis? Specifically M2?\nQuestion: In meiosis I, crossover is seen between homologous pairs of chromosomes.  \\n\\nIn meiosis II, is there 'crossover' between the sister chromatids?\nAnswer: Homologous chromosomes gte separated at meiosis I and sister chromatids get separated at meiosis II. Crossover between sister chromatids does not occur at meiosis II as shown by enzyme study.\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Title: What signs are you associated with?\nQuestion: I'm a Capricorn, BUT.... \\nMy Venus is in Aquarius.\\nMy Mars is in Sagittarius.\\nMy North Node is in Libra.\\nMy South Node is in Aries.\\nMy Eros (sex sign) is in Capricorn.\\nMy Psyche (sex sign) is in Scorpio.\\nMy Sappho (sex sign) is in Leo.\\n\\nFind out what yours are here: http://www.cafeastrology.com/astrologytoolstables.html\nAnswer: My favorite sign is:  $$$$$\n"
+    },
+    {
+        "label": "Politics & Government",
+        "sentence": "Title: Is Montreal the best scene for new music? (Also re: Oasis)?\nQuestion: According to the NyTimes and Spin, Sub Pop Music...it is...\\nSam Roberts, Wolf Parade, Arcade Fire, the Dears...all rockin the scene...serios underground scene...\\nAlso as a bus-question re: British music, is Oasis the worst band ever? Why do some people like them?\nAnswer: This is a question for music, not politics\\n\\nBut Sup Pop records has pumped out some good bands, like Nirvana\n"
+    },
+    {
+        "label": "Politics & Government",
+        "sentence": "Title: What country will be the next world super power???\nQuestion: Face it it's not going to be America much longer. Who will it be? Reasons for your answeres are appreciated but not necessary! I say Australia.\nAnswer: Agree it'll be China - the population pressures, increasing demand for other goods, a developing financial market structure, booming industry all point to economic expansion. Sheer size indicates its importance as a market and the hegemony it will project.\\n\\nAustralia just doesn't have the market mover potential, nor the military, nor the power projection.\\n\\nAnother possibility is the EU, once they cope with the unemployment, immigration and inflationary pressures.\\n\\nIt is entirely possible there will be no superpower for a while.\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Title: Which show is better American Idol, Big Brother or Survivor?\nQuestion: I like them all but which is your favorite?\nAnswer: I like them all, but I would have to say that Big Brother is my all time fave.\n"
+    },
+    {
+        "label": "Business & Finance",
+        "sentence": "Question: من هو المهلب who is?\nAnswer: http://www.google.com/search?q=+%D9%85%D9%86+%D9%87%D9%88+%D8%A7%D9%84%D9%85%D9%87%D9%84%D8%A8&hl=en&ie=UTF8&oe=UTF8 This???\n"
+    },
+    {
+        "label": "Politics & Government",
+        "sentence": "Question: why is the wealth of the world controlled by so few, while so many suffer and starve?\nAnswer: Well, the majority of your answers will probably have something to do with people being greedy or the rich having all the power or something like that.  While part of that is true, the other part of it is that no other system works.\\n\\nCommunism: the idea is great.  Everybody is equal, everybody has a job, everybody has the same income, etc.  Great idea, bad policy.  It doesn't work.  It's worked in a few countries, but over long periods of time, it always fails. Why?  Because there's no incentive to do well.  There's no incentive to get a better education, or to try to move up.  While the rich may seem to control a lot, and there may seem to be so much poverty, that's the best way for the world to run.  Seriously.  The poor have to work harder to move up.  The harder they work, the more they get paid, the more they can afford, etc.\\n\\nThat's the idea, anyway.  It doesn't always work, but it's a good start.  And where do the poor get their money from?  The rich.  And where do the rich get their products form?  The poor.  And where do we get hard workers who are dedicated?  From the incentive to advance through the ranks so that the poor can become the rich.\\n\\nPersonally, I tend to blame the poor more than anything for their situation.  See, I come from a low-income family.  I'm 20, and have found a way to get into college.  I've got  a 4.0 gpa, I hold a job, I spend time in the summer volunteering with children, and I coach baseball.  I do all of that while writing bad checks to pay the electric and phone bill.  So, what do I do to get by?  I work harder, I treat others right, and I've gained respect in the community.  What has that done for my family?  Well, you'd be surprised.  Now, I get treated well by people in the community, nobody looks down on me, and people offer to help me out.  Why?  Because I've spent my time helping others.  \\n\\nBasically, if the poor spent more time helping others, doing good deeds, working hard, helping the community, instead of committing crimes (the highest crime rate is among poor people), the community would have a better view of them, and might offer more help to them.  I'm not saying they would always, but in general, I think the situation for the poor would be better.\\n\\nThere's one other explanation that I'd like to share on why the poor seem to get poorer and the rich get richer.  The reason is minimum wage.  Let me expand a bit, so you can understand:\\n\\n\\n\\n1.When you raise minimum wage, there are two things that can happen.  When the minimum wage is raised, businesses are not going to profit as much, and smaller businesses especially will have to compensate.  To compensate, they either have to raise their prices or eliminate some employees.\\n\\nA.If you raise your prices, then the minimum wage increase is wiped out for those that got a pay raise.  Since only those making less than the new minimum wage would get an increase in pay, anyone making more than that would have to pay more for the same amount.  This means that the cost of living goes up, along with inflation.  This means that there will be more people living in poverty, the rich won’t be affected, and the middle-class will be even more strapped for cash.  Also note that the price increase will be felt throughout the factories making the product, the shipping companies, the storage companies, and the marketplace. The old adage “the rich get richer...” comes true again.\\n\\nB.If you eliminate employees, there are fewer jobs, which means that fewer people will have an income.  This will be felt in all areas of the workforce, as previously described, again meaning that the rich get richer. . . .  Inflation is still abound and the cost of living increases.  Now, since companies have a smaller workforce that is making more money, companies can do several things.\\n\\ni.Companies can now increase the costs of products since those at the bottom end are making more mo\n"
+    },
+    {
+        "label": "Computers & Internet",
+        "sentence": "Title: Hi all! I'm new here. I want to know that what's the most low-tarriffed webhosting provider on the net?\nQuestion: I want to open a website. But I don't know which one is the best value parchaging amonst the thousands of webhosting providers. Please help me.\nAnswer: I can't provide comparative information for other\\nservices, but I've been very pleased with:\\n\\n  http://www.hostexcellence.com\\n\\nTheir low-end package is $2.95/month, and it provides\\n1 registered domain name, 1 email account, 5GB of storage,\\nserver-based software for building web pages and\\necommerce, and on-line support.\\n\\nThis isn't an advertisement, just an endorsement.  I \\nhave no affiliation with them except as a customer.\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Title: cooooooooooooooool?\nQuestion: has any body met criss angel if you have what trick did he do\nAnswer: On this episode he hypnotize everyone and another he had all these people put his hand on him and they picked him up it was cool I love him   Oh and he is HOT with his black hair to his shoulders! Ahhhh I havent met him\n"
+    },
+    {
+        "label": "Business & Finance",
+        "sentence": "Title: How do I predict the growth rate of Pacifichealth Labortories Inc. in the next 3 years?\nQuestion: I am an investor and just do some analysis to Pacifichealth Labortories Inc. I wonder that this company have good product and people in potential growth in business. And their stock price soars in these recent days. That is why I am asking the question to know your ideas?\nAnswer: There is nothing wrong with the company. What needs examination is your investment strategy . . . You need to own several dozen low prices stocks to smooth out your returns and minimize risks. You might do better considering a Micro Cap mutual fund from the site below.\n"
+    },
+    {
+        "label": "Sports",
+        "sentence": "Question: how do you feel about the pistons losing game1 against the Miami Heat?\nAnswer: I feel that the pistons will be back.\n"
+    },
+    {
+        "label": "Education & Reference",
+        "sentence": "Title: Where are there any private foreign language lessons available in Livingston County, Michigan?\nQuestion: I'm interested in learning to speak Japanese, French, and Portuguese. Where can I take private lessons at after school and during the summer? Or do I have to take classes at a community college?\nAnswer: The best place to look would be on the web, using a local search. There are a few sites out there that can direct you, Yahoo for one, the other is www.clickforlessons.com. They help find instructors for students. You can search for free on their site and see if they have any foreign language instructors in your area. You would probably learn faster if you find a private instructor as opposed to taking a class at a community college. The only issue is $$$. The private lessons may cost more. Good luck!\n"
+    },
+    {
+        "label": "Health",
+        "sentence": "Title: How long does it take to get food poisoning?\nQuestion: Immediately after eating lunch, I became extremely upset to my stomache? could it be food poisining or something else?\nAnswer: Probably something else.  It takes several hours up to a day before you will know if you have food poisioning.\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Title: a riddle 4 u?\nQuestion: Four people are walking towards a man named larry. one of the person comes forward and shoots larry and goes back and joins his other three friends. Larry's last words are\"why did u do it John?\". the police arrives at that time and hears larry's last words. the police manages to catch John...how did they do it?\nAnswer: The guy in the group of four was named John and he was one of the policemen at the scene!\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Title: Why is it so hard for me to get a bf for several yrs while it seems so easy for others?\nQuestion: I am serious about relationship. I don't play around. I never cheated on my ex-bfs. I try my best to make them happy all the time. But what I get back everytime is that \" I am not the right man for u.\" What do men want in their lives? Do they want someone who doesn't love them that much, so they feel challenging?\nAnswer: You might be looking at the wrong types of guys.  Trust me, there are many of us out there who want an honest, serious girlfriend.  Unfortunately, there are also a lot of guys who don't.\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Title: Have you ever been disrespected by a Wiccan?\nQuestion: I was treated badly by a Wiccan waitress at a local restaurant. I kindly asked for more tea. She told me to shut the f**k up. Then she flipped her middle finger at me.\\nHow are we to believe Wiccans are kind and gentle people when some of them get so combative.\nAnswer: don't leave a tip ..maybe she will learn some manners...\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Title: somebody tell me the story of the THE MONK WHO SOLD HIS FERRSRI?\nQuestion: PLZ TELL ME\nAnswer: The answer is in FlashMerlot's collection:\\n\\nhttp://groups.yahoo.com/group/ComedyCollectionsArchive\n"
+    },
+    {
+        "label": "Education & Reference",
+        "sentence": "Title: What would happen if men start getting pregnant and giving birth?\nQuestion: A serious question.\nAnswer: my dear,\\nmen are too weak for that,and nature can't trust them.\\nthere was a movie,that had this idea,have you seen it?\\nany ways...\\nI agree with the one who said,we 'll have a stop to population growth.\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Title: What would you do if you were the president of the U.S.A.?\nQuestion: I would get in it on with the female interns .... how bout you?\nAnswer: open a really good dry cleaning business.... full proof against dress stains\n"
+    },
+    {
+        "label": "Computers & Internet",
+        "sentence": "Title: Is this a hijacker...if so, which and how do I get rid of it?\nQuestion: When I use Yahoo, the search comes back normal, I click on one of the links and it sends me to another search engine...this happens twice, then it goes to the correct webpage.\\n\\nI've tried HiJackThis, AdAware, Spybot and I have Norton running...even used the TrendMicro program...nothing seems to work.\nAnswer: Try cleaning your registry for free.\\nhttp://ccleaner.com\n"
+    },
+    {
+        "label": "Sports",
+        "sentence": "Title: quel equipe vous ne supportez pas en france ?\nQuestion: Moi perso c l'om en plus ils parlent trop ils ont rien gagne depuis 13 ans et ils penssent encore qu ils sont les^plus fort \\neh les gars ont est bientot en 2007 les meilleurs pour le momment c lyon\\n 4-1 a marseille c sa \\nc bien d'avoir gagner la ligue des champions en 1993 et des championats \\nmais une grandes equipe est une equipe qui est reguliere et ne reste pas aussi longtemp sans aucuns titres c une equipe qui se juge a sa propre valeur\nAnswer: Moi j'ai jamais été trop fan du PSG mais depuis qu'ils ne font plus rien à part se montrer ridicules bien souvent, ils me font de la peine (sans vouloir être méchant). Du coup il n'y a plus vraiment de club que je pourrai détester. L'OM est un club que je respecte pour la superbe équipe et le super football qu'ils pratiquaient il y a 13 ans mais depuis ils ont tendance à trop vivre sur leur passé et surtout à continuer à se prendre pour les meilleurs d'Europe. Un peu de modestie et moins de magouilles serait préférable pour un club qui mérite surtout d'être dans les trois meilleurs chaque saison. J'aime beaucoup Lille et Nancy qui, un peu à l'image de Lyon, commence à avoir des résultats et surtout un très bonne gestion. Exemples à suivre!!!\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Question: So bad men are in, and the quiet intellectual ... out?\nAnswer: I think bad intellectuals are in.\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Title: Should we add more of  the gospels that never made it, into the Bible? How do we know if God approves ?\nQuestion: What if they discover The Gospel of God. It would leave people speechless. Which of the lost books of the Bible would you like to see added (even though they might not add any)?\nAnswer: Yes it is true there were many more 'books' in the bible centuries ago. And an equmenical council was organised to detirmine what should be removed because it didn't stick to bible principals that they  had  agreed on at that time.\\nMany scriptures refer to others to form a common thread.\\nGod  choose certain men to write his materials over thousands of years, and that was the guiding principal for continueity.\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Question: I'm lonely; who wants to be my gf?\nAnswer: Maybe I will, if you tell me where are you from..:-)\n"
+    },
+    {
+        "label": "Health",
+        "sentence": "Question: Do human beings have scent glands, and if so , where are they?\nAnswer: I think they are called merocrine glands that release hormones and are located in your armpits and genital areas.\\n\\nThe other types of glands are called exocrine and endocrine...(sp)\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Title: Australopithicus could not have been designed by homo habilus, only god could right?\nQuestion: what other intellectually bankrupt things are there in the intelligent design camp\nAnswer: You're wrong, God(sp?) cursed Australopithicus' seed and he brought forth an abomination that was detestable in the eyes of the Lord (sp?) and so he called it Homo habilus as opposed to hetero-habilus.\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Question: What should a man & a wife do to play sex for 4 hours continously?\nAnswer: lots of foreplay,,,cuddling,,,,talking, making love like it is slow motion ,taking in everything making every stroke together having an orgasm together....dont forget the candles and the music to set the mood off....have fun\n"
+    },
+    {
+        "label": "Science & Mathematics",
+        "sentence": "Question: 7(2x-3)=20?\nAnswer: 2x - 3 = 20/7\\n2x = 20/7 + 3 = 20/7 + 21/7 = 41/7\\nx = (41/7)/2 = 41/14.\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Question: Do you love a person but she (he) doesn’t love you?? What do you want to say to that person?\nAnswer: Keep on loving he or she. The love we give is the love we kept. Being deeply loved by someone gives her/him strength, deeply love somebody gives you courage.\\nKeep rollin! Be patient. No pain no gain, you will appreciated more if you get somebody that is not easy to get, rather than just anybody.\n"
+    },
+    {
+        "label": "Sports",
+        "sentence": "Question: La France a t-elle une chance de se qualifier pour les 1/8 de finale?\nAnswer: Sûrement !!!\n"
+    },
+    {
+        "label": "Sports",
+        "sentence": "Title: Aaron Harang for Chris Ray.  Is this fair?\nQuestion: Aaron Harang for Chris Ray.  Is this fair? 5x5, 10 team.  I'm way loaded w/saves. with about a 25-30 save lead. Is this fair or veto material?  Harang looks good to me but I'm looking for an outside opinion.\nAnswer: Straight up - no way. But...if you are loaded with saves...Harang's not a bad starter, however, he's got two things going against him. \\n\\n1. Great American Ballpark is a hitter's park...the HR's fly out of there left and right so be prepared to deal with a high ERA at home. (He is 2-3 with a 6.00ERA at home vs. 6-2 with a 1.57 on the road).\\n2. This is the big one - the Reds are a first half club. As a fan, I watch them do this every year...Strong start in April and May...waver in June / July...fall apart by August...out of it completely by September. So...be prepared to cut Harang when the Reds bats go quiet and he is getting zero run support.\n"
+    },
+    {
+        "label": "Education & Reference",
+        "sentence": "Title: Is this really free because I don't want to have to pay and then get in trouble...............................\nQuestion: and can you say peoples names that are underneath a persons picture?\nAnswer: yes it's free ... i don't know what you mean by \"say names\"\n"
+    },
+    {
+        "label": "Computers & Internet",
+        "sentence": "Title: Not including Apple, what company makes the best labtops and why? Thank you.?\nQuestion: I am looking to buy a new laptop and i know very little about them or computers period for that matter. I'm looking for reliabilty more than anything else. I dont want to be fixing the damn thing up every two weeks. No screen problems, no crashing motherboards, no excessive overheating. I hope you guys can help!!! Thanks again. Also if you could give me a crash course on computer specifications and what exactly they mean. (gigahertz, pentium, celeron) what is all that a measurement of, and how should it affect me when i go to buy my notebook. What should i be looking for. I'll be using the notebook for internet and typing papers. Thanks guys!!!\nAnswer: I work on an HP Compaq NC6000 that work supplied me and I like it.  I've had it over a year. It's been reliable and fast.  My wife has owned a Toshiba for over three years.\\n\\nI surf the internet, play music on it, write technical papers, send e-mails, write programs, and run numerical analyses on it.\\n\\nBattery life could be better.  I can only go for about an hour and a half before the battery depletes.\\n\\nIf you are going to be taking notes in classes, you may want to get two batteries for it so you can get several hours of uptime without connecting to a power supply.\\n\\nThe rest of it ... Gigahertz, Pentium, Celeron, AMD really doesn't matter these days.  Almost any laptop will play DVDs (with a DVD player), CDs, etc plenty fast.\\n\\nIn fact, the lower the Gigahertz (the clock rate which at which the processor (AMD or Intel) ticks along), the longer your batter life may be.  Slowest Gigahertz you should go with is about 1.5GHz.\\n\\nI would make sure that the notebook has at least 512MB of memory, preferably 1GB.  This is important if you run several programs at once (e-mail, internet, music player, and word processor).  If you don't, things can slow down and wear down battery life faster as data is moved on and off disk.\\n\\nI would go with a 15\" LCD.  17\" is better if you are at your desk all the time, but if you are carrying the thing around a lot, the smaller display makes for a more compact laptop.  To each his own.\\n\\nAny brand-name laptop (HP, Dell, IBM, Toshiba) should do well to meet your requirements.\n"
+    },
+    {
+        "label": "Education & Reference",
+        "sentence": "Question: what is the cheapest collage in chicago ? about 2500 dollar per term please or less ?\nAnswer: If your looking for a cheap college you might as well go to one of the 7 community colleges the city has to offer.\\n\\nDaley College\\nWright College\\nKennedy King College\\nTruman College\\nHarold WAshington College\\nOlive Harvey College\\nMalcolm X College\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Title: How could I contact a celebrity?  I genuinely want to help this person.  Nothing more.?\nQuestion: I am a speech pathologist in NY.  Since watching Dick Clark's Rocking New Year's Eve last year, I've wanted to give his production team some pointers on maximizing his speech intelligibility on camera.  I even called his production company twice but they said he was already getting therapy.  I'm not trying to offer therapy, just some hints for clarity on screen.  I heard on the radio that its his birthday today.  Just want to lend a hand.  Any thoughts?\nAnswer: (The worlds youngest, old teenager,)  being you have a computor, ..keep trying!!,   Someone, will give you the answer, I wish I did!!   God Bless, and much good luck, My Friend!!\\n     I care too!!\n"
+    },
+    {
+        "label": "Education & Reference",
+        "sentence": "Question: i need the answers for this problem y= -x^2+4?\nAnswer: What exactly are you supposed to do with this equation?  Are you suppose to graph it, find solutions, factor or what?  You need to be more specific.\n"
+    },
+    {
+        "label": "Computers & Internet",
+        "sentence": "Question: can you trace old websites?\nAnswer: as far as getting the old whois data? not that I am aware of. If you want to see what a site used to look like, try http://www.webarchive.org\n"
+    },
+    {
+        "label": "Business & Finance",
+        "sentence": "Question: I need to know about the DOT spec for extinguisher manufacturers, do you know something about it?\nAnswer: are you speaking of Federal specs are does it pertain to a specific state's DOT ? I am sure they are all different....\n"
+    },
+    {
+        "label": "Business & Finance",
+        "sentence": "Question: i need to know that name of a store in NY that was founded by a person named Bill?\nAnswer: New York: 17 million people. A lot called Bill. A lot of businesses, a lot of businessman called Bill. Good luck, that's all I'm saying\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Title: what does a guy want in a girl?\nQuestion: i am trying so hard to get this guy but he is not responding i really dont want to give up because hes a great guy\nAnswer: Well, maybe all U got 2 do is to stay quiet 4 a while.  See, when It comes about women, men always say: \"We prefer someone who gives the first step...\" but when a girl gives the first step and they like that, they would like this girl to wait a little bit, they don't like the rush, when someone is so persistant they got panic.\\nAlmost all men think that we're gonna manipulate the whole situation if we always take control of them.\\nJust wait a little bit, no need to push him to do things.\\nIf U already gave him a few signs, just wait until he gives U his.\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Title: Whats up with people bein online all day everyday?\nQuestion: I am a college student so I know I have others things to do\nAnswer: IT SEEMS THAT ANYONE WHO SPENDS ALL DAY ON LINE NEEDS TO GET A LIFE.ON THE OTHER HAND THERE ARE PEOPLE WHO FOR ONE REASON OR ANOTHER, ARE SAVED FROM A LONELY LIFE BY GOING ON LINE. I 'M NOT TALKING ABOUT THE ONES WHO PREY ON YOUNG CHILDREN. I HOPE THERE IS A SOLUTION TO THIS PROBLEM SOON.\\nI GUESS YOU AND I HAVE OTHER THINGS TO DO DURING THE COURSE OF A DAY AND,USE OUR TIME WISELY. MAYBE SOMEDAY WE WILL BE SPENDING MORE TIME ON THE FASCINATING WORLD OF THE INTERNET.\n"
+    },
+    {
+        "label": "Business & Finance",
+        "sentence": "Question: Why most of the people in all the world Using the right hand to write???\nAnswer: because we r not left handed\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Question: Why do YOU deserve to win the lottery?\nAnswer: I deserve to win the lottery because I would NOT let it spoil me or change the person I already am. I really would continue to live the life I do now but I would be in the position to help my family and friends out financially and to spend my time on good causes and voluntering rather than working at a paid job.\n"
+    },
+    {
+        "label": "Politics & Government",
+        "sentence": "Question: Who was the better president: George Bush Sr. or George Bush Jr.?\nAnswer: jr. because bush senior shoulda named saddam when he had the oppotinity to do it.my old man proudly served in the first gulf war, & he said that his troop was less than 100 miles from bhagdad.\n"
+    },
+    {
+        "label": "Health",
+        "sentence": "Title: Who are the best people to register an alternative health association in South africa?\nQuestion: We are an alternative health organisation (could fall under the catagory of traditional healers) we would like to register with an accredited association.\nAnswer: Maybe trythe Center for Aromatherapy Research and Education. They and Dr. Gary Young have been starting to work fairly hard in Africa. If they don't give you some sort of registration, they cna point you to the right people.\n"
+    },
+    {
+        "label": "Health",
+        "sentence": "Question: How do I get my doctors to write rx I want?\nAnswer: A good doctor will prescribe the medicines you need, but NOT ones that you only \"think\" you need.\\nIf you have a genuine problem that can be treated with medication you will have no problem getting a prescription. Otherwise, maybe you need to think about why you think you need a certain medication, and consider getting help for addiction. Pain medication can be very addictive, so if you think you have a problem there are many organizations that help with that sort of thing. \\n\\nGood Luck\n"
+    },
+    {
+        "label": "Business & Finance",
+        "sentence": "Title: Enough is enough - what do you think?\nQuestion: A big company I used to work for took advantage of the fact that they were a big company, and I was a small tiny little nothing. They cheated me out of alomost a months salary. They knew they were wrong, but also knew that I did not have the time or reseources to fight them.\\n\\nIf you are tired of being walked on by Big Companies, now is your chance to stand up and be counted, and let them know that we've had enough! I need your help.\\n\\nI have a great way (and maybe even a bit fun, not to mention perfectly legal) way to let them know - Enough is Enough!\\n\\ncontact me and I will give you all the details. thx\nAnswer: contact the better business bureu also contact the state dapartment of labor and ask for a fairness hearing they should have an office that can help\n"
+    },
+    {
+        "label": "Politics & Government",
+        "sentence": "Title: Do you think the cost is justifiable in bringing an evil dictator to justice??\nQuestion: 3000 soldiers , more than half a million Iraqis , and billions every month for the exchequer .... Do you think America can go on like this bringing 'evil dictators' to justice?? What about the dictators who took refuge in USA??\nAnswer: The sad ending to this story is someone who will make Saddam look like Santa will become the new dictator and life will be much worse for the Iraqis- we already made it worse for them.  And no, I do not believe America should be the \"judge and jury\" for any sickos that pop up- we are hated by all countries now and targeted our country for every terrorist and wacko out there.  When you see a cesspool, you should already know what is in it, you do not need to stir it up to have the shit float to the top, that is what our government has done in Iraq.\n"
+    },
+    {
+        "label": "Politics & Government",
+        "sentence": "Title: Why do coptic christians run as refugees to USA and Canada while they're very powerful in Egypt?\nQuestion: Do Christians from Egypt work as a tool for the US government to put pressures whenever they want on Egypt (as if they need to, the egyptian president is merely a US employee!)? \\nBecause the real deal is that Christians in Egypt are very powerful. After researching the news, you'll find that the most wealthy people in Egypt are Christians, even one of them is named in Forbes (Naguib Sawires), and they have Churches in every area and in the top companies in Egypt like Orascom Telecom that does jobs in almost all the middle east, most of its workforce are Christians, and when the Egyptian Pope requested to have a certain feast as an official Holiday, the president obeyed immediately. So what's the fuss about?\nAnswer: yes...you are right... i live in Egypt,and the christians are not weak in Egypt,the Coptic are about 10% of the Egyptian people..but they have 20% of the Egyptian Nation income and the most rich man and family in Egypt are Christian (Saweires)...but most of them do not like to join the political life they prefer more to be successful in economy...but the bad thing some of the Coptic who live in USA or Canada try give false things about what happen in Egypt.i think they just want to gain more power.. but not all the Coptic people do that really...some of them..and of course the some political people of USA will not let this chance, they use that as a tool to make pressures on the government of Egypt....\n"
+    },
+    {
+        "label": "Education & Reference",
+        "sentence": "Title: What should I do?\nQuestion: Help I didn't know today is my teacher's birthday what should I do?!\nAnswer: Ask a thoughtful question about what he/she is trying to teach.  It will make his/her day!\n"
+    },
+    {
+        "label": "Business & Finance",
+        "sentence": "Question: What can i do if my photo is stuck in the plastic photo holder inside my wallet?\nAnswer: heat it up with a blow dryer and the plastic should become soft and seperate from the picture.\n"
+    },
+    {
+        "label": "Politics & Government",
+        "sentence": "Question: do u know that gangs are sort of like terrorists?\nAnswer: Except what- they're not MUSLIMS?\\n\\nDie, infidel, die, die, DIE!!!!!!!!\n"
+    },
+    {
+        "label": "Science & Mathematics",
+        "sentence": "Question: who enjoy and desire for sex more ?? Male or female?\nAnswer: Well, males are more likely than women to get at least one orgasm, especially if the male controls proceedings.  Many women do not get to orgasm via penis in vagina sex.  Those women are thus (obviously??) likely to desire sex less than those men.\\n\\nIf women explore their sexuality, they can become multi - orgasmic, and can achieve massive prolonged orgasms, that might well exceed what men experience.  They might desire sex even more than the men involved.  I suspect that only a minority of women do this, however.\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Title: My best friend and i fooled around.. but he kissed me 1st and then said it shouldnt of happened the next day??\nQuestion: Ok my best friend(guy) kissed me and i am a female just so u kno.and well this is what happened.i told this guy my feelings at least 3 times since we have been friends and we have been friends for 2 years.he is the only one that knows everything about me and me him.and well everytime i had said my feelings he is like i only see u as a friend and that was fine with me.and well the other night we are sittin there talkin and i was like gah why i am so ugly and stuff and he puts his arm around me like he always does just playin and stuff and then he leans his head like he is going into my lap and i turn my head and he kisses me and that kiss lasted 4 a long time.it was the best kiss i had ever had and then i stopped i was like whats going on here and he said idk ive been thinkin about this 4 months and i was like r u serious and he said yea.well long story short he (fingered me) and stuff and we made out and then he avoids me for 2 days and says he was not himself and it shouldnt of happen\nAnswer: Honestly, it sounds like your friend was taking advantage of you. And that's probably hard to believe since you two are so close. Men like kissing and fooling around with women and they don't really care who the woman is or about her feelings. Maybe he is lonely and hadn't been with a girl in a long time and you were just there so he decided to fool around with you with out considering your feelings. I'm sorry but he doesn't seem like a good friend. I'd try to find other friends and spend more time with them. It doesn't mean you have to ignore him completely. But he obviously doesn't care about your feelings and you should hang out with  other people who will. \\n\\nAnother possibility is that he might have been confused and wanted to kiss you to see if he might have had any feelings for you as more than a friend. Then he realized you two can only be friends. \\n\\nHowever, I think that the first might be more correct. He was not being respectful or considerate. Even if he wanted to try going out with you, he shouldn't have fingered you. He could have asked you out on a date but not go so far. I think he was just being plain selfish and took advantage of you. \\n\\nI would advise you to forget him and find another guy. But if you still want to try to get closer to him and get into a boy friend-girl friend  relationship, I would advise you to give him some time, but always treat him well, but don't really hint or talk about romance. Just show him you care by your actions. If after a while, it still didn't work, ask him out and say that you would really appreciate it if he could at least give you a chance. Tell him you think that you two would get a long great and that you want a chance because it's worth getting to know a girl who loves him so much. But don't let anything too intimate happen between you two on the first dates. He should respect that. Good luck! I hope everything works out for you!\n"
+    },
+    {
+        "label": "Science & Mathematics",
+        "sentence": "Title: I want to know where from I can learn application of Bayes method on data?\nQuestion: I want to apply bayes method on drug development data. How I can proceed\nAnswer: If you are trying to do classification (Naive Bayes), here is a good introduction:\\nhttp://www.resample.com/xlminer/help/NaiveBC/classiNB_intro.htm\\n\\nHope this helps.\n"
+    },
+    {
+        "label": "Health",
+        "sentence": "Title: any suggestions as to what is causing these symptoms?\nQuestion: i am 25 yrs old, a female  \\nSymptoms include;\\nfatiuge\\npains in arms and legs chest and lower back. \\ndizziness\\narms /legs fall asleep/ tingle\nAnswer: you need to call a doctor NOW- or get to your ER NOW!!!\\n\\nThis is an emergency...\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Title: Greeting cards?\nQuestion: I don't know if my husband had an affair, I do know he gave her a b-day card for her birthday. Could that mean he had a thing for her\nAnswer: You must have reasons why you think he has had an affair.  Lots of people from the opposite sex send cards to each other and it is quite Innocent.\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Title: Chinese word 4 god ......also change the e to i cause its mandarin not cantonese?\nQuestion: Can someone tell me the Mandarin Chinese word for god?  And can it be in normal text not symbol\nAnswer: Must see what you mean by God ?\\nBible speak of God, Chinese will translate it to : 上帝 Shang Di (use hanyu pinyin to read it, coz you don't want read the chinese character)\\nyou can visit this site to know how to spell it ^_^\\n\\nhttp://tw.dictionary.yahoo.com/search?ei=UTF-8&p=%E4%B8%8A%E5%B8%9D\\n\\nShen Xian is more use by Taoism to call their God\\n\\nor China culture will call their god by : Shang Tian, or Lao Tian Ye...\n"
+    },
+    {
+        "label": "Computers & Internet",
+        "sentence": "Title: Yahoo or Hotmail?\nQuestion: It's obvious that these two competitors are always going at it what with the more space everytime and more features. What would you choose? I like yahoo because of the whopping gig of scape they give you for mail and i like hotmail for MSN.\nAnswer: Yahoo with 1 Gigabyte of space, is obviously better than Hotmail, with only 250 MB's of space. \\n\\nI like Gmail best. The clean design, esay to navigate keyboard shortcuts, and powerful search for your messages are just some of the reason i like it. Gmail gives you 2 gigs of space!!!!!(and counting). The labels are much more flexible than folders. \\n\\nBecause of Gmail only shows text ads, it loads much faster than most other free email services. It loaded in about two seconds even with an otherwise extremely slow phone line!!\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Title: What should I do about my parents?\nQuestion: I'm an 18 year old from the States, but I'm currently living in Switzerland for college. My parent have announced that they are getting a divorce because my mother cheated on my dad with a family \"friend\". My brother, 17 yr. old and my sis, 13 yr old are at home dealing with all this stuff. \\nI've decide to drop out of college to get a job a support the family, because not only did my mom have an affair she stole my identity and wrote checks in my name all while I was in Switzerland. So to make a long story short, we are poor and according to my father I'm going to be arrested for her crimes when I get back to the states. But I can't clear my name b/c I have no money to call a lawyer nor do I have money to hire one. \\nBut I think that my father might be lying about the police b/c that's what my brother seems to think. My mother got a restraining order against my dad and they have both been trying to ruin eachothers lives, like this is some game... but they are hurting others.\nAnswer: This does sound like one heck of a mess! You will have to return to the States one way or another. You have proof that you weren't even in the states when your Mom stole your ID. I knew a young girl here in Illinois who was told she could get her credit cleared but she had to press charges against her Mom she really didn't want to but she just had no other choice. She did and her Mom did serve a little time in the county jail and is on probation and my young friend has her name cleared.\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Title: what u do???\nQuestion: i just know from my friend dat my ex have new g/f... i feel so sad.. but y must i feel dat way... i must be happy he as new g/f... what u guys feel if ur ex have new g/f???... so fast he have new g/f i just not with he only 2 wek +...\nAnswer: NO, my dear, you have a right to feel sad, it just ended 2 weeks ago. It takes time to get over someone, especially is you loved him a lot. Maybe in the future, you will be glad for him, but for right now, no, you cannot. Take your time, and allow the lost of your boyfriend to go away, cry if you have to, scream if necessary, but to try to feel happy for him, that is an impossible task at this time. I will tell, you will get over it, just give it time. Give yourself time to heal.  Good luck, precious, and God bless.\n"
+    },
+    {
+        "label": "Science & Mathematics",
+        "sentence": "Title: how do tornattos form?\nQuestion: how do hurricanes form?\nAnswer: What causes tornadoes?\\n\\nThunderstorms develop in warm, moist air in advance of eastward-moving cold fronts. These thunderstorms often produce large hail, strong winds, and tornadoes. Tornadoes in the winter and early spring are often associated with strong, frontal systems that form in the Central States and move east. Occasionally, large outbreaks of tornadoes occur with this type of weather pattern. Several states may be affected by numerous severe thunderstorms and tornadoes.\\n \\nDuring the spring in the Central Plains, thunderstorms frequently develop along a \"dryline,\" which separates very warm, moist air to the east from hot, dry air to the west. Tornado-producing thunderstorms may form as the dryline moves east during the afternoon hours. \\nAlong the front range of the Rocky Mountains, in the Texas panhandle, and in the southern High Plains, thunderstorms frequently form as air near the ground flows \"upslope\" toward higher terrain. If other favorable conditions exist, these thunderstorms can produce tornadoes.\\n\\nTornadoes occasionally accompany tropical storms and hurricanes that move over land. Tornadoes are most common to the right and ahead of the path of the storm center as it comes onshore.\n"
+    },
+    {
+        "label": "Science & Mathematics",
+        "sentence": "Title: can anyone help me?why is 1=0?\nQuestion: why is 1=0??can you expain or prove it to me. what is the principle applied.thanks:)\nAnswer: 1=0 when reference to derivatives in calculus or when in reference to places numbers are from 0 - 9 \\nthen they are repeated. etc 1_0 1_1 1_2 .. you get the idea. \\n Any way first place is  = 0\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Title: okay homosexual again?\nQuestion: why is it so called \"evil\" and yes i do believe some people are born that way, i had a b/f since pre k and just found out that he was gay a year ago, i'm 19 now, he says hes always felt like that since we were kids, so how can you judge a child that may be gay? and if god hates it so much then why dosent he just take away the idea of homosexuality, and why are some people born trans gender?\nAnswer: That, is the question that has no real answer.  The Bible speaks about sodomy, but always as a forced act or as part of a purely hedonistic culture.  Does this mean that God hates sodomy, or that he hates hedonism and rape?\\n\\nTo further question the teachings, one would begin to wonder, if God is all powerfull, and all-knowing (as in, he knows everything that was, everything that is, and everything that will be) and created everyone, why would he create some people knowing that they would do evil?\\n\\nFurther, why would God create these people, knowing that they would perform evil acts, and that he would have to punish them for all eternity in a torment beyond all possable comprehension?  If God loves us, why would he do this to us?\\n\\nWhat kind of God would tell us that he loves us, and then create us, with complete knowledge that our ultimate goal would be eternity in unimaginable horror?\\n\\nIf we start with the assumption that we have a Good and loving God, for no other kind of God is worth worship, then we must also assume that the Bible passages that tell of him punishing and tormenting us for our actions are flawed, either by misinterpretation of God's word, or to fullfill the purposes of whoever wrote those passages.\\n\\nThis will leave us with only one possable conclusion: that God does not truely hate or intend to punish people for things that they have no control over, or things that they are naturally predisposed to.  For, whether homosexuality is a choice or a fact of an individual's nature, it cannot be argued that the individual's personality is predisposed to homosexuality, for any choice comes from a natural inclination to make that particular choice.\\n\\nThis would leave most of our actions in God's hands, for God, as all knowing, knew every act we would perform in our entire lives before we are even born.  But a person must be held accountable for his actions, and some actions, such as murder, are clearly wrong.\\n\\nWhich brings us around to the possability that God is not all knowing and is as much in the dark about our actions as we are.  This would also open the door for homosexuality being a despised sin that God did not forsee occuring in an individual.\\n\\nPerhaps it's simply not possable to understand all the reasons and thoughts of God, or to truely get a grasp upon which of the Bible teachings are accurate to God's word and which are not.\\n\\nMaybe we can only do the best we can do, being the best person that we can be and hoping that our actions make God happy.\\n\\nThe best person that we can possably be is ourselves, to be somebody else is impossable.  I think that is all God really expects of us.\\n\\nFollow your heart when deciding what is sin and what is not.  And never judge somebody for their actions.  Only those who have never sinned or thought of sinning are worthy to judge.  Maybe some of us are wrong, maybe all of us are wrong, but we simply aren't in the position to decide that.\n"
+    },
+    {
+        "label": "Health",
+        "sentence": "Question: Are you alive?\nAnswer: no - I'm undead.\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Title: Ok if monkeys evolved from people, why are there still people living today?\nQuestion: why?\nAnswer: Monkeys most definitely did not evolve from people.\n"
+    },
+    {
+        "label": "Science & Mathematics",
+        "sentence": "Question: if evolution is true then how come we havnt evolved in the last 4000 years?\nAnswer: Because 4000 years is too short a time to see major differences. It typically takes millions of years to make a difference, except in species with short lifespans (like mice) than can be selectively bred by humans to possess certain characteristics.\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Title: looking for a pen pal?\nQuestion: just looking for a pen pal for myself some that i can write to wendy_sue1978@yahoo.com   im 27 ...28 june 27th i have 3 kids my youngest lives with me the others there father...\nAnswer: \n"
+    },
+    {
+        "label": "Computers & Internet",
+        "sentence": "Question: expresspaidsurveys.com does it really work?\nAnswer: no it's doesn't work it only send your some stupid coupons and when those stores are having a big sales.\\n\\nit's a waste of time\n"
+    },
+    {
+        "label": "Sports",
+        "sentence": "Title: just how good is the oakland raiders d-fence???your thoughts plz..?\nQuestion: where would you put it...ravens  d-fence or the bears or what...or maybe even better then all...what do u think\nAnswer: The Raiders D.... well, they are monsters against the pass, they really make man-coverage work for them.  Against the Chargers last week, they were actually playing 4-4 defense in an effort to keep Tomlinson out of the game... it didn't work.  If a guy can break a 44 yd run on you when you've got 8 men in the box, you need work on your run stopping.  On the other hand, L.T. may not be human.  I do think they've been weak against the run this year, which is why I wouldn't put them up there with the Ravens or Bears D, I would liken them to the Browns D this year, good but not good enough to win them games.\n"
+    },
+    {
+        "label": "Health",
+        "sentence": "Question: what is life?\nAnswer: (m)\\n\\nLife is a multi-faceted concept. Life may refer to the ongoing process of which living things are a part; the period between the birth (or a point at which the entity can be considered to be living) and death of an organism; the condition of an entity that has been born (or reached the point in its existence at which it can be established to be alive) and has yet to die; and that which makes a living thing alive.\n"
+    },
+    {
+        "label": "Education & Reference",
+        "sentence": "Title: Any preschool/toddler  teachers here?\nQuestion: Do you like your job? Would you share your per hour pay? Is 7-10 dollars per hour about the range? Thanks!\nAnswer: I LOVE my job. It did take a couple of years to get the hang of classroom management. \\n\\nWhen I first started teacher preschool (12 years ago), I made $7 per hour. A lot of schools pay you depending on your education or how many child development units you have. If you have 6-12 units, $10 is not too bad. \\n\\nI now have my Masters in Education (60+ units in child development) and make $20 and hour. This is considered good pay in my area (California). Most schools here pay about $12 per hour. The teacher turnover rate is pretty high partially because of this. If you are educated, go for as much as you can get. Enjoy!\n"
+    },
+    {
+        "label": "Science & Mathematics",
+        "sentence": "Title: Why do chemist say that a reaction mechanism is proposed?\nQuestion: Why do chemist say that a reaction mechanism is proposed?\nAnswer: A mechanism is considered to be proposed, because we can not look at the reaction and follow it in real time.  The reactants are molecules that are too small to see, and the reaction occurs too fast to watch it step by step.  A proposed mechanism accounts for all the observations, such as kinetics, intermediates, catalysts, etc., but can not ever be \"proved\".\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Title: Why do Christians have no fashion sense?\nQuestion: with there socks and sandles.....and frilly blouses  lol\nAnswer: apparently they're supposed to be spending their time worshipping and not worrying about how they look. but who knows i think that's just an excuse.\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Title: Glass, half full or half empty?\nQuestion: and what's in it?\nAnswer: full, water.\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Title: Religion poll?\nQuestion: What religion do you most identify with?  \\n\\nChristian (and which denomination)\\nJewish\\nIslam\\nHindu\\nBuddhist\\nTao\\nConfucianism\\nAgnostic\\nAtheist\\n\\nJust to list a few...if you're of another faith, feel free to list that rather than pick one of the above.\nAnswer: Einsteinism\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Title: Do you often ignore emails you are supposed to reply to?\nQuestion: I think in recent times we get so much email that we sometimes cannot be bothered to answer all of them (not spam, of course).\nAnswer: not that i don't bother to answer them, but true .. there r so many of them tht it's really difficult to reply to all. I hav missed out a few even though i wanted to reply.\n"
+    },
+    {
+        "label": "Sports",
+        "sentence": "Question: What are some funny chants to yell during sporting events?\nAnswer: Although I think he was joking, one of my high school teachers who graduated from Austin Peay State University said they used to get in the stands and chant \"Let's go Peay!\" I'm sure that sounded pretty strange.\n"
+    },
+    {
+        "label": "Education & Reference",
+        "sentence": "Title: what is the differnce between constant mesh & syncromesh type gear box.give detail explanation along with figs\nQuestion: related to automobile, i want the all information related to above my question\nAnswer: The syncromesh, as in the 1966 3 speed 6 cyl mustang, requires you to shift into first gear when the car is completely stopped.  If you attempt to engage first gear without completely stopping the car you will strip the first gear.  Believe me, I did.  It is a royal pain when driving slowly in traffic, people beep at you when you stop in slow moving traffic.  They have NO idea that I need to stop, they just think I can't drive.  Syncro requires the operator to Syncronize the speed with the gear.\\n\\n\\nA constant mesh transmission, on the other hand, can be shifted into any gear regardless of the cars speed.  Modern vehicles do not use syncromesh gear boxes any more, they were phased out in the sixties.\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Question: Whens Yalls Birthdays?!?!?\nAnswer: 10/09/1972\n"
+    },
+    {
+        "label": "Health",
+        "sentence": "Question: How do i build muscles around my stomach area?\nAnswer: Try doing 150 situps and 10 crunches a day. Also run 1/2 to one mile a day. I did this and have lost 10 pounds in a couple months and my stomach looks flatter.\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Question: how can i tell a girl likes me that weve had complicated history?\nAnswer: Say \"I like you, even though we had a complicated history.\" The conversation should go smoothly after that.\n"
+    },
+    {
+        "label": "Computers & Internet",
+        "sentence": "Question: where is a good plays to go print out colouring pages?\nAnswer: theres tons of them just google coloring\n"
+    },
+    {
+        "label": "Politics & Government",
+        "sentence": "Question: What's the capital of Andorra?\nAnswer: Andorra la Vella\n"
+    },
+    {
+        "label": "Sports",
+        "sentence": "Title: whose your favorite?\nQuestion: what team is your all- time favorite-win or lose?\nAnswer: Patriots   all the way\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Title: Why do men do this?\nQuestion: Even when I lookin my worst, men say I'm s e x y.\\nLike for instance, today, while working a long hard day, one of my guests at the hotel that I work at told me I was s e x y.  I don't have low self esteem, but I don't see it.  Is something wrong with me?\nAnswer: Sometimes what we see of ourselves in the mirror doesn't always reflect how others see us. Your overall attitude, appearance, and how you carry yourself can add to the list of things we don't see in the mirror. If you are labeled as SEXY, you should be feeling that everything is alright.\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Title: What good fast music along the lines of Garbage, BT, and The Cardigans would you recommend?\nQuestion: Genres rarely work for me. I'm looking for inspired, fast paced music with the sort of feel of Garbage's 'As Heaven Is Wide' and 'When I Grow Up', BT's 'Never Gonna Come Back Down', and The Cardigans' 'Losing My Favorite Game'? More obscure music that fits what I want: Origa's 'Rise' from the anime Ghost in the Shell Stand Alone Complex, The Black Mages' 'Otherworld'.\\nThanks for your help!\nAnswer: soul meets body - deathcab for cutie\\nanytime - my morning jacket\\nthe bravery - unconditional\\nshakin' - rooney\\nbetter luck next time - scissor sisters\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Title: why do ppl judge based upon young age?\nQuestion: i have been told no so many times in so many situations, and all because of my young age. why dont ppl look at who we are and not our age?\nAnswer: People would rather group all of us together and assume that all young adults cause trouble instead of trying to judge us equally. Many also assume this because they judge us inexperienced and irresponsible. There is the problem that some young people are irresponsible and reckless too. Elder adults are not willing to take the time to differentiate between those who are responsible and those who can not be trusted.Our generation must learn from this error in judgment and attempt not to repeat it.\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Title: there was a song out all over europe in 2004 it kinda went numa numa yaa numa num numaya de da da dada numaya?\nQuestion: anyone know what its called\nAnswer: If it is indeed the O-Zone song, the title is Dragostea Din Tei.  ~Happy Listening!~\n"
+    },
+    {
+        "label": "Science & Mathematics",
+        "sentence": "Title: I have to do a report on animal rights and animal cruelty. Any opinions?\nQuestion: I need to right about what myself and others think about animal rights and cruelty, and if it's right or wrong.\nAnswer: With animal rights and animal cruelty, it's often not a simple 'yes' or 'no' question, not a simple matter of 'right' or 'wrong'.  There are many degrees.\\n\\nIf you are talking about animal rights, what rights should an animal be afforded?  Does an animal have the same rights as a human?  Do all animals get the same levels of rights?  Does a single ant have the same right to life and liberty that a human, or even a dog does?  How about a starfish?  A sponge?  An amoeba?\\n\\nAt what level do you make the arbitrary decision that 'this organism has a right to exist, but this one doesn't?'\\n\\nDoes the Ebola virus have a right to exist and propagate itself?  If you don't agree a virus has the right to live, how about Cochliomyia hominivorax, the human screwworm?  Should you allow treatment of humans infested with intestinal parasites?\\n\\nWhere do you draw the line?\\n\\nThe same can be said for animal cruelty.  Who gets to decide what's cruel?  How exactly do you define cruelty?  Is dropping a kitten in boiling water cruel?  Most people would say yes.  How about dropping a mosquito larva in boiling water?  Or a lobster?  It's cruel to keep a kitten in a jar on your desk, but how about a goldfish?\\n\\nAs with most things in life, there is no easy answer.  Certainly, there should be some benefit, some gain to humanity that must be demonstrated in order to justify killing another organism, but what level of justification is required?  \\n\\nIs squirting caustic substances in a bunny's eyes justified if it means we can develop a substance that won't burn a child's eyes?  \\n\\nIs killing hundreds of thousands, even millions of mosquitoes justified if it keeps one person from dying from West Nile virus?  How about if it means you can have a backyard BBQ without being driven inside by biting flies?\\n\\nIs shooting a deer justified if it means that a family can eat for a month off the meat?  How about if some guy just really wants to kill something and put its head on his rec room wall?  How about if the deer are so overpopulated that they are becoming diseased and the overall health of the whole population is declining because they have eaten all the available forage?\\n\\nThere are no easy answers.\n"
+    },
+    {
+        "label": "Health",
+        "sentence": "Title: how long does it take for your blood to come back?\nQuestion: after you give blood to the red cross \\nhow long does it take for your body to\\n fully restore the blood that has been lost?\\n\\nmore topic information helps\nAnswer: It takes about 6-8 weeks for blood restoration but exact duration can vary due to persons age,health status and diet.\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Title: what would you choose from these 2 ?\nQuestion: water or gold and why?\nAnswer: Gold, because you could definitely buy water with it.\n"
+    },
+    {
+        "label": "Politics & Government",
+        "sentence": "Title: i work in  a shop and im irritated?\nQuestion: why do people when im holding my hand out for the money drop it on the counter i cant stand it and also if i say hello and thank you it wouldbe nice for you to do the same....:))lol thankyou\nAnswer: Great Odin's Raven there are some stupid people on Yahoo answers!\\n\\nNot you Alan, all you are asking for is a bit of respect and that people are polite. \\nMy German teacher drummed it into us that manners dont cost anything. \\nI worked in a shop for 3 years and know exactly what you are talking about, some people are just plain rude.\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Title: I think my friend might be dead.  How do I find him?\nQuestion: I haven't seen him for a while now.  I think he's Canajun.  Can anybody help me?\nAnswer: Contact the police, they'll know what to do.^^\n"
+    },
+    {
+        "label": "Science & Mathematics",
+        "sentence": "Title: What direction would you steer your boat to travel from Ecuador to the Galapagos Islands?\nQuestion: I need this answer right away so please help me......first person to answer gets 10 points\nAnswer: West\n"
+    },
+    {
+        "label": "Politics & Government",
+        "sentence": "Title: My Tx DL was suspended for a traffic ticket I received in Ak, what can I do?\nQuestion: In July of 2003 I received a careless driving/driving with an invalid license citation. I called to inquire about the fine and found out it was about $700.00. I didn't have the money at the time so I did nothing. In Nov. 2005 I called again the fine was $715.00 I had the money but I had family problems so I had to use the money elsewhere. I inquired again in Feb. 2006 after I received my income tax and the fine increased to $1350.00 and i was told if it wasn't paid in 30 days the warrant stands and not to call again. I want to resolve this and get my license back but i feel this is unfair. Is there something I can do or can anyone tell me  when the ticket will no longer be valid? Or is there anyone who can help with this thank you,\\n Bill\nAnswer: you could probably go to court talk to a judge and work out some sort of payment plan and get it paid off in a year.\n"
+    },
+    {
+        "label": "Politics & Government",
+        "sentence": "Title: Do you want to see famous Republican's that support Bush?\nQuestion: Hollywood, sports, and more. Click on their names and your lost forever in Bios also \\n\\nhttp://en.wikipedia.org/wiki/User:Pitchka/Republican_Celebrities_Page\nAnswer: Does this qualify as a question?\\n\\nHonestly, I don't care who actually supports him. I do, and in my mind that's all that matters.\n"
+    },
+    {
+        "label": "Health",
+        "sentence": "Title: What is the best ''heat rub'' cream to use to help ease muscular/tendon pains?\nQuestion: Or any other soothing cremes/rubs?\nAnswer: I use Blue Emu.  It works the best for me.\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Question: What do use to roll a \"cigarettes\" when you have no rolling papers?\nAnswer: single rolls of toilet paper are wraped in a thin paper that works good.\n"
+    },
+    {
+        "label": "Politics & Government",
+        "sentence": "Question: Why did Fitzgearld let Rove off the hook?\nAnswer: I would suggest that the prosecutor could not find sufficient evidence to get an indictment.  I would further suggest that Karl Rove may be innocent and that would cetainly make finding evidence difficult.  Finally, I would suggest that the liberal-leaning media had more to gain if Karl Rove were indicted so they will not like today's announcement.\n"
+    },
+    {
+        "label": "Sports",
+        "sentence": "Question: where do you purchase a little league rule book?\nAnswer: According to Little League International:\\n\\nWhen a local Little League applies for and receives approval for the annual charter, Little League Baseball provides the league with two rule books for each team in the league, plus an Operating Manual, at no charge. This means Little League provides more than 400,000 of these publications at no cost to the leagues. However, there may be a need for extra copies to be purchased. \\n\\nRule books and the Operating Manual are copyrighted publications of Little League Baseball, Incorporated. They are only available for purchase (phone or mail order) from Little League by District Administrators, Assistant District Administrators and other District Staff members, and members of the local Little League board of directors. They may also be purchased in person by those district or local Little League personnel attending functions at one of the headquarters offices of Little League Baseball. \\n\\nIf a person other than those mentioned above wishes to obtain a copy of a rule book or Operating Manual, he/she must obtain one through the local Little League board of directors or a member of the District Staff.\\n\\nContact your regional headquarters if you have any other questions about obtaining rule books or other copyrighted publications.\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Title: I was only following orders.......?\nQuestion: Is this ever an excuse?\nAnswer: Excuse?  No.  Everyone is responsible for their own behavior.\\n\\nIs that a motivation for behavior?  Yes.  While we are all responsible for our own behavior, we are also taught that in order to be good little  boys and girls we must do what those in authority tell us to do.  Milgram conducted a famous experiment back in the 60's, which found that most folks will go against their conscious when faced with an order from a \"higher authority.\"  This is frightening.  \\n\\nWhat we need to do is to teach people to question authority.  However, when they do, they are labelled as \"troublemakers\" and \"rebellious.\"\n"
+    },
+    {
+        "label": "Computers & Internet",
+        "sentence": "Title: Making money on the net. Is this site legit?\nQuestion: So i signed up for this new site...and It says you get paid to post...I have made many posts and nothing shows up in my totals. Anyone have experiance with this?\\nhttp://www.mylot.com/?ref=itsokrelax   is my link...i want to see maybe if referals work...so give it a shot!\nAnswer: \n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Question: Why is it that you get more attention from men and women when you are with somone then when you are single?\nAnswer: because when you're with someone, you project an air of happiness (hopefully) and self-confidence which is attractive to others.\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Question: does anyone out t5here love the black eyed peas?\nAnswer: they're okay, but i prefer red beans and rice\n"
+    },
+    {
+        "label": "Health",
+        "sentence": "Question: Are there any medicinal herbs helpfull for someone who is quitting cigarette smoking?\nAnswer: I once read an herbalist recommendation that said Lobelia, Pukeweed, and Indian Tobacco (Latin Named: Lobelia inflata, L. cardinalis, L. syhpilitica) reduce the cravings, make cigerettes taste bad and help with withdrawal. I have also heard that a few drops of oil of cloves on the tongue helps with the cravings.\n"
+    },
+    {
+        "label": "Sports",
+        "sentence": "Title: Why is JBL an announcer and what happen to tazz?\nQuestion: I haven't watched wrestling in a while\nAnswer: Tazz is now in ECW as the commentator... JBL isn't the announcer, he is juz a commentator alongside Cole...\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Title: Have u ever been to Singapore before?\nQuestion: or know where it is located in the map?\nAnswer: Yehh.. i have actually! The main reason being that I'm FROM Singapore.. hehe. \\nOk lame, but hey.. I'm a fellow Singaporean so you'll cut me some slack right?\\nI know where its located of course.. and no, its nowhere near China peeps!\\nAlways wondered why even as Singapore is becoming an increasingly reknowned country, many still dunno where its truly located. \\nGood question to poll whether ppl still think Singapore is a part of China, Jason!  :)\n"
+    },
+    {
+        "label": "Computers & Internet",
+        "sentence": "Question: what is the very best internet web sight?\nAnswer: \n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Title: Does anyone remember the programme 'The Chase' on BBC1? What was the outcome of the story?\nQuestion: It had Gaynor Faye in it and was about a vets practice. Keith Barron was in it as well playing the Dad. Does anyone know if it's available to buy?\\n\\nThanx!\nAnswer: they finished the series at a cliffhanger so you have to wait for the next series! And i don't know if it's available to buy, sori. I haven't seen it anywhere though.\n"
+    },
+    {
+        "label": "Sports",
+        "sentence": "Question: Will Denis Savard turn the Blackhawks around?\nAnswer: If anyone can do it, he can. The magic of the Savard name in Chicago will boost morale, if nothing else.\n"
+    },
+    {
+        "label": "Computers & Internet",
+        "sentence": "Question: why don't Iexplores load the page when I type it in?\nAnswer: Microsoft Snafu:\\n\\nTry this:\\n\\nclick START, RUN, type \"CMD\" (no quotes,) and hit ENTER.\\nType \"ren C:&#92;windows&#92;system32&#92;verclsid.e xe C:&#92;windows&#92;system32&#92;verclsid.o ld (no quotes, and combine the \"e xe\" to \"exe\" and \"o ld\" to \"old\",) and hit ENTER.\\nFinally, type \"exit\" and hit enter.\\nReboot your computer, and it will work!\\n\\nGood Luck! Let me know if you have any other questions!\\n\\nMike Z.\n"
+    },
+    {
+        "label": "Science & Mathematics",
+        "sentence": "Question: What about the A part of sea called \"triangle\"? And where is that?\nAnswer: if you are referring to the \"Bermuda Triangle\" it's a mysterious area off the east coast of Florida,where ships have disappeared along with their crew and cargo,........BUT  it is only one that is talked about, there are it is reported, eleven others around the world.........take care of where you go.............ssssssssspookie\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Title: Does that Nick Lachey guy just annoy the hell out of you?\nQuestion: Seriously, the only thing I know about him is that he WAS married to Jessica Simpson. But whenever I look at his pictures or video of him, I just say: \"What an annoying prick!\" Am I correct? And why do people give so much of a damn about him?\nAnswer: People are always going to care about celebrities. They live the kind of lifestyle we can only dream about. You obviously do give a damn about him thats why you are asking this question, in the first place.\n"
+    },
+    {
+        "label": "Education & Reference",
+        "sentence": "Question: Where can I find Homers epics online?\nAnswer: The Iliad\\nhttp://pd.sparknotes.com/lit/iliad/\\n\\nThe Odyssey\\nhttp://pd.sparknotes.com/lit/odyssey/\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Title: why is jesus the jew killed ,every year, for 2000 years?\nQuestion: if jesus is in heaven , isnt he tired of hearing ,of us killing him every year???\nAnswer: It is only to keep the masses worshipping and the Truth dead and buried!\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Title: Where can I get the free installation for the sims?\nQuestion: I'm looking for the installation for the game of the Sims, for my PC.\nAnswer: get it on limewire\n"
+    },
+    {
+        "label": "Education & Reference",
+        "sentence": "Title: so many questions?\nQuestion: 1. how much is it to go to school to become a doctor?\\n2. what are the best schools?\\n3.my parents want me to stay within 2hrs from out house, how do i explain to them that i want to go to cali. for my education. we're in michigan right now\nAnswer: \n"
+    },
+    {
+        "label": "Education & Reference",
+        "sentence": "Title: My leagal rights as a parent with a child in daycare facility .?\nQuestion: Facility has called 2 days in a row for us to puic up our child because he will not listen at the day-care.  He is 4 and does not want to take nap, won't listen, etc...\nAnswer: None, teh facility is privately funded allowing them to have your child removed from their faciility at their discretion.  Schoolds have stricter regualtions.  Talk to his provider about allowing him to do something quiet while the others nap or simply to lay down and be quiet.  Afterall you are paying them to deal with him for the day nto simply when he is behacing...it snto like hes biting chidlren.  he just doesnt wanna sleep.  Find a new care provider if necessary!  Most of them deal with kids who wont nap instead of calling mom to pick them up.  (They should credit you for the days you had to get your child too.)\n"
+    },
+    {
+        "label": "Politics & Government",
+        "sentence": "Question: Why do we have committees in the U.S. Senate?\nAnswer: Because not every politician knows everything about everything. So they set up committees to handle their own little special projects/investigations as they relate to their committee's objectives. Then once the committee has accomplished their task, they present it to the rest of the senate for review. It is probably one of the few ways in which our government has made things more productive.\n"
+    },
+    {
+        "label": "Health",
+        "sentence": "Title: Is it normal for me as a man to have a CPR fetish?\nQuestion: Since i was 5 or 6 years old if i'm not mistaken,i have a sudden interest in either watching tv that shows dramas or movies that has a hero performing CPR on the heroine to revive her back to life either due to drowning,asphixiation,heart attack,etc. until now.I also loves to read medical books with CPR illustrations(female as the victim) when i go to the library.Sometimes i did mouth-to-mouth resuscitation and chest compressions on my wife for fun.My wife does admit that i'm kinda weird for choosing this as a fetish but later on she does'nt mind at all.She said she love it to since she get used to it for quite a long time.I do worry if i might broke her ribs or even interupt her normal heart rythm while doing chest compressions on her but so far she's ok.Seriously i love her so much and really don't want her to get hurt just because of my weird fetish.Is this something normal for a men to have such a fetish?My wife is an EMT.\nAnswer: How many times have you asked this question?\\n\\nYou know you have a wierd fetish, and more inportantly your putting your wife's life at risk doing CPR on her.\n"
+    },
+    {
+        "label": "Business & Finance",
+        "sentence": "Title: Thanks for taking the time 2 help.I'm trying to find the site where I can apply for a job at liquorland.?\nQuestion: The job that I am reffering to is at liquorland, Modbury Heights.  South Australia.  Adelaidde.Thank-you once again.\nAnswer: The only thing I found was this.  sorry.\\n\\nhttp://www.liquorland.co.nz/asp/employment.asp\n"
+    },
+    {
+        "label": "Computers & Internet",
+        "sentence": "Title: Somehow all the text got really small on my computer how do I make it normal size again?\nQuestion: I don't know how it happened and its getting me angry. The text on my computer and the internet has gotten way smaller. I can barely read it how do I make it larger? I'm running window xp. Thanks.\nAnswer: hold down the control key and rotate the mouse wheel.\n"
+    },
+    {
+        "label": "Health",
+        "sentence": "Question: where can I find free online pilates exercises?\nAnswer: http://www.easyvigour.net.nz/fitness/h_Free_Pilates_Exercises.htm\n"
+    },
+    {
+        "label": "Society & Culture",
+        "sentence": "Title: Do Muslims believe this?\nQuestion: Q. Do Muslims believe in the virgin birth of Jesus?\\nFrom Huda,\\nYour Guide to Islam.\\nA.\\nMuslims believe that Jesus (called 'Isa in Arabic) was the son of Mary, and was conceived without the intervention of a human father. The Qur'an describes that an angel appeared to Mary, to announce to her the \"gift of a holy son\" (19:19). She was astonished at the news, and asked: \"How shall I have a son, seeing that no man has touched me, and I am not unchaste?\" (19:20). When the angel explained to her that she had been chosen for the service of God, and that God had ordained the matter, she devoutly submitted herself to His will.\\n\\nIn the Qur'an and other Islamic sources, there is no mention of Joseph the carpenter, nor any recollection of the inn and manger legend. On the contrary, the Qur'an describes that Mary retreated from her people (outside the city), and gave birth to Jesus underneath a remote date palm tree.\\n\\n?If Jesus was born conceived by God, how could he not be the Son of God?\nAnswer: We Muslims believe the following things about Jesus:\\n\\n1. We love Jesus & respect him as a major prophet of Islam.\\n2. We also love the mother of Jesus, the Virgin Mary. We believe she was a pious and noble woman chosen over all of the women of the world. \\n3. Muslims believe that Jesus was born miraculously of a virgin mother and no father. His birth is miraculous like the birth of Adam, the first human being, who was created with neither mother nor father. \\n4. Muslims do not believe that Jesus was the son of God. God is so powerful and self-sufficient that He does not need a son or any kind of partner. \\n5. In Arabic Bible the name for God is Allah. Therefore all Arab Christian call God Allah as Muslim do as well. \\n6. Jesus did not die on the cross. Rather, God saved him as his enemies were confused about him. Jesus was taken up by God to Heaven. \\n7. Jesus is called Isa (pronounced Eesa) in Arabic. \\n8. Jesus performed miracles by the Will of God, like healing the blind and those with leprosy. \\n9. Jesus prayed to the same God as all Prophets and we Muslims pray to. \\n10. Jesus will return before the end of the world. \\n\\nIf Jesus is a son of God, then the following things come up:\\n\\n1. Why Adam & Eve are not sons & daughters of God when God created them without parents?\\n2. What about all living beings which God created without both father & mother for the first time?\\n3. If Jesus was son of God, then why only 120 people accepted his prophethood at that time, rest of all spit on him, insulted him, terrorized him and eventually killed him (Christian belief) but God didn't save him?\\n4. If we take Jesus born without 'father' then how come God is his father?\\n5. As God is all powerful & compared to no one then how come he beget a son like humans?\\n6. God doesn't need any food nor any shelter. But why Jesus felt hungry and sought rest & comfort?\\n7. No one can do any harm to God, but how come people murdered Jesus?\\n8. God has no beginning & no end, how come Jesus was born & eventually died?\\n\\nYou do not have to answer these. There is no direct statement by Jesus himself that he came to fulfill this mission. He was very clear to tell people that God is my God and yours. He used to pray to God and ask Him for support and comfort. He never said, “I am God” or “I am the Son of God.” Rather, he was called several times in the Gospels “a prophet” and “a mighty prophet”. He was also called “the servant of God” like Prophet Muhammad after him. People used to shout, “Here a prophet has risen among us” and repeated this phrase whenever Jesus performed a miracle in front of people. \\n\\nAll the things above I said from Islamic logic, it's not necessary for me to convince people to Islam. I just answered your question to inform \"What Why & How\" about islamic faith in Jesus. \\n\\nThank You. God bless everybody.\n"
+    },
+    {
+        "label": "Science & Mathematics",
+        "sentence": "Question: A 120-V electric coffeepot draws a current of 0.6 A. What is the resistance of its heating element?\nAnswer: This question has a simple answer observe\\n V=IR now R=V/I\\n  so i.e.120/0.6 =200 ohms \\n  if you heating effects please see the joule,faradays heating effects of electricity\n"
+    },
+    {
+        "label": "Politics & Government",
+        "sentence": "Title: Please read my wondering questions below...?\nQuestion: ...Why is it more... Recoupable for the residents of Vancouver's Down Town East Side to live in a POLITICALLY IMPOSED DEATH CAMP, than \"The Jews\" (I'm Jewish myself) under Adolf Hitler? Who the hell are we under? How many more movies of the 1940 tragedy do I need shoved down my throat by Jewish Hollywood before they decriminalize narcotics and clean up my Bloody City!!!\nAnswer: \n"
+    },
+    {
+        "label": "Computers & Internet",
+        "sentence": "Question: i am MCA students. what software study now?\nAnswer: You don't need to study software. Go study POLITICAL SCIENCE\\n...\n"
+    },
+    {
+        "label": "Education & Reference",
+        "sentence": "Title: Where can I find a scholarship for dance?\nQuestion: I am 27 and danced professionally in modern but also taught ballet and pointe.\\n\\nI am female.\\n\\nI live in Chicago and am going to Columbia college in Chicago.\nAnswer: Try a search on FastWeb.\\n\\nAlso, always try the National Endowment for the Arts.\n"
+    },
+    {
+        "label": "Politics & Government",
+        "sentence": "Title: If you tripped over your own feet in the parking lot of a business, would you sue the business for damages?\nQuestion: Say you suffered a scratched knee or elbow ... \\n\\nI can understand if the lot was in need of repair, and you tripped over broken concrete ... but what if you just stumbled over your own feet? Would you try to hold them responsible?   What grounds would you have?\nAnswer: maybe not sue but they should pay for any medical expenses if  their neglect caused the problem.  if you know for a fact the several people have tripped over the same area and the business knows about the hazard and refuses to do anything about it yes you might have a case.\\n\\nBUT\\n\\nIf you tripped over you own two feet the business could not have prevented that , you might think about suing your parents though.  you probable inherited big feet or being clumsy from them.  So they are more at fault then the business is especially if you are always tripping over things even when there is nothing there to trip over.\n"
+    },
+    {
+        "label": "Education & Reference",
+        "sentence": "Title: which is the web site with which we found ssc information?\nQuestion: i want to know the probably date of result of ssc\nAnswer: SSC may refer to:\\n\\nThe safe, sane and consensual practice in BDSM \\n\\nSuperconducting Super Collider, a 20/20 TeV colliding beam particle accelerator near Waxahachie, Texas, partially built by the United States government at a cost of more than US$2,600 million before being cancelled in 1993 \\n\\nSaint Stanislaus College, a high school in Bay St. Louis, Mississippi \\n\\nSalem State College, a public college in Salem, Massachusetts \\n\\nThe three mile long Second Severn Crossing bridge over the River Severn between England and Wales \\n\\nSecondary School Certificate, the certificate given to students passing out of secondary school in Bangladesh or in the states of Maharashtra and Goa in India. It also refers to the examination taken by students of grade 10 (standard 10 in India) in Maharashtra and Goa. \\n\\nShelby Super Cars, an automobile manufacturer. \\n\\nShun Sheng Ceramics, Ltd., a porcelain manufacturer based in Asia. \\n\\nSo Solid Crew, a UK garage group \\n\\nSociety of Solicitors in the Supreme Courts of Scotland, a professional association of solicitors in Scotland \\n\\nThe Society of the Holy Cross (Societas Sanctae Crucis) \\nSouth Suburban College, Illinois \\n\\nThe State Services Commission of New Zealand. \\nThe John C. Stennis Space Center \\n\\nStretch shortening cycle, a process of faster muscular contraction after a dynamic stretch. \\n\\nSulphide stress cracking, a type of corrosion \\n\\nIn physics, the aborted Superconducting Super Collider, a ring particle accelerator project. \\n\\nSwedish Space Corporation, a Swedish government owned company. \\n\\nSydney Secondary College, a public school in Sydney, Australia \\n\\nSSC ground may refer to the Sinhalese Sports Club Ground in Colombo, Sri Lanka, a venue for international cricket matches.\n"
+    },
+    {
+        "label": "Science & Mathematics",
+        "sentence": "Title: \"the universe did not have a begining and it will not have an end\"is it true, explain?\nQuestion: actually it is based on steady state theory\nAnswer: MANY of us are apt, not without some reason, to regard the world we live in as the centre of the universe, and to look upon the sun, the moon, and the stars as objects placed in the heavens for the special benefit of the human race. That the earth is but a minute object in the Cosmos; that it forms one of a number of bodies, many of them larger than itself, revolving around their central luminary, the sun; that there exist in the realms of space myriads of similar suns, centres themselves of other solar systems; that millions of planets, which we cannot see, are inhabited with races of intelligent beings -- these are facts of which almost everybody must cognisant, but on which few bestow much time or thought.\\n\\nAstronomy teaches that, just as our solar system had a beginning, so it must have an end, and that, as at one time life was impossible upon the earth, so there will come a time when man will no longer be able to exist.\\n\\nScience, cold and calculating, has foretold the physical end of the world -- has prophesied the destruction of the globe and all its contents.\\n\\nBirth, life, death -- it has been well been said --appear to be the rule of the universe at large, as well as in our own little corner of it. Suns and planets are evolved, they flourish, and at length decay; and new suns and systems will arise to take their places.\\n\\nThe \"End of the World\" may be taken in two different senses, as meaning either the annihilation of our planet by sudden catastrophe, or by gradual decay, or else the disappearance of human life from the face of the globe, owing to some state of circumstances, possible, at any rate, if not probable.\\n\\nIt is our purpose in this article briefly to consider some of the opinions held by men of learning and repute regarding the end of the world, and to emphasise the lesson taught by Nature that the individual counts for nothing in the history of the race, the race for nothing in the life of the planet, and the planet for nothing in the duration of the Universe.\\n\\nVery many derive their inspiration on this absorbing subject from the Bible, where we read: \"The day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heal, the earth also, and the works that are therein, shall be burned up.\"\\n\\nEvery child knows that water was the agency of destruction in the ancient world, and that the rainbow was placed in the sky as a token that life should never be destroyed by this cause again. All through the Bible we may trace the prophecy that the world would come to an end by being consumed with fire.\\n\\nIt is out of our province here to touch on the signs given in the Bible whereby the arrival of the last day may be predicted. Certain preachers have brought great ridicule on themselves by their very certain statements on this point, but they seem little abashed when their prophecies do not come true, and merely alter dates and times to suit the next occasion.\\n\\nMany readers will call to mind a rhyme which at the time terrorised the minds of hundreds of thousands of young and ignorant people --\\n\\n\"The world unto an end shall come\\nIn Eighteen Hundred and Ninety-One.\"\\nThe date has been often changed and will (it may safely be said) continue to be changed for the benefit of future generations. It is curious to notice that hardly two philosophers agree as to the manner in which the end of the world may be expected to arrive. Some put their faith in a celestial catastrophe so terrible as literally to wipe our earth out of existence, while others prefer to believe that though man may no longer be able to exist, the world will still continue its appointed motions.\\nLord Kelvin startled us not long ago by affirming that there was only oxygen in the atmosphere sufficient to last mankind for some 300 years, and that the world was doomed to die of suffocation. Everyone knows that in an atmosph\n"
+    },
+    {
+        "label": "Computers & Internet",
+        "sentence": "Question: The major carriers of network traffic on the Internet are known collectively as the _____.?\nAnswer: Backbone?\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Title: What would you think of this guy?\nQuestion: He was in town for a week and we spent time together, now he moved out of state and we email and periodically talk on the phone. He has been asking me to come and visit, the last time we talked he stated that if I was interested I would be buying a ticket and coming to see him. But I see it as if he was interested he would be buying me ticket to come see him. Dont you think? Does he sound like an a$$?\nAnswer: He doesn't sound like an ass, just sounds a bit cautious.  If you truly are interested and can financially afford it, why don't you offer to pay for half of the ticket and he pay for the other half?\n"
+    },
+    {
+        "label": "Education & Reference",
+        "sentence": "Question: what's the correct way to spell the present participle of the verb \"commit\"?\nAnswer: committing\\n\\nHe is committing a crime as we speak.\n"
+    },
+    {
+        "label": "Science & Mathematics",
+        "sentence": "Title: Help: Find the constant of variatin for a direct variation that includes the given values.?\nQuestion: Help: Find the constant of variation for a direct variation that includes the given values.\\n(2,4)\\n\\nNote: This is not my homework, im studying for the semester exams and stumble across this material which im having difficulty on. Plz help by showing the work.\nAnswer: Since it is a direct variation we can use the formula\\n\\ny = k x\\n\\nSince we are given the ordered pair (2,4) we know y=4 when x=2. Plugging these values into the formula gives us\\n\\n4 = k(2)\\n\\nTo solve for k we divide both sides by 2 which gives us\\n\\nk = 2.\\n\\nIt would also be correct to set up the variation to be\\n\\nx = k y\\n\\nIn this case, we do the same procedures to find k. Plug in the known values for x and y to get that k = 1/2. Unless you are told which one to solve for either are correct. If you are given a multiple choice test I would think that only one could be a possible answer, unless you are first given the variation equation.\n"
+    },
+    {
+        "label": "Science & Mathematics",
+        "sentence": "Question: who is the first is it adam and eve or dinosaurus t-rex?\nAnswer: ssssssssssssshhhhhhhhhhhhhh not so loud.these questions confuse the church and the vatican may send their ninja monks to shut you up .\n"
+    },
+    {
+        "label": "Politics & Government",
+        "sentence": "Question: Will Bush poll ratings go up now that Zarqawi has been killed?\nAnswer: Probably. Americans in general though have a very short attention span, especially for political issues so it won't last long. I don't think his aproval rating will get that much higher anyway.\n"
+    },
+    {
+        "label": "Science & Mathematics",
+        "sentence": "Title: How Do You Encode 1X2 Matrices???\nQuestion: Like how the military would - to hide messages. I can't find instructions anywhere on the web- plz help!!!!\nAnswer: It can be encoded with another 1*2 matrix through addition.\\n\\nFor example,\\n\\noriginal matrix = (x   y)\\n\\nencoding matrix = (a b)\\n\\nCoded matrix = (x+a    y+b)\n"
+    },
+    {
+        "label": "Science & Mathematics",
+        "sentence": "Title: Could someone rationally explain how earth's life started from one cell organism and it became us?\nQuestion: I'm an agnostics, whom believes generally in evolution, but I find the common explanation a bit far-fetched or rather I just can't picture it.  \\n\\nThe earth is 4.57 billion years old, and us humans have been here roughly 2.2 million years ie the first 'homo'.  Now personally, I'm sure we're not as complicated as what I thinks most likely is out in space, but I find it hard to reason how we developed from a single cell life form.  Anyone have a chart of life's path from that to us...which would make some sense out of this?\\n\\nI'm not saying there is or isnt' a god or that someone planted us here, but the conventional explanation of evolution is just not clear in my head.  Could someone demonstrate a timeline that makes sense of earth's inhabitance from it's creation?\nAnswer: Your question is a very reasonable one --and brave, since you'll certainly get answers from religious zealots who have completely closed their minds.  Let me start by saying my *only* personal agenda is a search for the truth, no matter where it leads me.  Unlike many, I'm not here to shove my beliefs down anyone's throat. \\n\\nThe short answer is that I doubt it's possible in this kind of forum to get into enough details to convince a confirmed *creationist* that humans evolved from simpler life forms.  But I hope to encourage an open-minded person to continue with their own research, and not be tempted by overly \"easy\" answers.   \\n\\nThe long answer (most of it written by me, some of it transcribed manually; none of it pasted)...\\n\\nI, too, was unclear about the evolutionary process for a long time.  While I'm not an expert (and *nobody* has *all* the answers) I think I can help you get to a place where it makes *sense* to you as it now does to me, since you appear to have an open mind.  (Agnosticism is good!)  \\n\\nAfter hearing people's arguments and questions for many years, I am convinced that there are six huge factors getting in the way of a general acceptance of the *overwhelming* scientific evidence for evolution.  \\n\\n1 - the common misconception that evolution claims apes or chimpanzees changed to human beings, and the perceived indignity -- and indignation -- that goes along with that idea... or with *any* suggestion that we evolved from a lower form.  It's nothing but ridiculous human arrogance!\\n2 - the lack of human conception for the vast time life has had on Earth to evolve\\n3 - the human temptation to rush things and jump to ridiculous (and therefore naturally hard to believe) conclusions.  Evolution involves not three or four steps, like fish to amphibian to ape to human!)... not hundreds, or even thousands of big, visible steps... but perhaps hundreds of millions of minute, subtle changes in a life form.  Remember, we have had the time!\\n4 - the mistaken notion that creatures evolved because they \"decided\" to, or \"wanted\" to.  When we say, for example, that fish needed to absorb oxygen more efficiently from the water, so they evolved gills, that's not to imply it was a choice.  Evolution is about mutations... changes that were random from one generation to the next, over long periods of time.  Those changes that happened to be good for the creature meant that creature survived long enough to reproduce, which meant there would now be lots of little babies with that same feature.\\n5 - a fearful and/or stubborn refusal to abandon faith in a Creator, since doing so might condemn the unbeliever to eternal suffering\\n6 - It's just *easier* to think about a Creator.\\n\\nI know you want to see some details of our \"life's path\" to make sense of it, and I will provide that, below.  Just a bit more, first.\\n\\nThe central ideas of evolution are that all life shares a common ancestor, and that it has changed over time (obviously, if we are to explain getting from A to B).  While it's hard for many people to imagine the changes that would result in, for example, human beings from lifelessness, the first thing to keep firmly in mind is that we are talking about an *unimagineable* amount of time to play with... the earth having been around for some 4.5 billion years, as you said.\\n\\nUnderstandably, few people can appreciate how much a billion is.  Do you realize that roughly a billion *seconds* ago, \"The Godfather, Part 2\" was about to win the Academy Award for Best Picture?... that Richard Nixon was President of the U.S.?... that Hank Aaron had just broken Babe Ruth's record of 714 career home runs?  1974 was drawing to a close -- one billion seconds ago.\\n\\nIt's a lack of appreciation for this vast amount of time which, I think, makes people skeptical.  They wonder how, in any amount of time they can envision, an ape can c\n"
+    },
+    {
+        "label": "Business & Finance",
+        "sentence": "Question: where can i find out what properties have been sold in my local area and for how much?\nAnswer: try www.property shark.com It only applies to certain states so I'm not sure if you state is included but worth a look. Or you could contact your local real estate agent- they will tell you.\n"
+    },
+    {
+        "label": "Science & Mathematics",
+        "sentence": "Question: If I put on metal suit & got in particle accelerator at Cerne, would I be propelled round till i died?\nAnswer: the particles are accelerated by electromagnetic fields, but since it only gives giga electron volts, which is much less than a joule, it wouldnt rreally move you. it proprably would however, electrocute you and cook you with gamma rays and such\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Title: is today ciara b-day ?\nQuestion: they just showed like 4 of her vids back to back. either that or shes dead.\nAnswer: According to Wikipedia, Ciara's birthday is actually October 25th. It just must be a coincidence or a special that shows her playing videos back to back. If you're watching it on FUSE, it could be a Loaded special where they play back-to-back videos of the same artist for a half hour :) If it's one of the other channels, I have no clue. Maybe it's Ciara Appreciation Day :-P :)\n"
+    },
+    {
+        "label": "Politics & Government",
+        "sentence": "Title: how do I change my address on my 2006 rural property tax notice?\nQuestion: I bought a rental property in Wiliams Lake  B,C, and have not received 2006 tax notice\nAnswer: I would contact your local Tax Collections office and inform them of this new information... be sure you get the name of the person you spoke with!\n"
+    },
+    {
+        "label": "Family & Relationships",
+        "sentence": "Title: Does true love mean marriege in the end?\nQuestion: Else, how can you survive without being close to your sweetheart?\\nAnd, can true love ever break?\nAnswer: It doesnt always end in marriage, no. For example, my boyfriend and I have been together for 7 years almost. We love each other deeply, and we have a child together. Although we believe thwat we will be together for the rest of our lives, he doesnt believe in marriage, so it wont go that way for us.... and no, I dont think that true love does break; it may evolve, alter or even fade with the years, but they will always be your true love.\n"
+    },
+    {
+        "label": "Entertainment & Music",
+        "sentence": "Title: Name that tune?\nQuestion: A current Visa commercial has a gentleman pay for his lunch with cash and messes up the flow of everything.  What is the name of the music playing in the background?\nAnswer: \"Powerhouse\" by Raymond Scott\n"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "sentence 1: ISLAMABAD, Pakistan (CNN) -- Taliban militants made their deepest incursion into Pakistan this week, seizing control of areas that are a short drive from the capital city.  A Pakistani government official said the militants fully withdrew from the Buner district on Friday, although other officials cast doubt on the extent of the pullout and how long it would last. Buner is only 60 miles outside Islamabad. The situation is particularly concerning because Pakistan is a nuclear-armed state. The Islamic republic is believed to have between 30 and 40 nuclear warheads, according to the U.N. nuclear watchdog, the International Atomic Energy Agency (IAEA).\nsentence 2: Pakistan's nuclear arsenal creates concerns.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Scripps Memorial Hospital Encinitas emergency room doctors and nurses treat two to three injured surfers.\nsentence 2: Scripps Hospital assists surfing accident victims.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The 42-year-old actor was outside a movie theater in central London's Leicester Square, doing press interviews, Sunday, when a man squirted Cruise with a water pistol disguised as a microphone, London's Metropolitan Police said.\nsentence 2: Cruise was in Leicester Square when he was squirted with water.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The iF awards are presented in Hanover, Germany, at the International Forum Design Hannover GMBH. There are a number of fields and disciplines which have their own awards.TAG Heuer's Monaco Calibre 360 LS Concept Chronograph has won the award in the Leisure/Lifestyle category. The timepiece was chosen from over 2,200 watches from 35 countries. This prestigious award was given to the company for the second time in two years. Last year the winner in the same category was TAG Heuer's Professional Golf Watch, designed together with Tiger Woods. This year's winning timepiece from TAG Heuer has a mechanical movement, which represents the first in the history of watchmaking to reach a precision of 1/100th of a second. The watch itself is to be seen at the iF design exhibition 2007, held in Hanover, from March 15 till August.\nsentence 2: Tiger Woods attends the iF design exhibition 2007.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The Southeast Asian ministers gather in Laos for their regional meeting.\nsentence 2: Southeast Asian ministers' meeting is held in Laos.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Kozlowski and the company's former chief financial officer, Mark Swartz, were sentenced, on Monday, to up to 25 years in prison.\nsentence 2: A New York state judge also ordered Kozlowski and former Chief Financial Officer, Mark Swartz, to serve 25 years in prison.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: It is estimated that the disaster resulting from the deliberate crash of a Jumbo-Jet on a nuclear power station would be a multiple of the Chernobyl accident in the worst case by a factor of 60.\nsentence 2: The Chernobyl disaster had repercussions outside the ex-USSR.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Mike Wilson, marketing manager at Fanuc Robotics in Coventry, says of the improvements in robot performance: 'Our new ARC Mate welding robot, for example, is 30 per cent cheaper in real terms than a similar model three years ago.\nsentence 2: Welding is a common use for robots in the auto industry.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The hurdler suspended in 1993 for taking the anabolic steroid Nandrolone was cleared after a three judge arbitration panel ruled that the case against her could not be proved beyond reasonable doubt .\nsentence 2: Nandrolone is a steroid.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The owners of Phinda, the South African-based Conservation Corporation, could not have paid for a better advertisement for their philosophy of wildlife conservation: a people-based approach to conservation, which is slowly gaining ground in Africa as game reserves come under ever greater threat from hungry, poor and angry local populations.\nsentence 2: The South African-based Conservation Corporation threatens the local population.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The nation got its long-awaited first look at Bo in action as the Obamas showed off the family's new dog on the South Lawn. First lady Michelle Obama did most of the walking while the 6-month-old Portuguese water dog scampered about. Then daughter Malia took a turn, and Bo took off running. The girls grinned as they played with Bo. Sasha clapped her hands at one point, calling for the dog's attention. Plainly pleased, the president said, \"He's a star. He's got star quality.\"\nsentence 2: Obama's dog is called Bo.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: By 45,000 years ago, humans had weathered the comings and goings of a number of ice ages, had spread themselves throughout most of Africa, Europe and Asia, and had reached a population of roughly a million.\nsentence 2: Humans existed 10,000 years ago.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: In 1969, he drew up the report proposing the expulsion from the party of the Manifesto group. In 1984, after Berlinguer's death, Natta was elected as party secretary.\nsentence 2: Berlinguer succeeded Natta.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The chaotic development that is gobbling up the Amazon rain forest could finally be reined in with a new plan developed by officials of Amazon countries and leading scientists from around the world.\nsentence 2: The Amazon rainforest suffers from chaotic development.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: TWA connects through New York en route to Frankfurt . Lufthansa , the German airline , flies direct daily from Los Angeles to Frankfurt , and the airline shares flights with Lauda Air , an Austrian carrier , on Wednesdays , Fridays and Sundays to fly directly to Munich . Another German airline , Ltu , also flies direct from Los Angeles to Dusseldorf and Munich on Mondays and Thursdays . Frankfurt is the hub for trips to most of the country 's smaller cities.\nsentence 2: Lufthansa is the German airline.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Colarusso, the Dover police captain, said authorities are interested in whether their suspect made a cell phone call while he was in the Dover woman's home.\nsentence 2: Colarusso works for Dover police.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: \"Nancy Grace and the others, they just bashed her to the end,\" said Duckett's grandfather, Bill Eubanks, during an interview with The Orlando Sentinel. \"She wasn't one anyone ever would have thought of to do something like this. She and that baby just loved each other, couldn't get away from each other. She wouldn't hurt a bug.\" Grace's spokeswoman called the suicide \"a sad development,\" and Grace herself issued a statement saying, \"I do not feel that our show is to blame for what happened to Melinda Duckett.\"\nsentence 2: Bill Eubanks was Melinda Duckett's grandad.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The American State Department announced that Russia recalled her ambassador to the United States \"for consultation\" due to the bombing operations on Iraq.\nsentence 2: An official source in the American Ministry of Foreign Affairs announced that Russia called the United States \"for consultation\" because of the bombings on Iraq .",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Saddam Hussein accepted an 11th-hour offer to flee into exile weeks ahead of the U.S.-led 2003 invasion, but Arab League officials scuttled the proposal, officials in this Gulf state claimed.\nsentence 2: Saddam Hussein flees to the U.S.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: I have a 1986 Coca-Cola Grand Union 100 Year Statue of Liberty pin set.\nsentence 2: The Statue of Liberty was built in 1986.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: If a Mexican approaches the border, he's assumed to be trying to illegally cross.\nsentence 2: Mexicans continue to illegally cross border",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Interim Palestinian leader, Mahmoud Abbas, has won a landslide victory in Sunday's presidential election and will succeed the late Yasser Arafat.\nsentence 2: Mahmoud Abbas has claimed victory in the Palestinian presidential elections, and has dedicated his win to Yasser Arafat, who died in November 2004.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The exchanges resulted in greatly improved financial, oil, fisheries, and military issues, but Great Britain consistently refused to address the issue of sovereignty over the Falklands.\nsentence 2: Great Britain continues to refuse to discuss sovereignty issues.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The Sioux Ghost Shirt was a feature of Glasgow's Kelvingrove Museum for more than 100 years before being repatriated to its land of origin.\nsentence 2: A Sioux ghost shirt was returned by a Scottish museum.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: There are four identified subtypes of Ebola virus. Three of the four have caused disease in humans: Ebola-Zaire, Ebola-Sudan, and Ebola-Ivory Coast. The fourth, Ebola-Reston, has caused disease in non-human primates, but not in humans.\nsentence 2: The Ebola epidemic breaks out in Zaire.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Another presidential candidate, who we thought was the one involved, was Charles Brumskine, the standard bearer of the United Democratic Party who also has residency in the Northern Virginia area.\nsentence 2: Charles Brumskine is a member of the United Democratic Party.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: It is the country's aging nuclear facility that currently concerns Armenian environmental groups as well as those in neighboring countries. Twenty miles west of the capital Yerevan, Armenia's Metsamor Nuclear Power Plant was built in 1970s and houses two VVER-440 Model V230 nuclear reactors. Metsamor, which currently produces about 40 percent of the country's electricity, is located in a seismically active zone and was closed even before the 1991 collapse of the Soviet Union because of the devastating Dec. 7, 1988, earthquake in Spitak.\nsentence 2: Metsamor nuclear reactor was shut down after the 1988 Armenian earthquake.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: \"We are ... deploying more people into Côte d'Ivoire -- police, military people and people to work directly with the office of the prime minister\" Mbeki told a news conference in Pretoria.\nsentence 2: Mbeki holds the office of Prime Minister.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Someone said to be an informant within Abu Musab al-Zarqawi's trusted circle told Coalition forces the insurgent leader was going to have a meeting, it has emerged. This information appears to have led US F-16Cs to a safehouse in the Iraqi town of Hibhid, where the Jordanian and five others, including a child, were killed on Wednesday.\nsentence 2: Al-Zarquawi is dead.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Both Bahrain and Qatar are members of the Gulf Cooperation Council (GCC), but they have a territorial dispute that has led to Bahrain's boycott of the GCC summit convened in the Qatari capital of Doha on December 7-9.\nsentence 2: The members of the Gulf Cooperation Council are: Saudi Arabia, Kuwait, United Arab Emirates, Qatar, Oman, Bahrain.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Rescuers searched rough seas off the capital yesterday for survivors of a ferry collision that claimed at least 28 lives, as officials blamed crew incompetence for the accident.\nsentence 2: 100 or more people lost their lives in a ferry sinking.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Harvey Weinstein, the co-chairman of Miramax, who was instrumental in popularizing both independent and foreign films with broad audiences, agrees.\nsentence 2: Harvey Weinstein is the co-chairman of Miramax.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Chicago White Sox Charities also provides annual ongoing support to programs such as Special Olympics and the Inner City Little League.\nsentence 2: The Inner City Little League is sponsored by Chicago White Sox Charities.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: THE French justice minister who returned to work five days after having a baby, only to lose her job, launched a political comeback last week, letting it be known that she will run for mayor of Paris. Rachida Dati, 43, long seen as President Nicolas Sarkozy's favourite among the \"Sarko-zettes\" - his women ministers - lost his confidence and was ordered to leave the cabinet and instead run for the European parliament. She used the launch of her party's European election campaign to deny she was a Sarkozy creation and to add gravitas to the \"bling-bling\" image attached to her since she posed in a £15,000 Christian Dior dress at a fashion gala.\nsentence 2: Rachida Dati has Moroccan origins.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The job gains mean that President Bush can celebrate - albeit by a very fine margin - a net growth in jobs in the US economy in his first term in office.\nsentence 2: President Bush's first term in office showed a net gain in payroll jobs.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The official religion is Theravada Buddhism, which is also practiced in neighboring Laos, Thailand, Burma and Sri Lanka.\nsentence 2: The official religion of Thailand is Theravada Buddhism.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The motor industry accounts for as much as 40 per cent of the 450,000 installed industrial robots worldwide but their use is changing and applications are expanding.\nsentence 2: The most common use for robots is the manufacture of automobiles.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: UFJ Holdings Inc. said it wants to merge with Mitsubishi Tokyo Financial Group Inc., a combination that would surpass Citigroup Inc. as the world's biggest bank and accelerate Japan's attempts to clean up bad loans.\nsentence 2: The merger of Japanese Banks creates the world's biggest bank.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Superintendent Frank Goodyer, who was caught by his own officers in the Wagga Wagga Local Area Command, was charged with driving at more than 45km/h over the speed limit, had his automatically license suspended for six months and fined A$1674. It was reported by Sydney radio station 2GB that it was Superintendent Frank Goodyer as the officer who was caught speeding by his own officers after the New South Wales Police released a media release which did not name the officer who was caught.\nsentence 2: Frank Goodyer was caught driving over the speed limit.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The surge in violence has occurred while U.S. Marines and Iraqi troops battle insurgents near Karabilah on the Syrian border. British and American warplanes pounded targets to support a 1,000 Marine force. A Marine statement also said patrols in the devastated city of Fallujah came under attack Sunday. According to the statement, 15 insurgents were killed while the attack was repulsed.\nsentence 2: Fallujah is not far from Karabilah.",
+        "label": "contradiction"
+    }
+]

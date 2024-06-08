@@ -1,0 +1,22 @@
+[
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: Jed wondered. He 'd scarcely set eyes on him since the night they 'd had dinner together at the house in Westwood. Nobody had mentioned him either and Jed didn't feel he should ask.\nsentence 2: Jed should ask"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: A: Yeah, that's crazy. B: and then you come here in the Dallas area, um, I don't believe that people should be allowed to carry guns in their vehicles.\nsentence 2: people should be allowed to carry guns in their vehicles"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: When he was there we were Bonnie and Clyde, now he was gone we were Blondie and Dagwood. Or rather, now he was gone, I was Dennis. If I 'd been smarter or less vain I might have realized that this meant that my former role was now vacant.\nsentence 2: this meant her former role was now vacant"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: ``Yes?'' ``Nathan?'' He could tell it was long-distance the line was so gravelly and hollow but he didn't recognise the voice.\nsentence 2: the call was long-distance"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: Jean was tough and liked to drink. She would endure for a long while yet. But what would she do when she realized that with things as they were she was on a life sentence not just a temporary suspension of essential pleasure?\nsentence 2: Jean was on a life sentence"
+    }
+]

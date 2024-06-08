@@ -1,0 +1,242 @@
+[
+    {
+        "sentence": "sentence 1: He ripped the claw away and the fat man's shouting ceased.\nsentence 2: The man felt relief as the claw was removed from his back. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Mysore remains a pleasant, airy city, famous for its sandalwood and frangipani, jasmine, and musk.\nsentence 2: Mysore is renowned for its fragrances.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: so that so then that she that was when she got moved from the first one to the second one  where she was given penicillin\nsentence 2: It was decided that she could not be moved from the first one, so she stayed there forever.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: That's why GAO's strategic plan and associated annual performance plan are consistent with the requirements and best practices of GPRA.\nsentence 2: The GAO's strategies are consistent with the requirements.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Please give us a moment.\nsentence 2: We need a moment please.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Anyway, by now he has surely squirreled away all that anthrax and poison gas where we'll never find it with bombs or inspectors.\nsentence 2: There is not enough anthrax or poison gas to be detected.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: That would do for a little extra cover- it was almost my size.\nsentence 2: The tree was as big as I was.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Many of these items are so called marriage mail pieces which contain several individual advertisements combined into a single piece.\nsentence 2: Many of these items contain several individual advertisements.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: and uh  well i guess there's still the possibility that uh hostilities with uh US troops could still break out\nsentence 2: The US troops will likely still break out. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: so they just when they when they put the plaster walls up they just tinted the plaster\nsentence 2: They tint the plaster to cope with the Texas heat.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Four haiku translated and only 16 more to go for my Japanese final.\nsentence 2: Just finished my Japanese final. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Nearly everyone agrees today that the Vietnam War was unwinnable and was needlessly prolonged so America could save face.\nsentence 2: Everyone says Vietnam could have been won.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Without an evolutionary approach as its foundation, the ability to capture design and manufacturing knowledge early in the development process is significantly reduced.\nsentence 2: Without an evolutionary approach as its foundation, to capture design and manufacturing knowledge in the early development is increased.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: 'This is one of those crimes they actually give a damn about,' I hissed.\nsentence 2: I actually care about this.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: and uh but they didn't didn't occur to them that um that they could have taken a sample\nsentence 2: They could have taken a sample but they didn't realize it. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Among the political exiles flocking to Piedmont was a veteran of the earlier revolts, Giuseppe Garibaldi.\nsentence 2: Giuseppe Garibaldi was killed alongside a group of other political exiles in Piedmont.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The latest audio guides have gone Hollywood and  Art authorities electronically beamed up by recent museum-goers include Leonard Nimoy, Steve Martin, Charlton Heston, and Morgan Freeman.\nsentence 2: The museum does not offer audio guides.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: uh reading about and and i suppose that there is uh justification for taking everybody if you take anybody\nsentence 2: Only a few should be taken since there is no reasons for more to be taken.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Ca'daan had never been so scared.\nsentence 2: Ca'daan was scared he was going to die.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: This is Mister Kirby, from Texas. \nsentence 2: Mister Kirby has also lived in Oklahoma.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: You'll find particularly interesting ranges in Kritsa and Anegia, along with the approach to the Dictaean Cave in Lasathi, and in shops in Chania.\nsentence 2: Kritsa and Anegia don't have interesting ranges, but they do have other tourist attractions.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Less work is done.\nsentence 2: Little is finished.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Even in a fetus, a fibroblast is as highly specialized and fully differentiated as a mammary cell.\nsentence 2: Before birth the fibroblast is not the same as a muscle cell.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Enter Old Cairo by the old Roman Gate the Romans established a fort here following their annexation of the country where you will find a concentration of Coptic churches and monasteries.\nsentence 2: Old Cairo is reached through the old Roman Gate.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: They shouldn't have needed to torture the crone.\nsentence 2: The crone did not like being tortured.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: until the excess capacity is worked off.\nsentence 2: There is no excess capacity.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: What extra coffee-cup? 111 \"I don't know.\"\nsentence 2: I can't believe you forgot to give me another coffee cup again!",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Sicily's major port city offers fresh seafood in shapes and sizes unimagineable, and a number of good no-frills trattorias within or near the market promise an excellent, inexpensive lunch.\nsentence 2: The markets at Sicily's ports offer fresh lobster and oysters that are to die for.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Today, millions of children go to bed hungry at night.\nsentence 2: Every American kid is well fed.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Pass the yellow-painted church of San Giorgio to the lighthouse (faro) at the end of the government-protected Promontory Monte Portofino for a superb view along the coast.\nsentence 2: The journey takes a mere 12 minutes.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Riggs says legal-aid agencies help stabilize society\nsentence 2: A society can only rain stable through the use of  legal-aid agencies.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The treasures of the Ca'd'Oro's Galleria Franchetti of Renaissance art include Andrea Mantegna's St. Sebastian and Titian's Venus at the Mirror.\nsentence 2: Important treasures and artworks are no longer kept inside the gallery of renaissance art due to security reasons.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: When he was bent over the counter with the pencil in his hand, she studied his coarse features and wondered if he'd ever done anything with his life besides be a baker.\nsentence 2: She thought he was handsome and she wanted him. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: In November of that year he invaded England, capturing Carlisle and driving south as far as Derby, only 200 km (130 miles) short of London.\nsentence 2: He also invaded Preston. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The wrong Robi.\nsentence 2: They sent over the wrong Robi.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: yeah what what are you doing\nsentence 2: What are you doing right now?",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Yet again a minor the infant James V succeeded to the throne, and Scots nobles were divided as to whether Scotland should draw closer to England or seek help from her old ally, France.\nsentence 2: James V was an old man by the time he succeeded the throne.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Finally, the warring parties focused on New Orleans.\nsentence 2: Many lives were lost, among both the fighters and the locals.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: In all discussion of metaphor, writes H. W. Fowler in Modern English Usage , it must be borne in mind that some metaphors are living, i.e., are offered and accepted with a consciousness of their nature as substitutes for their literal equivalents, while others are dead, i.e., have been so often used that speaker and hearer have ceased to be aware that the words used are not literal.\nsentence 2: All metaphors are dead and are literal.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: yeah they really oh oh well the prizes are pretty nice he brought a booklet home and depending on how many calls i think three was the minimum but it went up to i don't know nine or ten how many calls have you made had\nsentence 2: There are many prizes available to be won.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The cuts will take the biggest bite out of Land of Lincoln, a network of eight offices and 40 lawyers who help clients in southern Illinois with problems such as eviction, access to Social Security and obtaining orders of protection from abusive spouses, Kleiman said.\nsentence 2: The clinics in Illinois will face massive layoffs.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: and my first one kept the inside of the house nice this is a two story five bedroom and uh uh they only lived in the downstairs because he was divorced and had two children and they only visited him one weekend a month\nsentence 2: This house is just one level.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The inner courtyard, the Nasal Chowk, is one of the few that can be visited.\nsentence 2: Nasal Chowk is not open to the public.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: We had several very enjoyable tea parties.\nsentence 2: We enjoyed several tea parties. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: what about in international trials do you think they should have a jury there i think that would be kind of interesting\nsentence 2: Do you think they should get rid of juries in international trials? ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The church may then be marked out to designate where worshippers of the various denominations take their place.\nsentence 2: Many different denominations converge, worshipping together.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: A major business asset of the U.S.\nsentence 2: An important U.S. business asset.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Once approved, by signature, the form without the supporting documents was forwarded to Treasury (for civil agencies) or another unit under the disbursing officer (for DOD) for actual payment.\nsentence 2: Civilian and DOD forward their payments to the same place.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Throughout the story of Brian Arthur's travails, people make the kind of dramatic, pithy remarks that almost never get uttered in real life.\nsentence 2: Pithy and dramatic remarks are unspoken in Brain Arthur's travails. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: They are considered masterpieces, because the caves are actually man-made hollows in solid rock, from which a complex of architecturally elaborate temples and monasteries has been carved with simple instruments.\nsentence 2: The caves are quite simple but were carved with complex instruments.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: sort of like lawyers you know\nsentence 2: It's not unusual for lawyers to be like this.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: When Ronald Reagan regaled world leaders with his story of having witnessed the liberation of a Nazi concentration camp, he probably saw the event as vividly as he had once seen the film about it that he helped to make.\nsentence 2: Reagan kept a straight face and said nothing when talking about concentration camps",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: But to sustain him as a viable comic foil through next November, we'll need to observe him in a more particular and nuanced way, or pray that he develops webbed feet, like Phoebe, and a quirky sex appeal, like Daffy.\nsentence 2: His previous shenanigans have left a serious impression on popular culture.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: what branch were you in what branch were you in i was too\nsentence 2: Were you in a branch?",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: In the dark of night, their aim must be true.\nsentence 2: They can aim almost perfectly in the dark, but not the daylight. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Although this type of shadow play probably originated in China, the stories which made it popular in Turkey were based on the exploits of two Bursa peasants.\nsentence 2: The stories in Turkey were based off of the adventures of two peasants.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: It was something in the man's eyes.\nsentence 2: His eyes told a story of a thousand words, but it wasn't enough to justify the claims.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: After every attack the settlers put out the fires, buried the dead, and rebuilt San German.\nsentence 2: The attacks were frequent and devastating.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Your request is very typical.\nsentence 2: The request made by you is very strange.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: You're with us now, said Jon.\nsentence 2: Jon isn't part of them. ",
+        "label": "contradiction"
+    }
+]

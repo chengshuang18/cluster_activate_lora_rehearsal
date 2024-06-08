@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "Text: real winner ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: who is not only a pianist , but a good human being ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: the same from taiwanese auteur tsai ming-liang , which is good news to anyone who 's fallen under the sweet , melancholy spell of this unique director 's previous films ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: luckiest stroke ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: fact , even better ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: the writing is clever and the cast is appealing ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: is more fun than conan the barbarian . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: a cruel deception carried out by men of marginal intelligence , with reactionary ideas about women and a total lack of empathy ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: ugly to look at and not a hollywood product ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: nurtures the multi-layers of its characters , allowing us to remember that life 's ultimately a gamble and last orders are to be embraced ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: fondness for fancy split-screen , stuttering editing and pompous references to wittgenstein and kirkegaard ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: ms. hutchins is talented enough and charismatic enough to make us care about zelda 's ultimate fate . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: would n't have the guts to make . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: vulgar ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: unless you 're an absolute raving star wars junkie , it is n't much fun . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: 's insecure in lovely and amazing , a poignant and wryly amusing film about mothers , daughters and their relationships ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: with such a rah-rah , patriotic tone ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: every theater stuck with it ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: amusing us ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: shows how deeply felt emotions can draw people together across the walls that might otherwise separate them ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: dwells on crossing-over mumbo jumbo , manipulative sentimentality , and sappy dialogue . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: the story is a rather simplistic one : grief drives her , love drives him , and a second chance to find love in the most unlikely place - it struck a chord in me . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: all movie ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: well-made pb & j sandwich ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: hugely accomplished slice of hitchcockian suspense . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: wholesome ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: this rich ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: the bodily function jokes are about what you 'd expect , but there are rich veins of funny stuff in this movie . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: the end of the world ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: an intricate plot ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: make it as much fun as reading an oversized picture book before bedtime . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: much tongue in cheek in the film ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: good news to anyone who 's fallen under the sweet , melancholy spell of this unique director 's previous films ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: an auspicious feature debut ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: humbuggery ... ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: this an eminently engrossing film ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: waged among victims and predators settle into an undistinguished rhythm of artificial suspense ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: by a failure ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: penetrating , potent exploration ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: one ca n't shake the feeling that crossroads is nothing more than an hour-and-a-half-long commercial for britney 's latest album . ",
+        "label": "Bad"
+    }
+]

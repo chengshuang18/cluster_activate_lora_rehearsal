@@ -1,17 +1,29 @@
 {
     "SC": [
     ],
-    "TC": [
+    "TC": [     
     ],
-    "NLI": [   
+    "NLI": [
+        {
+            "sampling strategy": "full",
+            "dataset name": "MNLI_sampling/4"
+        },
+        {
+            "sampling strategy": "full",
+            "dataset name": "CB_sampling/4"
+        }
     ],
-    "QQP": [ 
+    "QQP": [  
     ],
     "WiC": [ 
+        {
+            "sampling strategy": "full",
+            "dataset name": "WiC_sampling/4"
+        }
     ],
     "MultiRC": [ 
     ],
-    "COPA": [
+    "COPA": [ 
         {
             "sampling strategy": "full",
             "dataset name": "COPA"

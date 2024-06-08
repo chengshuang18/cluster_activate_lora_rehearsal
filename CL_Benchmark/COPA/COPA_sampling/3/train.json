@@ -1,0 +1,34 @@
+[
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The man uncovered incriminating evidence against his enemy.\"? Choose one between A and B.\nA: The man avoided his enemy.\nB: The man blackmailed his enemy."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The father put his daughter in her stroller.\"? Choose one between A and B.\nA: She learned to walk.\nB: He was tired of carrying her."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"I drank from the water fountain.\"? Choose one between A and B.\nA: I was thirsty.\nB: I felt nauseous."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The man urgently leaped out of bed.\"? Choose one between A and B.\nA: He wanted to shut off the alarm clock.\nB: He wanted to iron his pants before work."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The magnet attracted the paperclip.\"? Choose one between A and B.\nA: The paperclip dropped from the magnet.\nB: The paperclip stuck to the magnet."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"I pushed the pendulum.\"? Choose one between A and B.\nA: It slowed to a stop.\nB: It swung back and forth."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The driver rotated the steering wheel.\"? Choose one between A and B.\nA: The car halted.\nB: The car turned."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The man took a shower.\"? Choose one between A and B.\nA: He was sweaty from working out.\nB: He opened a new bar of soap."
+    }
+]

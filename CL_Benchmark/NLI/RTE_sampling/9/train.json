@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "sentence 1: Kohl participated in the late stage of WWII as a teenage soldier. He joined the Christian-Democratic Union (CDU) in 1947.\nsentence 2: The name of Helmut Kohl's political party is the Christian Democratic Union.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Photographs published by the Investigate magazine and the newspaper Sunday Star Times has shown the Prime Minister of New Zealand Helen Clark's husband, Peter Davis, being hugged and kissed by openly gay Auckland GP (General Practitioner) Dr. Ian Scott on election night 2005. The editor of Investigate, Ian Wishart, stated that at no time has Investigate ever suggested Davis is gay. Wishart said that he has \"Been targeting Mr Davis for months and has appealed for readers to send him details of his private life. [My] article makes no homosexual inferences and is merely an attempt to background Davis ahead of reports to follow.\"\nsentence 2: Dr Ian Scott is married to Helen Clark.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Injections of human stem cells seem to directly repair some of the damage caused by spinal cord injury, according to research that helped partially paralyzed mice walk again.\nsentence 2: Anderson and colleagues used fetal neural stem cells, a type that are slightly more developed than embryonic stem cells because they're destined to make cells for the central nervous system.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: \"The Extra Girl\" (1923) is a story of a small-town girl, Sue Graham (played by Mabel Normand) who comes to Hollywood to be in the pictures. This Mabel Normand vehicle, produced by Mack Sennett, followed earlier films about the film industry and also paved the way for later films about Hollywood, such as King Vidor's \"Show People\" (1928).\nsentence 2: \"The Extra Girl\" was produced by Sennett.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Nokia, Texas Instruments and other leading makers of mobile phones have formally complained to Brussels that Qualcomm, the US mobile chipmaker, has unfairly used its patents on 3G technologies.\nsentence 2: Nokia produces mobile chips.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: This was, after all, Chuck Yeager, a guy with all the right stuff, the biggest top gun of them all, whose post-World War II exploits in the topsy-turvy world of supersonic air travel helped pave the way for space exploration.\nsentence 2: Chuck Yeager broke the sound barrier in 1947.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Rockweed has been harvested commercially in Nova Scotia since the late 1950's and is currently the most important commercial seaweed in Atlantic Canada.\nsentence 2: Marine vegetation is  harvested.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Article 19 said a correspondent for the independent newspaper Narodnaya Volya who attempted to determine how many people involved in emergency work in the contaminated zone around the Chernobyl nuclear reactor after the 1986 catastrophe were still alive was told by the Ministry of Emergencies that non-state newspapers could be refused access to any information.\nsentence 2: The catastrophe at Chernobyl happened in 1986.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: San Salvador, Jan. 13, '90 (Acan-Efe) -The bodies of Hector Oqueli and Gilda Flores, who had been kidnapped yesterday, were found in Cuilapa, Guatemala, near the border with El Salvador, the relatives of one of the victims have reported.\nsentence 2: Guatemala borders on El Salvador.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The plane involved in the incident was a Bombardier Dash 8, which crashed into a home located at 6038 Long Street in Clarence Center, a suburb of Buffalo. It went down at approximately 10:17 p.m. EST (03:20 UTC), February 12. 44 passengers, an off-duty pilot, and four crew members died in the accident, as well as one person on the ground.\nsentence 2: A plane crashed while flying on autopilot.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Exercising the powers referred to in article 15, paragraph 3, of the protocol to suppress and punish trafficking in persons, especially women and children, the government of Ecuador makes a reservation with regard to article 15, paragraph 2, relating to the settlement of disputes.\nsentence 2: The government of Ecuador aims to prevent trafficking in persons.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Springsteen performed 27 songs Monday night, including most of the 12 new songs from his latest release, \"Devils and Dust\", which was recorded without the E Street Band.\nsentence 2: Springsteen introduced some of the 12 new songs off his latest release, \"Devils andDust\", which was recorded without the E Street Band.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Climate change is with us. A decade ago, it was conjecture. Now the future is unfolding before our eyes. Canada's Inuit see it in disappearing Arctic ice and permafrost.\nsentence 2: Greenhouse effect changes global climate.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: For instance, the direct and indirect economic cost of the floods in Mozambique caused by Tropical Storms Elyne and Gloria in February and March 2000, is estimated at US$1 billion, as compared to the country's export earning of only US$300 million in 1999.\nsentence 2: A tropical storm has caused significant property damage or loss of life.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The Armed Forces Press Committee (COPREFA) admitted that the government troops sustained 11 casualties in these clashes, adding that they inflicted three casualties on the rebels.\nsentence 2: Three rebels were killed by government troops.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Nagin defended his plan to return up to 180,000 people to the city, within a week and a half, despite concerns about the short supply of drinking water and heavily polluted floodwaters.\nsentence 2: As many as 180,000 people could return within 10 days to a city that held 460,000 before Hurricane Katrina struck.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The sale was made to pay Yukos' US$ 27.5 billion tax bill, Yuganskneftegaz was originally sold for US$9.4 billion to a little known company Baikalfinansgroup which was later bought by the Russian state-owned oil company Rosneft.\nsentence 2: Rosneft belonged to the Russian State.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: When Adolf Hitler heard of how Mussolini was executed and put on public display, he vowed he would not let this happen to him. Hitler shot his mistress and new wife, Eva Braunn, and then swallowing some poison, he shot himself in the mouth.\nsentence 2: Mussolini's mistress was Eva Braunn.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Critics said the National Certificate of Educational Achievement or NCEA, the main qualification for high school students, would be degraded by the authority allowing text-speak use in exams.\nsentence 2: The NCEA has been degraded by the authority.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: In Seoul, Han confirmed that all North Korean media on Monday had started referring to Kim Jong Il as \"His Excellency\" or by the term previously reserved for his father, \"the Great Leader.\" Until now, the younger Kim has been called \"the Dear Leader.\"\nsentence 2: Kim Il Sung's son is called Kim Jong Il.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: In late 2006, Aneta Krawczyk accused the party's leader Andrzej Lepper of having offered her political favours for sex in 2001, and then said he had been the father of her youngest child. She said the same of Lepper's close collaborator and MP, Stanislaw Lyzwinski, and accused him of rape and sexual abuse. She also said that Popecki, who had been Lyzwinski's aide, had tried to induce a miscarriage by giving her a labour-inducing drug called oxytocin.\nsentence 2: Andrzej Lepper is no longer the Minister of Agriculture and Rural Development.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The London Eye in London, England sits 443ft over the River Thames. It has attracted more than 27 million visitors since its formal opening on December 31, 1999. Each compartment is set to be air-conditioned and hold up to 30 people. Three possible locations for the wheel to sit have been selected. This is not the first attempt by the Iraqi Tourism Board to bring tourists into the capital. The board are seeking investors for a resort island. The island would include a six star hotel and a 18 hole golf course.\nsentence 2: The River Thames flows through London.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The three drive-ins nearest to Madison, all less than an hour's drive, are: Big Sky Twin Drive-In Theatres in Wisconsin Dells, Highway 18 Outdoor Theatre, near Jefferson, and Sky-Vu Drive-In, near Monroe.\nsentence 2: Highway 18 Outdoor Theatre is located in Wisconsin Dells.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: A bus collision with a truck in Uganda has resulted in at least 30 fatalities and has left a further 21 injured.\nsentence 2: 30 die in a bus collision in Uganda.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Nepali mountaineer Ang Rita Sherpa last week broke his own record of the number of climbing Mt. Everest.\nsentence 2: Alison Hargreaves is the first woman to have made the climb up the Everest with no artificial oxygen.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Acetaminophen is best known as the drug in products sold under the Tylenol brand, but is widely available in typically less expensive generic versions.\nsentence 2: Acetaminophen is produced by Tylenol.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Gastrointestinal bleeding can happen as an adverse effect of non-steroidal anti-inflammatory drugs such as aspirin or ibuprofen.\nsentence 2: Aspirin prevents gastrointestinal bleeding.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Oh Eun-sun was the first Korean woman to climb Mt. Everest solo. For all the hardships she must have endured, she merely says that she was lucky. She now reminisces about the days she spent in that mountain.\nsentence 2: A woman succeeds in climbing Everest solo.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: In early December, Glavkos Clerides and Rauf Denktash, respectively the leaders of the two parts of Cyprus, startled Cypriots by announcing that they would meet for the first time in four years.\nsentence 2: Cyprus was divided into two parts in December.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Interim Palestinian leader, Mahmoud Abbas, has won a landslide victory in Sunday's presidential election and will succeed the late Yasser Arafat.\nsentence 2: Mahmoud Abbas has claimed victory in the Palestinian presidential elections, and has dedicated his win to Yasser Arafat, who died in November 2004.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Within trillionths of a second after the Big Bang, they have reasoned, the primordial explosion - many billions of degrees hot - must have created a universe that contained equal quantities of matter and antimatter.\nsentence 2: The Big Bang is the primordial explosion from which the universe was created.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The motor industry accounts for as much as 40 per cent of the 450,000 installed industrial robots worldwide but their use is changing and applications are expanding.\nsentence 2: The most common use for robots is the manufacture of automobiles.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Maximo Rene Mendez in an apparent smuggling scheme died after doctors disconnected life-support equipment.\nsentence 2: A cocaine-imbibing Miami man had life support removed.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Manuel Rosales, who ran against Mr Chavez in the 2006 presidential election, faces corruption charges he says are baseless. He had been in hiding since the charges were filed last month. Venezuela's Interior Minister Tareck el-Aissami said Mr Rosales was a criminal on the run. \"If he doesn't appear before the appropriate courts, he would be a fugitive from justice, and as a result the court will activate mechanisms for his international capture,\" said Mr Aissami, denying that the charges were political.\nsentence 2: Manuel Rosales was mayor of Maracaibo.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Investigators described the gunman as white, about 30 years old, of medium build with shoulder-length, wavy blond hair and as having a \"scruffy\" or \"grunge\" appearance.\nsentence 2: The gunman is described as a white male in his 30s with a medium build, shoulder-length blonde hair and an unkempt appearance.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The accident in the Ukrainian nuclear power plant at Chernobyl on April 26, 1986 brought along great harm for many people. There were immediate damages and consequential burdens for human beings, the environment and the economy over long distances.\nsentence 2: Nuclear Power Plant of Sosnovyi Bor suffers an emergency shut down.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: She has become world renowned for her patented invention of spray on skin for burns victims, a treatment which is continually developing. Via her research, Fiona found that scarring is greatly reduced if replacement skin could be provided within 10 days. As a burns specialist the holy grail for Dr Fiona Wood is 'scarless, woundless healing'.\nsentence 2: Dr Fiona Wood has invented a treatment for burns victims.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Kevin Vincent, 44, of Arlington, Va., said his wife buys store brand acetaminophen and he wanted to find out more about the problem.\nsentence 2: Kevin Vincent buys store brand acetaminophen.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: An audience of 8.3 million people watched rural soap, \"Emmerdale\", on Thursday, while a live episode of \"The Bill\" got 7.9 million viewers.\nsentence 2: Hour-long special episodes of ITV soaps, \"Emmerdale\" and \"The Bill\", were the top-rated UK TV shows on the commercial channel's 50th anniversary.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Hubble is helping astronomers precisely calculate the age of the universe by providing accurate distances to galaxies, an important prerequisite for calculating age. Hubble measures the distances to neighboring galaxies by finding accurate \"milepost markers,\" a special class of pulsating star called Cepheid variables. These, in turn, are being used to calibrate more remote milepost markers.\nsentence 2: Hubble discovers black holes.",
+        "label": "contradiction"
+    }
+]

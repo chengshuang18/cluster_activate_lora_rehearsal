@@ -1,0 +1,34 @@
+[
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"I packed up my belongings.\"? Choose one between A and B.\nA: I was hunting for a new apartment.\nB: I was moving out of my apartment."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the effect of \"The room was dim.\"? Choose one between A and B.\nA: I opened the blinds.\nB: I washed the windows."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The turtle hid in its shell.\"? Choose one between A and B.\nA: It ate a fish.\nB: It detected a predator."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The bartender refused to serve the patron.\"? Choose one between A and B.\nA: The patron was alone.\nB: The patron was drunk."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The girl politely declined the hamburger.\"? Choose one between A and B.\nA: She was a vegetarian.\nB: She liked fast food."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The woman was mistaken for her sister.\"? Choose one between A and B.\nA: The woman was close with her sister.\nB: The woman looked like her sister."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The woman hummed to herself.\"? Choose one between A and B.\nA: She was nervous.\nB: She was in a good mood."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The man's watch was broken.\"? Choose one between A and B.\nA: He waited at the bus stop.\nB: He asked a stranger for the time."
+    }
+]

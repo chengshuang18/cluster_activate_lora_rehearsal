@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "Text: this fascinating look ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: turmoil ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: was only a matter of time before some savvy producer saw the potential success inherent in the mixture of bullock bubble and hugh goo . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: made a great saturday night live sketch , but a great movie it is not ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: the hearts and minds ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: a solidly entertaining little film ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: this film , like the similarly ill-timed antitrust , ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: big stars and high production values are standard procedure ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: is a nicely handled affair , a film about human darkness but etched with a light ( yet unsentimental ) touch ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: proves it 's never too late to learn . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: it 's great for the kids ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: perversity ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: can not overcome the sense that pumpkin is a mere plot pawn for two directors with far less endearing disabilities . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: slump ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: never finds its tone and several scenes run too long . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: self-aware , often self-mocking , ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: tub-thumpingly loud it makes you feel like a chump ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: grey zone ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: is doa ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: this is the opposite of a truly magical movie . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: will thrill you , touch you and make you ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: masterpiece ' and ` triumph ' ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: makes a better short story ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: ( f ) rom the performances and the cinematography to the outstanding soundtrack and unconventional narrative ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: epic adventure ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: are just too many characters saying too many clever things and getting into too many pointless situations ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: to break the tedium ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: focus ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: ridiculous ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: about a boy injects just enough freshness into the proceedings to provide an enjoyable 100 minutes in a movie theater . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: the attempt to complicate the story only defies credibility ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: character portrait , romantic comedy and beat-the-clock thriller ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: , the six musical numbers crystallize key plot moments into minutely detailed wonders of dreamlike ecstasy . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: guts ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: would choose the cliff-notes over reading a full-length classic ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: it 's a fairy tale that comes from a renowned indian film culture that allows americans to finally revel in its splendor . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: a reasonably entertaining sequel to 1994 's surprise family hit that may strain adult credibility . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: so devoid of pleasure or sensuality ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: the unmentionable ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: devastatingly ",
+        "label": "Bad"
+    }
+]

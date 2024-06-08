@@ -1,0 +1,22 @@
+[
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: B: The kind you have sounds very interesting, though. A: Well, um, they're really sweet dogs. uh, we thought probably our neighborhood in Houston had more of this breed than any other place just because of, um, the family that had them and bred them.\nsentence 2: their neighborhood in Houston had more of this breed than any other place because of the family that had them and bred them"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: It seemed impossible that anyone could endure such pain for so long, but at last the doors of the Renault slammed and there was comparative silence. The engine was started up, revving violently as the car was turned round on the narrow road. John could tell that it was being driven back up the hill towards Putna.\nsentence 2: the car was being driven back up the hill towards Putna"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: A: So, we're comparable. B: Yeah. A: As a matter of fact, I just paid my Richardson taxes because I live in Richardson and supplemented the Robin Hoods very thoroughly, I think. B: Yeah, I think Yeah, we have got it on the line, don't we.\nsentence 2: they have got it on the line"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: A: It's divided, yeah. B: Wow! A: It really is, so we've got our Cowboys here and, uh, I don't think anybody roots differently\nsentence 2: somebody roots differently"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: Jed wondered. He 'd scarcely set eyes on him since the night they 'd had dinner together at the house in Westwood. Nobody had mentioned him either and Jed didn't feel he should ask.\nsentence 2: Jed should ask"
+    }
+]

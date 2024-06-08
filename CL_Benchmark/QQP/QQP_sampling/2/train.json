@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "first sentence: \"Where does the expression \"\"good man the laaltain\"\" come from? And what does it mean?\"\nsecond sentence: \"What does the expression, \"\"Child is the Father of Man\"\" actually mean?\"",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Who is most likely to win the U.S. presidential election and why?\nsecond sentence: Who will win the 2016 U.S. presidential election and why?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is the most probable cutoff of KVPY SA 2016?\nsecond sentence: How was KVPY SA 2016?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Which Design would be best for my visiting card of my Khakhra business?\nsecond sentence: What it is like to date a sportswoman?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What happens to the conductivity of the semiconductor and a metal when temperature is increased?\nsecond sentence: How does the conductivity of copper vary with temperature?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is the technology behind Kippt?\nsecond sentence: What's the best tool for saving articles for later: Kippt, Instapaper or Pocket?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I find the most recent questions on Quora?\nsecond sentence: How do you get to the most recent questions here on Quora?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Should I try to get pregnant again?\nsecond sentence: How do I get pregnant quickly?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Cheap accomodation in auckland?\nsecond sentence: Is Negan behaving like an old testament king?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How did you become a Data Scientist?\nsecond sentence: How can I become a data scientist?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is the relation between injection delay and fuel pipe length? Is it inverse relation?\nsecond sentence: What is the effect of injection delay on fuel pipe length in compression-ignition engines?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How do I concentrate in a better way on studies?\nsecond sentence: Which is the best way to concentrate on studying or doing something?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How do you earn money on Quora?\nsecond sentence: How can I earn money through Quora?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Should California impose water usage restrictions on agricultural usage?\nsecond sentence: \"Is \"\"elbow room\"\" a formal usage?\"",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: So if man has never been beyond the Van Allen radiation belt, how did the Apollo missions achieve the moon landings?\nsecond sentence: Has man ever crossed the van Allen radiation belt safely?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Are people of this generation better parents than their parents and grandparents?\nsecond sentence: Are modern classic children book series (Beverly Cleary, Judy Blume) becoming less and less relevant for children today, despite being beloved by their parents' and grandparents' generation?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Is there a pattern to the designation of dots and dashes in the letters of International Morse Code?\nsecond sentence: Is there a logic behind morse code or you just have to remember it for every alphabet?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Is NEET UG-2017 application form released?\nsecond sentence: Will NEET UG 2017 be postponed?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Why there are only questions about IITs and nits in Quora? There is so much to question about?\nsecond sentence: Is it normal that pulling syringe back and forth when taking blood from hand? Or is it so serious condition.",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Where can I watch Naruto Shippuden episodes that are dubbed in English?\nsecond sentence: Where do I find Naruto Shippuden 403-407 episodes to watch?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Which answers on Quora have the highest upvote to view ratio?\nsecond sentence: What answers on Quora have the lowest upvote to view ratio?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is the best way to reduce thigh size?\nsecond sentence: What are the best ways to reduce and eliminate belly, abdominal, and thigh fat?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How can I make money online for job?\nsecond sentence: How can I earn money online easily?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What are the similarities and differences between a cylinder and a cone?\nsecond sentence: What are the similarities between gymnosperms and angiosperms?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How can I make new friends as a junior in college?\nsecond sentence: What's the best way to make new friends after college?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Are internships paid?\nsecond sentence: Are all internships paid?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What are the best places to visit in Amsterdam?\nsecond sentence: What is the best places to visit in amsterdam?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: I forget things a moment after thinking about them. What does it mean?\nsecond sentence: What are some things most people forget to bring with them to college?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Why are there still people who believe the world is flat?\nsecond sentence: I know some people that STILL believe the earth is flat. Why?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: When did it become legal for blacks and whites to marry?\nsecond sentence: When and how did it become common for military uniforms to have so many decorations?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: I am looking for a cross-platform video chat program (IOS & Android) - any suggestions?\nsecond sentence: \"I'm trying to develop a cross-platform app (iOS, android, website) that will have some \"\"static\"\" data but also a chat/IM component. Should I use parse or firebase? Or both (is this even recommended)?\"",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are some sad songs by Frank Ocean?\nsecond sentence: For what reasons do people listen to very sad songs?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are some things I can do to become more self-aware?\nsecond sentence: How can I become more self-aware?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: When is Ballon d'or 2017?\nsecond sentence: Who will win the Ballon d'Or in 2017?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Did communist rule affect the meaning of Confucianism in Chinese society?\nsecond sentence: What are the benefits of being under a communist rule?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How does Wallapop make money?\nsecond sentence: How does wallapop gain profit?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Which was India first bank?\nsecond sentence: Which was the first bank of India?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What are the good things about Pakistan apart from the good looking female cricket fans?\nsecond sentence: What are some really good things about Pakistan that can make a Pakistani proud?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Is it possible to tell if someone has ignored your Facebook friend request?\nsecond sentence: Why would you keep a Facebook friend request pending?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What should a girl need to pack if she is going for ILP training at Trivandrum?\nsecond sentence: Which online courses can I do in second year btech computer science?",
+        "label": "False"
+    }
+]

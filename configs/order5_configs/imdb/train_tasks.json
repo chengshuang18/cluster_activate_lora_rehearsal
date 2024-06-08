@@ -5,18 +5,50 @@
             "dataset name": "IMDB"
         }
     ],
-    "TC": [ 
+    "TC": [
     ],
     "NLI": [   
+        {
+            "sampling strategy": "full",
+            "dataset name": "MNLI_sampling/9"
+        },
+        {
+            "sampling strategy": "full",
+            "dataset name": "CB_sampling/9"
+        },
+        {
+            "sampling strategy": "full",
+            "dataset name": "RTE_sampling/9"
+        }
     ],
     "QQP": [ 
+        {
+            "sampling strategy": "full",
+            "dataset name": "QQP_sampling/9"
+        }
     ],
     "WiC": [ 
+        {
+            "sampling strategy": "full",
+            "dataset name": "WiC_sampling/9"
+        }
     ],
     "MultiRC": [ 
+        {
+            "sampling strategy": "full",
+            "dataset name": "MultiRC_sampling/9"
+        }
     ],
     "COPA": [
+        {
+            "sampling strategy": "full",
+            "dataset name": "COPA_sampling/9"
+        }
     ],
     "BoolQA": [
+        {
+            "sampling strategy": "full",
+            "dataset name": "BoolQA_sampling/9"
+        }
     ]
 }

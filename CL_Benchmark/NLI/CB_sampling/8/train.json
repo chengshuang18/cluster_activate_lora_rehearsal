@@ -1,0 +1,22 @@
+[
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: That is to say, I did not take sufficient account of the fact that at that time of the day, what Mr Farraday enjoys is a conversation of a lighthearted, humorous sort. Knowing this to be his likely mood when I brought in the tea yesterday afternoon, and being aware of his general propensity to talk with me in a bantering tone at such moments, it would certainly have been wiser not to have mentioned Miss Kenton at all. But you will perhaps understand that there was a natural tendency on my part in asking what was after all a generous favour from my employer to hint that there was a good professional motive behind my request.\nsentence 2: there was a natural tendency on her part to hint that there was a good professional motive behind her request"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: B: What am I afraid of? A: Yes. B: Um, I don't know if I'm really afraid of spending too much. I just, uh, don't think that I need them, you know.\nsentence 2: she needs them"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: A: Uh, well then you must know a lot more about this than I do. B: Uh, I think, uh, the system right now, you know, you know, is fine. I think it should be by a jury. I don't think the judge should have, I mean he's just there kind of like the referee. A: Uh-huh, Uh-huh. B: Uh, I don't even think that it should be unanimous either. Uh,\nsentence 2: it should be unanimous"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: But the horror of losing was as much to do with money as with pride. Biddy had never let them down, come without fail all through the bad weather, and now was giving Nails an intensive course on her own horse which - in terms of money - was worth another couple of hundred pounds. Yet surely she knew they had no way of paying should she demand it?\nsentence 2: they had no way of paying"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: Ockleton, Morpurgo, Cornelius, Dysart and half a dozen others too drunk to mention. But there was so much coming and going that any one of us could have slipped out, pushed Everett through the window and slipped back again without being noticed. Damn it all we didn't even notice Everett was missing until a porter tripped over him in the quad so anything's theoretically possible.\nsentence 2: Everett was missing"
+    }
+]

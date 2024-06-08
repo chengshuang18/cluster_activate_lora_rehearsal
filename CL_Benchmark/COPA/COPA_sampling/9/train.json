@@ -1,0 +1,34 @@
+[
+    {
+        "label": "A",
+        "sentence": "Which sentence is the effect of \"The woman felt compelled to help someone in need.\"? Choose one between A and B.\nA: She donated blood.\nB: She wrote a poem."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the effect of \"The girl felt dizzy.\"? Choose one between A and B.\nA: She lost her balance.\nB: She did stretches."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The hospital sent the patient home.\"? Choose one between A and B.\nA: The patient's symptoms cleared up.\nB: The patient's family visited him."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"I put shoes on.\"? Choose one between A and B.\nA: The floor contained broken glass.\nB: The paint on the walls was wet."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The woman fanned herself with her hand.\"? Choose one between A and B.\nA: She installed the air conditioner in the room.\nB: The air conditioner in the room broke."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The woman sensed a pleasant smell.\"? Choose one between A and B.\nA: She remembered to take her medication.\nB: She was reminded of her childhood."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The man craved a cigarette.\"? Choose one between A and B.\nA: His family urged him to quit smoking.\nB: He was addicted to nicotine."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the effect of \"The book became a huge bestseller.\"? Choose one between A and B.\nA: It was adapted into a movie.\nB: The author faded into obscurity."
+    }
+]

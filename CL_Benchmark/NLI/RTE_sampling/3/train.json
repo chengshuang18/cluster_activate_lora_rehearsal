@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "sentence 1: Warheads believed to contain the deadly nerve agent cyclosarin that were found by Polish troops in Iraq date back to Saddam Hussein's war with Iran in the 1980s, authorities said Friday.\nsentence 2: Polish troops confiscated Warheads",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Tony Shalhoub won best actor in a comedy for \"Monk\", and James Spader won best actor in a drama for \"Boston Legal.\"\nsentence 2: James Spader won best actor for \"Boston Legal.\"",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Elephants have never lost the capacity to astonish and delight. But in New York City in the not-so-distant future, they will not be doing their astonishing and delighting at a zoo.  The Bronx Zoo, the only zoo left in the city that keeps elephants, said yesterday that it planned to shut down its exhibit after the death of two of its three elephants, or even one.  The current generation of children need not despair: The zoo's three elephants — Patty, Maxine and Happy — are in their mid-30's and could live for decades more. But if one elephant dies, the remaining two may not get along. And if two die, officials say it would be inhumane to sustain an exhibit with a single elephant.\nsentence 2: The Bronx Zoo is the biggest zoo in New York.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: With more than 223,000 refugees already in Texas, Perry said officials at relief centers, around the state, say they are running out of room.\nsentence 2: With more than 220,000 refugees in Texas, Perry warned that his state was running out of room.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Interim Palestinian leader, Mahmoud Abbas, has won a landslide victory in Sunday's presidential election and will succeed the late Yasser Arafat.\nsentence 2: Mahmoud Abbas has claimed victory in the Palestinian presidential elections, and has dedicated his win to Yasser Arafat, who died in November 2004.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: 95% of the Gulf of Mexico's oil output is now out of service following Katrina, together with more than 83% of natural gas production.\nsentence 2: Crude oil prices have hit fresh highs as fears grow over the extent of damage, done by Hurricane Katrina, to oil output in the Gulf of Mexico.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Over 400 tents were submerged, after a storm hit the Somerset site on Friday, the festival's opening day.\nsentence 2: Many tents were overwhelmed after a storm hit the Somerset site on the festival's first day.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Saudi Arabia's production mix will shift to a higher proportion of lighter crudes. Unlike last year's Qatif and Abu Safah developments, nearly all of the proposed projects produce Arab Light or lighter crudes.\nsentence 2: Saudi Arabia produces more oil than any other country.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: WASHINGTON — The Senate confirmed the nomination of Kathleen Sebelius as secretary of health and human services on Tuesday, allowing President Obama to fill the last vacancy in his cabinet with a seasoned politician who will take charge of the fight against swine flu. The vote was 65 to 31. Among the nine Republicans who voted for Ms. Sebelius was Senator Arlen Specter of Pennsylvania, who announced on Tuesday that he was becoming a Democrat. Besides directing federal efforts against swine flu, Ms. Sebelius will lead the administration's campaign for universal health insurance.\nsentence 2: Kathleen Sebelius comes from Pennsylvania.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The petrol price reductions seen across most of Australia have been short-lived for those living in the regional New South Wales city of Bathurst. An investigation by Wikinews has discovered retailers in Bathurst were late to lower petrol pricing and have been amongst the first to increase them. Following a threat by the Australian Competition and Consumer Commission (ACCC) to publically shame fuel retailers and oil companies, most fuel outlets across Australia reduced prices by 5 to 10 cents per litre. The ACCC argued that the wholesale cost of petrol was around 10 cents per litre higher than the Singapore market, which Australia benchmarks itself against. On January 24, the price of Unleaded fuel in Bathurst dropped only 2 cents from 119.9 cents to 117.9 cents. Today, Coles Express on Durham Street has increased the price of their unleaded fuel to the previous level of 119.9 cents.\nsentence 2: Bathurst is located in New South Wales.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: A series of projects with the objective of finding solutions to some of the consequences of the Chernobyl accident have been carried out within the framework of the UNESCO Chernobyl Programme. The IHP organized a workshop to review and compare present knowledge of radionuclide transfer in the hydrological cycle.\nsentence 2: The Chernobyl disaster had repercussions outside the ex-USSR.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: So far the British have preferred a policy of a voluntary approach to restricting advertising and high taxes on tobacco products.\nsentence 2: Sales have declined due to restrictions on advertising.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Felipe González Márquez (born March 5, 1942) is a Spanish socialist politician. He was the General Secretary of the Spanish Socialist Workers' Party (PSOE) from 1974 to 1997.\nsentence 2: Felipe González is the President of Spain.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: As much as 200 mm of rain have been recorded in portions of British Columbia , on the west coast of Canada since Monday.\nsentence 2: British Columbia is located in Canada.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Alex Dyer, spokesman for the group, stated that Santarchy in Auckland is part of a worldwide phenomenon.\nsentence 2: Alex Dyer represents Santarchy.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The Rock and Roll Hall Of Fame and Museum opened the nation's first major John Lennon retrospective Thursday (October 19) with a gala party attended by his widow, Yoko Ono.\nsentence 2: Yoko Ono is John Lennon's widow.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Former Prime Minister Rafik Hariri, also a prominent anti-Syria political figure, was killed in a suicide bombing in February last year, which led to rising anti-Syrian waves and the withdrawal of Syrian troops from Lebanon.\nsentence 2: Syrian troops have been withdrawn from Lebanon after the murder of Rafik Hariri.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Cosmonaut Valery Polyakov set the record for the longest continuous amount of time spent in space, a staggering 438 days, between 1994 and 1995. He orbited the Earth 7000 times, witnessing 7000 sunrises and 7000 sunsets.\nsentence 2: 7000 days is the record for the longest stay in space by a human.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Security authorities have declared a state of maximum emergency in Guatemala, which is located directly in the path of the hurricane.\nsentence 2: There is a state of maximum emergency in Guatemala because of the hurricane.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: South Korean President Roh Moo-hyun Thursday asked the Board of Audit and Inspection (BAI) to investigate questions arising about the Foreign Ministry's response to the kidnapping of a South Korean in Iraq who was later killed by Muslim militants, according to Yonhap.\nsentence 2: A South Korean in Iraq was killed by Muslim militants.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: First Sea Lord Admiral Sir Jonathon Band GCB, ADC of the United Kingdom, the most senior serving officer in the Royal Navy, said that \"...the submarines came into contact at very low speed. Both submarines remained safe. No injuries occurred. We can confirm the capability remains unaffected and there was no compromise to nuclear safety.\" \"Both navies want quiet areas, deep areas, roughly the same distance from their home ports. So you find these station grounds have got quite a few submarines, not only French and Royal Navy but also from Russia and the United States. Navies often used the same nesting grounds,\" said John H. Large, an independent nuclear engineer and analyst primarily known for his work in assessing and reporting upon nuclear safety and nuclear related accidents and incidents.\nsentence 2: Two submarines have collided.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: A former employee of the company, David Vance of South Portland, said Hooper spent a lot of time on the road, often meeting with customers between Portland and Kittery.\nsentence 2: Hooper is a citizen of Portland.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Attack helicopters, Chinooks, armoured vehicles, cranes and a fire engine encircled the group.\nsentence 2: There was a Chinook attack.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The directive for the Border Patrol to stop arresting illegal aliens, as described in a previous post, has been rescinded by Robert C. Bonner, commissioner of the new Bureau of Customs and Border Protection.\nsentence 2: Steps are being taken to stop the smuggling of aliens.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: After his release, the clean-shaven Magdy el-Nashar told reporters outside his home that he had nothing to do with the July 7 transit attacks, which killed 52 people and the four bombers.\nsentence 2: 52 people and four bombers were killed on July 7.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Wal-Mart Stores has asked a US federal appeals court to review a judge's order approving class-action status for a sex-discrimination lawsuit.\nsentence 2: A lawsuit was filed against Wal-Mart.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The controversy became more desperate, this summer, when astronomers discovered a new object, larger than Pluto, orbiting in the Kuiper Belt at a distance of nine billion miles from the Sun.\nsentence 2: The Kuiper Belt is nine billion miles from the Sun.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: For lunch I went to Cipriani. The good thing about Cipriani is that it's all Italian. Every single person is Italian. Even the American sommelier is Italian. Everybody speaks Italian. It's a good feeling. I consider Cipriani one of the most refined services that I've ever had in a restaurant. For lunch I had spaghetti a la chitarra with Amatriciana sauce. I had beef tartar. I had fried seafood, mixed. I had also the fresh pasta with the duckling ragú. It was outstanding. Then I got a plate of Parmesan with green olives and I got the whole roasted branzino. It was me and another person. We had several glasses of wine. We didn't get dessert; we had a glass too much of wine, so we were very full. We stayed there like an hour just finishing the wine because my friend ordered a bottle.\nsentence 2: Amatriciana is a sauce.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Bomb-sniffing dogs were brought to Rodriguez's Mulberry St. apartment.\nsentence 2: Bomb-sniffing dogs were estimated at Rodriguez's Mulberry St. apartment.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Since the fear of death is virtually a universal phenomenon, the death penalty is an unparalleled deterrent for people considering a crime.\nsentence 2: Capital punishment is a deterrent to crime.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Nevertheless, the international reputation of some Polish artists, notably the film maker Krzysztof Kieslowski, has never been higher. To use a crass commercial yardstick, the DVD boxed set of his Decalogue series (ten one-hour dramas based loosely on the Ten Commandments, made for Polish TV in 1988) is currently number 3,700 in Amazon.com's sales rankings (about even with The Alfred Hitchcock Signature Collection).\nsentence 2: Kieslowski is a film and TV director.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: In 1986 he became the head of London European Airways, a business in which Ryanair had bought an 85% stake. This position, however, quickly disappeared as the carrier became Ryanair UK and was then merged entirely with Ryanair. Over the next decade, Cathal worked both on the executive board of the airline and as a pilot, although he resigned from the latter by 1996. He remained with Ryanair until leaving the board 2002, by which time he was a multi-millionaire due to the success of the airline.\nsentence 2: Ryan was Cathal's father.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The cost for some 30 million sheets of paper used each year by Cal State Long Beach colleges and departments went up Wednesday for the first time in four years.\nsentence 2: The cost of paper is rising.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: An official of the International Special Commission in charge of disarming Iraqi weapons (UNSCOM) announced yesterday, Saturday, that the Commission will keep its inspectors in Iraq despite Baghdad's decision to stop its cooperation with them.\nsentence 2: UNSCOM is to stay in Iraq.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Actor Christopher Reeve, best known for his role as Superman, is paralyzed and cannot breathe without the help of a respirator after breaking his neck in a riding accident in Culpeper, Va., on Saturday.\nsentence 2: Christopher Reeve had an accident.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Valero Energy Corp., on Monday, said it found \"extensive\" additional damage at its 250,000-barrel-per-day Port Arthur refinery.\nsentence 2: Valero Energy Corp. is the owner of Port Arthur refinery.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The Republic of Tajikistan, which declared independence from the Soviet Union in 1991, is in a region that has changed hands many times.\nsentence 2: The Soviet Union collapsed in 1991.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The owners of Phinda, the South African-based Conservation Corporation, could not have paid for a better advertisement for their philosophy of wildlife conservation: a people-based approach to conservation, which is slowly gaining ground in Africa as game reserves come under ever greater threat from hungry, poor and angry local populations.\nsentence 2: The South African-based Conservation Corporation threatens the local population.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The decision by Uzbekistan was the latest development in diplomatic fallout with Washington over U.S. criticism about a violent crackdown against anti-government protestors last May.\nsentence 2: Uzbekistan protests against Washington.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The black Muslim activist said that he had relieved Muhammad of his duties \"until he demonstrates that he is willing to conform to the manner of representing Allah and the honorable Elijah Muhammad (founder of the Nation of Islam)\".\nsentence 2: Elijah Muhammad founded the Nation of Islam.",
+        "label": "entailment"
+    }
+]

@@ -22,7 +22,7 @@ for task_catogory in task_categories:
         # if len(data) < 200:
         #     raise ValueError("The list in the JSON file contains less than 200 dictionaries.")
         # 输出文件的目录，以及采样次数
-        for i in range(2, 5):
+        for i in range(2, 16):
             destination_root_path = f"{category_path}_sampling/{i}"
             destination_file_path = f"{destination_root_path}/train.json"
             destination_label_path = f"{destination_root_path}/labels.json"

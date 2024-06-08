@@ -11,10 +11,11 @@ cluster=$1
 ini_threshold=$2
 cluster_constructure_method=$3
 activation_combined=$4
+seed=$5
 
 deepspeed --master_port $port src/run_uie_lora.py \
    --do_train \
-   --do_predict \
+   --seed ${seed} \
    --predict_with_generate \
    --model_name_or_path initial_model/${model} \
    --data_dir CL_Benchmark \
@@ -51,7 +52,7 @@ sleep 5
 
 deepspeed --master_port $port src/run_uie_lora.py \
    --do_train \
-   --do_predict \
+   --seed ${seed} \
    --predict_with_generate \
    --model_name_or_path output/${model}/${method}/${cluster_constructure_method}/order_2/outputs/1-dbpedia/adapter \
    --data_dir CL_Benchmark \
@@ -92,7 +93,7 @@ sleep 5
 
 deepspeed --master_port $port src/run_uie_lora.py \
    --do_train \
-   --do_predict \
+   --seed ${seed} \
    --predict_with_generate \
    --model_name_or_path output/${model}/${method}/${cluster_constructure_method}/order_2/outputs/2-amazon/adapter \
    --data_dir CL_Benchmark \
@@ -133,6 +134,7 @@ sleep 5
 
 deepspeed --master_port $port src/run_uie_lora.py \
    --do_train \
+   --seed ${seed} \
    --do_predict \
    --predict_with_generate \
    --model_name_or_path output/${model}/${method}/${cluster_constructure_method}/order_2/outputs/3-agnews/adapter \

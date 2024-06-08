@@ -1,0 +1,242 @@
+[
+    {
+        "sentence": "sentence 1: and the only thing you can remember is to try and stay together as much as you can because it's very easy to uh become go your own direction when you're so when you're working so hard and going to school too\nsentence 2: Your bond becomes stronger when you go to school and work.  ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: He felt it moving in his stomach, turning like boiling oil.\nsentence 2: He could feel it in his stomach.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: i keep meaning to do that everytime i go to a show i keep saying well i'll take them with me and let somebody look at them they just they just feel phony you know they feel like they're made of lead or something and uh they don't have any sort of it's it's got a it's got a like a picture on it\nsentence 2: The pass I have to go to the shows don't feel real so I don't like using them.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: News column describes the attractions of cults, and compares the Heaven's Gate suicides to early Christian martyrs.\nsentence 2: The column covers many cults, such as the Dark Divinities and Blood Augers. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The fix is in.\nsentence 2: They had waited for that fix for days.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: As an independent regulatory agency, rules promulgated by the Board of Governors of the Federal Reserve System are not subject to review under the executive order.\nsentence 2: The independant agencies can do anything that they want. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: At the Richard Nixon Library and Birthplace,(18001Yorba Linda Bvd. , Yorba Linda), the life of the 37th president of the United States who died in 1994 is showcased in amazing detail.\nsentence 2: Nixon's library became more popular after he died.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Slate have very little appeal outside the United States.\nsentence 2: Slate is never used in the United States.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The Japan Railways Keihin-Tohoku line takes about 40 minutes from Tokyo to Sakuragi-cho Station in Yokohama; the faster shinkansen leaves you off at Shin-Yokohama, on the outskirts of the city.\nsentence 2: The passenger train from Tokyo to Yokohama is the fastest one in asia.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: 'A lot of people I went to law school with were fired up about public practice, but they had more debt than I did,' she said.\nsentence 2: No one in law school even knew about public practice, she claimed. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: like up at the end of last year where one police officer it was on a drug raid uh was trying to extra extricate um a confession or information from a drug dealer and did so by placing a hot a hot iron on his chest his bare chest burned him\nsentence 2: A police officer tried to extricate a confession from a drug dealer by placing a hot iron on his chest.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: A little farther east is Harmony Hall, a beautiful Methodist minister's residence built in 1886.\nsentence 2: Harmony Hall is scheduled to close next year.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Because of their limited English ability and isolation within communities, many aliens are particularly vulnerable to exploitation by unscrupulous sales and marketing enterprises, landlords and other businesses, and employers.\nsentence 2:  many aliens are spooky and may creep you out!",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: De Gaulle, with his canny sense of history, took an important step toward rebuilding national self-confidence by insisting that French armed forces fight side by side with the Americans and British for the liberation of the country, but, above all, that the French army be the first to enter Paris itself.\nsentence 2: De Gaulle knew a lot about history.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Of the order in which you present them, I say nothing, truly, it is deplorable! \nsentence 2: The order you presented them in was terrible.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: oh yeah oh i've got some Chinese Hollies that are just outrageous they they are very sharp\nsentence 2: I've got some Chinese Hollies that are outrageous, I bought each one for $50",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Is this simply the nature of status--the rich will always find a way to distinguish themselves from the poor?\nsentence 2: The rich will always find a way to appear superior to the poor.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Have to see how things turn out.\"Drew started for the Four Jacks to meet Nye.\nsentence 2: I need to see how things go. Drew left to go meet Nye.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Uncommon Good has a 22-member board of doctors, lawyers and representatives of Christian groups and is recruiting mentors.\nsentence 2: Uncommon Good has on its board 22 members, who are all doctors, lawyers, and Christian group representatives. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: don't know what y'all are going through to be honest with you to sit there in option one and approve everybody's time i didn't do it before and i don't do it now so i don't have anything to compare that with for us in communicating with people with everybody\nsentence 2: I sit there and painstakingly approve everyones time. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Out- of-state residents pay $21,252.\nsentence 2: The $21,252 is for food, housing, and tuition.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: and um-hum right going and paying six dollars for a ticket for one person at the theater or something so we i have and it's so convenient at home and you can do it anytime you you take the notion\nsentence 2: I never watch movies at home anymore.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: What to do when the bear growls?\nsentence 2: What to do when a bear emits sound?",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: and uh it uh it was interesting just to listen to the rationale uh being proposed and the logic of some of the people uh it was also extremely difficult to stay awake sometimes because there was so many witnesses and we were not allowed to take any notes of any kind uh and i thought that that was a failing because uh from the standpoint that it was difficult to try to remember everything and and yet the judge said well um if you're taking notes you're missing something\nsentence 2: We could not write down anything about the trial.  ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: But I'd wager he's telling Beatty about how the disaffected voters who turned out to elect Ventura might be mobilized in a national campaign.\nsentence 2: The voters were more than two thousand.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Also upstairs is the Mummy Room where you can find the preserved remains of some of Egypt's most illustrious rulers.\nsentence 2: Cleopatra's remains are preserved in the Mummy Room.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The building stands in the heart of a living museum of Malla dynasty architecture.\nsentence 2: A living museum is devoted to Malla dynasty architecture. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Now Clinton risks reversing, at least partially, the actual, practical process that brought him the caseload declines he's crowing about today.\nsentence 2: Luckily, Clinton doesn't risk reversing the practical processes, that help him deal with his workload.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: In the New Republic , James Wood calls Toni Morrison's Paradise trite and  It forces magic and pure rhapsodies on its characters like a demented anesthetist bullying patients with laughing gas.\nsentence 2: Toni Morrison was a carpenter that never wrote a song or a book.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: It was this room which he had been directed to enter.\nsentence 2: All the other rooms were full.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: powdered sulphur\nsentence 2: Powdered sugar.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: She was not like 800 interns, Davis said.\nsentence 2: She outperformed 800 interns. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: it's it's kind of nice to be able to do both and uh i'll probably be doing that for a few years now until the kids get old enough to stay by themselves\nsentence 2: It's nice to be able to do both jobs, and I'll probably do that for 5 more years, then my kids will be old enough to be home by themselves. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The Oscars begat the Emmys, which begat the Cable Ace Awards, of which there are so many that any cable TV employee who actually attends the ceremony is entitled to leave in a snit if he or she doesn't win one.\nsentence 2: The Oscars was the last awards show to be created",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Post reported that a Republican House committee counsel hit up investment firms for $100,000 contributions to the GOP shortly after working on financial-deregulation legislation.\nsentence 2: A Republican house committee counsel asked investment firms for $100,000. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Formerly owned by local businessman Dan Jennings, Mobile Park Plaza had been home to 45 low-income families, many of them Latino farm workers.\nsentence 2: Jennings owns Mobile Park Plaza because he wants to help poor people.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: and my my uh taxes are a hundred and thirty five\nsentence 2: My taxes are $300.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Right now, I'm waiting for Avis to announce that huge new investment that Bill Gates has made in its future.\nsentence 2: Bill Gates is going to donate billions to charities and corporations.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Some companies offer other sorbent-based methods for reduction of mercury emissions; however, the equipment used is very similar in scope to the equipment used for ACI.\nsentence 2: Sorbent-based methods are the best methods for reducing mercury emissions.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: After an admiring review of Grizzard's wit, the author turns on the writer for peddling a nostalgic vision of a homogeneous pre-integration  Grizzard's idealized South was the world before feminists and affirmative action, when gays stayed in the closet where they belonged, where America pretty much meant the world of small-town white folks like him.\nsentence 2: Gays used to stay in the closet, where, it was believed, they belonged.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Dean Bridge carries the main road over the Water; it was designed and built by Thomas Telford, one of Scotland's greatest civil engineers.\nsentence 2: Thomas Telford designed and built the Dean Bridge. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Cowed by his intensity, I was afraid to open my mouth.\nsentence 2: I was Afraid to open my mouth because of his intensity.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: yeah did Dana sign you up for this\nsentence 2: You didn't know Dana, but she signed you up?",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: and uh the the other little creatures would take care of what was left\nsentence 2: The other little cleatures took care of what was left",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Eleven voting members, appointed by the President of the United States with the advice and consent of the Senate, compose the LSC Board of Directors.\nsentence 2: The President of the United States chooses and appoints the best candidates for the position.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: It was also the scene of the great fiestas, tournaments, and executions of criminals and infidels.\nsentence 2: It was the scene of many events.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: This guide is intended to help auditors conduct more\nsentence 2: The guide is written to be easy to understand.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The great navigator's remains were returned to Portugal in 1538 but his tombstone can still be seen on the south side of the church, set in the floor with a brass rail.\nsentence 2: The grave no longer houses the navigator's remains, but his tombstone still stands. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: (That's why millions of decent Americans watch Just Shoot Me : It'll be the talk of the schoolyard tomorrow.\nsentence 2: That's the reason a lot of Americans view Just Shoot Me.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: East of the Bindu Sagar, the tenth-century Muktesvara, is a rust-colored stone temple dedicated to Shiva, with a small bathing tank and gracefully arched torana gate.\nsentence 2: The people who came to the Muktesvara used the bathing tank to cleanse themselves before worshiping.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The circular road now arcs north to the diminutive village of Camacha, where the principal attraction is a picturesque old windmill one of the last few still working on the island.\nsentence 2: There are no working windmills on the island.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Times, I think.\nsentence 2: I don't think it's Times.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: 'You see, we're going to have to run some tests.\nsentence 2: We're going to have to run some blood tests on you.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: quite a bit of time on one story they will have maybe two or three main stories and just spend a very large amount of time sort of like the uh what is that ABC's Nightline\nsentence 2: Sometimes Nightline bothers me but I think that's the show where they do a main story, and throw a few more in.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: yep well same here\nsentence 2: Nope, not me.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Przyrobacki returned from the press conference late, totally absorbed by the fractal construction of a cellular anti-stem theory, with which he was infected by an accidentally met professor from the same institute.\nsentence 2: Przyrobacki didn't come back from the conference.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: i know i agree\nsentence 2: I am aware of that and concur with that.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Of course, it is always possible that an unbalanced individual will misunderstand something in a crazy way, as John Hinckley did with Taxi Driver . But you can't protect yourself against the criminally insane by cutting off their sources of possible inspiration, which are limitless.\nsentence 2: There are many who would contend that there is no way to predict the actions of the criminally insane.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Hoiles is a big slab of a man, now 33, a veteran but not a star.\nsentence 2: 33 year old veteran, Hoiles, is a big man.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: It absorbs the tourism neighboring Positano cannot accommodate.\nsentence 2: Positano can easily serve all the tourists that visit it. ",
+        "label": "contradiction"
+    }
+]

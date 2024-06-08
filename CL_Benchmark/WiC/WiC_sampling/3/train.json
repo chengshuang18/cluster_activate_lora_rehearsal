@@ -1,0 +1,162 @@
+[
+    {
+        "label": "False",
+        "sentence": "word: touch\nHe longed for the touch of her hand.\nThis room needs a woman's touch."
+    },
+    {
+        "label": "True",
+        "sentence": "word: enable\nThis skill will enable you to find a job on Wall Street.\nThe rope enables you to secure yourself when you climb the mountain."
+    },
+    {
+        "label": "False",
+        "sentence": "word: respect\nHe is an intellectual giant, and I have great respect for him.\nBe sure to give my respects to the dean."
+    },
+    {
+        "label": "False",
+        "sentence": "word: go\nHow fast does your new car go?\nThese luxuries all had to go under the Khmer Rouge."
+    },
+    {
+        "label": "False",
+        "sentence": "word: render\nRender the brick walls in the den.\nRender thanks."
+    },
+    {
+        "label": "True",
+        "sentence": "word: component\nA component or constituent element of a system.\nSpare components for cars."
+    },
+    {
+        "label": "False",
+        "sentence": "word: beauty\nBrigitte Bardot was a renowned beauty.\nHis roses were beauties."
+    },
+    {
+        "label": "True",
+        "sentence": "word: part\nShe played the part of Desdemona.\nWe all have a part to play."
+    },
+    {
+        "label": "False",
+        "sentence": "word: pull\nYou're going to have to pull harder to get that cork out of the bottle.\nThe athlete pulled a tendon in the competition."
+    },
+    {
+        "label": "True",
+        "sentence": "word: admit\nWe can not admit non-members into our club building.\nTo admit a serious thought into the mind."
+    },
+    {
+        "label": "False",
+        "sentence": "word: take\nTake vengeance.\nDo you take sugar in your coffee?"
+    },
+    {
+        "label": "False",
+        "sentence": "word: pledge\nHis saxophone was in pledge.\nSigned a pledge never to reveal the secret."
+    },
+    {
+        "label": "False",
+        "sentence": "word: shuffle\nShuffle the cards.\nI shuffled my feet in embarrassment."
+    },
+    {
+        "label": "False",
+        "sentence": "word: accept\nI can not accept your invitation.\nWe accept the idea of universal health care."
+    },
+    {
+        "label": "False",
+        "sentence": "word: make\nMake one's way into the forest.\nMake yourself clear."
+    },
+    {
+        "label": "True",
+        "sentence": "word: pull\nPull the string gently.\nPull the rope."
+    },
+    {
+        "label": "True",
+        "sentence": "word: burn\nTo burn the mouth with pepper.\nThe iron burnt a hole in my dress."
+    },
+    {
+        "label": "False",
+        "sentence": "word: richness\nHe was well aware of the richness of his own appearance.\nThe richness all around unsettled him for he had expected to find poverty."
+    },
+    {
+        "label": "True",
+        "sentence": "word: run\nThe ship made its run in record time.\nThe bus on the Cherry Street run is always crowded."
+    },
+    {
+        "label": "True",
+        "sentence": "word: wash\nCan you wash away the spots on the windows?\nHe washed the dirt from his coat."
+    },
+    {
+        "label": "False",
+        "sentence": "word: fix\nFix breakfast for the guests, please.\nThat'll fix him good!"
+    },
+    {
+        "label": "True",
+        "sentence": "word: break\nThis play will either make or break the playwright.\nHis peccadilloes finally broke his marriage."
+    },
+    {
+        "label": "True",
+        "sentence": "word: home\nDeliver the package to my home.\nHe doesn't have a home to go to."
+    },
+    {
+        "label": "True",
+        "sentence": "word: shoot\nShoot a movie.\nHe shot seventeen stills."
+    },
+    {
+        "label": "True",
+        "sentence": "word: consult\nYou should consult the dictionary.\nMen forgot, or feared, to consult."
+    },
+    {
+        "label": "True",
+        "sentence": "word: taste\nThe melon had a delicious taste.\nThe candy left him with a bad taste."
+    },
+    {
+        "label": "False",
+        "sentence": "word: drive\nDrive the forest.\nWhat are you driving at?"
+    },
+    {
+        "label": "True",
+        "sentence": "word: line\nThey were arrayed in line of battle.\nThe cast stood in line for the curtain call."
+    },
+    {
+        "label": "True",
+        "sentence": "word: whole\nThe whole of American literature.\nEurope considered as a whole."
+    },
+    {
+        "label": "False",
+        "sentence": "word: get\nWhat do you get when you add up these numbers?\nMy children finally got me to buy a computer."
+    },
+    {
+        "label": "True",
+        "sentence": "word: limitation\nThe lawyer obtained impunity by dragging his obviously guilty client's case beyond the 10 years limitation.\nStatute of limitations."
+    },
+    {
+        "label": "False",
+        "sentence": "word: surface\nThe cloth had a pattern of red dots on a white surface.\nEarthquakes originate far below the surface."
+    },
+    {
+        "label": "True",
+        "sentence": "word: check\nI will check up on the car tomorrow.\nCheck out the engine."
+    },
+    {
+        "label": "False",
+        "sentence": "word: home\nThe teacher asked how many people made up his home.\nDeliver the package to my home."
+    },
+    {
+        "label": "False",
+        "sentence": "word: gather\nLet's gather in the dining room.\nGather some stones."
+    },
+    {
+        "label": "True",
+        "sentence": "word: society\nIt was then that they decided to found a society of didgeridoo-playing unicyclists.\nThey formed a small lunch society."
+    },
+    {
+        "label": "False",
+        "sentence": "word: run\nShe got a run in her stocking.\nThe ship made its run in record time."
+    },
+    {
+        "label": "True",
+        "sentence": "word: break\nIf the vase falls to the floor, it might break.\nShe broke the match."
+    },
+    {
+        "label": "True",
+        "sentence": "word: fast\nMuslims fast during Ramadan.\nCatholics sometimes fast during Lent."
+    },
+    {
+        "label": "False",
+        "sentence": "word: extend\nExtend a loan.\nThe facts extend beyond a consideration of her personal assets."
+    }
+]

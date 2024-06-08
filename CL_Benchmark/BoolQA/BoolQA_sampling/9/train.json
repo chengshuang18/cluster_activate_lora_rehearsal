@@ -1,0 +1,162 @@
+[
+    {
+        "label": "True",
+        "sentence": "question: is the shinkansen the fastest train in the world\npassage: Shinkansen -- The maximum operating speed is 320 km/h (200 mph) (on a 387.5 km section of the Tōhoku Shinkansen). Test runs have reached 443 km/h (275 mph) for conventional rail in 1996, and up to a world record 603 km/h (375 mph) for maglev trains in April 2015."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is civil law and tort law the same\npassage: Tort -- A tort, in common law jurisdictions, is a civil wrong that causes someone else to suffer loss or harm resulting in legal liability for the person who commits the tortious act."
+    },
+    {
+        "label": "True",
+        "sentence": "question: does pride and prejudice take place in england\npassage: Pride and Prejudice -- Pride and Prejudice is a romantic novel by Jane Austen, first published in 1813. The story charts the emotional development of the protagonist, Elizabeth Bennet, who learns the error of making hasty judgments and comes to appreciate the difference between the superficial and the essential. The comedy of the writing lies in the depiction of manners, education, marriage, and money during the British Regency period."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the movie never let me go based on true events\npassage: Never Let Me Go (2010 film) -- Never Let Me Go is a 2010 British dystopian romantic drama film based on Kazuo Ishiguro's 2005 novel of the same name. The film was directed by Mark Romanek from a screenplay by Alex Garland. Never Let Me Go is set in an alternative history and centres on Kathy, Ruth and Tommy portrayed by Carey Mulligan, Keira Knightley and Andrew Garfield respectively, who become entangled in a love triangle. Principal photography began in April 2009 and lasted several weeks. The movie was filmed at various locations, including Andrew Melville Hall. Never Let Me Go was produced by DNA Films and Film4 on a US$15 million budget."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is a cucumber the same as a gherkin\npassage: Pickled cucumber -- A pickled cucumber (commonly known as a pickle in the United States and Canada and a gherkin in Britain, Ireland, Australia, South Africa and New Zealand) is a cucumber that has been pickled in a brine, vinegar, or other solution and left to ferment for a period of time, by either immersing the cucumbers in an acidic solution or through souring by lacto-fermentation. Pickled cucumbers are often part of mixed pickles."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is it possible to remember being 1 years old\npassage: Childhood amnesia -- Some research has demonstrated that children can remember events from the age of 1, but that these memories may decline as children get older. Most psychologists differ in defining the offset of childhood amnesia. Some define it as the age from which a first memory can be retrieved. This is usually at the age of 3 or 4, but it can range from 2 to 8 years."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you drink on the street in france\npassage: Drinking in public -- Public drinking in France is legal. Although it is illegal to sell alcohol to minors (under 18) it is not illegal for minors to consume alcohol in public. However local laws may ban public drinking or the purchase of alcohol in certain areas or at certain times."
+    },
+    {
+        "label": "True",
+        "sentence": "question: when driving on a national road is it permitted to drive on the hard shoulder\npassage: Shoulder (road) -- Full-width hard shoulders are provided on most new, upgraded (from the 1980s onwards), and major national roads in the Republic of Ireland, especially on wide two-lane and dual-carriageway roads (the shoulders on most 2+1 roads are narrow however). They are defined within the official document the Rules of the Road as a part of the road that should normally only be used by cyclists and pedestrians. Their provision of on interurban routes in the 1970s reportedly resulted in a 50% decrease in accidents involving pedal cyclists."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the grand canyon the second largest canyon in the world\npassage: Canyon -- The Grand Canyon of northern Arizona in the United States, with an average depth of 1,600 m (one mile) and a volume of 4.17 trillion cubic metres, is one of the world's largest canyons. It was among the 28 finalists of the New7Wonders of Nature worldwide poll. (Some referred to it as one of the 7 natural wonders of the world.) Copper Canyon in Chihuahua, Mexico is deeper and longer than the Grand Canyon."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can a set be an element of another set\npassage: Subset -- In mathematics, a set A is a subset of a set B, or equivalently B is a superset of A, if A is ``contained'' inside B, that is, all elements of A are also elements of B. A and B may coincide. The relationship of one set being a subset of another is called inclusion or sometimes containment. A is a subset of B may also be expressed as B includes A; or A is included in B."
+    },
+    {
+        "label": "False",
+        "sentence": "question: did play misty for me win any awards\npassage: Play Misty for Me -- Jessica Walter was nominated for the 1972 Golden Globe Award for Best Actress -- Drama, but lost to Jane Fonda for Klute."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can a battery charger be used to jumpstart a car\npassage: Jump start (vehicle) -- Motorists and service garages often have portable battery chargers operated from AC power. Very small ``trickle'' chargers are intended only to maintain a charge on a parked or stored vehicle, but larger chargers can put enough charge into a battery to allow a start within a few minutes. Battery chargers may be strictly manual, or may include controls for time and charging voltage. Battery chargers that apply high voltage (for example, more than 14.4 volts on a 12 volt nominal system) will result in emission of hydrogen gas from the battery, which may damage it or create an explosion risk. A battery may be recharged without removal from the vehicle, although in a typical roadside situation no convenient source of power may be nearby."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the trachea part of the upper airway\npassage: Respiratory tract -- The respiratory tract is divided into the upper airways and lower airways. The upper airways or upper respiratory tract includes the nose and nasal passages, paranasal sinuses, the pharynx, and the portion of the larynx above the vocal folds (cords). The lower airways or lower respiratory tract includes the portion of the larynx below the vocal folds, trachea, bronchi and bronchioles. The lungs can be included in the lower respiratory tract or as separate entity and include the respiratory bronchioles, alveolar ducts, alveolar sacs, and alveoli."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there such a thing as a sweat bee\npassage: Halictidae -- They are commonly referred to as ``sweat bees'' (especially the smaller species), as they are often attracted to perspiration. They are likely to sting only if disturbed; the sting is minor."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are drake and elena married in uncharted 3\npassage: Elena Fisher -- E3 2011 trailer of Uncharted 3: Drake's Deception showed Elena helping Drake and Sully again. It also revealed she's now wearing a ring on her left ring finger. During the game it is revealed that she and Drake were married, and later broke up in between the events of Uncharted 2 and 3, due to what we can only believe was to keep Elena safe. Since the events Uncharted 2, Elena has become an international news correspondent, and has been stationed in Yemen for some time. Nathan Drake and Victor Sullivan discover that Sir Francis Drake made a stop in Yemen on his quest to find the Atlantis of the Sands. Since the two needed to get into Yemen quietly and without opposition, Sullivan called Elena to ask for her help, as Drake was reluctant to speak to her. When Drake and Sullivan arrive in Yemen, Elena gives them permits and talks to them happily as they exit the airport. But Drake and Elena begin to argue over their sudden arrival and over Elena's wedding band. Nate is more interested by the fact that she is still wearing her wedding ring from their estranged marriage. She claims 'it helps in this part of the world' and tells him not to flatter himself. Nate just smiles, knowing she's not being entirely honest with him. But Elena suspects that Nate is not being honest with her, and is worried about his obsession with Sir Francis Drake's expedition. She also voices her concern about Sullivan, and that Nate shouldn't make him run across the globe for him. Elena takes Drake and Sullivan on a walking tour through Yemen, with the Old Quarter as their targeted destination. In order to dodge the city's guards, the trio climb up to the roof tops. From there, Sullivan spots Talbot walking through the town. Drake pursues him, and is eventually cornered by Marlowe's guards. Once Nate defeats the guards, Elena leads Sullivan and Drake into a courtyard. Coincidentally, the courtyard contains a well that contains the coordinates to Iram. While in the catacombs, the three discover a hidden chamber with messages written on the walls, warning about the dangers of Iram and the desert. Nate deduces that these messages were written by Sir Francis Drake. Elena asks Nate to stop looking for Iram."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is bermuda off the coast of south carolina\npassage: Bermuda -- Bermuda is a group of low-forming volcanoes in the Atlantic Ocean, near the western edge of the Sargasso Sea, roughly 578 nautical miles (1,070 km; 665 mi) east-southeast of Cape Hatteras on the Outer Banks of North Carolina and about 594 nautical miles (1,100 km; 684 mi) southeast of Martha's Vineyard of Massachusetts. It is 898 nautical miles (1,663 km; 1,033 mi) northeast of Miami, Florida, and 667 nautical miles (1,235 km; 768 mi) from Cape Sable Island, in Nova Scotia, Canada. The islands lie due east of Fripp Island, South Carolina, west-northwest of Cape Verde, southeast of New York City, New York, north-northwest of Brazil and 1,759 km (1,093 mi) north of Cuba."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can you face the death penalty under 18\npassage: Capital punishment for juveniles in the United States -- Capital punishment for juveniles in the United States existed until March 1, 2005, when the U.S. Supreme Court banned it in Roper v. Simmons."
+    },
+    {
+        "label": "True",
+        "sentence": "question: in general the ocean floor is younger than the rocks on the continents\npassage: Seafloor spreading -- Seafloor spreading is a process that occurs at mid-ocean ridges, where new oceanic crust is formed through volcanic activity and then gradually moves away from the ridge. Seafloor spreading helps explain continental drift in the theory of plate tectonics. When oceanic plates diverge, tensional stress causes fractures to occur in the lithosphere.The motivating force for seafloor spreading ridges is tectonic plate pull rather than magma pressure, although there is typically significant magma activity at spreading ridges. At a spreading center basaltic magma rises up the fractures and cools on the ocean floor to form new seabed. Hydrothermal vents are common at spreading centers. Older rocks will be found farther away from the spreading zone while younger rocks will be found nearer to the spreading zone. Additionally spreading rates determine if the ridge is a fast, intermediate, or slow. As a general rule, fast ridges see spreading rate of more than 9 cm/year. Intermediate ridges have a spreading rate of 4--9 cm/year while slow spreading ridges have a rate less than 4 cm/year."
+    },
+    {
+        "label": "True",
+        "sentence": "question: did the movie philadelphia win any academy awards\npassage: Philadelphia (film) -- Hanks won the Academy Award for Best Actor for his role as Andrew Beckett in the film, while the song ``Streets of Philadelphia'' by Bruce Springsteen won the Academy Award for Best Original Song. Nyswaner was also nominated for the Academy Award for Best Original Screenplay, but lost to Jane Campion for The Piano."
+    },
+    {
+        "label": "True",
+        "sentence": "question: were the world trade centers the tallest buildings in america\npassage: World Trade Center (1973–2001) -- The original World Trade Center was a large complex of seven buildings in Lower Manhattan, New York City, United States. It featured the landmark twin towers, which opened on April 4, 1973, and were destroyed as a result of the September 11 attacks in 2001. At the time of their completion, the ``Twin Towers''--the original 1 World Trade Center, at 1,368 feet (417 m); and 2 World Trade Center, at 1,362 feet (415.1 m)--were the tallest buildings in the world. The other buildings in the complex included the Marriott World Trade Center (3 WTC), 4 WTC, 5 WTC, 6 WTC, and 7 WTC. All these buildings were built between 1975 and 1985, with a construction cost of $400 million ($2,300,000,000 in 2014 dollars). The complex was located in New York City's Financial District and contained 13,400,000 square feet (1,240,000 m) of office space."
+    },
+    {
+        "label": "True",
+        "sentence": "question: has a category 4 hurricane ever hit the carolinas\npassage: List of North Carolina hurricanes -- Tropical cyclones have affected North Carolina in every month between May and December; about 35 percent of the storms struck the state in September, and 80 percent affected the state between August and October, which coincides with the peak of the hurricane season. The earliest storm to affect the state was Subtropical Storm Andrea on May 7, 2007, and the latest was a tropical storm that moved across the Outer Banks on December 2, 1925. The strongest storm to strike the state was Hurricane Hazel on October 15, 1954, which made landfall as a Category 4 hurricane on the Saffir--Simpson Hurricane Scale."
+    },
+    {
+        "label": "True",
+        "sentence": "question: does thanos get all infinity stones in the comics\npassage: Infinity Gems -- In the 1990 limited series The Thanos Quest, Thanos refers to the entire set as ``Infinity Gems'' for the first time. In this storyline, he steals the Gems and inserts them into a golden glove known as the Infinity Gauntlet and reveals the Gems to be the last remains of an omnipotent being. In the miniseries The Infinity Gauntlet, Thanos uses the Gems to become nearly omnipotent and kills half the universe's population as a gift to his love, the cosmic embodiment of Death. Although he easily repels an attack by Earth's heroes and other cosmic entities, the Gauntlet is eventually stolen from him by Nebula, who undoes his mass killings. Adam Warlock then recovers the Gauntlet and divides the Gems among a group he calls ``the Infinity Watch,'' consisting of himself, the superheroes Gamora, Pip the Troll, Drax the Destroyer, Moondragon, and his former adversary Thanos. This group's adventures in defending the Gems appeared in the series Warlock and the Infinity Watch (1992- 1995)."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is psych the musical part of season 7\npassage: Psych: The Musical -- ``Psych: The Musical'' is an episode of the seventh season of Psych, and the 110th episode in the series overall. Formatted as a musical, it aired as a two-hour event, using up episodes 15 and 16 of the season order. The episode aired on December 15, 2013."
+    },
+    {
+        "label": "False",
+        "sentence": "question: does penalty shoot out count towards golden boot\npassage: Penalty shoot-out (association football) -- A shoot-out is usually considered for statistical purposes to be separate from the match which preceded it. In the case of a two-legged fixture, the two matches are still considered either as two draws or as one win and one loss; in the case of a single match, it is still considered as a draw. This contrasts with a fixture won in extra time, where the score at the end of normal time is superseded. Converted shoot-out penalties are not considered as goals scored by a player for the purposes of their individual records, or for ``golden boot'' competitions."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is you've got mail based on a book\npassage: You've Got Mail -- You've Got Mail is based on the 1937 Hungarian play Parfumerie by Miklós László and its adaptations. Parfumerie was later remade as The Shop Around the Corner, a 1940 film by Ernst Lubitsch, which in 1949 was adapted as a movie musical, In the Good Old Summertime by Robert Z. Leonard starring Judy Garland, and finally in 1963 as a Broadway musical with She Loves Me by Jerry Bock and Sheldon Harnick (composer and lyricist, respectively, of Fiddler on the Roof). You've Got Mail updates that concept with the use of e-mail, and the lead character's workplace is named ``The Shop Around the Corner'' as a nod to the 1940 film. Influences from Jane Austen's Pride and Prejudice can also be seen in the relationship between Joe Fox and Kathleen Kelly--a reference pointed out by these characters actually discussing Mr. Darcy and Miss Bennet in the film. The joke when Tom Hanks explains that the little girl is really his aunt is taken from Israel Zangwill's story ``A New Matrimonial Relation'' in The Bachelors' Club (1891)."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is a coma the same as being unconscious\npassage: Coma -- Coma is a state of unconsciousness in which a person cannot be awakened; fails to respond normally to painful stimuli, light, or sound; lacks a normal wake-sleep cycle; and does not initiate voluntary actions. A person in a state of coma is described as being comatose. A distinction is made in the medical community between a real coma and a medically induced coma, the former is a result of circumstances beyond the control of the medical community, while the latter is a means by which medical professionals may allow a patient's injuries to heal in a controlled environment."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there stand your ground law in california\npassage: Stand-your-ground law -- The states that have adopted stand-your-ground in practice, either through case law/precedent, jury instructions or by other means, are California, Colorado, Illinois, New Mexico, Oregon, Virginia, and Washington."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is there a difference between alsatians and german shepherds\npassage: German Shepherd -- The German Shepherd (German: Deutscher Schäferhund, German pronunciation: (ˈʃɛːfɐˌhʊnt)) is a breed of medium to large-sized working dog that originated in Germany. The breed's officially recognized name is German Shepherd Dog in the English language (sometimes abbreviated as GSD). The breed was once known as the Alsatian in Britain and Ireland. The German Shepherd is a relatively new breed of dog, with their origin dating to 1899. As part of the Herding Group, German Shepherds are working dogs developed originally for herding sheep. Since that time however, because of their strength, intelligence, trainability, and obedience, German Shepherds around the world are often the preferred breed for many types of work, including disability assistance, search-and-rescue, police and military roles, and even acting. The German Shepherd is the second-most registered breed by the American Kennel Club and seventh-most registered breed by The Kennel Club in the United Kingdom."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is a warrant officer a commissioned officer in the army\npassage: Warrant officer -- A warrant officer (WO) is an officer in a military organisation who is designated an officer by a warrant, as distinguished from a commissioned officer who is designated an officer by a commission, and a non-commissioned officer who is designated an officer, often by virtue of seniority."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is there a season 2 of pride and prejudice\npassage: Pride and Prejudice (1995 TV series) -- Pride and Prejudice is a six-episode 1995 British television drama, adapted by Andrew Davies from Jane Austen's 1813 novel of the same name. Jennifer Ehle and Colin Firth starred as Elizabeth Bennet and Mr. Darcy. Produced by Sue Birtwistle and directed by Simon Langton, the serial was a BBC production with additional funding from the American A&E Network. BBC1 originally broadcast the 55-minute episodes from 24 September to 29 October 1995. The A&E Network aired the series in double episodes on three consecutive nights beginning 14 January 1996. There are six episodes in the series."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the rear differential part of the powertrain\npassage: Powertrain -- In a motor vehicle, the term powertrain or powerplant describes the main components that generate power and deliver it to the road surface, water, or air. This includes the engine, transmission, drive shafts, differentials, and the final drive (drive wheels, continuous track as in military tanks or caterpillar tractors, propeller, etc.). More recently in hybrid powertrains the battery, the electric motor and the control algorithm are also seen as elements of the powertrain."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are the british virgin islands part of the eu\npassage: British Virgin Islands -- British Virgin Islanders are British Overseas Territories citizens and since 2002 are British citizens as well. Although the territory is not part of the European Union and not directly subject to EU law, British Virgin Islanders are deemed to be citizens of the EU by virtue of their British citizenship."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are wizards human in lord of the rings\npassage: Wizard (Middle-earth) -- In the fiction of J.R.R. Tolkien, the Wizards of Middle-earth are a group of beings outwardly resembling Men but possessing much greater physical and mental power. They are also called the Istari (Quenya for ``Wise Ones'') by the Elves. The Sindarin word is Ithryn (sing. Ithron). They were sent by the Valar to assist the people of Middle-earth to contest Sauron."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the length always longer than the width\npassage: Length -- In geometric measurements, length is the most extended dimension of an object. In the International System of Quantities, length is any quantity with dimension distance. In other contexts, length is a measured dimension of an object. Length may be distinguished from height, which is vertical extent, and width or breadth, which are the distance from side to side, measuring across the object at right angles to the length. For example, it is possible to cut a length of wire shorter than the wire's width. In most systems of measurement, the unit of length is a base unit, from which other units are derived."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can you step over the free throw line\npassage: Free throw -- Leaving their designated places before the ball leaves the shooter's hands, or interfering with the ball, are violations. In addition, the shooter must release the ball within five seconds (ten seconds in the United States) and must not step on or over the free throw line until the ball touches the hoop. Players are, however, permitted to jump while attempting the free throw, provided they do not leave the designated area at any point. A violation by the shooter cancels the free throw; a violation by the defensive team results in a substitute free throw if the shooter missed; a violation by the offensive team or a shot that completely misses the hoop results in the loss of possession to the defensive team (only if it is on the last free throw)."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can you have more than one wife in the united states\npassage: Polygamy in North America -- Polygamy is the act or condition of a person marrying another person while still being lawfully married to another spouse. As this is the very definition of bigamy, it is illegal in the United States. The crime is punishable by a fine, imprisonment, or both, according to the law of the individual state and the circumstances of the offense. Polygamy was outlawed federally by the Edmunds Act, and there are laws against the practice in all 50 states, as well as the District of Columbia, Guam, and Puerto Rico. Because state laws exist, polygamy is not actively prosecuted at the federal level, but the practice is considered ``against public policy'' and, accordingly, the U.S. government won't recognize bigamous marriages for immigration purposes (that is, would not allow one of the spouses to petition for immigration benefits for the other), even if they are legal in the country where bigamous marriage was celebrated. Any immigrant who is coming to the United States to practice polygamy is inadmissible."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is a star is born 2018 a remake\npassage: A Star Is Born (2018 film) -- A Star Is Born is an upcoming American musical romantic drama film produced and directed by Bradley Cooper, in his directorial debut. Cooper also wrote the screenplay with Will Fetters and Eric Roth. A remake of the 1937 film of the same name, it stars Cooper, Lady Gaga, Andrew Dice Clay, Dave Chappelle, and Sam Elliott, and follows a hard-drinking country musician (Cooper) who discovers and falls in love with a young singer (Gaga). It marks the third remake of the original 1937 film (which featured Janet Gaynor and Fredric March), which was adapted into a 1954 musical (starring Judy Garland and James Mason) and then remade as a 1976 rock musical with Barbra Streisand and Kris Kristofferson."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you buy wine in grocery stores in missouri\npassage: Alcohol laws of Missouri -- Missouri has no specific state limitations on the places where alcohol may be sold ``off-premises'' (i.e. for consumption elsewhere). As a result, Missouri is famous in the region for grocery stores, drug stores, and even gas stations throughout the state which sell a wide variety of beer, wine, and liquor. As long as it is not located within 100 feet (30 m) of a school or church, virtually any retail business (including a vague and undefined ``general merchandise store'') which obtains the proper licenses from the Division of Alcohol and Tobacco Control and local authorities may sell any type of alcohol. State law even forbids a local option and prohibits cities and counties from banning the off-premises sale of alcohol."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the song drinking problem by midland a remake\npassage: Drinkin' Problem -- ``Drinkin' Problem'' is the debut single of the American country music band Midland. It was released on February 27, 2017, as the first single from their debut album On the Rocks. The band members wrote the song with Josh Osborne and Shane McAnally, the latter of whom also produced it."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is a joint venture part of a group\npassage: Joint venture -- In the UK, India, and in many Common Law countries a joint-venture (or else a company formed by a group of individuals) must file with the appropriate authority the Memorandum of Association. It is a statutory document which informs the outside public of its existence. It may be viewed by the public at the office in which it is filed. A sample can be seen at wikimedia.org. Together with the Articles of Association, it forms the ``constitution'' of a company in these countries."
+    }
+]

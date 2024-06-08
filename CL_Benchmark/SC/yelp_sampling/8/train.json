@@ -1,0 +1,402 @@
+[
+    {
+        "label": "very negative",
+        "sentence": "Text: 10 dirty fingernails \\n\\nAt the recommendation of some friends we gave this place a shot. \\n\\nPlease note that my review is not for the pizza because we hadn't even gotten that far in the process. \\n\\nUpon entering, we were greeted and instructed to file behind some other customers who had just placed their order. Assuming our place in this Subway'esq line, I eagerly watched a man begin forming a beautiful roll of pizza dough, into the flat palate ready to accept all the wonderful ingredients. As I was watching, I was paying close attention to his form as I've always wanted to hand toss a pizza in the air like you see in the movies. As I stared through the sneeze guard glass, i really focused on the mans hands kneading until I caught the terrible glimpse of his fingernails.\\n\\nPeople, this wasn't a single dirty nail. It was 8 fingers and two thumbs worth of \\\"I dug my way to work\\\" dirty. As if you played blackjack all night and the grim from the table felt accumulated in all your nails.\\n\\nWe lasted 2 minutes in the place. Super bummed because I love pizza.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Text: We spent Easter in Arizona for the first time and all the natives suggested we try the burros at Carolinas.  The woman at the front was super friendly with the tourists from SF with the questions.  The place was clean and packed (Tuesday at 1pm) but it was  fast service.  We ordered three burros (3 way, green and red I think), two soft and two hard tacos (chicken). The burros were SUPER GOOD and my kids loved the tacos.  We ordered a dozen tortillas to take home - we were not disappointed! The prices were so reasonable...I wish Carolina's opened up in San Francisco....I miss it already...\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: Really good food but super slow service.   Takes way too long for them to come and even bring u a drink or tea to start with.    It's just too slow of service.  The girls primp more than they focus on good service.   Like I said I love the food.  But will get it to GO FROM now on.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Text: Blush seems to get a lot less attention than some of the other clubs around, which is fine if that means no cover and free champagne to soften us up for the bandit prices at Tryst.  It's actually quite nice inside.  Definitely smaller than the real crazy Vegas spots, with a dance floor that doesn't get too empty or too crowded, and a gorgeous lit outdoor patio.  The staff is courteous and the man who recruited us for free champagne shuttled us over to Tryst when we wanted to switch over there.  Because nice as Blush is, it isn't a full-night commitment.  If you're going all the way to Vegas, you can't very well leave without getting ripped off and elbowed in the face a few times - though on second thought, that doesn't sound too bad.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Text: Have been to Vegas countless times and have walked pass Madam Toussards time after time. During my most recent trip (Christmas vacation) I decided to take my family there. Once inside to my surprise there were a lot of people roaming around taking pictures with the celebrity wax figures. I must say the wax figures were all pretty well done and realistic looking. There were a few times (with so many people in the room) I literally had problems differentiating between real people and the wax figures -- it was weird! The ticket included a 4D super hero movie that was alright -- I'm sure my son enjoyed it much more than I did. I'd give this place 4-stars but they didn't have Master Chief (Halo) as advertised. Bummer as I was really looking forward to snapping some pictures with him.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Text: We went on a Saturday night & a dj was playing.  Music was good & we enjoyed the trendy vibe.  \\n\\nWe kept seeing dishes go by so it made it hard for me to decide!  We snacked on the free popcorn which my hubby loved!  We started with the \\\"Drunken Monkey\\\" shake(alcoholic but not noticeable) with Reese's on top!!!  Yum!  Let me say that again....YUM!  \\n\\nAs for my dinner, I couldn't make a decision so I went with the Classic Burger & steak fries($13.50).  I know boring with all the cool choices but oh well.  It was worth the money!   The meat was juicy & FLAVORFUL(something that scores well with me)! Not to mention it was very filling!   The fries were good too! The hubby ordered a specialty burger & shoestring fries which he said was good too!\\n\\nWe saw some sort of blue thing & dry ice or something at a nearby table.  We were intrigued but couldn't tell what it was....otherwise we may have tried that as well!  \\n\\nI wish I would of tried the lobster truffle Mac n cheese but we were too full!\\nA little pricey but most places are on the strip.  However, this one was worth my dollars!!\\n\\nInside the Cosmopolitan Hotel.  2nd floor.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Text: I must admit I wasn't stoked to go here at first becasue my previous visits to Las Vegas consisted of staying on the famous strip, and the idea of going to a place that wasn't as popular (at least in my mind, prior to my actual visit) didn't appeal to me.  When my friends and I arrived I immediately loved it.  The handful of casinos within the Fremont Street Experience were quite oldschool and felt divey as well, which I love.  I came up on some cash at a roulette table inside the Fremont Hotel/Casino, had some tall cans outside on Fremont Street, danced the Monster Mash with my friends, saw the weird Halloween themed live show/band perform a few times, and apparently missed the entire street singing along to some Queen tunes for a tribute show that happened while I was inside gambling.\\n\\nThe light/screen show above the street/overhead is fantastic, and the whole place just had a party-like atmosphere.\\n\\nSome of the street performers were a drag, being awful look-alikes, or just plain ridiculous (Las Vegas Barbies or whatever they called themselves - two cute chicks in stupid outfits that dance around in front of a bucket... I'm supposed to respect you more than an actual stripper because you dance in front of a bucket, fully clothed, in public?  Forget about it!).\\n\\nTake about 10 of your pals, eat, drink, and be merry at the Fremont Street Experience!\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Text: Stayed here in June because of the central location, price & what they offer.  Would return to stay here again during future Montreal visits. Great for couples & families (if only because of the large rooms).\\n\\nHad no issues whatsoever, very clean & good service whenever needed. GREAT city rooftop with lounge chairs for a summer evening. BIG rooms with fully stocked kitchen. Free WI-FI. Fitness centre small (2 treadmills, couple of bikes, small weight room) but does the job. Indoor pool was smallish & usually full with kids. Complimentary continental breakfast spread was pretty decent (fruit, oatmeal, toast, bagels, etc). For a better breakfast, Eggspectations is a 10 minute or less walk away on St Catherine Street. Don't miss the Italian restaurant a few doors down, fantastic pizza!\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: I really wish I could give this nice little Mexican restaurant a great review, being close to my house and NOT a chain. However, the food is mostly average at best and the service is variable. The complementary chips and salsa (+ bean dip) is the best of the meal. We have enjoyed the quesadilla (adult style, with chicken) and fish tacos. If you like spicy food, this isn't your place.\\n\\nTheir plan for seating tables is difficult to understand - nights when the weather is beautiful, only one or two tables will be seated on the patio and you're told that they don't have servers to serve you out there. Meanwhile, they have both rooms inside filled to about half capacity? Huh? On other visits, they've indicated they are only seating the main room in front and will make you wait for a table, but they have a couple of tables seated in the back room? Again, huh?\\n\\nThe decor is very nice. Beautiful wall paintings throughout. Perhaps we'll go back in the fall/winter when there is a chance that they might seat us outside on a nice night. Then again, do we want to risk it?\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Text: So they've moved to a new location and become a restaurant/wine bar.  The old place had such a good ambiance, the new place however is pretty plain and boring. The food is still good but it's just not the same\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Text: Great service, nice hostess, nice level of music, but annoying fly.....gross. Fun that you can see the chef make the pizza and flip the dough. Great crust but I feel the sausage has too much cumin and the sauce is too sweet......just a personal preference. The Caesar salad had way too much dressing, the lettuce seemed a little wilted but the croutons were good.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Text: Exceptional food. Great flavor, good prices and the cuisine is ' simply' good.  Can't wait to try the grilled fish tacos next time.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: There is no other place on earth like the Las Vegas airport.  Everyone arriving is happy and trying to take everything in like it's their first day out in the real world.  How full of hope they are.  Landing in the Las Vegas airport gives a sense of expansiveness even though the place is dangerously full of people.  Leaving the Las Vegas airport is another story.  People tend to stare at their shoes in shame from whatever event is never to spoken again.  Or people are way too happy because they won fifteen bucks on video slots and scored a free drink.  Winner and loser alike are crammed into winding line where TSA are more handsy than homecoming dates.\\n\\nWhile waiting at the gate there are more slot and video poker machines incase you have any spare cash you'd love to piss away.  To be honest if it came down to putting money in an airport slot machine or getting an airport quesadilla, the slot machine wins every time.  At lease the slot machine won't give me diarrhea.  \\n\\nI'm always glad to go to Vegas to meet up with old friends and I'm always happy to leave the neon nightmare.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Text: Now who agrees with me, movie tickets are ridiculous nowadays!! The price continues to rise and rise. Unless you're going to fall out of your seat if you don't see a movie right when it comes out,  it is worth the wait. I wish I would have know about Tropicana Cinemas years ago because everyone enjoys going to the movies, but is there really anything \\\"that\\\" special about a particular theater? NO not really. Most people enjoy deals and discounts. This is a second showing theater which plays all the movies that were just in the bigger first showing theaters. If you can wait a couple weeks to see a movie and go here you can literally see 5 different movies for the price you would have paid to see one!!! Now that's a great deal to me. Located on pecos and tropicana its not the greatest neighborhood around but also not the worst and now I've been there many times and can't complain about any experience. There's never a long line to wait in, they are very quick with ticket sales, and there's security at the door checking bags for safety. The convenience stand has comparable prices to any other theater, the bathrooms are clean ( atleast when I've went) and the theater seating are just as good as any other theater. Tickets are onlu 2 $ a piece! IMAX for 3 $ and on Tuesday they have tickets for 1 $ !!! If you go every tuesday in a month with your partner or friend you will spend 8 $ only and see 4 different movies. Just saying a good deal is a good deal. The theater building Itself could use a bit of life and upbringing to stay up to date and pleasing but other then that head on down!\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Text: We always have a great experience at Cowboy Ciao.  The Stetson chopped salad is so good!\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Text: Not great...DON'T waste your calories!  The cake was dry, over cooked and very bland tasting.  Frosting did not have a lot of flavor and was way too sweet.   We picked up 7 different cupcakes for my birthday...and I tried all 7.  Honestly I could make better cupcakes out of a box.  Plus waiting 10 minutes at the counter for someone to come to the front to wait on us....even when I said \\\"HELLO\\\" several times trying to let them know we were there.  Meanwhile two other people came in and waited awhile and then left.  When they FINALLY came to the front counter...no apology or explanation.  I so WISH I WOULD HAVE USED MY BIRTHDAY CALORIES on NOTHING BUNDT CAKES next door!!  What a waste of calories!!  DEFINITELY go to NOTHING BUNDT CAKES...they are ALWAYS FRESH, moist and wonderful flavor.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Text: I love this place.  I used to be very particular about the exact person that would work on my nails, but I have been going to Diamond Nails and found that almost every nail tech here is amazing.  This place does very well, so make sure to call and make an appointment, or prepare to wait for a little bit if you visit as a walk-in.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Text: The food is awesome, the service is good. The prices are a little pricey but the portions are large. I would recommend.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Text: Target is one of my favorite stores -- I just love wandering around late at night when the store is quiet -- it's just so therapeutic! This location is now my closest store, so I drop by pretty often.\\n\\nThis store is pretty average. Inventory and customer service aren't particularly stellar but isn't poor either. I've generally been able to find what I need here and check out pretty quickly. \\n\\nIn addition to the common pharmacy and photo studio found in most Targets, this location also has an optical department. Of the 10-15 locations in the Pittsburgh area, only this store and the Cranberry store sell glasses. I purchased a pair of glasses and sunglasses through Target Optical three years ago and have been very happy with their product and customer service.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Text: The pancakes are the bomb! Everyone is super friendly and service is good. Definitely recommend it!\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Text: The service here is good. I had an appt. to have my eyes checked for lenses as well as contacts. \\nI also ordered a pair of glasses. I have a strong prescription, and with the thin lenses and their AR (anti-reflective) coating my glasses look like they don't even have lenses in them. There's no glare, ever! Not on pictures, not when I'm out at night...\\nYes, the frames are expensive (around $400) but you get what you pay for. I bought glasses from another local place, I paid 1/2 of what I paid here but the quality of the workmanship is just terrible compared to Neovision.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: As Misti, our Las Vegas CM, mentioned you could come here and chill and read a book and have some food or a beverage.\\n\\nHowever,... \\n\\nThe atmosphere is less than desirable. Yes, there are couches. Yes there's some tables. But the place needs more color and sound. I asked the manager to put on some music in the future. They had a movie playing on the TV when I arrived. Totally not a movie I would associate with Elixir, mindful eating or general well-being. Like,... put on a surfing movie at least. Not National Lampoon's European Vacation!\\n\\nThe space reminds me of a cafe that used to be in the Lower Haight in San Francisco called, \\\"Common Ground.\\\" The coffee was good. The music (which ranged from Reggae to Indy-rock) was decent and there were some good food choices. This place needs to embrace their cafe/ lounge attitude and play some darn music!\\n\\nThe Caesar salad was fair. The blue cheese burger was overcooked like... well, well done, and I wasn't asked a temperature by the server. The server didn't bring enough setups and I was given the reasoning that the table was small so they try to conserve. Um... utensils are utensils. I need them to eat.\\n\\nSome things should just be a given when it comes to service.\\nI think she saw two entrees ordered and brought just two setups because of it. But.... there were 3 of us. And yes, I had to ask for an extra plate. Good service should predict a customers needs. This place needs some serious training.\\n\\nBack to the food... as someone else said, they have good intentions. I liked the choices of bread, meats and veggie options for their burgers. Presentation of the food needs some work. Right now, I might as well be at the Waffle House and not a healthy choice restaurant.\\n\\nWith competition like Greens and Protein and the Raw Cafe, this place is going to need to pull it together with their atmosphere, service and food in order to stay in the game.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: I went here tonight for their grand opening and was shocked by how not impressive the food was. I hate to give a negative review as a first review and also hate to give a negative review to a place that allowed me to come to their grand opening, but it just wasn't very good. The food they were serving definitely should have been good, for example, they had a kobe beef slider....sounds good, right? No....it was not good. It was ground kobe, not sure why you would grind such expensive meat, and it was covered in a weird sauce and then topped with velveeta. Yes....velveeta. It was such a waste of a good meat, you couldn't taste the meat at all...it could have been ground anything for all you could tell. Additionally, the BF found a bone in his....not so appetizing. They also had mini burger bites, that were decent, but the way they were served made it so you couldn't taste any of the toppings because they all fell off before it got to your mouth (they were little balls with bacon and whatnot on top skewered with a toothpick, so the bacon and things fell off when the burger was picked up). The crab mac and cheese was mediocre and I believe had velveeta in it as well....how weird. The pork sweet and spicy wings were an odd texture and tasted like frozen food. Not good. The only thing that was decent was the spicy mango cone....a mango pudding of sorts with cayenne in it served in an ice cream cone. We ended up leaving after only a short period of time because we didn't want to continue tasting/wasting their food....that's pretty bad when the food is free. Maybe this place just needs to work out some kinks, but it was surprising that they hadn't done so before this event.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Text: Best place in Vegas! Food is great - Beers are cheap! I go every time I am in Vegas!\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: I had not been to Kampai in a while when I went for a birthday dinner on November 30th. Imagine my surprise to discover it was under new management (I should have read the recent reviews first). I was a fan of Kampai because it was possibly the most authentic Japanese restaurant in Phoenix.\\n\\nThe decor hasn't changed (which, frankly, could use some refreshing, like the seat cushions in the booths are sagging, but overall, is still quite serviceable and even charming), but the menu has changed radically and now includes an almost encyclopedic collection of \\\"maki\\\" sushi (sushi rolls), most of which seem be to calculated to appeal to western tastes. Think Philly and California rolls (along with Caterpillar rolls, Arizona rolls, etc.). Yes, you can still get sushi by the piece, but not sure if I'd bother, they didn't even have tamago (egg omelet) and the surf clam (both nigiri) we had fell apart. Perhaps they should stick with chirashizushi instead of nigiri. I also didn't think the sushi rice was well prepared or that the fish was properly chilled (it seemed a tad warm). I was not impressed.\\n\\nAlong with the sushi we also had a cucumber and seaweed salad (actually, sunomono) which was surprisingly good.\\n\\nCompliments, however, to the wait staff as they were exceedingly attentive and food and drinks were served with a smile and promptly. The staff is probably what stopped me from leaving too quickly (the staff under previous management was always warm and welcoming and I miss them).\\n\\nNow for the food coming out of the kitchen: Another delightful surprise, it was well executed. It was obvious to me that the tempura recipe was slightly different than previously, but it was well done and not greasy. A few details were off-putting, though, there was no gobo root in the vegetable mix and far too many slices of potato, and this time, pieces of chicken, too, which were a little stringy, I'd rather have had an additional shrimp (the large prawns were cut in half lengthwise and served in individually making the serving seem more generous than it was).\\n\\nAlso since the new management, the prices have risen rather steeply: Una-ju (eel over rice) is up sharply and several other items went up as well. Given recent economic times and the rise in restaurant prices, I'm not sure this is entirely fair, but some of the prices went up rather surprisingly high. It is easy, with drinks, to run to over $30.00 per person.\\n\\nThe new restaurant menu is all over the place: It appears that the new owners have tried to keep the core menu, but other additions make it seem disorganized, as if they are trying to please too many. The new menu has Fried rice, bulgogki, tempura, nabeyaki. Fried rice? And, yes, something like an encyclopedia of sushi rolls (2 pages worth).\\n\\nI went to Kampai because it reminded me of restaurants when I was in Japan. It was not striving for fusion or pan-Asain cuisine, or tons of novelty - a new dish now and then, fine, but was a solid example of quietly typical Japanese cuisine; quality classic food and an intimate atmosphere rather than catering to western ideas of what sushi and Japanese food \\\"should\\\" be or giving into food fads. I was always gratified to see members of the local ex-pat Japanese community eating there. And now I don't know where to sate my addiction to Japanese cuisine. Any recommendations greatly appreciated, as I don't know if I will be back to the new Kampai.\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Text: I still give this nightclub 5 stars... well maybe 4 now, but I had the worse experience ever with one of the cocktail waitresses when we got bottle service and this 1 star belongs to her. \\n\\nEVERYONE BEWARE IF YOU PAY CASH with bottle service!!! Our waitress was named Jaylee (or maybe Jamie, or Hailey.. not sure because it was loud). Our bill was $1740 total including the $200 tip that we ALREADY gave her. \\n\\nWe handed her $1800 and she said \\\"I'll be right back with your change.\\\" An hour later, I asked my boyfriend for change because I wanted to buy slippers in the restroom. He didn't have any change on him and realized that our waitress never came back with our $60. So he tells her \\\"hey, I think you forgot to give me back my change\\\" and I can tell he caught her off guard. She thought we were too drunk and forgot!. She tells us \\\"oh um, let me get your receipt\\\"\\n\\nNow we're determined to get it back since we know she's trying to keep it. She never comes back to our table, so we ask a different waitress (Ashley, who is really sweet) and tell her \\\"Hey, we never got our change back\\\" and she says she will ask our waitress.\\n\\nOur waitress comes back with $40 and goes \\\"It's exactly $40\\\" and my best friend and I say at the same time, very loud and clear \\\"It's $60!!\\\" And she asks us for our receipt THAT SHE NEVER GIVES US. WTF DUDE. SHADY AS HELL. Then we got confused cuz she never gave us a receipt. Then she RUDELY says \\\"I can get you a receipt right now, but I'm going to tell you right now, I'm not going to take $20 from you guys\\\" .... YEAH RIGHT, YA LIAR. \\n\\nI REGRET, REGRET, REGRET not saying \\\"YEAH, I WANT YOU TO PRINT OUR MY RECEIPT AND PROVE TO ME THAT IT'S EXACTLY $40.\\\" We just let the girl keep the $20, for her no good service. We ended up giving Isaac one of the $20 that she gave back to us because he was actually constantly there for us all night long and deserving of extra tip.\\n\\nI still love this venue and I still love this nightclub, but my goodness that was some shady business and I'm really sad that this happened. \\n\\nLESSON LEARNED: just pay with your credit card.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Text: We had a wonderful time. Because of traffic we were 25 minutes late (and wanting to drive by and support the Vegas tea party) but we called ahead. They were so kind and so nice about it I was floored. Also need to mention we had gone there the night before to see where they were and the man downstairs at the elevator was so nice that he insisted he take us up for a look at the view so we could see the view that we had asked about it.Kudos to Keith(I hope I remember his name correctly.)The food was lovely and fresh and the view spectacular. The lady greeter on the day said it was a good thing we were late because now we could stretch out our lunch and sit a while if we wanted and see the water show at the Bellagio across the street. We stayed and took her advise and it was so worth it. The place was technically closed but they still refolded my napkin when I got up and they took our pictures for us. All this and we were 30 min late for our opentable reservation. We had front row seats to the water show at the Bellagio without standing outside in the cold. The kitchen is amazing to look at. It is right outside the elevator.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Text: Burger Bar has a four star average out of over 1100 reviews and it's well deserved.  Don't let their generic, non-descript name make you blow them off.\\n\\nThey have a series of pretension-free specialty burgers and gourmet milkshakes. I've got to say that their Irish Coffee Milkshake is the best shake I've ever had. It was worth the trip to Vegas. It is made up of vanilla ice-cream, coffee beans, Irish Whiskey, whipped cream, and caramel. I want another one right now as I'm typing this review from my hotel room. I bet it was better than the one Uma Thurman and John Travolta had in \\\"Pulp Fiction\\\". This one cost more than 'five dollahs' though (it was $11.00). I ordered the Peppercorn Burger which came with skinny fries (that's what they call them.) The burger was everything it had to be but the fries were like the frozen kind that you can find in a grocery store.\\n\\nThe servers were prompt, attentive, and friendly and always made sure our water glasses were overflowing. Maybe a little too attentive with the water. If we make it there again, I'm bringing a sponge with me.\\n\\nI wonder if they can FedEx a milkshake...\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Text: You will be horribly disappointed if you have to pay to get into this hellhole.  Terrible bar service, overpriced drinks, unattractive drunk girls being pulled on stage.  There were 3 Coyote girls trying to run the show, but weren't doing a very good job of it...it was as if they were just going through the motions, and they looked bored.    After 5 minutes watching a bunch of drunk girls making spectacles of themselves, I was bored to tears and wanted to leave.  Please do yourselves a favor and go somewhere else, there are so many other better options out there!!\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: Its been a while since  I was here. But nothing about it made me want to come back. No major complaints just a lot of the guys do it better!\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: Had dinner here 2 nights ago on a whim.  Was our last night in town and we had a group of 8-decided to take a chance without really researching it bc it was in our hotel.  The food was dissappointingly mediocre, with one exception (the miso black cod which was quite good).  I sort of expected that.  What I didn't expect was the horrible service.  The waitress kept leaving the table after taking one persons order without allowing the rest of the party to order their dinner.  We had to keep stopping her and telling her to come back for the rest of the order.  We had only ordered a few appetizers previously so I'm not sure what she was thinking.  We waited 30 minutes for one of our pre dinner drinks and 30 min for a hot tea I ordered after dinner.  She forgot one of our rolls.  And she never seemed the slightest apologetic or embarrassed.  All this at an extremely high price point, even for an upscale sushi restaurant.  It was more than our dinner at Andreas (at the Wynn) the night before.  Terrible experience.\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Text: For people who prepay there should be some element of urgency,  unreal how long its taking. Other car companies have the car waiting.......not Budget, not Budget EVER AGAIN!\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Text: The three stars are only because of how delicious the goblets were and how much of a buzz I had that I surely wasn't expecting.  Other than that, the restaurant is a glorified sandwich shop.  Overpriced menu items (which, duh, it's on the strip) with little to no seasoning is just sad.  Go for the drinks & view of Bellagio fountains!\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: First time at BabyStacks was ok. Nothing to write home about. I think I would like to try it again just to see. The plain pancakes were solid. The corned beef hash was bland and the potatoes were underdone. My boyfriend had the orange creme pancakes and said they were ok, though the syrup tasted artificial. The garlic rice is quite something, but you better LOVE garlic because it's strong. Like I said- I'd try it again and would probably get something more characteristically Hawaiian- like some sort of spam scramble. I suspect that they get that right.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Text: What a place.  So many different classes to take.  Hot Pilate's will Kick Your ASS!\\nIt gets crazy busy, but its crazy good!  Theres also a raw/juice bar downstairs!\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Text: Went to the AT&T store located inside the Galleria Mall.  3 different employees told us 3 different things about purchasing a new cell phone. We are already customers, and they still wanted to charge us extra for plans we didn't need. Then, when we called AT&T Customer Service, we got a great deal and when we told the employees in the store what AT&T told us on the phone, they were going to honor the new deal, but after showing us that they had the phone in stock, they then said it was \\\"store policy\\\" that they would need to ship us the phone.  We felt they were trying to punish us for getting a better deal because we would have saved over $200! Very underhanded way to treat customers. Also, BEWARE of \\\"Authorized Dealers\\\"! They aren't actual AT&T stores and they won't tell you about good deals because they will lose money if they  do.  I would avoid this store!! Terrible attitude toward customers and they didn't care about us at all.\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Text: Guys. You charge .99 for one donut but 5.99 for a half dozen.  C'mon fix the sign.  I have brought this before on premise but the argued the sign wasn't wrong, but inside it's still 5.99.   fix the sign.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Text: On our last day in Vegas, my husband and I couldn't decide on where to eat, so we decided to just dine at the buffet at Aria because at least there we could find something to satisfy everyone.  It wasn't bad for a lunch buffet, lots of things to choose from and our favorites included the lamb curry and the roasted chicken.  I really liked how this buffet included sugar free desserts such as the delicious lime panna cotta with coconut.  Next time we're in town, we'll be sure to check out the advertised lobster on their dinner menu.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: This little shop is located in Old Montreal.  It's quaint, colourful and inviting.  \\n\\nI was in Montreal with my daughter for her birthday and we didn't have a cake so we got two super cute cupcakes for her birthday cake from here.  They looked so good.  Unfortunately they did not taste as good as they looked to me.  I'm a Crave(shops here in Calgary) fan and these did not measure up.  I found them too sugary.  I am a sweet lover... so it wasn't about being too sweet.  They tasted like I was simply eating sugar.  My daughter on the other hand really liked them.  We split the red velvet one and the vanilla flower one(both pictured in the photos on the site).  \\n\\nThe staff was meh.  Not really friendly or unfriendly.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: Boo.\\n\\nAlmost everything containing meat is dried out, overcooked, and over seasoned.  We had a $50 dining credit to use at MGM so I wasn't too upset that the buffet sucked since we didn't pay full price.  And I'm SUPER glad that kids 4 and under are free because this is a really kid-UNfriendly buffet.  No chicken tenders? No fries? Come on, kids live for that stuff! The fruit selection wasn't even very good, so our kiddo ended up eating cheese slices for dinner.\\n\\nNow, after that glowing review, you're gonna think I'm nuts when I say we went back for breakfast, and you would be right.  We had a long trek from tower 3 at The Signature at MGM Grand and we woke up late.  We were gonna try to hustle our booties over to anywhere but here, but we realized that if we walked we would miss it.  Oh well.  Breakfast was a little better, though, since they had more to offer.  But again, the meats were overcooked, dried out, and overseasoned.  OH WAIT! That's because they were serving the EXACT same things they served the night before!  This time, though, they added fluffy scrambled eggs that were weirdly wet for some reason, cheap bacon, and stale cereal.  My daughter did enjoy the pancakes and blueberries, and I enjoyed the time when it was time to leave.  Two stars - one for the friendly staff, and one for the pecan tart at the dessert station.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Text: Yelp Challenge! Started 8/20/2011 (31 of 365). I have a lot of catching up to do!\\n\\nI like the artsy, dark, historical, and mysterious vibe of this place.  You feel it as soon as you walk in.  It is definitely a boutique hotel and it has that old feeling like you have walked inside something that's been around for a long time.  But there is also a modern kick to the feeling.  I like how you can hang out in the large lobby, in the lounge area near the bar, at the bar, and even outside on their fairly medium sized patio.  There are booths, tables, and heat lamps on the patio where you can hang outside and chat.  The only thing I wish they would do at this place is have a night striclty for Top 40, Hip Hop, and R&B.  The kind of ambiance the environment has would be perfect for a night of good dancing music.  I'm just not into the whole house, trance, and high energy type music all night.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Text: Great place, good music and good food. I had both lunch and dinner at Gilley's. But i had to say, that TGI Fridays have a better Baby Back Ribs. I will come back back next year to Gilley's\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Text: If you're interested in just throwing your money away, stay here. Otherwise, pay a little extra, go on the Hotel Tonight app and hit up the Venetian or the Wynn.\\n\\nThe good news about this \\\"hotel\\\" is that the front desk staff are super friendly. They really make you feel welcome. That's just the staff that are checking people in, but not really the management - which if you do end up staying here, you'll most likely need to complain to one of the managers.\\n\\nThe bad news is something I could spend days talking about, but for the sake of brevity, I'll summarize.\\n\\nThey put me in room 1385, which has a 2 ft stain on the carpet, so I asked to be moved. They moved me to 1637 (which was an ordeal, but again, the front desk staff are super friendly). The problems I had with 1637 are really too many to count. Nasty bathrooms, nasty tub, broken lamp, non-draining and nasty tub, outdated everything are just a few to name.\\n\\nA really nice surprise was a blood stain on the carpet next to the bed. Very appealing.\\n\\nI complained to the manager in the morning who was pretty nonchalant about the whole thing and told me that it was just wear and tear. Nice. He told me that I should have just stayed at the Wynn (because it literally was about $20 more that night on Hotel Tonight). I asked him if I could quote him on yelp and he just threatened that if I quoted him with his name, they will take legal action. So, I won't say his name, but I'll just tell you that he had a gnarly frohawk. He was probably sick and tired of hearing how bad their rooms are and stuff like that.\\n\\nI snapped a few pics (thank you iphone) so you can get an idea of what to expect.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Text: This place has an amazing pho, looking for a place that's closer to east mesa to replace Saigon in chandler. The service is amazing, I don't know how many times I've asked for tea and my server just kept it coming! Love this place.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Text: I have finally found a 24 hour spot on my side of town that is BOTH inexpensive and delicious!!!  Finally! But now I'm just mad that I never tried it earlier especially since I've always wondered about it everytime I drove by! Soo I had this preconceived notion by looking at the complex that it would be maybe musky or smelling heavily of smoke and it was not at all! You can tell it is very clean with no smell at all! There are also many seats at the bar and many booths for eating. \\nOnto the food! The menu was pretty expansive for being all offered 24 hours except one page of breakfast. My boyfriend ordered the Western Bacon Cheeseburger and it was delicious! It looks a lot smaller in the picture I took than it actually is in person because it had some height! They cooked it perfectly to what he asked, medium rare and was very fresh and  seasoned correctly. I ordered the Reuben and omg I think I had a record breaking time for basically inhaling it lol lots of meat and perfect amount of sourness and thousand island. The rye bread was amazing as well. I could definitely crave both of these! And now let's add homemade potato chips and then make the total $16.30. That's just crazy. I am already in love with this place and am excited to try all the specials and other menu items!! Definitely a regular from now on!\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Text: There are really nice people working here but as I have found with most Best Buy 's there just is never enough people working. The vendors are helpful but obviously very bias toward their products. If you go do your research online first or better yet do in store pick up so an opinion doesn't sway what you want. I find online reviews to be much more useful than most of the reviews from their workforce.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Text: spotted them next to my auto parts store and I was famished. Ordered a meatball sub togo and it was great. homemade meatballs, nice marinara, plenty of cheese and nice crispy italian roll. put me in a good mood and made installing my alternator  much easier.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: Back again. Went in one day before our actual visit, told the lady we wanted  a reservation for the next day. We were well accommodated.  So far so good.\\n\\nThis time, our waiter sucked (excuse my language). He had brought food out for us and for another table. He waited on the other table 1st, which was fine to me. But then he kinda forgot our food, by the time he pushed the cart to our table, it was much later, and our food was already cold.\\n\\nThis guy should not be working as a waiter.. I think the restaurant itself  was still fine, had our food being brought our in a timely manner, it would have still gotten good recommendation from me. \\n\\nI'm going back in one week, I'm going to tell them bluntly that when my order is done, bring to me right away, so wait to see my next update..\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Text: First time at this brand new establishment. We had a group of ten and were treated very wonderful. It wasn't very busy which surprised us all that some of the rolls took so long to come out, but as soon we notified our waitress she immediately took care of it. The food was amazing and the staff was just as amazing. The music is dancy (it wasn't too loud but if that bothers you it might not make for a good ambiance experience for you) and they have kung foo on tv (awesome). I would definitely hope for this place to thrive.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Text: I AM A FAN.... of this funky little downtown dining spot. I don't really understand the theme, or maybe there isn't one at all... it's just cool! Nice patio for outside dining, which is what my wife and I opted for last week on a perfect spring evening. Our server was quick to take our orders (it was a pretty slow night, but hey, it was a Monday), and was very attentive to us our entire visit. The food was decent enough. I had the Chile Burger and my Wife had the Ostrich burger (which I actually thought was overpriced.... $12.95 for a 6oz patty... hmmmm). The fries and the potatoes that came on the side were really good though! \\n\\nFrom what my friends have told me, this is one of the best happy hour spots (price wise) in downtown Phoenix! We were there after happy hour and the drink prices were still pretty cheap! I'm definitely planning on dining/drinking here again!\\n\\nLastly, I gotta give a shout out to Vinny! The dude is probably one of the nicest, most genuine people out there! Anyone would be lucky to have him as your server at Steve's!!\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Text: If you enjoy the smell of stale beer, urine, cigarette butts, sewage, low-lifes, cab drivers, STDs, slots that don't pay, bad food and service, rolling in the gutter, bar-b-q that isn't, \\\"the wrong side of the tracks\\\", eating in public restrooms, trashy places full of trashy customers and employees, KING-8 MOTELS and ghetto karaoke then you will LOVE this dump. I am surprised this place exists and STUNNED by all the 5 star reviews. You want cheap food, ANY fast food joint would be better than ELLIS ISLAND.\\n\\n  I retired at age 47 and moved here to Vegas from my hometown of Dallas, 25 years ago. I KNOW what \\\"BAR-B-Q\\\" and good food is. ELLIS ISLAND aint the place to go for either unless you are too wasted/ignorant/na\\u00efve/gulliable to care. The best BAR-B-Q I have found here in VEGAS is at \\\"ROLLIN SMOKE\\\" on S. Highland Dr. Its REAL \\\"BAR-B-Q\\\" and its good.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Text: The breakfast was nothing to write home about. Overpriced since it's in the hotel, but we were starving. Good service and we didn't have to wait long for a table.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: Came here yesterday and the matzo ball soup was amazing. Came back today for more and it was terrible. Today the soup tasted Lipton soup and the matzo ball was hard as a brick. Don't know what happened but they need help if they are going to serve soup like this.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Text: Well I went in here yesterday, it was close to my work so i figured why not? The food was delicious, hot and fresh BUT it took fooooooooooooooorrrrrrrrrrreeeeeeeeeeeeeeeeeeeevvvvvvvvvvvvverrrrrrrrrrrrr to get my food i had an hour lunch and i didnt even get to finish eating... wont be going back there again at lunch time!\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Text: The worst service - so slow - over 5 minutes just to get a menu, another 5 to get drinks then another 15 just to get food.  Oh wait we never got our food because the server said I had to be patient (translation: you're going to get your food whenever its ready).  We finally walked out since we never got anything.  Never again\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Text: Okay im not one to EVER hate on chipotle but I came here today asking for a quesarito which I get at every chipotle and know how they make it at every one. So we came to this one because we just happened to be on this side of town and they presume to tell me that I dont know how its made, and they just fold the tortilla over to melt thw cheese inside my burrito but they CHARGED me for a quesadilla and a burrito? Um last time I checked im pretty sure a quesadilla was two tortillas with cheese melted inside. SO would they have charged me extra for a \\\"quesadilla\\\" if I would of just said I wanted melted cheese in my burrito? ON TOP of that they put my toppings in a bowl and then put them on my \\\"quesarito\\\" after.. and I took 3 bites into my burrito and all it consists of is lettuce. The burrito continued all the way to the bottom in layers of what I wanted on it so by the time I got to the bottom I was only eating steak. (See picture) Absolutely terrible. So disappointed and I will NEVER attend this chipotle again. Maybe they should learn from another chipotle in scottsdale how to get things right. \\nI love chipotle but this is the worst managed chipotle ove ever been to from los Angeles to new york!\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Text: Man, I love this place. Hands down the best pizza you can find in Tempe. Their Deluxe pizza is one of the best tasting pizzas I've ever had - I get stoked every time I go to order it. All the employees sound like they're happy to work there when you talk to them, and the delivery is fast and cheap. Theres nothing lacking here\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Text: I visited this location a couple of weekends ago. I was alone and just wanted to have lunch before I went to see a movie. I was seated in a section that was pretty much empty. I was placed in a corner and no server over to my table for 10 minutes. I even went so far as to make eye contact with a server and wave at her and she just looked away. I got up and went to the hostess station and told them that I wasn't going to wait ten minutes for someone to acknowledge me and that I would be taking my business elsewhere. I am a former server, bartender and host and I feel like this is unacceptable for the staff to flat out ignore someone.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Text: They offer full to drive through service. I did the full service. I only paid $20 for their top level service, which I thought was a great price compared to other full-service car washes I've been. The first guy that took care of me (type of car wash wanted, scents, and payment all done right there in the front) was very friendly and seemed to honestly enjoy his job helping people. The car wash itself (meaning, the place where they do the detail-dry, interior cleaning, etc)  was a little small and slow, but nothing that bothered me to the point of annoyance. I would definitely give them my business again. The only reason they didn't score higher was because of the speed of the service. Other than that, my vehicle looked great!\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: Went for first time, nice looking lounge with arrogant staff.  Only had one bar open, if you dont want to pay $325 for bottle service dont come here.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: I came here for lunch yesterday with my dad and stepmom. Firstly, the decor certainly didn't \\\"wow\\\" me. I was expecting prices for lunch ranging $8-15 considering the decor and paper table covers. \\nWe ordered the chopped salad, the chicken and waffles and the scallops. Firstly, our waiter was ho-hum, and not prompt with service. \\nOur meals ranged from $14-16 and were SO small we all left absolutely starving. The chicken and waffles was HALF of ONE waffle with one SMALL chicken breast. \\nMy dad's scallops came out undercooked and by the time they came back after he sent them back, we had finished eating. (15 minute wait to recook scallops?!) \\nThey didn't offer from fresh ones and sent back his original ones which were all cut in half. Appalling. \\nDad then ate by himself and we weren't offered any compensation nor any appetizer free of charge considering we were waiting for him to finish. \\nThe flavor was good but this is the most OVERPRICED, SMALL-PORTIONED food I have ever encountered in such an establishment that isn't a 5 star restaurant. \\nSo disappointing.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Text: Pavle; he's done it again. Food and service was great. Took my travel partner and she loved it! Thanks Phoenix for the great recommend!\\n\\nThe only thing was by the time I got there; they had run out of a couple entrees and one of their salads. I had a salad with a very light vinegarette dressing and the duck. Absolutely delicous\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Text: Good food but lost stars for bad service. \\n\\n$1 oysters for happy hour, omgah Vegas really is paradise lol. Our table got 53 all together, they were good but some were kinda small. No biggie, I'm still satisfied \\n\\nMy friends ordered the calamari, it's pretty bomb. But it should be for $12.00 hahah the sauce is amazing ! \\n\\nWe ordered 3 $1.50 beef sliders and the waiter brought out four. We told him we only ordered three and our server Amanda came out and gave us SOO much attitude saying \\\"you only ordered three? I could've sworn you said four\\\" rolled her eyes and walked away. Our friend coming out from the bathroom said she saw her throwing the dish down in the back all angry and stuff.. Total turn off. Like seriously? How unprofessional. Buzz kill for sure.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Text: Where does one begin............when a team does everything correctly?!\\n\\nBill, my driver, arrived 30 minutes early and was both courteous and efficient.  He made us all feel like royalty and took care of our every need.  The vehicle, a stretch Excursion SUV was immaculately clean both inside and out and Bill graciously ensured there was no feature left unexplained.  Also, I love that they DON'T have any hidden fees - what they say is exactly what you get. \\n\\nWe are trying to find reasons to call them again to take a ride in their cars.  I can't imagine anyone going through anything less than a 5 star experience with Surreal Limo. We will ALWAYS be using their services for future car service needs.  \\n\\nThank you to Bill and the Surreal Team!\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Text: I wanted to try this place because it had such good reviews.  For the money I would go across the center and eat a Komol.  It is not as fancy but you will not get a Chinese food buffet either.\\n\\nMy friend ordered the blue crabs on noodles.  The noodles were good but she had to send the dish back because one a scale of 1 - 10 they seasoned it at least a 6 when she pointedly asked for a one.  When the dish came back it was lifeless and not worth eating.\\n\\nI can't remember what I had, oh wait, some pork meat grilled.  It was tough and over priced.\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Text: Within a couple hours of checking in, we found two BED BUGS! One on each bed, and one of them was crawling next to my sleeping son's head.  We checked out immediately, and had to move our sleeping kids at midnight to a new hotel. The staff was not sympathetic and didnt believe us until we showed them the two bed bugs we killed and saved in a baggie.  We had to argue about our refund and there was no manager on duty.  We left our number and told the front desk that we wanted to speak with the manager, but he or she didn't have the decency to call us back.  We cleaned and inspected all our luggage to make sure the bed bugs didn't get in there. No elevators in the hotel, and we were put on the second floor which is not convenient when you have kids.  There was a weird loud annoying noise that we never could identify.  DO NOT STAY, horrible hotel experience.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Text: To be perfectly fair... All I eat are greens and proteins! So for me this place is like coming home to a perfectly prepared meal. I was blown away by the low calorie options, by the huge selection and by how great everything tastes. If you can tolerate the pretentious yoga pant wearers and the obviously into fitness body builders then this place is amazing!\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Text: This past weekend my friends and I had an awful experience at TI. Our weekend was wonderful expect for being robbed and assaulted in the hotel. Upon arriving back to our room a homeless looking man who was smoking came rushing out of our room. As he tried to flee he grabbed my friend's husband by the neck and pushed him out of the way leaving some cuts and a bruised handprint on his neck. The man escaped through the service elevator. The man stole wallets, credit cards, cash, giftcards, some jewelry, and alcohol. The main disappointment is not the items that were taken but rather the lack of security and safety at this hotel. According to our hotel neighbors there had already been a complaint to security about this odd looking man roaming the halls yet he was never caught. Secondly, we will never stay at this hotel again or recommend it to anyone due to how the hotel management handled the situation. The hotel tried to talk us out of filing a police report, still made us pay for our stay at the hotel, and were simply not nice and unapologetic. Lastly, there was no communication between security and management about the incident which added to frustration. I do not recommend this hotel.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Text: Oh darn, the one time I venture downtown specifically for MMOCA, they closed all of the galleries (except 2) for a free-admission soiree they were having later that day. \\n\\nIt was disappointing, for sure, but I really enjoyed the gallery of permanent pieces in the basement, as well as the sculpture garden on the roof. All in all, it would have been the perfect way to spend a Saturday afternoon if the main galleries hadn't been closed.\\n\\nStill, I am 100% for giving MMOCA another try. Until next time! (:\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: D\\u00f6nerbude direkt gegen\\u00fcber der UNI bzw. des KIT.\\n\\nHabe dort einen Yufka D\\u00f6ner gegessen und war einigerma\\u00dfen zufrieden. Geschmacklich war er in Ordnung, wenn auch nicht die Offenbarung.\\n\\nWas mir nicht gefallen hat war:\\n- Der Preis von EUR 4,00. Nicht gerade ein Schn\\u00e4ppchen.\\n- Die Tatsache, dass nach dem Kassieren mein D\\u00f6ner ohne die H\\u00e4nde zu waschen gerollt wurde. Mag ich einfach nicht, zumal neben der Kasse ein Waschbecken ist. Ansonsten ist der Laden aber sauber und hinter der Theke sieht es auch gut aus.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Text: Must haves:\\n\\nBrussel Sprouts\\nSake Orenji\\nWatermelon/tuna/jalapeno - no idea what this was called. \\n\\nMay interesting tastes and great helpful staff. Also a decent happy hour spot.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Text: If you have driven by Loco Patron you know its busy,  Not sure why people are giving such low starts. The fan club here is loyal to the drinks and food.  I don't ever think I have been to this place when it does not have a good group of people hanging out.  \\n\\nThe Scottsdale location puts Local Patron between the bar side of Old Town Scottsdale and the Club side.  Here you find a great mixture of the dressed up Scottsdale folks as well as a t-shirt wearing crowed.\\n\\nI hope to see more positive reviews on this place, see for your self why this bar has a large following.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: Me and two girlfriends went to Malee's for lunch.  Two of us had the Pad Thai Noodles, mine was to be hot, the other medium.  First, the lunch came out before we were finished our salads.  It was not made to order. Came out way too fast.  The lunch was not even warm in temp.  I looked at the dish and thought the waitress had brought the wrong dishes.  The dish was supposed to be rice noodles, chicken, shrimp, bean sprouts and egg in sweet paprika vinaigrette.   It looked like a mushy mess of tomato paste and you could not tell one ingredient from another.   I tasted it and told my friend, there is not any hot to this dish.  Are you sure you did not get mine?   She said, no hot here either.  What a disappointment.  I had two shrimp and some chicken but they had no taste due to the extra strong red sauce.  We both left our plates unfinished.  Probably won't be going back.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Text: I enjoyed my stay here and really enjoyed the Desert Passage shopping as well.  No problem getting a late checkout (key when you don't get to your room until 6am).  Clean room but the bathroom had NO water pressure which is awful.  There's a lot to do without having to leave the casino proper and quite a few clubs to frequent as well.  It also was relatively inexpensive given that there were a few of us staying in the room together.  It's not the best hotel I've ever stayed in but it's certainly not the worst.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Text: Short ribs, crab cakes and chopped salad, and wait let's not forget the pecan bars with chicory ice cream, all outstanding as was the service\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Text: This place is simply amazing. Our party of five ate on the pub side since there was a longer wait for the fancy side. We feasted on puffy pierogies, meaty wings and such fantastic pizza. For a drink, I had a soda (I believe it was brewed there) with vodka which was a good choice for me since I don't drink beer. This place is a bit pricey, but you've got to think about the costs that you rack up when you set up shop IN A CHURCH! Super Holy Hell, I will definitely come back to this place the next time I'm in PGH! I was actually bummed that Zachary wasn't with me because this place would have blown him away!\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Text: Is this pool for real? Are the boobs in this pool for real? Is anything floating in this pool for real? Will someone please give one of these skinny bitches a sandwich??\\n\\nI've never seen so many beefy tattooed men with ripped abs with floozies on their arms. Rock music pumping, inner tubes bouncing.. this pool is way too cool for me.\\n\\nBody English is where these people flock to for their late night dance hip hop party. Don't even think of coming here unless you look good. Oh and if you have a penis, that's going to be a problem. A big one. (no pun intended) Come early and expect to drop some money at the door.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Text: Not bad for the store itself, great location and it's within easy reach from SR-51 & SR-202 on the corner near Scottsdale Rd. & Shea Blvd.  This store even opens 24/7, which is a plus if you need something in the middle of the night and can't get it anywhere else.\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Text: I've stayed here twice now and both times the rooms were awful. Customer Service was fine, restaurant was okay. \\n\\nFirst time:\\n\\nThe room was old, the carpet was torn, the blinds were broken, the drinking glasses were visibly dirty and the bathroom sink was a pedestal with barely enough room to fit the hand soap let alone a shaving razor. Couldn't open the closet door all the way because the entry door closer got in the way.\\n\\nSecond time:\\nWasn't offered a cookie, it was late so maybe there is a cut off time? Room was in overall better condition. I walked in and the room was freezing because the thermostat was set to 66. I turned the heat on but it didn't work so I called the front desk. They told me that because it was hot outside (high 70s) that the heat doesn't work. Okay, no problem, I'll just open the window and let in some warm air. The front desk tells me, \\\"Sorry, the windows don't open, do you want extra blankets?\\\". No, no I do not. I want a room that wasn't set to freezing prior to my arrival.  \\n\\nBoth times:\\nThe walls are quite thin so you can hear your neighbors open and closing drawers. No fridge, the room layout severely underutilized the available space. For instance, the bathroom is tiny, yet there is a hallway (alcove maybe?) that leads to the bathroom that could be walled off and tiled and would make the bathroom double the size. \\n\\nTL;DR\\n\\n2 star budget hotel at a 3.5 star price. If you're paying full price check out the Omni across the street or if you want something nicer and less expensive there is a nice Hampton Inn on Smallman street.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: I couldn't agree with Courtney P. more. Instead or ordering an Omelet here ask for a stick of butter. It will taste the same!\\n\\nIf you do decide to go I would only indulge in crepes. The Oakland location is overrun with Pitt freshman....for a better Pamela's experience hit up the one in Shadyside. And on Sunday get there before 11 or you will never be seated!\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Text: Three Stars for location.  This hotel is walking distance to all Madison has to offer.  It has a decent hotel bar, never crowded and nice clean rooms.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: Having lived in Mesa and delivered sub sandwiches to some of the tweekiest of tweakers, I don't feel any shame in admitting that whole area now resides in a dead zone for me. When I get that itch to go out and tear up the town, waste away a lazy afternoon, or enjoy a nice dinner, I think of places north, south and west of Tempe. It's like my brain has one of those little electric dog collar things attached to it, and when I start to stray too far east, it gives me a subliminal zap so I erase Mesa from the map in my mind.\\n\\nSo naturally, Stray Cats is usually a place I visit when meeting up with others who have suggested it. \\n\\nThing is, I always end up having a pretty good time when I go there. The drinks are priced reasonably and generally on the strong side, the bartenders are friendly and quick to serve. The music is pretty good, but I've never been here when a DJ's spinning. I used to like the fact that there was an air conditioned smoking room off to the side with plush couches and big televisions. The crowd is always diverse, friendly and easy to engage in slurred conversation.\\n\\nIt just doesn't have any special oomph for me. I'd much rather frequent Hollywood Alley a couple miles south, where there's pool and live music. Unfortunately it's also on the black list of Mesa, so maybe I should find a way to reverse that programming. It's not just tweakers and mormans, it's not just tweakers and mormons, it's not just tweakers and mormons....\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Text: Amazing service Kim!! Our first time here for an anniversary dinner and had a great experience. Will come again just for her.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Text: I called Robert on Friday afternoon and he was out in Saturday morning. He called while en route with an ETA and arrived promptly on time. \\n\\nAfter assessing the situation he promptly began to work setting up protective guards to keep the wall corners and furnishings from getting damaged from the hoses. Robert spent an hour and a half cleaning two sectional sofas, and he kept me apprised of his progress along the way.\\n\\nUpon finishing Robert mentioned that he guarantees his work and if I had any issues after the sofas had dried to call him and he would come back out at no charge.\\n\\nBefore leaving he gave me a bottle of deodorizer and a bottle of enzyme cleaner at no charge.\\n\\nHighly recommended. Prompt, professional and courteous.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: Prices are reasonable but there were only 4 tables with 2 chairs each. I love seeing live bands but sometimes have issues standing for long periods of time. We were therefore 30 minutes before doors opened and were unable to get s table. Last time there were at least twice as many tables.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Text: This is some of the best Indian food I have ever had. The decor is clean and modern, and prices are very inexpensive. My mom and I are visiting Charlotte and came here this evening. The flavors were clean, fresh and delicious - the specific textures and flavors came out in the food, and there was no overpowering spiciness. Our waiter was friendly, had a very relaxed and calm demeanor, and was extremely helpful when it came to ordering. I've had Indian food in a lot of different places and this was honestly the best I can remember having.\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Text: It looks beautiful in here but I have to caution you: if you have allergies to tobacco or smoke turn around and run the other way. They do NOT I repeat do not guarantee a non-smoking room. Supposedly it, and I quote, \\\"Depends on availability.\\\" Which is crap since they know what's available based on the reservations that come in. They literally forced me to take a smoking room when I am highly allergic to tobacco. Let's just say I am not thrilled and will never be returning.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: Many people had said this place was an awesome place to study on their reviews, I pretty much got kicked out so I wouldn't agree. When I walked in it was empty and I had never been there before so I assumed it was more like a coffee house not table service. The girl explained it was table service and I asked if it was alright to study and she said \\\"it gets pretty busy on the weekends,\\\" I was already there so I decided I might as well have breakfast.  The crepe was okay, not impressive by any means, I expected it to be warm and it was pretty cold. Then they made a point of letting me know that they had a wait list (even though there was clearly another person studying that was a regular) and brought me my check.  Never asked if I would have liked anything else, I was considering buying an americano (only because the coffee was so weak.)  Fun every once and a while brunch place, but don't go there to study or for the service.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Text: Metropark inside the fashion show mall is a neat store.  THey have plenty of name brands like Rock Republic, Roar, 1921, True Religion, Mek, Obey, Etc.  It is in my personal opinion the ONE store chain in the whole city that combines all these brands in one.\\n\\nThe store is well organized and the service is on point as well.  I believe the only setback with Metropark is the price.  Being most brands are \\\"in\\\" fashion they charge a premium.  A really great tip about Metropark is they have a sale rack.  On the rack you can usually find items like $300 True Religion jeans marked down to $150-220.  \\n\\nSome won't see value in a store like Metropark.  However, for those that like to spend a little more for clothing and fashion; Metropark delivers on all fronts.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Text: This is my go-to grocery store. The prices are great, and they only stock hormone free meats. I also appreciate the bulk foods so I can reduce packaging... I just put things in canisters at home. I like buying spices in bulk too since some of them I don't go through very quickly, so I can buy smaller amounts. Bulk coffee beans are awesome, and they offer a selection of fair trade and organic (costs the same as regular). They also call-out which products are local on the shelves. I buy everything here except for things like detergents and pop. It's not really their forte so they aren't very competitive. Which is fine.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Text: It's not often I'm off on a Friday afternoon to enjoy Chili's lunch menu. This was our first time at this location, normally we dine at the location on Bell and 7th Street. \\n\\nI started off with a bowl of their Southwestern Chicken Soup and it was awesome. Just the right amount of spiciness combined with a hearty portion of chicken and vegetables. My bf started out with a side salad, it a little on the small side but all the vegetables were fresh. \\n\\nI ordered a chicken sandwich on a pretzel bun and requested BBQ sauce on the side instead of mayo, the BBQ sauce didn't come so I asked again when they brought the dish. Wouldn't ya know I finished my whole sandwich and fries and never got the sauce (our server didn't check on us after bringing the food until it was time to clear the plates). The sandwich was tasty but a little on the dry side. The fries were piping hot and always well seasoned. \\n\\nJames ordered a turkey sandwich which also came with fries. His bread was much harder than it should have been for just a toasted sandwich which was a disappointment. He also never received a refill on his soda. \\n\\n\\nIf we had gotten the BBQ sauce, the refill of coke and his bread not rock hard, I would have given 4 stars for a wonderful lunch. But, since the ball was dropped on too many occasions, I can't. \\n\\nI will be back to Chili's, just not this location.\n"
+    },
+    {
+        "label": "very positive",
+        "sentence": "Text: Loved the food and atmosphere!  First time there and I was blown away.  Try the fontina, prosciutto and onion pizza,  I was humming with every bite.  For dessert the chocolate gelato cover with warm bacon and sweet buffla ricotta topped with honey and toasted pistachios a must have with some nice port.\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Text: Hertz at Phoenix Sky Harbor International Airport is the worst Hertz location when it comes to providing clean cars without problems and having cars ready at the time you reserved it for. \\n\\nI'm a Hertz Five Star member who rented a car from this location recently. A car was not ready for me, so I had to wait for a car. Then, the steering wheel had grease on it. And, during the rental, there was a constant banging/clanking sound from the rear of the car. Turned out the spare time and tools were loose in the trunk. \\n\\nIf you want good rental car quality and service, try National Car Rental, Avis, Budget or Alamo at Phoenix.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: I'm not really sue why this place gets great reviews.\\n\\nIt is really sweet build out, and I would love to enjoy the atmosphere, but I can't sit down inside???  Chris is great and does a great job with his restaurants, but I can't understand what is going on here.  The sandwich I had was just so so. \\n\\nIt's only saving grace is that it is next to Lux.  That place is the best.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Text: I like this store better than the one just off the museum lobby. The store is small but easy to navigate, with many innovative and unique items, art to wear, stuff for the kitchen. The merchandise is costly so I do not buy much here. Maybe a sale might draw me to buying something. It's a feast for the eyes. Not good for small children.\n"
+    },
+    {
+        "label": "positive",
+        "sentence": "Text: Great place for a romantic evening, though I had gone with some friends.  I really enjoyed the music, and the staff was terrifically accommodating and friendly.  However, it was REALLY dark, and the location of the bar (at the back of the room) made it difficult to see the stage (at the front of the room).  But I would go again, if only to enjoy the music of Khani Cole.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Text: the milk teas and boba are alright. I'm from Southern california, so I'm definitely biased.\\n\\nThe staff members are incredibly sweet and outgoing.\n"
+    },
+    {
+        "label": "negative",
+        "sentence": "Text: We went here for a quick lunch for my friend's Bachelorette. The setting reminds me of Cheesecake factory.\\n\\nWe got a large table and I ordered the Corned Beef Hash that isn't necessarily hashed and the hash browns were cold and a little stale. The eggs were done okay and over easy as I asked. My friend ordered the Chicken Parmesan and had to return it because there was a hair in it. My other friends also ordered the Corned Beef Hash but returned it because the meat was not edible. The waiters and waitresses served our food promptly but also forgot our bread that we ordered. \\n\\nThe food was less than mediocre and did not satisfy us at all. We walked away paying for overpriced brunch items that could've been found in a run down diner away from the strip.\n"
+    },
+    {
+        "label": "very negative",
+        "sentence": "Text: To be fair the service was good and the food just O.K. but just like everyone else mentioned the smell of the place was too much! It's smells like a dirty bathroom that was just sprayed with a very strong air freshener. Also, beware of coming after hours if you don't feel like being serenaded by very loud karaoke.\n"
+    },
+    {
+        "label": "neutral",
+        "sentence": "Text: This place is a lounge. Anyone who tells you this is a lounge/nightclub is wrong. I wouldn't recommend coming here unless you have a table with bottle service. It's too small to be considered a club by Vegas standards. It's not worth the $30 to get into. Go to an actual nightclub instead. \\n\\nThe view of the fountains of the Bellagio is nice, but the tables and the people at those tables block part of the view. Fortunately we had a table.\n"
+    }
+]

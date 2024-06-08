@@ -1,0 +1,162 @@
+[
+    {
+        "label": "True",
+        "sentence": "word: subject\nTeachers should be well trained in their subject.\nHer favorite subject is physics."
+    },
+    {
+        "label": "True",
+        "sentence": "word: raise\nWe visited a farm where they raise chickens.\nRaise a family."
+    },
+    {
+        "label": "True",
+        "sentence": "word: turn\nTurn your face to the wall.\nTurn your dance partner around."
+    },
+    {
+        "label": "True",
+        "sentence": "word: believe\nWhen you hear his sermons, you will be able to believe, too.\nAfter that night in the church, I believed."
+    },
+    {
+        "label": "False",
+        "sentence": "word: trace\nTrace a pattern.\nTrace the student's progress."
+    },
+    {
+        "label": "True",
+        "sentence": "word: vermin\nBoys in the village have probably been shooting vermin.\nCereals must be protected from mice and other vermin."
+    },
+    {
+        "label": "False",
+        "sentence": "word: wear\nWear one's hair in a certain way.\nHe always wears a smile."
+    },
+    {
+        "label": "True",
+        "sentence": "word: complexion\nA liberal political complexion.\nHe altered the complexion of his times."
+    },
+    {
+        "label": "True",
+        "sentence": "word: year\nThis Chinese year is the year of the Rooster.\nI was born in the year 1950."
+    },
+    {
+        "label": "True",
+        "sentence": "word: gather\nGather the close family members.\nIf you want to emphasise the shape, it is possible to gather the waistline."
+    },
+    {
+        "label": "False",
+        "sentence": "word: object\nThe sole object of her trip was to see her children.\nThe object of the verb."
+    },
+    {
+        "label": "False",
+        "sentence": "word: richness\nHe was well aware of the richness of his own appearance.\nThe richness all around unsettled him for he had expected to find poverty."
+    },
+    {
+        "label": "True",
+        "sentence": "word: invasion\nAn invasion of bees.\nAn invasion of mobile phones."
+    },
+    {
+        "label": "False",
+        "sentence": "word: run\nThese dyes and colors are guaranteed not to run.\nThe sale will run for ten days."
+    },
+    {
+        "label": "False",
+        "sentence": "word: run\nRun amok.\nHe is running the Marathon this year."
+    },
+    {
+        "label": "True",
+        "sentence": "word: business\nHe bought his brother's business.\nA racially integrated business concern."
+    },
+    {
+        "label": "True",
+        "sentence": "word: tell\nPlease tell me how to do it.\nI tell you that man is a crook!"
+    },
+    {
+        "label": "True",
+        "sentence": "word: mean\nI mean to go to Baddeck this summer.\nI meant to take the car in for a smog check, but it slipped my mind."
+    },
+    {
+        "label": "False",
+        "sentence": "word: answer\nThis may answer her needs.\nA few words would answer."
+    },
+    {
+        "label": "True",
+        "sentence": "word: keep\nKeep appointments.\nShe never keeps her promises."
+    },
+    {
+        "label": "True",
+        "sentence": "word: charge\nTo charge high for goods.\nWill I get charged for this service?"
+    },
+    {
+        "label": "False",
+        "sentence": "word: make\nMake a mistake.\nMy wife made me buy a new sofa."
+    },
+    {
+        "label": "False",
+        "sentence": "word: set\nSet the table.\nSet the tray down."
+    },
+    {
+        "label": "True",
+        "sentence": "word: field\nThe home crowd cheered when Princeton took the field.\nThere are several species of wild flowers growing in this field."
+    },
+    {
+        "label": "True",
+        "sentence": "word: breath\nI could hear the breath of the runner behind me.\nHe took a deep breath and dived into the pool."
+    },
+    {
+        "label": "False",
+        "sentence": "word: top\nTop the evening with champagne.\nTop and tail the carrots."
+    },
+    {
+        "label": "True",
+        "sentence": "word: guard\nGuard against infection.\nGuard against becoming too friendly with the staff."
+    },
+    {
+        "label": "True",
+        "sentence": "word: hyponym\nDog is a hyponym of animal.\nBritish is a hyponym of European."
+    },
+    {
+        "label": "True",
+        "sentence": "word: run\nA daily run of 100,000 gallons of paint.\nYesterday we did a run of 12,000 units."
+    },
+    {
+        "label": "True",
+        "sentence": "word: shell\nNuts shell in falling.\nWheat or rye shells in reaping."
+    },
+    {
+        "label": "False",
+        "sentence": "word: strike\nStrike a bargain.\nWe must strike the enemy's oil fields."
+    },
+    {
+        "label": "True",
+        "sentence": "word: form\nTo apply for the position, complete the application form.\nHe filled out his tax form."
+    },
+    {
+        "label": "False",
+        "sentence": "word: land\nHe built the house on land leased from the city.\nAn industrialized land."
+    },
+    {
+        "label": "True",
+        "sentence": "word: call\nHe heard the phone ringing but didn't want to take the call.\nHe placed a phone call to London."
+    },
+    {
+        "label": "True",
+        "sentence": "word: time\nSee you another time.\nWhen was the last time we went out? I don't remember."
+    },
+    {
+        "label": "False",
+        "sentence": "word: point\nPoint a gun.\nPoint the letter."
+    },
+    {
+        "label": "False",
+        "sentence": "word: ground\nGround the electrical connections for safety reasons.\nThe storm grounded the ship."
+    },
+    {
+        "label": "False",
+        "sentence": "word: break\nI had to break a $100 bill just to buy the candy.\nDid you two break the trolley by racing with it?"
+    },
+    {
+        "label": "True",
+        "sentence": "word: collision\nThe collision of the two ships resulted in a serious oil spill.\nThree passengers were killed in the collision."
+    },
+    {
+        "label": "True",
+        "sentence": "word: raise\nRaise hell.\nRaise the roof."
+    }
+]

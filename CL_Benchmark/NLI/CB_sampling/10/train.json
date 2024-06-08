@@ -1,0 +1,22 @@
+[
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: How do you know? she was going to ask, but his smile was answer enough. If DeVore said there was going to be a vacancy there would be a vacancy.\nsentence 2: there was going to be a vacancy"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: But the horror of losing was as much to do with money as with pride. Biddy had never let them down, come without fail all through the bad weather, and now was giving Nails an intensive course on her own horse which - in terms of money - was worth another couple of hundred pounds. Yet surely she knew they had no way of paying should she demand it?\nsentence 2: they had no way of paying"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: I should dearly have liked to know whether they were Europeans or Americans, but I couldn't hear the accents. They appeared to be arguing. I hoped the white men weren't telling him to eliminate all witnesses because I don't believe it would have needed much persuasion.\nsentence 2: eliminating all witnesses would have needed much persuasion"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: A: so it's nice to get away. It's just amazing, how much you miss. B: Yeah, it,  Yeah, it, yeah, it really is. I mean, I don't think I ever see the Little Dipper,\nsentence 2: she has seen the Little Dipper"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: ``You don't need to worry. We're quite adequately chaperoned. Rosa is a woman of strict moral principles.'' If she knows I'm in here she's probably hovering outside the door right now.\nsentence 2: he's in here"
+    }
+]

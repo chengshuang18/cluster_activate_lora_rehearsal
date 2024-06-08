@@ -1,0 +1,162 @@
+[
+    {
+        "label": "True",
+        "sentence": "question: has the indy 500 ever been rained out\npassage: Indianapolis 500 traditions -- The race has always been scheduled in conjunction with Memorial Day. Through 1970, the race was held on Memorial Day proper (May 30), regardless of the day of the week, unless it fell on Sunday. In those cases it was scheduled for Monday May 31. After the Uniform Monday Holiday Act took effect in 1971, the race was scheduled as part of the three-day Memorial Day weekend instead, either the Saturday, the Sunday, or the Monday. Since 1974, the race has been scheduled for the Sunday of Memorial Day weekend, and has been held on Sunday with only two exceptions due to rain delays."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is spectre the last daniel craig bond film\npassage: Spectre (2015 film) -- There's a sequel of Spectre is on developing which is expected to release in November 2019. Daniel Craig is returning as James Bond for the fifth time. It will be 25th James Bond film."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is yorkshire the largest county in the uk\npassage: Yorkshire -- Yorkshire (/ˈjɔːrkʃər, -ʃɪər/; abbreviated Yorks), formally known as the County of York, is a historic county of Northern England and the largest in the United Kingdom. Due to its great size in comparison to other English counties, functions have been undertaken over time by its subdivisions, which have also been subject to periodic reform. Throughout these changes, Yorkshire has continued to be recognised as a geographical territory and cultural region. The name is familiar and well understood across the United Kingdom and is in common use in the media and the military, and also features in the titles of current areas of civil administration such as North Yorkshire, South Yorkshire, West Yorkshire and East Riding of Yorkshire."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is variance the square root of standard deviation\npassage: Standard deviation -- The standard deviation of a random variable, statistical population, data set, or probability distribution is the square root of its variance. It is algebraically simpler, though in practice less robust, than the average absolute deviation. A useful property of the standard deviation is that, unlike the variance, it is expressed in the same units as the data."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there a military base in rhode island\npassage: Naval Station Newport -- The Naval Station Newport (NAVSTA Newport) is a United States Navy base located in the city of Newport and the town of Middletown, Rhode Island. Naval Station Newport is home to the Naval War College and the Naval Justice School. It once was the homeport for Cruiser Destroyer Force Atlantic (COMCRUDESLANT), which relocated to Naval Station Norfolk in the early 1970s. Newport now maintains inactive ships at its pier facilities, along with the United States Coast Guard. In BRAC 2005 (Base Realignment and Closure), NAVSTA Newport gained over five hundred billets, in addition to receiving, again, the Officer Candidate School (OCS), the Naval Supply Corps School (in 2011), and several other activities, to include a few Army Reserve units."
+    },
+    {
+        "label": "False",
+        "sentence": "question: was kentucky a southern state in the civil war\npassage: Kentucky in the American Civil War -- Kentucky, being a border state, was among the chief places where the ``Brother against brother'' scenario was prevalent. Kentucky officially declared its neutrality at the beginning of the war, but after a failed attempt by Confederate General Leonidas Polk to take the state of Kentucky for the Confederacy, the legislature petitioned the Union Army for assistance. After early 1862 Kentucky came largely under Union control."
+    },
+    {
+        "label": "False",
+        "sentence": "question: do chinese citizens need a visa for morocco\npassage: Visa requirements for Chinese citizens -- Visa requirements for Chinese citizens were lifted by Micronesia on 18 December 1980, the Bahamas on 12 Feb 2014, Indonesia in 2015, Grenada on 10 Jun 2015, Ecuador on 1 March 2016, Morocco on 1 June 2016, Tonga on 19 August 2016, Saint Kitts and Nevis on 1 January 2017, Serbia on 15 January 2017, Tunisia on 15 February 2017, Barbados on 1 June 2017, United Arab Emirates on 16 January 2018, Bosnia and Herzegovina on 29 May 2018, British Virgin Islands on 5 July 2018, St Lucia on 18 July 2018, and Belarus on 10 August 2018."
+    },
+    {
+        "label": "False",
+        "sentence": "question: was there a drinking age in the 1920's\npassage: Alcohol law -- In the United States, there was an attempt from 1919 to 1933 to eliminate the drinking of alcoholic beverages by means of a national prohibition of their manufacture and sale. This period became known as the Prohibition era. During this time, the 18th Amendment to the Constitution of the United States made the manufacture, sale, and transportation of alcoholic beverages illegal throughout the United States."
+    },
+    {
+        "label": "True",
+        "sentence": "question: was the bronze age before the iron age\npassage: Three-age system -- The three-age system is the categorization of history into time periods divisible by three; for example, the Stone Age, Bronze Age, and Iron Age, although it also refers to other tripartite divisions of historic time periods. In history, archaeology and physical anthropology, the three-age system is a methodological concept adopted during the 19th century by which artifacts and events of late prehistory and early history could be ordered into a recognizable chronology. It was initially developed by C.J. Thomsen, director of the Royal Museum of Nordic Antiquities, Copenhagen, as a means to classify the museum's collections according to whether the artifacts were made of stone, bronze, or iron."
+    },
+    {
+        "label": "True",
+        "sentence": "question: do morning doves lay eggs more than once a year\npassage: Mourning dove -- Mourning doves are prolific breeders. In warmer areas, these birds may raise up to six broods in a season. This fast breeding is essential because mortality is high. Each year, mortality can reach 58% a year for adults and 69% for the young."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is pine oil and turpentine the same thing\npassage: Pine oil -- Pine oil is distinguished from other products from pine, such as turpentine, the low-boiling fraction from the distillation of pine sap, and rosin, the thick tar remaining after turpentine is distilled."
+    },
+    {
+        "label": "True",
+        "sentence": "question: star trek voyager do they ever get home\npassage: Endgame (Star Trek: Voyager) -- In the show's final minutes, the crew stand dumbfounded that they have finally returned home after seven years lost in the Delta Quadrant and are greeted by a fleet of Starfleet vessels that had arrived to fight the Borg. Settling down in her chair, Captain Janeway issues her final orders with the same words she used at the start of Voyager's journey: ``Set a course...for home.''"
+    },
+    {
+        "label": "False",
+        "sentence": "question: is us polo association part of ralph lauren\npassage: Polo Ralph Lauren vs U.S. Polo Association -- Polo Ralph Lauren vs United States Polo Association became an ongoing legal battle after the first lawsuit in 1984. Ralph Lauren, the core designer and owner of the sportswear and fragrance line Polo Ralph Lauren of the Ralph Lauren Corporation, filed his first lawsuit against U.S. Polo Association, the governing body of the game of polo in the U.S., in 1984 on claims of trademark infringement. A series of lawsuits has since then been filed. USPA filed countersuits but the court had always ruled in favor of Ralph Lauren until a 2014 dismissal of Lauren's lawsuit. The two merchandise companies are currently disputing the use of the double horsemen logo used on a sunglass line launched by USPA."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are pasilla chiles and poblano chiles the same\npassage: Pasilla -- In the United States, producers and grocers sometimes incorrectly use ``pasilla'' to describe the poblano, a different, wider variety of pepper, the dried form of which is called an ancho."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are there grizzly bears in the upper peninsula\npassage: Grizzly bear -- There are currently about 55,000 wild grizzly bears total located throughout North America, most of which reside in Alaska. Only about 1,500 grizzlies are left in the lower 48 states of the US. Of these, about 800 live in Montana. About 600 more live in Wyoming, in the Yellowstone-Teton area. There are an estimated 70--100 grizzly bears living in northern and eastern Idaho. Its original range included much of the Great Plains and the southwestern states, but it has been extirpated in most of those areas. Combining Canada and the United States, grizzly bears inhabit approximately half the area of their historical range."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the world cup of soccer played every year\npassage: FIFA World Cup -- The FIFA World Cup, often simply called the World Cup, is an international association football competition contested by the senior men's national teams of the members of the Fédération Internationale de Football Association (FIFA), the sport's global governing body. The championship has been awarded every four years since the inaugural tournament in 1930, except in 1942 and 1946 when it was not held because of the Second World War. The current champion is France, which won its second title at the 2018 tournament in Russia."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the lincoln memorial on the national mall\npassage: National Mall -- The term National Mall commonly includes areas that are also officially part of neighboring West Potomac Park and Constitution Gardens to the southwest. The term is often taken to refer to the entire area between the Lincoln Memorial on the west and east to the United States Capitol grounds, with the Washington Monument dividing the area slightly west of its midpoint. A smaller designation sometimes referred to as the National Mall (proper) excludes both the Capitol grounds and the Washington Monument grounds, applying only to an area between them."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is a fixed asset a non current asset\npassage: Fixed asset -- Moreover, a fixed/non-current asset can also be defined as an asset not directly sold to a firm's consumers/end-users. As an example, a baking firm's current assets would be its inventory (in this case, flour, yeast, etc.), the value of sales owed to the firm via credit (i.e. debtors or accounts receivable), cash held in the bank, etc. Its non-current assets would be the oven used to bake bread, motor vehicles used to transport deliveries, cash registers used to handle cash payments, etc. While these non-current assets have value, they are not directly sold to consumers and cannot be easily converted to cash."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there a once upon a time season 7\npassage: Once Upon a Time (season 7) -- The seventh season of the American ABC fantasy-drama Once Upon a Time was ordered on May 11, 2017. It consisted of 22 episodes, airing on Fridays, having premiered on October 6, 2017."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are virginia and west virginia the same state\npassage: West Virginia -- West Virginia (/vərˈdʒɪniə/ ( listen)) is a state located in the Appalachian region of the Southern and Mid-Atlantic United States. It is bordered by Virginia to the southeast, Kentucky to the southwest, Ohio to the northwest, and Pennsylvania and Maryland to the northeast. West Virginia is the 41st largest state by area, and is ranked 38th in population. The capital and largest city is Charleston."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is it illegal to jaywalk in the uk\npassage: Jaywalking -- The term ``jaywalking'' is used largely in the United States where rules applicable to pedestrians are less permissive than in countries such as the United Kingdom. Legal texts in other countries use different concepts, such as Rules applicable to pedestrians in the Vienna Convention on Road Traffic. One member of this convention, the United Kingdom, does not have jaywalking laws; its Highway Code relies on the pedestrian making their own judgment on whether it is safe to cross based on the Green Cross Code. Pedestrians do have priority over turning vehicles. Rule 170 of the UK's Highway Code states that a driver should ``watch out for pedestrians crossing a road into which you are turning. If they have started to cross they have priority, so give way.''"
+    },
+    {
+        "label": "False",
+        "sentence": "question: can the basic structure of the constitution be amended\npassage: Basic structure doctrine -- The basic structure doctrine is an Indian judicial principle that the Constitution of India has certain basic features that cannot be altered or destroyed through amendments by the parliament. Key among these ``basic features'', are the fundamental rights granted to individuals by the constitution. The doctrine thus forms the basis of a limited power of the Supreme Court to review and strike down constitutional amendments enacted by the Parliament which conflict with or seek to alter this ``basic structure'' of the Constitution. The basic structure doctrine applies only to constitutional amendments. The basic features of the Constitution have not been explicitly defined by the Judiciary, and the claim of any particular feature of the Constitution to be a ``basic'' feature is determined by the Court in each case that comes before it. The basic structure doctrine does not apply to ordinary Acts of Parliament, which must itself be in conformity with the Constitution."
+    },
+    {
+        "label": "True",
+        "sentence": "question: did lebron james won a championship in cleveland\npassage: LeBron James -- In Miami, James won his first NBA championship in 2012, and followed that with another title a year later. He was named league MVP and NBA Finals MVP in both championship years. In 2014, James opted out of his contract with Miami after four seasons to re-sign with the Cavaliers. In 2016, James led the Cavaliers to their first NBA championship by defeating the Golden State Warriors to end Cleveland's 52-year professional sports title drought. In 2018, he opted out of his Cleveland contract to sign with the Lakers."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is taylor still on the bold and beautiful\npassage: Taylor Hayes (The Bold and the Beautiful) -- Taylor Hayes is a fictional character from the American CBS soap opera The Bold and the Beautiful, portrayed by Hunter Tylo. The character was created by William J. Bell and debuted during the episode dated June 6, 1990. Tylo appeared as a regular continuously until 1994 when she took a hiatus for a few months before being written back into the series. In 1996, she left the serial after being cast on Melrose Place, where she was soon fired on the grounds of being pregnant, and returned shortly after. In 2002, Tylo and the show's executive producer Bradley Bell had mutually agreed that the character was ``played out'', and Taylor was subsequently killed off, last appearing on October 30, 2002. Tylo returned in 2004, reprising Taylor as a ghost. She returned on a permanent basis in April 2005, with the character revealed to be alive. Tylo exited The Bold and the Beautiful again in July 2013, but returned for multiple guest appearances in 2014. She returned again in April 2018."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are they making a season 2 of lab rats elite force\npassage: Lab Rats: Elite Force -- In October 2016, actress Kelli Berglund reported on Twitter that there would not be a second season of Lab Rats: Elite Force."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you get aero bars in the us\npassage: Aero (chocolate) -- The Aero bar was made available for a short time in the United States by Nestlé during the 1980s, though it seems not to have been a commercial success. However, they are still available at certain speciality vendors or supermarkets such as Big Y, Wegmans and Publix that import the bars. Previously The Hershey Company sold Aero bars in the United States under licence from Rowntree Chocolate Company from 1937 until 1939. Hershey currently markets a similar bar called Hershey's Air Delight."
+    },
+    {
+        "label": "True",
+        "sentence": "question: does aortic valve stenosis cause low blood pressure\npassage: Aortic stenosis -- Since the stenosed aortic valve may limit the heart's output, people with aortic stenosis are at risk of syncope and dangerously low blood pressure should they use any of a number of medications for cardiovascular diseases that often coexist with aortic stenosis. Examples include nitroglycerin, nitrates, ACE inhibitors, terazosin (Hytrin), and hydralazine. Note that all of these substances lead to peripheral vasodilation. Under normal circumstances, in the absence of aortic stenosis, the heart is able to increase its output and thereby offset the effect of the dilated blood vessels. In some cases of aortic stenosis, however, due to the obstruction of blood flow out of the heart caused by the stenosed aortic valve, cardiac output cannot be increased. Low blood pressure or syncope may ensue."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is michelin tires the same as michelin stars\npassage: Michelin Guide -- Michelin Guides (French: Guide Michelin (ɡid miʃ.lɛ̃)) are a series of guide books published by the French tyre company Michelin for more than a century. The term normally refers to the annually published Michelin Red Guide, the oldest European hotel and restaurant reference guide, which awards up to three Michelin stars for excellence to a select few establishments. The acquisition or loss of a star can have dramatic effects on the success of a restaurant. Michelin also publishes a series of general guides to cities, regions, and countries, the Green Guides."
+    },
+    {
+        "label": "False",
+        "sentence": "question: does treason carry the death penalty in england\npassage: High treason in the United Kingdom -- Since the Crime and Disorder Act 1998 became law, the maximum sentence for treason in the UK has been life imprisonment."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can a person from california buy a gun in arizona\npassage: Gun laws in Arizona -- Arizona gun laws are found mostly in Title 13, Chapter 31 of the Arizona Revised Statutes. There is no registration or licensing of non-NFA firearms in Arizona. Section 13-3108 subsection B prohibits any political subdivision of the state from enacting any laws requiring licensing or registration. According to state law, a person must be 18 years of age to purchase any non-NFA firearm from any source; however, there is a federal age limit of 21 years on handgun purchases from federal firearms licensees."
+    },
+    {
+        "label": "False",
+        "sentence": "question: do all bacterial cells have the ability to produce endospores\npassage: Endospore -- An endospore is a dormant, tough, and non-reproductive structure produced by certain bacteria from the Firmicute phylum. The name ``endospore'' is suggestive of a spore or seed-like form (endo means within), but it is not a true spore (i.e., not an offspring). It is a stripped-down, dormant form to which the bacterium can reduce itself. Endospore formation is usually triggered by a lack of nutrients, and usually occurs in gram-positive bacteria. In endospore formation, the bacterium divides within its cell wall. One side then engulfs the other. Endospores enable bacteria to lie dormant for extended periods, even centuries. There are many reports of spores remaining viable over 10,000 years, and revival of spores millions of years old has been claimed. There is one report of viable spores of Bacillus marismortui in salt crystals approximately 250 million years old. When the environment becomes more favorable, the endospore can reactivate itself to the vegetative state. Most types of bacteria cannot change to the endospore form. Examples of bacteria that can form endospores include Bacillus and Clostridium."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there a sequel to guardians of the galaxy\npassage: Guardians of the Galaxy Vol. 2 -- Guardians of the Galaxy Vol. 2 is a 2017 American superhero film based on the Marvel Comics superhero team Guardians of the Galaxy, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to 2014's Guardians of the Galaxy and the fifteenth film in the Marvel Cinematic Universe (MCU). Written and directed by James Gunn, the film stars an ensemble cast featuring Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper, Michael Rooker, Karen Gillan, Pom Klementieff, Elizabeth Debicki, Chris Sullivan, Sean Gunn, Sylvester Stallone, and Kurt Russell. In Guardians of the Galaxy Vol. 2, the Guardians travel throughout the cosmos as they help Peter Quill learn more about his mysterious parentage."
+    },
+    {
+        "label": "True",
+        "sentence": "question: do the dogs die in where the red fern grows 2\npassage: Where the Red Fern Grows -- Billy's mother and sisters are overjoyed with the prizes. He continues hunting. One night Old Dan and Little Ann tree a mountain lion, and it attacks. Billy enters the fight with his axe, hoping to save his dogs, but they end up having to save him. Eventually, they kill the mountain lion, but Old Dan is badly wounded, and Billy finds his intestines in a bush. He dies late that night. Billy is heartbroken, and Little Ann loses the will to live, stops eating, and dies of grief a few days later on Old Dan's grave. Billy's father tries to tell him that it is all for the best, because with the money they received from winning the championship hunt, they can move to town. He goes to visit Old Dan and Little Ann's graves and finds a giant red fern between them. According to Native American legend, only an angel can plant one. He and his family look at it in awe, and he feels ready to move on knowing that his dogs are always going to be remembered."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is a pangolin the same as an armadillo\npassage: Pangolin -- Pangolins were formerly classified with various other orders, for example Xenarthra, which includes the ordinary anteaters, sloths, and the similar-looking armadillos. Newer genetic evidence, however, indicates their closest living relatives are the Carnivora with which they form the clade Ferae. Some palaeontologists, placing Ernanodonta in a separate suborder of Cimolesta near Pholidota, have classified the pangolins in the order Cimolesta, together with several extinct groups indicated (†) below, though this idea has fallen out of favor since cimolestids have been determined to have not been placental mammals. A 2015 study has supported close affinities between pangolins and the extinct group Creodonta, as well as many former Cimolestans (Cimolestes itself was recovered as a far more basal mammal)."
+    },
+    {
+        "label": "False",
+        "sentence": "question: does court number 1 at wimbledon have a roof\npassage: No. 1 Court (Wimbledon) -- In April 2013, the All England Club confirmed its intention to build a retractable roof over No.1 Court. The roof is expected to be in place for the 2019 Championships."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are there still killer whales at sea world\npassage: List of captive orcas -- Earth (アース, Āsu) was born at Kamogawa Sea World located in Chiba Prefecture, Japan on October 13, 2008. ``Kamogawa is the location of Kamogawa Seaworld, which opened in 1970... Lovey gave birth to Earth on October 13, 2008, which makes Lovey the first captive-born mother in a Japanese marine park''. His mother is Lovey and his father is Oscar who died on December 21, 2012."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the movie a quiet place based on a true story\npassage: A Quiet Place (film) -- A Quiet Place is a production of Sunday Night and Platinum Dunes; it was produced on a budget of $17 million. Krasinski wrote the screenplay with story co-writers Scott Beck and Bryan Woods. Beck and Woods grew up together in the US state of Iowa, and had watched numerous silent films in college. By 2013, they began working on the story that would lead to the film. They used their experience growing up close to farmland as the basis, including a grain silo setting as a place considered dangerous in their upbringing. They initiated their approach with a 15-page proof of concept. Initially, the writers had considered developing the film into a Cloverfield installment, but after pitching their ideas to the studio collectively, all of those involved decided to keep the film its own entity."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is rhode island one of the 13 colonies\npassage: Rhode Island -- On May 4, 1776, the Colony of Rhode Island became the first of the Thirteen Colonies to renounce its allegiance to the British Crown, and it was the fourth among the newly independent states to ratify the Articles of Confederation on February 9, 1778. The state boycotted the 1787 convention which drew up the United States Constitution and initially refused to ratify it; it was the last of the original states to do so on May 29, 1790."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is puerto rico a state of the us\npassage: Puerto Rico -- Puerto Rico (Spanish for ``Rich Port''), officially the Commonwealth of Puerto Rico (Spanish: Estado Libre Asociado de Puerto Rico, lit. ``Free Associated State of Puerto Rico'') and briefly called Porto Rico, is an unincorporated territory of the United States located in the northeast Caribbean Sea."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are the british virgin islands part of the eu\npassage: British Virgin Islands -- British Virgin Islanders are British Overseas Territories citizens and since 2002 are British citizens as well. Although the territory is not part of the European Union and not directly subject to EU law, British Virgin Islanders are deemed to be citizens of the EU by virtue of their British citizenship."
+    }
+]

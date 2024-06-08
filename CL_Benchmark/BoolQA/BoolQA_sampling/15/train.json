@@ -1,0 +1,162 @@
+[
+    {
+        "label": "False",
+        "sentence": "question: can you play all ps1 games on ps2\npassage: List of PlayStation games incompatible with PlayStation 2 -- The PlayStation 2 was designed to be backward compatible with PlayStation games. However, not all PlayStation games work on the PlayStation 2. In addition, later models of the PlayStation 2 console could not play all of the games that were released for prior version of the PlayStation 2. This article provides a list of some of the PlayStation and PlayStation 2 games that are not compatible with all models of the PlayStation 2."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is sky movies the same as sky cinema\npassage: Sky Cinema -- Sky Cinema (formerly Sky Movies) is the collective name for the premium subscription television film channels operated in the United Kingdom and the Republic of Ireland by Sky plc. The UK and Ireland channels have over 5 million subscribers, via satellite, cable and IPTV. In addition to the television channels, it has an interactive 'red button' service, a website (sky.com/movies) and in 2005 launched a 3G mobile service via Vodafone."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the very first mcdonald's still open\npassage: McDonald's No. 1 Store Museum -- A museum also exists at the original McDonald's site in San Bernardino on U.S. Route 66 in California. It is a reconstruction operated by the owner of the Juan Pollo chain and is not affiliated with McDonald's Corporation."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is a cockatiel part of the parrot family\npassage: Cockatiel -- The cockatiel is the only member of the genus Nymphicus. It was previously considered a crested parrot or small cockatoo; however, more recent molecular studies have assigned it to its own subfamily, Nymphicinae. It is, therefore, now classified as the smallest of the Cacatuidae (cockatoo family). Cockatiels are native to Australia, and favour the Australian wetlands, scrublands, and bush lands."
+    },
+    {
+        "label": "True",
+        "sentence": "question: was the real jim lovell in the movie apollo 13\npassage: Jim Lovell -- In 1995, actor Tom Hanks portrayed Lovell in the hit movie Apollo 13, based on Lovell's book Lost Moon. Lovell himself makes a cameo in this movie, playing the captain of the USS Iwo Jima at the end of the film. In 1998, actor Tim Daly portrayed Lovell in portions of the HBO miniseries From the Earth to the Moon. The film depicts Lovell during his missions aboard Gemini 12, Apollo 8, and Apollo 13, though he is not seen on screen during the latter mission."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the show jessie filmed in new york\npassage: Jessie (2011 TV series) -- After casting was finalized and changes were made to several of the characters to suit the actors chosen, the series skipped the pilot phase and was put directly into production. Filming began in June 2011 on Stage 3/8 at Hollywood Center Studios which, prior to start of production, served as the sound stage where the Disney Channel series Wizards of Waverly Place was taped. 13 episodes were originally ordered for the first season, but while the show's first season was in production, Disney Channel ordered an additional seven episodes, bringing the total number of episodes for the first season to 20. When asked about the atmosphere on set during an interview with MSN TV, Ryan described her relationship with the young cast: ``I definitely feel like a nanny! They are smart kids, but they're real kids. They like to have fun. My policy is: We can play hard, as long as we work hard, and because we work hard, we need to play hard.'' Filming on the series wrapped on February 22, 2015."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is 1 liter equal to 1 cubic decimeter\npassage: Litre -- The litre (SI spelling) or liter (American spelling) (symbols L or l, sometimes abbreviated ltr ) is an SI accepted metric system unit of volume equal to 1 cubic decimetre (dm), 1,000 cubic centimetres (cm) or 1/1,000 cubic metre. A cubic decimetre (or litre) occupies a volume of 10 cm×10 cm×10 cm (see figure) and is thus equal to one-thousandth of a cubic metre."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is ulster bank part of royal bank of scotland\npassage: Ulster Bank -- Established in 1836, Ulster Bank was acquired by the Westminster Bank in 1917. As a direct subsidiary of National Westminster Bank (NatWest), it became part of The Royal Bank of Scotland Group in 2000. It has 146 branches in the Republic of Ireland and 90 in Northern Ireland with over 1,200 non-charging ATMs. The Group has over 3,000 employees and over 1.9 million clients."
+    },
+    {
+        "label": "True",
+        "sentence": "question: in the last song does ronnie's dad die\npassage: The Last Song (film) -- Ronnie soon hears the rumor that her father burned down the church from some locals. Distraught, she goes to Will and laments about the situation. Will, knowing that it was actually his friend Scott who while playing around set fire to the church, is overcome by guilt and goes to Steve to apologize. When Ronnie comes in hearing this, she walks out and Will follows where they have an argument and break up. Will leaves. Fall arrives and Jonah returns to New York for the school year. Ronnie stays behind to take care of their father, who revealed to Ronnie & Jonah during the summer that he is terminally ill. Leading a slow life, she tries to make up for the time with her father that she's lost. She continues work on a composition he had been writing (titled ``For Ronnie''), after losing the steadiness of his hands due to his illness. He dies just as she finishes it."
+    },
+    {
+        "label": "True",
+        "sentence": "question: do you breathe in water when you drown\npassage: Drowning -- Drowning is more common when the weather is warm and among those with frequent access to water. Risk factors include alcohol use, epilepsy, and low socioeconomic status. Common locations of drowning include swimming pools, bathtubs, natural bodies of water, and buckets. Initially the person holds their breath, which is followed by laryngospasm, and then low oxygen levels. Significant amounts of water typical only enter the lungs later in the process. It may be classified by outcome into death, ongoing health problems, and no ongoing health problems."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is anakin a jedi master in episode 3\npassage: Star Wars: Episode III – Revenge of the Sith -- Palpatine appoints Anakin to the Jedi Council as his representative, but the Council declines to grant Anakin the rank of Jedi Master and orders him to spy on Palpatine, causing Anakin's faith in the Jedi to diminish significantly. Palpatine tantalizes Anakin with secret knowledge of the dark side of the Force, including the power to save his loved ones from dying. Meanwhile, Obi-Wan travels to the planet Utapau, where he kills Grievous, and Yoda travels to Kashyyyk to defend the planet from invasion. Tempting Anakin, Palpatine eventually reveals that he is the Sith Lord Darth Sidious, saying that only he has the knowledge to save Padmé from dying. Anakin reports Palpatine's treachery to Mace Windu, who confronts and subdues the Sith Lord, severely disfiguring him in the process. Fearing that he will lose Padmé, Anakin intervenes on Palpatine's behalf and severs Windu's hand, allowing Palpatine to throw him out of a window to his death. Anakin pledges himself to Palpatine, who dubs him Darth Vader. Palpatine issues an order for the clone troopers to kill their Jedi commanders and dispatches Vader along with a legion of clones to kill everyone in the Jedi Temple. Vader then massacres the remaining Separatist leaders hiding on the volcanic planet Mustafar, while Palpatine addresses the Galactic Senate, transforming the Republic into the Galactic Empire and declaring himself Emperor. Having survived the chaos, Obi-Wan and Yoda return to Coruscant and learn of Anakin's treachery."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the orientation of a protein sequence important for the protein function\npassage: Protein primary structure -- In addition to those listed above, the most important modification of primary structure is peptide cleavage (by chemical hydrolysis or by proteases). Proteins are often synthesized in an inactive precursor form; typically, an N-terminal or C-terminal segment blocks the active site of the protein, inhibiting its function. The protein is activated by cleaving off the inhibitory peptide."
+    },
+    {
+        "label": "True",
+        "sentence": "question: does the ball swing towards the shiny side\npassage: Swing bowling -- When the ball is older and there is an asymmetry in roughness the seam no longer causes the pressure difference, and can actually reduce the swing of the ball. Air turbulence is no longer used to create separation point differences and therefore the lift and pressure differences. On the rough side of the ball there are scratches and pits in the ball's surface. These irregularities act in the same manner as the dimples of a golf ball: they trap the air, creating a layer of trapped air next to the rough side of the ball, which moves with the surface of the ball. The smooth side does not trap a layer of air. The next layer of air outward from the ball will have a greater velocity over the rough side, due to its contact with a layer of trapped air, rather than solid ball. This lowers the static pressure relative to the shiny side, which swings the ball. If the scratches and tears completely cover the rough side of the ball, the separation point on the rough side will move to the back of the ball, further than that of the turbulent air, thereby creating more lift and faster air flow. This is why a new ball will swing more than an old ball. If the seam is used to create the turbulent air on the rough side, the tears will not fill as quickly as they would with laminar flow, dampening the lift and pressure differences."
+    },
+    {
+        "label": "False",
+        "sentence": "question: the fermentation of sugar to alcohol can take place only if living yeast cells are present\npassage: Fermentation -- Although showing fermentation to be the result of the action of living microorganisms was a breakthrough, it did not explain the basic nature of the fermentation process, or prove that it is caused by the microorganisms that appear to be always present. Many scientists, including Pasteur, had unsuccessfully attempted to extract the fermentation enzyme from yeast. Success came in 1897 when the German chemist Eduard Buechner ground up yeast, extracted a juice from them, then found to his amazement that this ``dead'' liquid would ferment a sugar solution, forming carbon dioxide and alcohol much like living yeasts. Buechner's results are considered to mark the birth of biochemistry. The ``unorganized ferments'' behaved just like the organized ones. From that time on, the term enzyme came to be applied to all ferments. It was then understood that fermentation is caused by enzymes that are produced by microorganisms. In 1907, Buechner won the Nobel Prize in chemistry for his work."
+    },
+    {
+        "label": "True",
+        "sentence": "question: was rookie of the year filmed at wrigley\npassage: Rookie of the Year (film) -- Filming took place on location at, among other venues, Wrigley Field (including in between games of a doubleheader between the Cubs and the rival St. Louis Cardinals) and O'Hare Airport. However, the road game against the Dodgers was filmed at Comiskey Park"
+    },
+    {
+        "label": "False",
+        "sentence": "question: is red lobster still a part of darden\npassage: Darden Restaurants -- Darden Restaurants, Inc. is an American multi-brand restaurant operator headquartered in Orlando. As of April 2017, the firm owns two fine dining restaurant chains: Eddie V's Prime Seafood and The Capital Grille; and six casual dining restaurant chains: Olive Garden, LongHorn Steakhouse, Bahama Breeze, Seasons 52, Yard House and Cheddar's Scratch Kitchen (the latter having been acquired on April 24, 2017). Until July 28, 2014, Darden also owned Red Lobster. Darden has more than 1,500 restaurant locations and more than 150,000 employees, making it the world's largest full-service restaurant company. As of 2012, Darden is the only Fortune 500 company with its corporate headquarters in Greater Orlando."
+    },
+    {
+        "label": "True",
+        "sentence": "question: have two teams ever met twice in world cup\npassage: FIFA World Cup -- Among the national teams, Germany and Brazil have played the most World Cup matches (109), Germany appeared in the most finals (8), semi-finals (13), quarter-finals (16), while Brazil has appeared in the most World Cups (21), has the most wins (73) and has scored the most goals (229). The two teams have played each other twice in the World Cup, in the 2002 final and in the 2014 semi-final."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can a us president be elected more than twice\npassage: Twenty-second Amendment to the United States Constitution -- Section 1. No person shall be elected to the office of the President more than twice, and no person who has held the office of President, or acted as President, for more than two years of a term to which some other person was elected President shall be elected to the office of the President more than once. But this Article shall not apply to any person holding the office of President when this Article was proposed by the Congress, and shall not prevent any person who may be holding the office of President, or acting as President, during the term within which this article becomes operative from holding the office of President or acting as President during the remainder of such term."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can a cow produce milk without ever being pregnant\npassage: Dairy cattle -- To maintain lactation, a dairy cow must be bred and produce calves. Depending on market conditions, the cow may be bred with a ``dairy bull'' or a ``beef bull.'' Female calves (heifers) with dairy breeding may be kept as replacement cows for the dairy herd. If a replacement cow turns out to be a substandard producer of milk, she then goes to market and can be slaughtered for beef. Male calves can either be used later as a breeding bull or sold and used for veal or beef. Dairy farmers usually begin breeding or artificially inseminating heifers around 13 months of age. A cow's gestation period is approximately nine months. Newborn calves are removed from their mothers quickly, usually within three days, as the mother/calf bond intensifies over time and delayed separation can cause extreme stress on both cow and calf."
+    },
+    {
+        "label": "False",
+        "sentence": "question: stand by me movie based on a true story\npassage: Stand by Me (film) -- Stand by Me is a 1986 American coming-of-age drama film directed by Rob Reiner, and starring Wil Wheaton, River Phoenix, Corey Feldman, and Jerry O'Connell. The film, whose plot is based on Stephen King's novella The Body (1982) and title is derived from Ben E. King's eponymous song, which plays over the ending credits, tells the story of four boys in a small town in Oregon who go on a hike to find the dead body of a missing child."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is once upon a time tv show over\npassage: Once Upon a Time (TV series) -- Once Upon a Time is an American fantasy drama television series on ABC which debuted on October 23, 2011, and concluded on May 18, 2018. The first six seasons are largely set in the fictitious seaside town of Storybrooke, Maine, with the character of Emma Swan serving as the lead, while the seventh and final season takes place in a Seattle, Washington neighborhood called Hyperion Heights, with a new main narrative led by Swan's son, Henry Mills. The show borrows elements and characters from the Disney franchise and popular Western literature, folklore, and fairy tales."
+    },
+    {
+        "label": "True",
+        "sentence": "question: by the end of the fourth century christianity was the official religion of the roman empire\npassage: State church of the Roman Empire -- Nicene Christianity became the state church of the Roman Empire with the Edict of Thessalonica in 380 AD, when Emperor Theodosius I made it the Empire's sole authorized religion. The Eastern Orthodox Church, Oriental Orthodoxy, and the Catholic Church each claim to be the historical continuation of this church in its original form, but do not identify with it in the caesaropapist form that it took later. Unlike Constantine I, who with the Edict of Milan of 313 AD had established tolerance for Christianity without placing it above other religions and whose involvement in matters of the Christian faith extended to convoking councils of bishops who were to determine doctrine and to presiding at their meetings, but not to determining doctrine himself, Theodosius established a single Christian doctrine (specified as that professed by Pope Damasus I of Rome and Pope Peter II of Alexandria) as the Empire's official religion."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can you get a first class degree without honours\npassage: British undergraduate degree classification -- In 2010 and 2011, the Higher Education Statistics Agency (HESA) reported that approximately 15% of all degree candidates graduated with first-class honours. The percentages of graduates achieving a first vary greatly by university and course studied. For example, students of law are least likely to gain a first, whereas students of mathematical sciences are most likely to gain a first. In 2006--2007 and 2010--2011, 5.8% and 8.1% of law students gained a first, respectively; however, in those years, 28.9% and 30.0% of mathematics students gained a first, respectively."
+    },
+    {
+        "label": "False",
+        "sentence": "question: do the losers of the super bowl get a ring\npassage: Super Bowl ring -- The Super Bowl ring is an award in the National Football League given to the winners of the league's annual championship game, the Super Bowl. Since only one Vince Lombardi Trophy is awarded to the team (ownership) itself, the Super Bowl ring offers a collectable memento for the actual players and team members to keep for themselves to symbolise their victory."
+    },
+    {
+        "label": "False",
+        "sentence": "question: does the prime minister have the power to declare war\npassage: Declarations of war by Great Britain and the United Kingdom -- A declaration of war is a formal declaration issued by a national government indicating that a state of war exists between that nation and another. In the United Kingdom, only the monarch has the power to declare war and peace, under the royal prerogative. There have been no declarations of war since the Second World War, though British Armed Forces have taken part in armed conflict on numerous occasions nonetheless."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there a cemetary at the naval academy\npassage: United States Naval Academy Cemetery -- The United States Naval Academy Cemetery and Columbarium is a cemetery at the United States Naval Academy in Annapolis, Maryland."
+    },
+    {
+        "label": "True",
+        "sentence": "question: does a rhombus have two sets of parallel lines\npassage: Rhombus -- Every rhombus has two diagonals connecting pairs of opposite vertices, and two pairs of parallel sides. Using congruent triangles, one can prove that the rhombus is symmetric across each of these diagonals. It follows that any rhombus has the following properties:"
+    },
+    {
+        "label": "True",
+        "sentence": "question: are bath and body works and victoria's secret owned by the same company\npassage: L Brands -- Its flagship brands include Victoria's Secret and Bath & Body Works. L Brands posted $10.5 billion in revenue in 2013, and was listed as #258 in the 2013 Fortune 500 list of top companies."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there a bar called cheers in boston\npassage: Cheers Beacon Hill -- Cheers Beacon Hill is a bar/restaurant located on Beacon Street in the Beacon Hill neighborhood of Boston, Massachusetts, across from the Boston Public Garden. Founded in 1969 as the Bull & Finch Pub, the bar is best remembered internationally as the exterior of the bar seen in the hit NBC sitcom Cheers, which ran between 1982 and 1993."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is self funded and self insured the same thing\npassage: Self-funded health care -- Self-funded health care, also known as Administrative Services Only (ASO), is a self insurance arrangement whereby an employer provides health or disability benefits to employees using the company's own funds. This is different from fully insured plans where the employer contracts an insurance company to cover the employees and dependents. In self-funded health care, the employer assumes the direct risk for payment of the claims for benefits. The terms of eligibility and covered benefits are set forth in a plan document which includes provisions similar to those found in a typical group health insurance policy. Unless exempted, such plans create rights and obligations under the Employee Retirement Income Security Act of 1974 (``ERISA'')."
+    },
+    {
+        "label": "True",
+        "sentence": "question: did eminem win an oscar for 8 mile\npassage: List of awards and nominations received by Eminem -- The Academy Award, also known as the ``Oscar'', is an award presented by the Academy of Motion Picture Arts and Sciences (AMPAS) at an annual ceremony, in recognition of people in the film industry. Eminem won the Academy Award for Best Original Song at the 75th Academy Awards, for his single ``Lose Yourself'' from the soundtrack of 8 Mile."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the great barrier reef a single organism\npassage: Great Barrier Reef -- The Great Barrier Reef can be seen from outer space and is the world's biggest single structure made by living organisms. This reef structure is composed of and built by billions of tiny organisms, known as coral polyps. It supports a wide diversity of life and was selected as a World Heritage Site in 1981. CNN labelled it one of the seven natural wonders of the world. The Queensland National Trust named it a state icon of Queensland."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are top round and eye round the same\npassage: Round steak -- A round steak is a beef steak from the ``round'', the rear leg of the cow. The round is divided into cuts including the eye (of) round, bottom round, and top round, with or without the ``round'' bone (femur), and may include the knuckle (sirloin tip), depending on how the round is separated from the loin. This is a lean cut and it is moderately tough. Lack of fat and marbling makes round dry out when cooked with dry-heat cooking methods like roasting or grilling. Round steak is commonly prepared with slow moist-heat methods including braising, to tenderize the meat and maintain moisture. The cut is often sliced thin, then dried or smoked at low temperature to make jerky."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is it illegal to own a gun in new york\npassage: Gun laws in New York -- New York state law does not require a license to own or possess long guns, but does require a permit to legally possess or own a pistol. However, all firearms must comply with the NY SAFE Act, which bans assault weapons from ownership by private citizens, unless they were owned prior to the ban."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the world cup of soccer played every year\npassage: FIFA World Cup -- The FIFA World Cup, often simply called the World Cup, is an international association football competition contested by the senior men's national teams of the members of the Fédération Internationale de Football Association (FIFA), the sport's global governing body. The championship has been awarded every four years since the inaugural tournament in 1930, except in 1942 and 1946 when it was not held because of the Second World War. The current champion is France, which won its second title at the 2018 tournament in Russia."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is wisconsin part of the interstate driver's license compact\npassage: Driver License Compact -- Georgia, Wisconsin, Massachusetts, Michigan, and Tennessee are not members. American Association of Motor Vehicle Administrators: Nevada repealed the authorizing legislation in 2007, although it still generally conforms to the agreement through regulations."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is barcelona on the south coast of spain\npassage: Barcelona -- Barcelona is located on the northeast coast of the Iberian Peninsula, facing the Mediterranean Sea, on a plain approximately 5 km (3 mi) wide limited by the mountain range of Collserola, the Llobregat river to the southwest and the Besòs river to the north. This plain covers an area of 170 km (66 sq mi), of which 101 km (39.0 sq mi) are occupied by the city itself. It is 120 kilometres (75 miles) south of the Pyrenees and the Catalan border with France."
+    },
+    {
+        "label": "False",
+        "sentence": "question: did prince wrote stand back for stevie nicks\npassage: Stand Back -- ``Stand Back'' is a song by American singer-songwriter Stevie Nicks from her second solo studio album The Wild Heart (1983). It was released as the lead single from the album in May 1983 and went to number five on the Billboard Hot 100 and number two on the Top Mainstream Rock Tracks chart in August of that year. The song has been a staple in Nicks' live shows since its pre-album debut at the 1983 US Festival, and it has also been included in Fleetwood Mac tour set lists since 1987."
+    },
+    {
+        "label": "False",
+        "sentence": "question: did the us qualify for world cup soccer\npassage: United States men's national soccer team -- The United States men's national soccer team is controlled by the United States Soccer Federation and competes in the Confederation of North, Central American and Caribbean Association Football. The team has appeared in ten FIFA World Cups, including the first in 1930, where they reached the semi-finals. The U.S. participated in the 1934 and 1950 World Cups, winning 1--0 against England in the latter. After 1950, the U.S. did not qualify for the World Cup until 1990. The U.S. hosted the 1994 World Cup, where they lost to Brazil in the round of sixteen. They qualified for five more consecutive World Cups after 1990 (for a total of seven straight appearances, a feat shared with only seven other nations), becoming one of the tournament's regular competitors and often advancing to the knockout stage. The U.S. reached the quarter-finals of the 2002 World Cup, where they lost to Germany. In the 2009 Confederations Cup, they eliminated top-ranked Spain in the semi-finals before losing to Brazil in the final, their only appearance in a final. The team failed to qualify for the 2018 World Cup, having been eliminated in continental qualifying, ending the streak of consecutive World Cups at seven."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is taylor still on the bold and beautiful\npassage: Taylor Hayes (The Bold and the Beautiful) -- Taylor Hayes is a fictional character from the American CBS soap opera The Bold and the Beautiful, portrayed by Hunter Tylo. The character was created by William J. Bell and debuted during the episode dated June 6, 1990. Tylo appeared as a regular continuously until 1994 when she took a hiatus for a few months before being written back into the series. In 1996, she left the serial after being cast on Melrose Place, where she was soon fired on the grounds of being pregnant, and returned shortly after. In 2002, Tylo and the show's executive producer Bradley Bell had mutually agreed that the character was ``played out'', and Taylor was subsequently killed off, last appearing on October 30, 2002. Tylo returned in 2004, reprising Taylor as a ghost. She returned on a permanent basis in April 2005, with the character revealed to be alive. Tylo exited The Bold and the Beautiful again in July 2013, but returned for multiple guest appearances in 2014. She returned again in April 2018."
+    }
+]

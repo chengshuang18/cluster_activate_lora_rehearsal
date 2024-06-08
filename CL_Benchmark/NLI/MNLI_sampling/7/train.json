@@ -1,0 +1,242 @@
+[
+    {
+        "sentence": "sentence 1: the Broncos oh yuck i hate them\nsentence 2: I am a fan of a rival team.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Traditionally, federal agencies have used the amount of money directed toward their programs, or the level of staff deployed, or even the number of tasks completed as some of the measures of their performance.\nsentence 2: Federal agencies have typically use the money to buy nice ornaments to decorate their offices.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The analyst was asked by him to report whether strychnine was, or was not, present. \nsentence 2: Strychnine was determined to be part of the compound without testing. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: no originally i'm from New Mexico i was born in New Mexico and we lived in uh Southbend for eighty eight years and uh then moved to uh Tennessee actually\nsentence 2: I was born in Canada.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: well in some sense they they should be politicians in that you know you want them to respect the people and you don't want them to have you don't want a judge to be appointed because you don't want someone's friend to be a judge\nsentence 2: \"It doesn't matter if politicians respect the people or are involved in nepotism.\"",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: and uh  well i guess there's still the possibility that uh hostilities with uh US troops could still break out\nsentence 2: The US troops will likely still break out. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The poorest recipients could actually suffer from the windfall by losing their benefits under Medicaid, food-stamp and other programs.\nsentence 2: Poor recipients will not lose benefits if they get money.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: every now and then i'll go ahead and make another tape and uh record a bunch of uh old tunes like the Loving Spoonful and Grateful Dead something from the Birds Rolling Stones\nsentence 2: Time and again I make a tape featuring old tunes.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: We have never needed one.\nsentence 2: We have never needed a catapult.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: But in the long run, it's unavoidable.\nsentence 2: It can be avoided in the long run.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: He reached the town as the red sun stood high in the sky, baking the ground.\nsentence 2: The only thing greeting him when he arrived to town was the black, night sky. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The paper reimbursed her.\nsentence 2: She received a refund from the paper.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: This makes for a happy, human, unending noise that contradicts those who say the town's name derives from the valenciano words for sleep well. \nsentence 2: The name of the town comes from the words for \"sleep well\".",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: right especially to to pay that kind of money for it\nsentence 2: You should definitely get your money's worth if you're paying that much for it.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: It organized the best practices into five categories related to (1) the role of the owner, (2) teamwork and collaboration, (3) advance planning, (4) process, and (5) benchmarking.\nsentence 2: The best practices have been organized into five categories, according to the report.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Principal Findings\nsentence 2: Irrelevant Results",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: you know if if they could get somebody to help compliment him you know i think they'd be uh awesome because that guy can play that Chambers is is something else but uh i don't know it'll it'll be interesting\nsentence 2: They should find someone that does not compliment him at all.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Politicians call it constituent service.\nsentence 2: A constituent service is what public officers call it.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: 3) Where I think he has not made the sale.\nsentence 2: This is the location where I do not believe he made the sale.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: yeah a chocolate powder yeah that cocoa yeah the unsweetened it comes in like a real dark can our mothers used to use it and then\nsentence 2: Our mother would not use any chocolate powder that came in cans.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Blood spattered to the dirt as she pulled the spike free but the demon fought on.\nsentence 2: The first blow with the spike killed the demon.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Murphy Brown that comes on Monday nights before and it's kind of cute and but i don't\nsentence 2: I think the show is worth watching.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: In keeping with those efforts, Assuring Equal Justice for All is the theme of Law Day this year.\nsentence 2: The Theme of Law Day has not yet been announced.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: And we're trying to inculcate a wider acceptance of plans at law schools.\nsentence 2: The law schools are reluctant to accept the plans.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: At the south end of the square is the 14th-century Loggia della Signoria or dei Lanzi, transformed from the city fathers' ceremonial grandstand into a guardroom for Swiss mercenary Lands?­knechte.\nsentence 2: The Loggia della Signoria gets a ton of visitors trying to view the Swiss mercenary Landsknecht.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: But in her hurry to be in time for the village entertainment Mrs. Inglethorp forgot to take her medicine, and the next day she lunched away from home, so that the last ”and fatal ”dose was actually taken twenty-four hours later than had been anticipated by the murderer; and it is owing to that delay that the final proof ”the last link of the chain ”is now in my hands.\" Amid breathless excitement, he held out three thin strips of paper. \nsentence 2: Because Mrs. Inglethorp took her medicine later than expected, the murderer will be caught.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: A number of programs in New York that are funded by the IRS rely heavily on volunteer lawyers to serve clients, including The Brooklyn Low-Income Taxpayer Clinic of South Brooklyn Legal Services and the Low Income Taxpayer Clinic operated by The Legal Aid Society's Volunteer Division.\nsentence 2: Many programs in NY get funding from the IRS.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: These amounts are deducted from the total obligations incurred (and outlays) in determining net obligations (and outlays) for such accounts.\nsentence 2: The amounts reflect gross amount minus obligations to get a net value.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: At the national level, there are a total of 575 wrestlers classed in six divisions according to their win-loss ratio in the annual tournaments.\nsentence 2: The national level has 575 wrestlers.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Ian Fleming's James Bond was a snob and a lightweight.\nsentence 2: Ian Fleming's James Bond was deep and sophisticated.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Several cities made bids to host the ship, and Edinburgh's was successful; her new home would be at Leith.\nsentence 2: Edinburgh made a failed bid for the ship.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: But Harrison's audience would not have known what the Internet was.\nsentence 2: Harrison's audience would've known what the Internet was. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1:  Of all what?\nsentence 2: Of all what?",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: There are few grains of truth in this story.\nsentence 2: The story was embellished to encourage visitors.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: and she watches she watches these really gross things you know like The Nightmare on Elm Street and the you know that kind of junk i don't go for that at all\nsentence 2: She only likes cute, family-friendly films.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: you go during the week\nsentence 2: You can never go.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Additionally, some synergies have been observed between methylmercury and lake acidity - the more acidic, the greater the mercury concentration.\nsentence 2: Some synergies exist between methylmercury and lake acidity.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: It now houses the castle cafe with a good selection of snacks and hot meals but was originally used to store the provisions carts.\nsentence 2: It has the cafe in it.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: To the opera,\nsentence 2: There is an opera nearby and they will see a show there.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Further, farmworkers may not know how to contact legal services in their community or may be discouraged by their employer from contacting legal services in their community.\nsentence 2: Farmworkers may not contact legal services because their bosses may threatened them.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1:  But why not just get rid of them?\nsentence 2: Do not entertain getting rid of them. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Spark was in her prime when she wrote Memento Mori . As she draws closer to mortality (may it be many novels away!)\nsentence 2: Spark the famous author of Memento Mori has passed away.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The marginal efficacy of prostaglandin isn't likely to keep the baby boomers from buying the urological spin.\nsentence 2: The marginal efficacy of prostaglandin will stop baby boomers from buying it.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: As far back as the 13th century, when Paris's first university moved from the cloisters of Notre-Dame to the Left Bank, the young came to the quartier to learn Latin.\nsentence 2: The young were forced to learn Latin in the 13th century.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: and my my uh taxes are a hundred and thirty five\nsentence 2: My taxes are $300.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Despite twice campaigning actively against Bill Clinton, he has begged for a post in his administration.\nsentence 2: He didn't even want a post in the Clinton administration.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: According to the preambles to the proposed and final rules, the Commission reviewed its proposed information collection and, among other things, assessed the need for the information, how the information would be used, and the associated burden.\nsentence 2: The Commission looked at books and websites and saw how they helped salespeople.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: A post ironic sensibility/naivete.\nsentence 2: She was ironically innocent and ignorant. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: I haven't read the question yet, but my answer is Talk magazine.\nsentence 2: My answer is Talk Magazine though I haven't had a chance to read the question yet.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: every night this week so i have concentrated on watching James Bond movies  this week\nsentence 2: I was thinking of taking some time off this week and watching a few James Bond movies on my nights off. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Obviously, in domestic violence cases this is a major concern to us.\nsentence 2: Domestic violence cases or not, this is never our concern.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: True, technology empowers millions of potential copyright violators.\nsentence 2: Technology enables copyright violators to do what they do.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: If an official desires a confidential discussion about a potentially criminal act, he should hire a private attorney.\nsentence 2: If an official wants a private discussion about a criminal act, then he needs to get a private lawyer, not one paid by the government.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: hopefully\nsentence 2: Maybe this will happen.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: If you are convinced he did it,\" said Poirot quietly. \nsentence 2: He might have done it. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: NHTSA did not conduct a final regulatory flexibility analysis under section 604, nor did it make a section 605(b) certification, in connection with the final rule.\nsentence 2: A certification was not made as required per final rule.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: But he knows you think Injun, you live Injun, you eat Injun, you smell Injun when you do.\nsentence 2: He knows about you thinking injun.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: She was doubtful as to how long she could sustain this illusion, but she realized the importance of not dragging an unknown Rita into it.\nsentence 2: She never doubted that she could sustain this illusion, but she dragged an unknown Rita into it.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: We will stay one night.\nsentence 2: We will stay here for one night.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: In its FrameworkforFederalFinancialManagementSystems, JFMIP envisioned automated systems with standardized information and electronic data exchange to eliminate manual processes, reduce the risks of data loss or errors, and eliminate manual reentry and interpretation.\nsentence 2: JFMIP never envisioned automated systems with standardized information",
+        "label": "contradiction"
+    }
+]

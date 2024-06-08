@@ -1,0 +1,22 @@
+[
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: A: And now it's election time again so they're trying to lower them. B: Oh. A: So they're just talk about lowering them but they never do, they just keep raising them. B: I've never seen taxes really go down.\nsentence 2: taxes would really go down"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: B: And, you know, the whole electronic classroom idea. I don't know if I I'm yeah, in favor of, yeah, A: I don't think that's going to work.\nsentence 2: that is going to work"
+    },
+    {
+        "label": "neutral",
+        "sentence": "sentence 1: It is all very well, in these changing times, to adapt one's work to take in duties not traditionally within one's realm. But bantering is of another dimension altogether. For one thing how would one know for sure that at any given moment a response of the bantering sort is truly what is expected?\nsentence 2: at any given moment a response of the bantering sort is truly what is expected"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: B: I think that not only applies inside the public school system, but in society itself. there's been too much negative reinforcement. How much, like, the caught being good slips. How about, just the John Q citizen out there on the street? A: Yeah, well that's true. I think, really though, I mean, that's one thing that, I mean, my kids definitely get spanked when they need to be spanked. But I really do try to use positive, uh, reinforcement with them at home, also. And it really helps. And I mean, they don't get spanked very often, but they do when they deserve it, you know. But, uh, I don't think any kid should be exempt from being spanked. I mean, I think I wouldn't mind if a teacher spanked my child. But, you know, that's just my personal opinion, and that's not going to, I mean, I don't think that law will ever change.\nsentence 2: the law will change"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: Nora calculated that there must be lots of single men up there so she decided it was ideal for the ``manhunt'', as we called it, even though the train fare was a serious consideration. I remember we went up to Euston together one Saturday morning, very excited, to buy the ticket in advance. It was a secret - if my parents had known she was going away alone they would have soon put the kybosh on it.\nsentence 2: Nora was going away alone"
+    }
+]

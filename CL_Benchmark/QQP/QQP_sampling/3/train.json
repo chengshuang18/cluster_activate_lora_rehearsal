@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "first sentence: What do Americans think of China & Mainland Chinese people?\nsecond sentence: What do American people think about China?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I concentrate in a better way on studies?\nsecond sentence: Which is the best way to concentrate on studying or doing something?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is quantitative approach?\nsecond sentence: What is quantitative?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Do florida houses need exterminators all the time?\nsecond sentence: Do Florida homeowners need exterminators on a scheduled basis?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: So if man has never been beyond the Van Allen radiation belt, how did the Apollo missions achieve the moon landings?\nsecond sentence: Has man ever crossed the van Allen radiation belt safely?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Why does my vision go black and I get really dizzy every time I stand up?\nsecond sentence: Why when I suddenly stand up does my vision go black gradually with sudden dizziness for a few seconds?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: \"How is it logically possible for Buddha to discover that the \"\"self\"\" does not exist?\"\nsecond sentence: How does Buddha come to the conclusion that the self does not exist?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: \"Does the Rigveda statement \"\"Truth is one - \"\"ekam sad vipra bahudha vadanti agnim yamam matariswanam ahuh\"\" decisively point to the oneness of God, or its about the uniqueness and unambiguity of Truth?\"\nsecond sentence: Does God exist?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Can I do SEO for AngularJS based sites?\nsecond sentence: Is SEO possible for AngularJS based sites?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Should I skip school because of suicide thoughts?\nsecond sentence: I'm 29 years old and married. I'm frustrated with my professional life. I've thought of committing suicide also. What should I do?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Do banks treat you differently when you make large deposits?\nsecond sentence: What does it feel like to make a big bank deposit or withdrawal?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is the most probable cutoff of KVPY SA 2016?\nsecond sentence: How was KVPY SA 2016?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Is using beard oil harmful to skin?\nsecond sentence: How do I grow beard in less time at age of 17?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Is java programming easy?\nsecond sentence: Is Java easy to learn?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What's the future of information technology?\nsecond sentence: What is the future of Information Technology?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Why is this world so cruel?\nsecond sentence: Why is the world so cruel sometimes?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How should an immigration letter for marriage be written?\nsecond sentence: My wife left the marriage after three months. I suspect she only married me for money and to come to USA. Can I report this to immigration?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Are internships paid?\nsecond sentence: Are all internships paid?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is the best way to avoid procrastination?\nsecond sentence: What's the best way to stop procrastination?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is the funniest joke you ever heard?\nsecond sentence: What are the funniest jokes / stories you ever heard?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What should I eat in breakfast?\nsecond sentence: What should I eat for breakfast?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How can I deactivate my Facebook account and hide my messages?\nsecond sentence: How do I temporarily deactivate my Facebook account?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: If Australia had 100 Million people, how powerful would it be, economically, military and politically?\nsecond sentence: Will my abs go away if I eat more carbs?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I check the balance of a Delhi metro card online?\nsecond sentence: How is the Delhi metro financed?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is the difference between a machine and a person?\nsecond sentence: What is the difference between a machine and a mechanism?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I get followers for a topic on Quora?\nsecond sentence: What is the easiest way to get followers on Quora?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is the customer service number for PAYPAL Philippines?\nsecond sentence: What is the customer service number for PayPal?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Police and Law Enforcement: How do detectives carry out a crime scene investigation?\nsecond sentence: What has been the scariest scene a police officer has either stumbled upon or was called to investigate?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How should I write a quality academic essay?\nsecond sentence: What are the best ways to write an academic essay?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What food should you eat to make you grow taller?\nsecond sentence: What are some foods that make you grow taller?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Have you ever been caught watching porn by your parents?\nsecond sentence: Have you been caught watching porn?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Why can’t people decide to choose their life paths?\nsecond sentence: Why can't most people digest the possibility that there is no grandiose meaning to life, preventing them from enjoying their lives fully?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are some of the most widely believed things that are wrong?\nsecond sentence: What is something widely believed by most people but is factually or otherwise incorrect?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Why do people dislike public displays of affection (PDA)?\nsecond sentence: Is hating PDA a bad thing?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: My boyfriend and I have been dating for 10 months now. He has not said I love you yet. What are some reasons for this?\nsecond sentence: My boyfriend just broke up with his ex one month ago, they had dated for 1 year and a half. He told me he loves me right now and he's trying to forget about his ex, but he brings her up too often. His ex cheated on him 3 times, but she still wants to get back with him right now. What should I do?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Can I get some feedback on these logos I made?\nsecond sentence: Can I get some feedback on this logo I made?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the places to be visited in goa?\nsecond sentence: What places should one visit in Goa?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Will a Prega News pregnancy test show accurate results 7 days after having sex?\nsecond sentence: How accurate is the Pine-Sol pregnancy test?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the three components of the cell theory?\nsecond sentence: What is Cell Theory, and what are some examples of it?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the requisites to become a mentalist,reading people minds?\nsecond sentence: How can we read someone's mind?",
+        "label": "False"
+    }
+]

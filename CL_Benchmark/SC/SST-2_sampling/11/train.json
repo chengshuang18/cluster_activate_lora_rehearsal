@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "Text: delivering a more than satisfactory amount of carnage ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: has managed to marry science fiction with film noir and action flicks with philosophical inquiry ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: standing by yourself is haunting ... ( it 's ) what punk rock music used to be , and what the video medium could use more of : spirit , perception , conviction . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: its true-to-life characters , its sensitive acting ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: literate ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: drowns out the promise of the romantic angle . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: her own screenplay , jumps to the head of the class of women 's films that manage to avoid the ghetto of sentimental chick-flicks by treating female follies with a satirical style ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: 's worth the price of admission for the ridicule factor alone ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: this distinguished actor would stoop so low ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: the most repugnant adaptation of a classic text since roland joffé and demi moore ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: huppert scheming , with her small , intelligent eyes ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: it 's always disappointing when a documentary fails to live up to -- or offer any new insight into -- its chosen topic . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: complex and honest ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: tasteful , intelligent manner ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: is having fun with it all ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: look as if it were being shown on the projection television screen of a sports bar ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: full-bodied characterizations ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: know it would n't exist without the precedent of yiddish theater , whose jolly , fun-for-fun 's - sake communal spirit goes to the essence of broadway ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: nice piece of work . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: that is slow to those of us in middle age ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: you ca n't wait to see end . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: christian love ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: perfectly pleasant if slightly pokey comedy ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: he 's making dog day afternoon with a cause ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: it 's a shame the marvelous first 101 minutes have to be combined with the misconceived final 5 . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: stalls in its lackluster gear of emotional blandness ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: the filmmakers want nothing else than to show us a good time , and in their cheap , b movie way , they succeed ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: fairly ludicrous plot ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: ungainly ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: turns out to be smarter and more diabolical than you could have guessed at the beginning . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: with a `` spy kids '' sequel opening next week , why bother with a contemptible imitator starring a `` snl '' has-been acting like an 8-year-old channeling roberto benigni ? ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: 's denial of sincere grief and mourning in favor of bogus spiritualism ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: is a movie so insecure about its capacity ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: intense and engrossing ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: what he 's already done way too often ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: poetic , heartbreaking ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: had a serious urge to grab the old lady at the end of my aisle 's walker and toss it at the screen in frustration ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: you wo n't feel like it 's wasted yours ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: takes a really long , slow and dreary time ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: for an all-around good time at the movies this summer ",
+        "label": "Good"
+    }
+]

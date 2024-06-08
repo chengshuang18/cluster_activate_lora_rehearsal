@@ -1,0 +1,22 @@
+[
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: So who knows? In a generation or two some of the New Crowd may attain true respectability, perhaps to be displaced in turn by a later flock of unscrupulous raptors. Or perhaps Wall Street, when it has suffered enough, will realize that finance is a service industry, and change its ethos.\nsentence 2: finance is a service industry"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: GM confirmed it received U.S. antitrust clearance to boost its holding. Sansui Electric agreed to sell a 51% stake to Polly Peck of Britain for $110 million. Still, analysts said the accord doesn't suggest Japan is opening up to more foreign takeovers.\nsentence 2: Japan is opening up to more foreign takeovers"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: I WAS really only a bystander in the tragedy of young Mr and Mrs McLeod. It was not really my business although it could be said that I had known them both - had seen them about - for most of their lives.\nsentence 2: she had known Mr. and Mrs. McLeod for most of their lives"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: Did he intend everyone in the castle to know he did not want the wife he had married in such a hurry? Did he intend to ignore her completely? Then Isabel saw Ellen's stunned face and realised that her maid at least did not know she had spent the night alone.\nsentence 2: Isabel had spent the night alone"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: A: It was just a side benefit. B: Yeah, yeah, because, I'm not big or anything, but I'm not in great shape, But when I worked out, I got in pretty good shape. I didn't build up muscle, though, I just got real good and toned. A: Yeah. B: I don't think women look good with muscles.\nsentence 2: women look good with muscles"
+    }
+]

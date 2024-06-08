@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "first sentence: Sex with employees in Singapore?\nsecond sentence: Can I have sex with my employee in Singapore?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Where could I find a cheap permenant residency for a 54 years old man?\nsecond sentence: Where can I find a meditation coach or mentor (someone who could answer questions) for relatively cheap or free?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How can I make friends if I am an introvert?\nsecond sentence: How do I know if I am an introvert?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What were the major effects of the cambodia earthquake, and how do these effects compare to the Lima-Callao earthquake in 1746?\nsecond sentence: What were the major effects of the cambodia earthquake, and how do these effects compare to the Arica earthquake in 1868?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is a good way to learn the violin?\nsecond sentence: How can I learn how to play violin?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is the best way to overcome depression without doing anything?\nsecond sentence: What is the best way to overcome from depression?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is the difference between a paradox and a logical contradiction?\nsecond sentence: What is the difference between a logical proof and an empirical proof? Can a scientific claim be based on just a logical proof without any empirical proof?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Should Bangladesh have diplomatic ties with Israel?\nsecond sentence: Does Pakistan and Israel have diplomatic ties?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the career options for a law graduate?\nsecond sentence: What are the career options in Law after graduation?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is it like to attend your high school reunion?\nsecond sentence: What was it like to go to your high school reunion if you peaked after high school?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How quickly can a cavity develop?\nsecond sentence: Is it okay to have 12 cavities?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What's the capital of Pakistan like to live in?\nsecond sentence: What is the capital of Pakistan?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Who wrote the song I Saw Your Face and Wow for Hey Arnold?\nsecond sentence: \"What's the name of that song that goes like \"\"Hey hey hey hey hey, hey hey hey / I said hey, what's goin' on?\"\"\"",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How can I specifically improve my English?\nsecond sentence: What the best way to improve English?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What are some things new employees should know going into their first day at Biomed Realty Trust?\nsecond sentence: What are some things new employees should know going into their first day at Education Realty Trust?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Is it likely to get pregnant during day 3 of my period with unprotected sex?\nsecond sentence: What are the chances of getting pregnant 3 days after the period is over?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Why do programmers prefer two large monitors?\nsecond sentence: What are the best practices for using two monitors?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do you get work to do itself (legally)?\nsecond sentence: How can I get out of doing any work?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the roles and responsibilities of mechanical engineering in the construction of a refinery?\nsecond sentence: What is the role of mechanical engineers in construction companies?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are some promising career in Australia?\nsecond sentence: What is promising career?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Salient features of the indian constitution?\nsecond sentence: What is the salient features of centralised and decentralised management?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How can I make a home made pocket pussy which actually works and feel like a real pussy?\nsecond sentence: How do I make home made fertilizer?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How can I treat burning and dry lips?\nsecond sentence: How do I treat dry lips?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Ways to improve upon the sense of humour?\nsecond sentence: Day 1 dsn art of living?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How can I become extremely successful like Mark Zuckerberg in my early 20s or 30s?\nsecond sentence: I am in my early 20s. I can't deal with the dilemma that video games are super useless. Studying/working is dull. How do I overcome this?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is the best age difference for a husband and a wife?\nsecond sentence: What is the difference in the ways a husband and a wife think?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Are pudding eaten cold?\nsecond sentence: Is yogurt eaten or drunk?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What's the best way to learn C++?\nsecond sentence: What's the easiest way to learn C?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Where do we use discrete mathematics and probability in computer science?\nsecond sentence: How is Discrete Mathematics used in computer science?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What permission is required to make the school bags?\nsecond sentence: What is the best bartending school in Toronto? What are the requirements to attend this school?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Microeconomics: What is polyergy?\nsecond sentence: What is microeconomics?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: If an assistant professor at harvard gets a 9 month salary of $120,000, what will be his effective 12 month income?\nsecond sentence: If process shuts down do we get 1 month salary?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How is Tata Elxsi stock at a current price for a long term?\nsecond sentence: The share price of Tata Elxsi has gone down considerably. What might be the reason? Are there any good projects there currently?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Did the Indian government ban the 500 Rs & 1000 rupees notes?\nsecond sentence: Why did Modi ban 500 and 1000 rupees notes and not 100 rupee notes?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Why are Indian muslims supporting Zakir Naik? Why do they find fault in everything?\nsecond sentence: Do muslims find Zakir Naik influential?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Why would a guy stare at a girl's face so intently?\nsecond sentence: Why would a guy gently stare at a girl?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is working hard (not in terms of studying)?\nsecond sentence: What is working hard in terms of studying?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I promote a premium wordpress plugin?\nsecond sentence: How do I market a premium WordPress theme?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What it's like dating an Indian man?\nsecond sentence: What it's really like dating a British man?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Which is safer to be in, the turret or the hull?\nsecond sentence: Discuss any two agreements declared to be void by the Indian Contract Act, 1872?",
+        "label": "False"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "sentence": "sentence 1: 'Listen, Mr. Franklin, you have to understan-'\nsentence 2: No one wants Mr. Franklin to understand anything. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: This reduces the ratio of net foreign investment to GDP over time as GDP grows.\nsentence 2: There is no ratio between foreign investments and GDP.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: At the national level, there are a total of 575 wrestlers classed in six divisions according to their win-loss ratio in the annual tournaments.\nsentence 2: The national level has 575 wrestlers.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The burden of the USO is much higher for Poste Italiane than for the U.S.\nsentence 2: The burden of the USO is much lower for the U.S. than it is for Poste Italiane.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: George W. is lying either when he professes his faith or when he denies its implications.\nsentence 2: Bush has never attended a church service.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: there's never there's never going to be enough hours in the day even if you took speed reading huh yeah\nsentence 2: There's never enough time. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Failure modes and effects analysis is a bottom-up approach to failure identification.\nsentence 2: Failure identification relies on a bottom up approach.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The analysis discusses the beneficial effects and the adverse effects of each alternative and concludes that the second alternative offered the greatest environmental return for the federal dollars spent, provided program managers and participants the greatest flexibility in program administration, gave effective conservation coverage across the land, and involved a large number of participants.\nsentence 2: The advantages and disadvantages are weighted out on the analysis.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Politicians call it constituent service.\nsentence 2: A constituent service is what public officers call it.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: He felt Jon tense as well.\nsentence 2: Jon was nervous.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: In other cases, attachments or additional materials, such as studies or journal articles, could not be submitted electronically; commenters had to submit those materials separately (in duplicate) to the appropriate docket office.\nsentence 2: Sometimes hard copies must be used.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: It can't be, for example, any activity that lets Clinton talk, even though that's what he does best.\nsentence 2: Clinton is a great talker. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: the then vice presidential candidates uh who really sort of i thought had a very demeaning attitude towards her\nsentence 2: They were mean to her for no reason.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: see i've only been here four\nsentence 2: See I have been here for seven. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Personal saving plays a dual role, ensuring both individuals' retirement security and the nation's economic security.\nsentence 2: Savings ensure an individuals retirement security as well as the nations economic security.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: You may wish you had a ball of golden thread as you explore the maze of small rooms here, as it is very difficult to follow the map provided.\nsentence 2: One can buy one's own maps instead of using the provided one.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: On these technical points I bow to your decision, murmured Mr. Beresford.\nsentence 2: It was the first time Mr. Beresford conceded his own points and agreed with someone else's decision at the company.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Nearby on the banks of the river is the Nile Hilton Hotel a landmark for Cairenes (as the people of the city are known) as well as tourists.\nsentence 2: The Nile Hilton Hotel is located close to the banks of the river. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: A core group of kids do have a distinct attention abnormality, but Ritalin worked so well--it can reduce distractibility even in perfectly normal children--that now almost any difficult child is considered for the diagnosis and drug.\nsentence 2: Ritalin didn't work at all.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Margaret Thatcher was prime minister uh Indira Gandhi uh in India so many uh women are heads of state and i you know we we keep saying oh yes we feel someday a woman will be president but i have some question whether or not they will ever really get around to that i think we'll have a black president before before we have a woman president\nsentence 2: There will be a female president in future.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The jumping-off point for this popular vacation area is the town of Atami, about an hour from Tokyo on the shinkansen super-express train.\nsentence 2: It takes four hours to reach Atami from Tokyo on the super-express train.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: we've even seen people with these campers and they got the big old antennas up so they can watch their TV when they're going but that's not\nsentence 2: We've seen people with antennas on their campers.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: and you know like they're predicting the weather to be cold well when it gets cold real fast\nsentence 2: They are predicting that the weather will be cold based on the rapid cooling of the atmosphere.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: As home to such entertainment royalty as Marilyn Monroe and Judy Garland and host of the first public Academy Awards at the historic Roosevelt Hotel in 1928, the city was genuinely the epicenter of entertainment and celebrity stardom.\nsentence 2: There was no celebrity living in the city, they all lived in the countryside.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Caravaggio contributes a typically disturbing canvas, an ugly Sleeping Cupid with intimations of death (Hall 32, Education of Jupiter).\nsentence 2: Caravaggio made a painting about french fries.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Most Japanese theater aims less at developing a coherent plot, in the Western manner, than at creating a particular tone, atmosphere, and emotional extremes.\nsentence 2: Japanese theaters worry only about a coherent plot, much like Western theaters. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Her pupils took up nearly her entire iris, leaving only a thin ring of emerald.\nsentence 2: Her pupils were giant.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The potential distortion is unquantifiable at this time.\nsentence 2: The flaw is quantifiable. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: yes me too\nsentence 2: no, not me",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: 8 billion budget deficit.\nsentence 2: The budget is short by 8 billion dollars.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Again Tommy shook his head.\nsentence 2: Tommy shook his head in a way that signaled yes. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The ability of a system or component to perform itsReliability required functions under stated conditions for a stated period of time.\nsentence 2: A system needs to perform its required functions or be able to invent new functions.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: 24 In the past, GAO has suggested that the budget could better facilitate policymakers' weighing choices between federal investment and consumption by incorporating an investment component with agreed-upon levels of investment spending.\nsentence 2: GAO said that incorporating investment component with agreed upon levels of investment spending could hurt policymakers' weighing choices between federal investment and consumption .",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: oh really no i didn't hear that\nsentence 2: Really? I didn't know.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Then all are accounted for. \nsentence 2: There were several missing. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: see now that's yep\nsentence 2: No, that is not ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Start in the middle, at the oldest, then work your way east before returning to the historically later caves at the western entrance.\nsentence 2: The oldest caves are in the middle, and the newer ones are at the western entrance.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Wolf did.\nsentence 2: It was done by Wolf.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: This is the payment mail, i.e., mail used by households to pay their bills.\nsentence 2: The term payment mail refers the mail that is used when residents pay bills.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: but uh i did you happen to see last night the special on channel two with James Galway\nsentence 2: James Galway was on Channel two last night.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: yeah is that right\nsentence 2: Is that correct?",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: This popular shrine features a strongly Chinese-influenced design and an extensive landscaped garden considered one of Kyoto's finest, with numerous cherry trees and a large pond with an elegant pagoda linked to the shore by a covered bridge.\nsentence 2: The derelict garden at this shrine is a cause of shame for Kyoto.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Until recently, millions of green-card holders were content to live in the United States as resident aliens.\nsentence 2: They were disgusted and couldn't wait to leave Canada.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: It had been found in Mrs. Inglethorp's cheque book, and on being reversed at a mirror, showed clearly the words: \" ¦ erything of which I die possessed I leave to my beloved husband Alfred Ing  ¦ \" This placed beyond question the fact that the destroyed will had been in favour of the deceased lady's husband. \nsentence 2: It was found on the floor, a few feet away from a cheque book that belonged to Mrs.Inglethorp. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: In the austere 16th 17th century cathedral, see Taddeo di Bartolo's fine triptych on the high altar.\nsentence 2: Taddeo di Bartolo's work is highly regarded in Italian art history.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: well uh you know even the police uh have a lot of paperwork to do uh i observed a uh i didn't actually see the accident but uh the  the aftermath of a three car accident yesterday here in Richardson and i was going into the public library and apparently the accident had just you know recently happened then but there was a policeman there policewoman there\nsentence 2: Police spend most of their job filling out reports or reading files.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: yeah yeah so do you have a do you have a garden or do you just do your landscaping now and your lawn\nsentence 2: Why don't you do any work outdoors any more? ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Where King invoked America's promise, Malcolm underscored its betrayal.\nsentence 2: Malcolm and King made two very different types of statements.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Already he was almost restored to his normal self. \nsentence 2: He had never changed from his normal self",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: If you haven't filled it out yet, click here for the survey.\nsentence 2: The survey is not taking further responses.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: so they like that\nsentence 2: They don't like that.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Next is the King's Bedchamber, perhaps the most richly decorated room in the royal apartments.\nsentence 2: The King kept his bedchamber as basic as possible.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Other reviews echo the enthusiasm, comparing her tale of an aristocratic Indian family in decline to the work of Rushdie, Faulkner, and Dickens.\nsentence 2: The family is getting together.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: this whole thing down there where they're they're trying to um uh you know devote all our money and raise our taxes and better schools and and it all seems you know everybody's trying to one-upmanship on everybody else so\nsentence 2: it seems like everyone is trying to make grander promises than the next person",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: As Constantinople, jewel of the Byzantine Empire, it was for more than 1,000 years the most important city in Christendom.\nsentence 2: Constantinople was considered the most important city because it had diverse culture.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The agreed-upon rate and service changes will work to the mutual benefit of mail users and the postal system as a whole\nsentence 2: The postal system is improving.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1:  She never comes\nsentence 2: She shows up right away.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Its eight principles are listed below.\nsentence 2: It has eight principles, which are listed below.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Like the Hirosema museum, the final message is not of victims demanding sympathy but of an entire community committed to total nuclear disarmament for the sake of the entire planet, with its own message of Never again. \nsentence 2: The Hiroshima museum sends off an important message to its visitors.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: i don't quite understand that do they even understand what's being said\nsentence 2: It's unclear to me what the exact message is. ",
+        "label": "neutral"
+    }
+]

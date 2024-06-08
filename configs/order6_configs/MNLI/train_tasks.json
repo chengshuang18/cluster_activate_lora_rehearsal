@@ -1,21 +1,29 @@
 {
     "SC": [
+        {
+            "sampling strategy": "full",
+            "dataset name": "amazon_sampling/3"
+        },
+        {
+            "sampling strategy": "full",
+            "dataset name": "yelp_sampling/3"
+        }
     ],
-    "TC": [
+    "TC": [     
     ],
-    "NLI": [   
+    "NLI": [
         {
             "sampling strategy": "full",
             "dataset name": "MNLI"
         } 
     ],
-    "QQP": [ 
+    "QQP": [  
     ],
     "WiC": [ 
     ],
     "MultiRC": [ 
     ],
-    "COPA": [
+    "COPA": [ 
     ],
     "BoolQA": [
     ]

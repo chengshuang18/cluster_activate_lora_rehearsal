@@ -1,0 +1,162 @@
+[
+    {
+        "label": "True",
+        "sentence": "question: was annapolis ever the capital of the us\npassage: Annapolis, Maryland -- This city served as the seat of the Confederation Congress (former Second Continental Congress) and temporary national capital of the United States in 1783--1784. At that time, General George Washington came before the body convened in the new Maryland State House and resigned his commission as commander of the Continental Army. A month later, the Congress ratified the Treaty of Paris of 1783, ending the American Revolutionary War, with Great Britain recognizing the independence of the United States. The city and state capitol was also the site of the 1786 Annapolis Convention, which issued a call to the states to send delegates for the Constitutional Convention to be held the following year in Philadelphia. Over 220 years later, the Annapolis Peace Conference, was held in 2007. Annapolis is the home of St. John's College, founded 1696, as well as the United States Naval Academy, established 1845."
+    },
+    {
+        "label": "False",
+        "sentence": "question: does the mom die in the impossible movie\npassage: The Impossible (2012 film) -- While Maria is in surgery, her medical chart is mixed-up with another patient who has died. Lucas returns to find his mother's bed empty and is then taken to a tent where children without families are kept safe. The mistake is discovered when Lucas cannot identify any of the dead woman's jewelry and he is subsequently reunited with his mother who has been moved to a private room in the ICU. In the hospital while he waits, Lucas finds Daniel who has been reunited with his father."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the movie red sparrow based on a book\npassage: Red Sparrow (novel) -- Before the book was published, Matthews sold the movie rights for Red Sparrow for a seven-figure amount. He was also awarded a contract for a sequel to the book. The sequel is named Palace of Treason. He also wrote a third volume named The Kremlin's Candidate. The 2018 film adaptation of Red Sparrow stars Jennifer Lawrence and Joel Edgerton."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there a leader in a school of fish\npassage: Shoaling and schooling -- It would seem reasonable to think that the regular spacing and size uniformity of fish in schools would result in hydrodynamic efficiencies. However, experiments in the laboratory have failed to find any gains from the hydrodynamic lift created by the neighbours of a fish within a school, though it is still thought that efficiency gains do occur in the wild. Landa (1998) argues that the leader of a school constantly changes, because while being in the body of a school gives a hydrodynamic advantage, being the leader means you are the first to the food."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is table rock lake a man made lake\npassage: Table Rock Lake -- Table Rock Lake is an artificial lake or reservoir in the Ozarks of southwestern Missouri and northwestern Arkansas. The lake is impounded by Table Rock Dam (located 36°35′43''N 93°18′40''W﻿ / ﻿36.595374°N 93.311137°W﻿ / 36.595374; -93.311137) constructed from 1954 to 1958 on the White River by the U.S. Army Corps of Engineers."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is it legal to drink in public london\npassage: Drinking in public -- Drinking in public is legal in England and Wales -- one may carry a drink from a public house down the street (though it is preferred that the user requests a plastic glass to avoid danger of breakage and because the taking of the glass could be considered an offence of theft as only the drink has been purchased), and one may purchase alcohol at an off-licence and immediately begin drinking it outside. Separately, one may drink on aeroplanes and on most National Rail train services, either purchasing alcohol on-board or consuming one's own."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are humans the only animals that create art\npassage: Animal-made art -- Animal-made art is art created by a non-human animal. Animal-made works of art have been created by apes, elephants, cetacea, reptiles, and bowerbirds, among other species."
+    },
+    {
+        "label": "True",
+        "sentence": "question: do you bring a candle to a candlelight vigil\npassage: Candlelight vigil -- A candlelight vigil or candlelit vigil is an outdoor assembly of people carrying candles, held after sunset in order to show support for a specific cause. Such events are typically held either to protest the suffering of some marginalized group of people, or in memory of the dead. In the latter case, the event is often called a candlelight memorial. A large candlelight vigil will usually have invited speakers with a public address system and may be covered by local or national media. Speakers give their speech at the beginning of the vigil to explain why they are holding a vigil and what it represents. Vigils may also have a religious or spiritual purpose. On Christmas Eve many churches hold a candlelight vigil."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are magnetic north and geographic north the same\npassage: Magnetic declination -- Magnetic declination, or magnetic variation, is the angle on the horizontal plane between magnetic north (the direction the north end of a compass needle points, corresponding to the direction of the Earth's magnetic field lines) and true north (the direction along a meridian towards the geographic North Pole). This angle varies depending on position on the Earth's surface and changes over time."
+    },
+    {
+        "label": "False",
+        "sentence": "question: isotope refers to the electrical charge of the electron\npassage: Isotope -- The number of protons within the atom's nucleus is called atomic number and is equal to the number of electrons in the neutral (non-ionized) atom. Each atomic number identifies a specific element, but not the isotope; an atom of a given element may have a wide range in its number of neutrons. The number of nucleons (both protons and neutrons) in the nucleus is the atom's mass number, and each isotope of a given element has a different mass number."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is martin andersen beachline expressway a toll road\npassage: Florida State Road 528 -- State Road 528 (SR 528), the Martin Andersen Beachline Expressway (formerly known as the Martin Andersen Bee Line Expressway or simply The Bee Line), is a 53.5-mile-long (86.1 km) state highway in the U.S. state of Florida. It is a mostly-tolled expressway connecting Interstate 4 in southwest Orlando with Interstate 95, Titusville, and Cape Canaveral on Florida's Space Coast. It passes close to the tourist areas of Orlando, including SeaWorld and Universal Orlando, and serves the north entrance to Orlando International Airport. Near its east end, it passes over the Intracoastal Waterway on the Emory L. Bennett Causeway, and ends at State Road A1A and State Road 401 near Port Canaveral."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is a tendon the same as a muscle\npassage: Tendon -- A tendon or sinew is a tough band of fibrous connective tissue that usually connects muscle to bone and is capable of withstanding tension."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you have a handgun in your car texas\npassage: Gun laws in Texas -- Gov. Perry also signed H.B. 1815 after passage by the 2007 Legislature, a bill that allows any Texas resident to carry a handgun in the resident's motor vehicle without a CHL or other permit. The bill revised Chapter 46, Section 2 of the Penal Code to state that it is in fact not ``Unlawful Carry of a Weapon'', as defined by the statute, for a person to carry a handgun while in a motor vehicle they own or control, or to carry while heading directly from the person's home to that car. However, lawful carry while in a vehicle requires these four critical qualifiers: (1) the weapon must not be in plain sight (in Texas law, ``plain sight'' and ``concealed'' are mutually exclusive opposing terms); (2) the carrier cannot be involved in criminal activities, other than Class C traffic misdemeanors; (3) the carrier cannot be prohibited by state or federal law from possessing a firearm; and (4) the carrier cannot be a member of a criminal gang."
+    },
+    {
+        "label": "True",
+        "sentence": "question: was social security part of the new deal\npassage: Social Security Administration -- The Social Security Act created a Social Security Board (SSB), to oversee the administration of the new program. It was created as part of President Franklin D. Roosevelt's New Deal with the signing of the Social Security Act of 1935 on August 14, 1935. The Board consisted of three presidentially appointed executives, and started with no budget, no staff, and no furniture. It obtained a temporary budget from the Federal Emergency Relief Administration headed by Harry Hopkins. The first counsel for the new agency was Thomas Elliott, one of Felix Frankfurter's ``happy hot dogs.''"
+    },
+    {
+        "label": "True",
+        "sentence": "question: has anyone won all four grand slam in one year\npassage: Grand Slam (tennis) -- In terms of the current four majors, the first to win all four in a single year was Don Budge, who completed the feat in 1938. To date, 17 players have completed a Grand Slam, though only six in the most prestigious singles titles. Of these players, three have won multiple majors: Rod Laver accomplished the feat twice in men's singles; Margaret Court accomplished the feat three times, in two different disciplines -- once in women's singles and twice in mixed doubles; and Esther Vergeer completed a grand slam twice in Women's wheelchair doubles."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is sales revenue and gross profit the same thing\npassage: Gross profit -- In accounting, gross profit, gross margin, sales profit, or credit sales is the difference between revenue and the cost of making a product or providing a service, before deducting overheads, payroll, taxation, and interest payments. This is different from operating profit (earnings before interest and taxes). Gross margin is the term normally used in the U.S., while gross profit is the more common usage in the UK and Australia."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is a german shepherd and alsatian the same\npassage: German Shepherd -- The German Shepherd (German: Deutscher Schäferhund, German pronunciation: (ˈʃɛːfɐˌhʊnt)) is a breed of medium to large-sized working dog that originated in Germany. The breed's officially recognized name is German Shepherd Dog in the English language (sometimes abbreviated as GSD). The breed is known as the Alsatian in Britain and Ireland. The German Shepherd is a relatively new breed of dog, with their origin dating to 1899. As part of the Herding Group, German Shepherds are working dogs developed originally for herding sheep. Since that time however, because of their strength, intelligence, trainability, and obedience, German Shepherds around the world are often the preferred breed for many types of work, including disability assistance, search-and-rescue, police and military roles, and even acting. The German Shepherd is the second-most registered breed by the American Kennel Club and seventh-most registered breed by The Kennel Club in the United Kingdom."
+    },
+    {
+        "label": "True",
+        "sentence": "question: do abby and luka get married on er\npassage: Abby Lockhart -- Abby dates Dr. Kovač, Dr. Carter and Jake, a medical student, but eventually returns to Kovač, with whom she has a son. They later marry. She befriends many colleagues in the ER throughout the series, particularly female co-workers such as Carol Hathaway and Susan Lewis, and later Elizabeth Corday and Kerry Weaver. Her closest friend is Dr. Neela Rasgotra, who graduates medical school with her and lives with her during some of Neela's hard times. As Carter is phased out of the show and Weaver departs midway through Season 13, Abby and Luka Kovač are the senior figures on the show until their departure in 2009."
+    },
+    {
+        "label": "True",
+        "sentence": "question: does sour apple pucker have alcohol in it\npassage: Pucker -- Pucker is a line of fruit-flavored imitation liqueurs made by the DeKuyper company. By volume it is 15% alcohol (30 proof) and is often used in mixed drinks."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is a duplex considered a 2 unit property\npassage: Duplex (building) -- A duplex house plan has two living units attached to each other, either next to each other via townhouses or above each other like apartments By contrast, a building comprising two attached units on two distinct properties is typically considered semi-detached or twin homes but is also called a duplex in the Northeastern United States."
+    },
+    {
+        "label": "True",
+        "sentence": "question: 7 days to die cross platform pc and xbox\npassage: 7 Days to Die -- Multiplayer is available through player-hosted servers and enables multiple players to interact and communicate with each other on a single world. Interactions can be cooperative or hostile depending on the used server options. Players can run their own servers or use a hosting provider. Single player worlds have local area network support, allowing players to join worlds on locally interconnected computers without a server setup. Players are also able to provide Wide Area Network support via single player worlds. 7 Days to Die servers can run on both consoles, Windows and Linux. There are two supported game modes for multiplayer: Survival (both randomly generated and standard) and Creative."
+    },
+    {
+        "label": "True",
+        "sentence": "question: have china ever qualified for the world cup\npassage: China at the FIFA World Cup -- The China national team was founded in 1924 and joined FIFA in 1931--1958, and then from 1979. China first entered World Cup qualification in 1957 in an attempt to qualify for the 1958 FIFA World Cup. China failed to score a goal in their maiden World Cup appearance in 2002. However, qualifying for the tournament has been considered the greatest accomplishment in China's football history. As football is widely followed in China, triumph by the national team is considered to be a source of national pride. Around 300 million people tuned into broadcasts of China's World Cup 2002 matches, with 170 million new television sets being purchased by citizens in order to watch their nation's first World Cup appearance. The team is colloquially referred to as Team China (中国队), the National Team (国家队) or Guozu (国足, lit. ``national foot'' also meaning national football)."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is arequipe the same as dulce de leche\npassage: Dulce de leche -- The dulce de leche of El Salvador has a soft, crumbly texture, with an almost crystallized form. Central Mexico had versions as manjar (vanilla flavored) or cajeta, which is made from goat's milk, while in the North of the country the ``dulce de leche'' from cow's milk is more common. In Cuba, dulce de leche is made from soured milk that's curdled and then sweetened, called cortada. In the Dominican Republic, it is made with equal parts milk and sugar with cinnamon, and the texture is more like fudge. In Puerto Rico, dulce de leche is sometimes made with unsweetened coconut milk. In Colombia, it is called Arequipe, along with some regional variants, such as Manjar Blanco, which has higher content of milk. In Chile, it is called manjar."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can a non resident buy a gun in new mexico\npassage: Gun laws in New Mexico -- New Mexico is a Shall-Issue state for the concealed carry of handguns, and permits the open carry of loaded firearms without a permit. A New Mexico Concealed Handgun License (CHL) is required by in-state residents to carry in a concealed manner a loaded handgun while on foot. Per state law, a firearm is considered ``loaded'' when a magazine with live ammunition is inserted into the weapon and/or a live round is in the firing chamber. (citation needed) Additionally, state law (NMSA 29-19-2) defines a concealed handgun as ``a loaded handgun that is not visible to the ordinary observations of a reasonable person.'' This definition creates legal ambiguity for partially-exposed weapons, as the firearm may be visible to one person and thus no violation of law occurs since it would be viewed as open carry. However, the same partially-exposed weapon may not be readily visible to a second person, thus potentially placing the carrying person in violation of the state's concealed carry law if the individual carrying does not have a valid license for concealed carry. A CHL is not required for open carry, concealed carry of an unloaded firearm on foot, or concealed carry of a loaded or unloaded firearm while in a vehicle (including motorcycles, bicycles, off-road vehicles, motor homes, or riding a horse). An applicant for a concealed carry permit must be a resident of New Mexico and at least 21 years of age. Each permit specifies the category and caliber of handgun that may be carried, but is also valid for a smaller caliber. The applicant must complete a state approved training course that includes at least 15 hours of classroom and firing range time, and must pass a shooting proficiency test for that category and caliber of handgun. A permit is valid for four years, but license holders must pass the shooting proficiency test every two years. An applicant may appeal the denial of a Concealed Handgun License by requesting a hearing before the Department of Public Safety within 35 days of receipt of an Order of Denial for a CHL. An unfavorable ruling on the appeal by the DPS may be further appealed through the New Mexico courts. New Mexico currently recognizes concealed carry permits from or has reciprocal agreements with the following states: Alaska, Arizona, Arkansas, Colorado, Delaware, Florida, Idaho, Kansas, Louisiana, Michigan, Mississippi, Missouri, Nebraska, Nevada, North Carolina, North Dakota, Ohio, Oklahoma, South Carolina, Tennessee, Texas, Virginia, West Virginia, and Wyoming. New Mexico does not issue CCW permits to non-residents, except for Active Duty military members permanently assigned to a military installation within the state. Part-time residents with a valid New Mexico ID or Driver's license may apply for a New Mexico CHL. New Mexico does not recognize out-of-state nonresident permits held by in-state residents for concealed carry; in other words, New Mexico residents must hold a New Mexico CHL to lawfully carry a concealed, loaded handgun while on foot within the state."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can you make tequila in the united states\npassage: Tequila -- Mexican laws state that tequila can only be produced in the state of Jalisco and limited municipalities in the states of Guanajuato, Michoacán, Nayarit, and Tamaulipas. Tequila is recognized as a Mexican designation of origin product in more than 40 countries. It is protected through NAFTA in Canada and the United States, through bilateral agreements with individual countries such as Japan and Israel, and has been a protected designation of origin product in the constituent countries of the European Union since 1997."
+    },
+    {
+        "label": "False",
+        "sentence": "question: does the man with the yellow hat have a name\npassage: Curious George -- Aside from George himself, the only recurring character in the original adventures is the unnamed Man with the Yellow Hat who is George's best friend. It was he who lured George into a trap with his hat, captured him in a bag, and forcibly brought him from Africa, and in his house that George lives. The Man often facilitates George's adventures by taking him somewhere, and even more often resolves the tension by intervening just in time to get George out of a tight spot. He is always seen wearing a bright yellow suit and a wide brimmed yellow hat. The Man is never mentioned by name in the original adventures or in any subsequent content over more than six decades."
+    },
+    {
+        "label": "True",
+        "sentence": "question: does the milky way belong to a galaxy cluster\npassage: Virgo Supercluster -- The Virgo Supercluster (Virgo SC) or the Local Supercluster (LSC or LS) is a mass concentration of galaxies containing the Virgo Cluster and Local Group, which in turn contains the Milky Way and Andromeda galaxies. At least 100 galaxy groups and clusters are located within its diameter of 33 megaparsecs (110 million light-years). The Virgo SC is one of about 10 million superclusters in the observable universe and is in the Pisces--Cetus Supercluster Complex, a galaxy filament."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there going to be a 2nd infinity wars\npassage: Untitled Avengers film -- The untitled Avengers film, colloquially referred to as Avengers 4, is an upcoming American superhero film based on the Marvel Comics superhero team the Avengers, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is intended to be the direct sequel to 2018's Avengers: Infinity War, as well as the sequel to 2012's Marvel's The Avengers and 2015's Avengers: Age of Ultron and the twenty-second film in the Marvel Cinematic Universe (MCU). The film is directed by Anthony and Joe Russo, with a screenplay by the writing team of Christopher Markus and Stephen McFeely, and features an ensemble cast with many actors from previous MCU films."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is charlie a girl in charlie and lola\npassage: Charlie and Lola -- Charlie and Lola are fictional children created by the English writer and illustrator Lauren Child in 2000. They were introduced in a series of picture books and later adapted as animated television characters. Lola is an energetic, imaginative little girl; Charlie is her patient and kind big brother who is always willing to help Lola learn and grow."
+    },
+    {
+        "label": "True",
+        "sentence": "question: do sam and dean find their mother killer\npassage: Azazel (Supernatural) -- Azazel's last appearance chronologically is in the second season finale ``All Hell Breaks Loose'', where he kidnaps Sam and the other young adults that he had infected. He visits Sam in a dream, and reveals that his ``special children'' must fight to the death to determine who will lead his army. Although Sam is the demon's favorite, the super-strong Jake Talley becomes the winner. As Dean sells his soul to another demon in exchange for Sam's resurrection, Azazel gives Jake the Colt and coerces him to travel to a cemetery in the middle of a giant devil's trap. Though Sam and Dean, along with other hunters, attempt to stop him, Jake uses the Colt as a key to unlock a mausoleum there. This action briefly opens a gateway to Hell, releasing Lilith and hundreds of other demons. With the devil's trap around the cemetery now broken, Azazel confronts the Winchesters and easily overpowers them. However, John's soul escapes through the Gate, and distracts Azazel long enough for Dean to shoot him dead with the Colt."
+    },
+    {
+        "label": "True",
+        "sentence": "question: did michael jordan go to the playoffs every year\npassage: List of Chicago Bulls seasons -- The Bulls' luck turned for the better after selecting Michael Jordan with the third overall pick in the 1984 NBA Draft. Considered the greatest basketball player of all time by NBA.com , Jordan averaged 28.2 points per game during his first season and received the 1985 NBA Rookie of the Year Award. From 1985 onwards, the Bulls reached the playoffs every season he was on the team's roster. Jordan could not lead the Bulls past the first round of the playoffs by himself losing to the champion Celtics and in 1987 general manager Jerry Krause acquired Scottie Pippen and Horace Grant at that summer's draft. In 1989, the Bulls played in their first conference finals series since 1975, losing to the Detroit Pistons. Coach Phil Jackson, an assistant since 1987, succeeded Doug Collins as head coach after that season and in 1991, the team won their first of three consecutive NBA championships by defeating Magic Johnson and the Lakers.. Then they won two more consecutive titles in 1992 and 1993 after which Michael Jordan retired."
+    },
+    {
+        "label": "False",
+        "sentence": "question: do i need a visa to go to andorra\npassage: Visa policy of Andorra -- The Andorran government imposes no visa requirements on its visitors and only requires a passport or European Union national identity card for entrance. However, since the country is only accessible via the Schengen countries of Spain or France, entrance is not possible without entering the Schengen area first and the Schengen visa rules can therefore be regarded to apply de facto. Because Andorra is not part of the Schengen area, a multiple entry visa is required to re-enter the Schengen area when leaving Andorra. Foreign visitors looking to stay in Andorra more than 90 days require a residence permit.(2)"
+    },
+    {
+        "label": "True",
+        "sentence": "question: are neurons part of the central nervous system\npassage: Central nervous system -- Microscopically, there are differences between the neurons and tissue of the central nervous system and the peripheral nervous system. The central nervous system is divided in white and gray matter. This can also be seen macroscopically on brain tissue. The white matter consists of axons and oligodendrocytes, while the gray matter consists of neurons and unmyelinated fibers. Both tissues include a number of glial cells (although the white matter contains more), which are often referred to as supporting cells of the central nervous system. Different forms of glial cells have different functions, some acting almost as scaffolding for neuroblasts to climb during neurogenesis such as bergmann glia, while others such as microglia are a specialized form of macrophage, involved in the immune system of the brain as well as the clearance of various metabolites from the brain tissue. Astrocytes may be involved with both clearance of metabolites as well as transport of fuel and various beneficial substances to neurons from the capillaries of the brain. Upon CNS injury astrocytes will proliferate, causing gliosis, a form of neuronal scar tissue, lacking in functional neurons."
+    },
+    {
+        "label": "True",
+        "sentence": "question: has jack black seen the school of rock musical\npassage: School of Rock (musical) -- Jack Black himself attended a Sunday performance, and afterwards told the cast backstage, ``There were so many times I went, 'I could not have done it that well.' You made me laugh. You made me cry. You made me rock.'''"
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the united kingdom a part of europe\npassage: United Kingdom -- The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK) and colloquially Great Britain (GB) or simply Britain, is a sovereign country in western Europe. Lying off the north-western coast of the European mainland, the United Kingdom includes the island of Great Britain, the north-eastern part of the island of Ireland and many smaller islands. Northern Ireland is the only part of the United Kingdom that shares a land border with another sovereign state‍--‌the Republic of Ireland. Apart from this land border, the United Kingdom is surrounded by the Atlantic Ocean, with the North Sea to its east, the English Channel to its south and the Celtic Sea to its south-south-west, giving it the 12th-longest coastline in the world. The Irish Sea lies between Great Britain and Ireland. With an area of 242,500 square kilometres (93,600 sq mi), the United Kingdom is the 78th-largest sovereign state in the world and the 11th-largest in Europe. It is also the 21st-most populous country, with an estimated 65.1 million inhabitants. Together, this makes it the fourth-most densely populated country in the European Union (EU)."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are sodium chloride and saline the same thing\npassage: Saline (medicine) -- Saline, also known as saline solution, is a mixture of sodium chloride in water and has a number of uses in medicine. Applied to the affected area it is used to clean wounds, help remove contact lenses, and help with dry eyes. By injection into a vein it is used to treat dehydration such as from gastroenteritis and diabetic ketoacidosis. It is also used to dilute other medications to be given by injection."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is a walk in the woods a true story\npassage: A Walk in the Woods (book) -- A Walk in the Woods: Rediscovering America on the Appalachian Trail is a 1998 autobiographical book by travel writer Bill Bryson, describing his attempt to walk the Appalachian Trail with his friend ``Stephen Katz''. The book is written in a humorous style, interspersed with more serious discussions of matters relating to the trail's history, and the surrounding sociology, ecology, trees, plants, animals and people."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are black beans the same as turtle beans\npassage: Black turtle bean -- The black turtle bean is a small, shiny variety of the common bean (Phaseolus vulgaris), especially popular in Latin American cuisine, though it can also be found in Cajun and Creole cuisines of south Louisiana. Like most common beans, they are native to the Americas, but have been introduced around the world. They are also used in East Indian cooking, Punjabi cuisine and are referred to as black beans and in Maharshtrian cuisine known as ``Kala Ghevada''. They are used interchangeably with vigna mungo in countries such as the US. They are often simply called black beans (frijoles negros, zaragoza, judía negra, poroto negro, caraota o habichuela negra in Spanish, and feijão preto in Portuguese), although this can cause confusion with other black beans."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is it illegal to leave a crime scene\npassage: Crime scene getaway -- In some jurisdictions, the very act of making a getaway from a crime scene is an inchoate criminal offense in itself, though it is generally viewed as natural behavior for a lawbreaker. For example, under New York law, ``escape'' is defined as escaping custody or detention; ``unlawful fleeing a police in a motor vehicle'' is a distinct crime."
+    },
+    {
+        "label": "True",
+        "sentence": "question: was there a robot in the original lost in space\npassage: Robot (Lost in Space) -- The Class B-9-M-3 General Utility Non-Theorizing Environmental Control Robot, known simply as Robot, is a fictional character in the television series Lost in Space. His full designation was only occasionally mentioned on the show."
+    }
+]

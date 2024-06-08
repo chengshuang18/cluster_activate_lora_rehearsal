@@ -1,0 +1,22 @@
+[
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: B: I mean, you can't guarantee that they wouldn't escape from prison and do it again. A: Right.  And then do it all over again.  Uh-huh. B: And I don't think that rehabilitation is effective.\nsentence 2: rehabilitation is effective"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: B: And, uh, I think they've all developed kind of an interest in reading also. A: That's re-, yeah. B: I'm not saying they read all the right things\nsentence 2: they read all the right things"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: A: Have you followed that very much or, B: Uh, not really. I don't think anything will ever take over the NFL.\nsentence 2: something will take over the NFL"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: A: That is the reason, I don't play over there. B: Yeah. A: I like the course, but I don't play over there because, they don't, uh, you know don't allow you to pull a cart. B: Right. A: And, I don't think a cart damages the turf.\nsentence 2: a cart damages the turf"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: ``You 've heard something like that before. Haven't you, Jimmy?'' Jimmy had been shaken by those sounds more shaken than the others for good reason but Cardiff could see that he was unprepared to show it as he pushed himself away from the reception counter.\nsentence 2: Jimmy was unprepared to show he had been shaken"
+    }
+]

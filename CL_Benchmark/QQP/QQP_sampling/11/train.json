@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "first sentence: How bad is academic dishonesty (cheating) in high school?\nsecond sentence: I go to a bad high school. How can I go to a good university?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How can I become a better problem solver? What mindset should I cultivate?\nsecond sentence: How can I be a fast problem solver?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How can I build a reverse vending machine?\nsecond sentence: How can I build a vending machine?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Future of Work: Will machines replace humans?\nsecond sentence: When will robots take people's jobs? Is it expected to happen overnight or will it take a while?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I overcome my social media addiction??\nsecond sentence: How do I overcome my social media addiction?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Difference between turnover and revenue?\nsecond sentence: Hi guys I have a question…I am an IT professional and I have a plan for doing MBA…now tell me which MBA çourse will suite me?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the three components of the cell theory?\nsecond sentence: What is Cell Theory, and what are some examples of it?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Where is the weirdest place you've had sex?\nsecond sentence: Where or what is the strangest place you have ever had sex?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is your review of the 2016 MacBook Pro?\nsecond sentence: Is MacBook pro 2016 too pricey or is it worth it?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Are there any data sources for places of interest (POIs) in JSON format?\nsecond sentence: Is there any music data in JSON format?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are some ways to kill boredom?\nsecond sentence: How did you beat boredom?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What are some of unbelievable conspiracy stories?\nsecond sentence: What are some of the unbelievable conspiracy stories?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How can I export WhatsApp group phone numbers?\nsecond sentence: How do I get to my WhatsApp account using a new phone?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I add my village in Google maps?\nsecond sentence: How can users add map markers with Google Maps Javascript API?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Which course is easier and better, a BA in Engineering Honours or a BA Programme?\nsecond sentence: Which course is better, B.Commerce Hons or BA Economics Hons from DU?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What's the best computer program to make flyers and why?\nsecond sentence: What's the best computer program to make flyers?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: My own country does not exist on iTunes and Apple ID what should I do?\nsecond sentence: What do I do when I doubt my own existence?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How was your first kiss?\nsecond sentence: What is the story of your first kiss?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Is the new 2000 Rupee note really implementing NGC (Nano GPS Chip)?\nsecond sentence: Will the new Rs 2000 notes carry a nano GPS chip? Will it really Help?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How does a Wi-Fi microcontroller work?\nsecond sentence: How can you get your Wi-Fi to work?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Is fascism left wing or right wing?\nsecond sentence: Is fascism left or right wing?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What movie are you watching tonight?\nsecond sentence: What movie should I watch?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How can I improve my pronunciation in English?\nsecond sentence: What can I do to improve my English speaking?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is a good way to learn the violin?\nsecond sentence: How can I learn how to play violin?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Why is the American presidential election campaign so long?\nsecond sentence: Why does the US presidential election campaign takes so long?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How is the printing of new currency note like Rs 2000 going to help in curbing future black money market?\nsecond sentence: How would demonetizing 500 and 1000 rupee notes and introducing new 2000 rupee notes help curb black money and corruption?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: I want to correct my name in my degree certificates. How do I apply to change it?\nsecond sentence: I have a bachelor's degree in computer systems engineering. I want to apply for a master's programme in electrical engineering. Would this be a suitable change in majors?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What does Donald Trump's win mean for Indian students in USA?\nsecond sentence: What would be the scenario for Indian students after Donald trump becomes the President of US?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How many protons and neutrons are in each isotope?\nsecond sentence: How many protons, neutrons, and electrons does nitrogen have? How is this calculated?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How cold can the Gobi Desert get, and how do its average temperatures compare to the ones in the Gibson Desert?\nsecond sentence: How cold can the Gobi Desert get, and how do its average temperatures compare to the ones in the Karakum Desert?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Is it possible for a company to have a negative market value of equity and a market value of equity equals to 0?\nsecond sentence: I want to buy a private company. The equity value is $5m and the enterprise value is $8m. What should be my bid price?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Why does Singapore not have natural disasters often?\nsecond sentence: Is Singapore ever immune to natural disasters?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Which is the best time for workout? Morning or evening?\nsecond sentence: Is it better to hit the gym in the morning or evening?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is the best way to commit suicide in India?\nsecond sentence: What is the most painless way to commit suicide?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: 1.855.662.4436 What is the best canon printer technical support number for printing issues in USA?\nsecond sentence: What is the technical support phone number for Canon printers in the UK",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What makes Joaquin Phoenix a good actor?\nsecond sentence: Is Joaquin Phoenix the greatest actor of this generation?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is the trick to open vault or apps and data secured by vault apps (android mobile)?\nsecond sentence: Is there any mobile app certification in market which can give assurance to app users about security of their data and app?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Who am I in my past life?\nsecond sentence: Why am I dreaming about my past life?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Where should I put my cash savings - an account that yields 5% on sums up to $2000, or another account that yields 1.5% but already has $15,000 in it?\nsecond sentence: How many schoolmates you still remember and why?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How can l get a girlfriend?\nsecond sentence: How can I get a girlfriend easily?",
+        "label": "True"
+    }
+]

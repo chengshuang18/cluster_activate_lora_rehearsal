@@ -1,0 +1,162 @@
+[
+    {
+        "label": "False",
+        "sentence": "word: keep\nThere's little to earn and many to keep.\nKeep count."
+    },
+    {
+        "label": "True",
+        "sentence": "word: break\nIf the vase falls to the floor, it might break.\nShe broke the match."
+    },
+    {
+        "label": "False",
+        "sentence": "word: extend\nExtend the casserole with a little rice.\nExtend the TV antenna."
+    },
+    {
+        "label": "False",
+        "sentence": "word: poison\nThis mushrooms can poison.\nPoison someone's mind."
+    },
+    {
+        "label": "False",
+        "sentence": "word: work\nHe could not work the math problem.\nWork one's way through the crowd."
+    },
+    {
+        "label": "True",
+        "sentence": "word: ride\nShe loves to ride her new motorcycle through town.\nThe cab rode him downtown."
+    },
+    {
+        "label": "True",
+        "sentence": "word: use\nThere is no use for your invention.\nHe warned against the use of narcotic drugs."
+    },
+    {
+        "label": "False",
+        "sentence": "word: outwardness\nWhat is the origin of the outwardness of our sensations of sound, smell, or taste.\nThe outwardness of the world."
+    },
+    {
+        "label": "True",
+        "sentence": "word: job\nThe job of repairing the engine took several hours.\nI've got a job for you -- could you wash the dishes?"
+    },
+    {
+        "label": "False",
+        "sentence": "word: foot\nThe foot of the list.\nHe stood at the foot of the tower."
+    },
+    {
+        "label": "False",
+        "sentence": "word: unit\nThe team is a unit.\nA unit of wheat is a bushel."
+    },
+    {
+        "label": "True",
+        "sentence": "word: run\nI will run the sample.\nOur coach had us running plays for the whole practice."
+    },
+    {
+        "label": "True",
+        "sentence": "word: side\nIt brought out his better side.\nHe is on the purchasing side of the business."
+    },
+    {
+        "label": "False",
+        "sentence": "word: finish\nHis best finish in a major tournament was third.\nExcitement grew as the finish neared."
+    },
+    {
+        "label": "False",
+        "sentence": "word: canvas\nThe movie demanded a dramatic canvas of sound.\nThe boxer picked himself up off the canvas."
+    },
+    {
+        "label": "True",
+        "sentence": "word: portfolio\nI would like to introduce you to our portfolio of services.\nThey were disappointed by the poor returns on their stock portfolio."
+    },
+    {
+        "label": "True",
+        "sentence": "word: priority\nNational independence takes priority over class struggle.\nHe set his e-mail message's priority to high."
+    },
+    {
+        "label": "True",
+        "sentence": "word: breath\nThe child's breath came quickly and unevenly.\nHe took a deep breath and dived into the pool."
+    },
+    {
+        "label": "True",
+        "sentence": "word: birth\nThey divorced after the birth of the child.\nHis election signaled the birth of a new age."
+    },
+    {
+        "label": "False",
+        "sentence": "word: consider\nConsider the possibility of moving.\nPlease consider your family."
+    },
+    {
+        "label": "False",
+        "sentence": "word: charge\nHe was arrested on a charge of larceny.\nThe child was a charge of the nanny."
+    },
+    {
+        "label": "True",
+        "sentence": "word: world\nPeople are dying of starvation all over the world.\nAll the world loves a lover."
+    },
+    {
+        "label": "False",
+        "sentence": "word: drink\nDrink was his downfall.\nI asked for a hot drink."
+    },
+    {
+        "label": "True",
+        "sentence": "word: end\nThe end of the pier.\nThey rode to the end of the line."
+    },
+    {
+        "label": "False",
+        "sentence": "word: spot\nFor our anniversary we went back to the same spot where we first met.\nA bald spot."
+    },
+    {
+        "label": "False",
+        "sentence": "word: fall\nWhen that became known the price of their stock went into free fall.\nThe fall of the House of Hapsburg."
+    },
+    {
+        "label": "False",
+        "sentence": "word: academy\nA riding academy.\nThe French Academy."
+    },
+    {
+        "label": "True",
+        "sentence": "word: keep\nKeep appointments.\nShe never keeps her promises."
+    },
+    {
+        "label": "False",
+        "sentence": "word: application\nA novel application of electronics to medical diagnosis.\nHe has tried several different word processing applications."
+    },
+    {
+        "label": "True",
+        "sentence": "word: turn\nThe hillside behind our house isn't generally much to look at, but once all the trees turn it's gorgeous.\nIn Vermont, the leaves turn early."
+    },
+    {
+        "label": "False",
+        "sentence": "word: rule\nIt was his rule to take a walk before breakfast.\nHe knew the rules of chess."
+    },
+    {
+        "label": "False",
+        "sentence": "word: wall\nNegotiations ran into a brick wall.\nThe walls of the cylinder were perforated."
+    },
+    {
+        "label": "False",
+        "sentence": "word: land\nHe built the house on land leased from the city.\nAn industrialized land."
+    },
+    {
+        "label": "True",
+        "sentence": "word: breath\nI could hear the breath of the runner behind me.\nHe took a deep breath and dived into the pool."
+    },
+    {
+        "label": "False",
+        "sentence": "word: wing\nThey are the progressive wing of the Republican Party.\nHe preferred the drumsticks to the wings."
+    },
+    {
+        "label": "False",
+        "sentence": "word: drive\nDrive a car or bus.\nMy new truck drives well."
+    },
+    {
+        "label": "True",
+        "sentence": "word: create\nYou can create the color orange by mixing yellow and red.\nThe company was created 25 years ago."
+    },
+    {
+        "label": "False",
+        "sentence": "word: touch\nSuddenly, in the crowd, I felt a touch at my shoulder.\nThis dish could use a touch of garlic."
+    },
+    {
+        "label": "False",
+        "sentence": "word: drive\nTo drive sheep out of a field.\nDrive the forest."
+    },
+    {
+        "label": "False",
+        "sentence": "word: connect\nThe telephone company finally put in lines to connect the towns in this area.\nDid you finally connect with your long-lost cousin?"
+    }
+]

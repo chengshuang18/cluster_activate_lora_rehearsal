@@ -1,0 +1,34 @@
+[
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The boy tuned the radio.\"? Choose one between A and B.\nA: The station was playing rock music.\nB: The station was coming in with static."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The woman betrayed her friend.\"? Choose one between A and B.\nA: Her friend sent her a greeting card.\nB: Her friend cut off contact with her."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"I applied pressure to the cut on my arm.\"? Choose one between A and B.\nA: It healed.\nB: It stopped bleeding."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"A crater formed on the moon.\"? Choose one between A and B.\nA: A comet passed by the moon.\nB: A comet collided with the moon."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the effect of \"The pond froze over for the winter.\"? Choose one between A and B.\nA: People skated on the pond.\nB: People brought boats to the pond."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the effect of \"I put coins in the washing machine at the laundromat.\"? Choose one between A and B.\nA: The machine powered on.\nB: I ran out of laundry detergent."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The woman exaggerated the details of the story.\"? Choose one between A and B.\nA: She wanted attention.\nB: She felt shy."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"I clumsily bumped into the stranger.\"? Choose one between A and B.\nA: I ran away.\nB: I apologized to him."
+    }
+]

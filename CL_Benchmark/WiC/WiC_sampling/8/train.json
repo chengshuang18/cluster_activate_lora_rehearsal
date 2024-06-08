@@ -1,0 +1,162 @@
+[
+    {
+        "label": "False",
+        "sentence": "word: make\nMake a mess in one's office.\nShe'll make a fine president."
+    },
+    {
+        "label": "False",
+        "sentence": "word: build\nBuild up confidence.\nThe contractor builds houses for $100."
+    },
+    {
+        "label": "True",
+        "sentence": "word: flatten\nAs there was a lot of damage, we chose the heavy roller to flatten the pitch.\nMary would flatten the dough before rolling it into pretzels."
+    },
+    {
+        "label": "False",
+        "sentence": "word: question\nHis claim to the property has come under question.\nThe question of seniority will be discussed at the meeting."
+    },
+    {
+        "label": "True",
+        "sentence": "word: record\nAl Smith used to say, 'Let's look at the record'.\nHis name is in all the record books."
+    },
+    {
+        "label": "False",
+        "sentence": "word: fall\nThe hills around here fall towards the ocean.\nHis eyes fell."
+    },
+    {
+        "label": "True",
+        "sentence": "word: well\nTears well in her eyes.\nThe currents well up."
+    },
+    {
+        "label": "False",
+        "sentence": "word: cost\nThe average cost of a new house is twice as much as t was 20 years ago.\nThe cost in human life was enormous."
+    },
+    {
+        "label": "True",
+        "sentence": "word: floor\nThe floor of the cave.\nThe pit floor showed where a ring of post holes had been."
+    },
+    {
+        "label": "True",
+        "sentence": "word: slip\nHe blamed his slip on the ice.\nThe jolt caused many slips and a few spills."
+    },
+    {
+        "label": "False",
+        "sentence": "word: rest\nThe ocean was finally at rest.\nHe threw away the rest."
+    },
+    {
+        "label": "True",
+        "sentence": "word: occur\nPrecious stones occur in a large area in Brazil.\nSexism occurs in many workplaces."
+    },
+    {
+        "label": "True",
+        "sentence": "word: cycle\nThe cycle of the seasons, or of the year.\nThe never-ending cycle of the seasons."
+    },
+    {
+        "label": "False",
+        "sentence": "word: draw\nDraw a weapon.\nDraw a wagon."
+    },
+    {
+        "label": "True",
+        "sentence": "word: run\nHe can have the run of the house.\nHe has the run of the house."
+    },
+    {
+        "label": "True",
+        "sentence": "word: play\nPlay football.\nHe plays on three teams."
+    },
+    {
+        "label": "False",
+        "sentence": "word: answer\nThis may answer her needs.\nA few words would answer."
+    },
+    {
+        "label": "True",
+        "sentence": "word: one\nThis is the one I ordered.\nHe is the best one."
+    },
+    {
+        "label": "False",
+        "sentence": "word: coast\nThe rocky coast of Maine has few beaches.\nThe children lined up for a coast down the snowy slope."
+    },
+    {
+        "label": "True",
+        "sentence": "word: break\nIf the vase falls to the floor, it might break.\nShe broke the match."
+    },
+    {
+        "label": "True",
+        "sentence": "word: cut\nCut trenches.\nCut a hole."
+    },
+    {
+        "label": "True",
+        "sentence": "word: way\nCome this way and I'll show you a shortcut.\nDo you know the way to the airport?"
+    },
+    {
+        "label": "True",
+        "sentence": "word: grow\nThat acorn will grow into an oak tree.\nAn oak tree will grow from that acorn."
+    },
+    {
+        "label": "True",
+        "sentence": "word: use\nWe can use this mathematical formula to solve the problem.\nHe doesn't know how to use a computer."
+    },
+    {
+        "label": "True",
+        "sentence": "word: hedge\nDiversify your financial portfolio to hedge price risks.\nHedge your bets."
+    },
+    {
+        "label": "False",
+        "sentence": "word: raise\nTo raise a wall, or a heap of stones.\nThe President raised several million dollars for his college."
+    },
+    {
+        "label": "True",
+        "sentence": "word: work\nHow does your idea work in practice?\nThe voting process doesn't work as well as people thought."
+    },
+    {
+        "label": "False",
+        "sentence": "word: baby\nThis project is his baby.\nStand up for yourself-don't be such a baby!"
+    },
+    {
+        "label": "True",
+        "sentence": "word: drill\nDrill for oil.\nDrill a small hole to start the screw in the right direction."
+    },
+    {
+        "label": "False",
+        "sentence": "word: draw\nDraw a line.\nTo draw a memorial, a deed, or bill of exchange."
+    },
+    {
+        "label": "True",
+        "sentence": "word: hall\nThe drinking fountain was out in the hall.\nThe elevators were at the end of the hall."
+    },
+    {
+        "label": "False",
+        "sentence": "word: stretch\nStretch the imagination.\nTo enjoy the picnic, we stretched out on the grass."
+    },
+    {
+        "label": "False",
+        "sentence": "word: lift\nLift a ban.\nI lifted the books onto the table."
+    },
+    {
+        "label": "True",
+        "sentence": "word: year\nThis Chinese year is the year of the Rooster.\nI was born in the year 1950."
+    },
+    {
+        "label": "True",
+        "sentence": "word: rock\nHe threw a rock at me.\nSome fool has thrown a rock through my window."
+    },
+    {
+        "label": "True",
+        "sentence": "word: work\nHe could not work the math problem.\nThis unpleasant situation isn't going to work itself out."
+    },
+    {
+        "label": "False",
+        "sentence": "word: respect\nHe is an intellectual giant, and I have great respect for him.\nBe sure to give my respects to the dean."
+    },
+    {
+        "label": "False",
+        "sentence": "word: tolerate\nI like the way he plays the guitar, but I can't tolerate his voice when he sings.\nThe patient does not tolerate the anti-inflammatory drugs we gave him."
+    },
+    {
+        "label": "True",
+        "sentence": "word: pattern\nThey stayed in the pattern until the fog lifted.\nThe traffic patterns around O'Hare are very crowded."
+    },
+    {
+        "label": "False",
+        "sentence": "word: matter\nHe always took some reading matter with him on the plane.\nThey were friends and it was no matter who won the games."
+    }
+]

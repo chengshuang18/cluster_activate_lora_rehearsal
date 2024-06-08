@@ -1,0 +1,242 @@
+[
+    {
+        "sentence": "sentence 1: uh-huh it is it's way too late i agree\nsentence 2: It is way too late, you missed the deadline. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: oh just just gorgeous and that inn is huge and but now uh like i say that one tribe is the exception not the rule\nsentence 2: I stayed at the inn while on vacation.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Even so, Abraham's trough-to-peak comparison does not support his point.\nsentence 2: Abraham's trough-to-peak comparisons did not help his case.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: 1 Specifically, weaknesses such as poor controls over access to data and inadequate disaster recovery plans increased the risk of losses, inappropriate disclosures, and disruptions in service associated with the enormous amounts of electronically maintained information essential for delivering federal services and assessing the success of federal programs.\nsentence 2: The poor controls are a result of tired workers.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: and they're wondering where does that cholesterol go\nsentence 2: Where does the cholesterol go?",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: To enhance his glory, the Sun King turned to foreign conquest.\nsentence 2: The Sun King decided to take military action abroad in order to improve his reputation.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: But this problem was quickly resolved when McCain, who was attending the lunch as a guest of U.S.\nsentence 2: This problem was swiftly resolved when McCain attended the lunch as a guest of U.S.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: oh yeah yeah i i could really see t hat uh so yeah they'll just have to find other means of uh relaxing and\nsentence 2: This was the only way they could relax.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Cowed by his intensity, I was afraid to open my mouth.\nsentence 2: I was Afraid to open my mouth because of his intensity.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: uh so we see uh the ones that have been out for a while i was trying to think what the last movie that we went to see was probably Russia House with uh Sean Connery and uh\nsentence 2: The last movie we went out to see was probably Frozen.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: And a bizarre photo essay depicts a husband and wife who have worn matching outfits every day for the last 17 years.\nsentence 2: The couple only began wearing matching outfits five years ago.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: This rule amends FDA regulations to provide that animal protein derived from mammalian tissues for use in ruminant feed is a food additive subject to certain provisions in the Federal Food, Drug, and Cosmetic Act (21 U.S.C.\nsentence 2: The rule is an amendment to the FDA regulations for food additives put into ruminant feed.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: and uh it uh it was interesting just to listen to the rationale uh being proposed and the logic of some of the people uh it was also extremely difficult to stay awake sometimes because there was so many witnesses and we were not allowed to take any notes of any kind uh and i thought that that was a failing because uh from the standpoint that it was difficult to try to remember everything and and yet the judge said well um if you're taking notes you're missing something\nsentence 2: We could not write down anything about the trial.  ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: right especially to to pay that kind of money for it\nsentence 2: You should definitely get your money's worth if you're paying that much for it.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Salvors sell their finds online, stage exhibitions for profit, and auction film rights.\nsentence 2: Salvors are traditional, they never trade online.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The two cities have twice shared the same destructive fate.\nsentence 2: The two cities have never shared the same fate.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: you know if if they could get somebody to help compliment him you know i think they'd be uh awesome because that guy can play that Chambers is is something else but uh i don't know it'll it'll be interesting\nsentence 2: They should find someone that does not compliment him at all.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: that's uh that's uh but uh i i guess the winter the winter wasn't that bad down here really\nsentence 2: I guess the winter was ok, since it rarely snowed.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Mostly Incorrect.\nsentence 2: Wrong, for the most part.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: He suggests that processing and transportation of mail do not seem to be characterized by scale economies, and that they could be provided by competing firms.\nsentence 2: He claims that economies of scale do not apply to mail treatment.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Their religion included elements of Hinduism such as Shiva's phallic lingam and his sacred bull, Nandi, before the Brahmanic Indo-Aryans arrived.\nsentence 2: Their religion was compatible with many other religions.  ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The  Gays must remain chaste, which means avoiding genital sexual involvement with same-sex friends.\nsentence 2: The Gays can have as much same-sex sexual involvement as they want.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: What the hell is that?\nsentence 2: What even is that?",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: For example, the revenue that the Employees Health Benefit fund earns from contributions by Federal employees, annuitants, employer entities, and the Office of Personnel Management (OPM) is an offset to the insurance premiums that it pays to private firms.\nsentence 2: The Health Benefit fund has no revenue.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Additional pressures from arriving miners pushed the missionaries' plight beyond recovery.\nsentence 2: The missionaries' plight had been in decline for years.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: he it was like  ten times longer than he already thought he would be done and and uh he did part of the in the at night because we were trying to hurry up and get it ready so we could move in and um and he didn't notice until the next morning that the shades of paint between the two paint cans he had finished one can off and started another one\nsentence 2: When he painted the house at night so we could move in, it took him longer than expected and the paint was two colors.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: This is due to the fact that a much larger percentage of U.S. revenue comes from undelivered mail.\nsentence 2: Undelivered mail provides more revenue in the US than in other places.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The Scotland Yard men came and went, examining, questioning, lynx-eyed and reserved of tongue. \nsentence 2: The fellows from Scotland Yard appeared and left.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Already, Al Gore has plans to focus on women-oriented sites.\nsentence 2: Al Gore will avoid placing more focus on women-oriented sites.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: i could i couldn't afford to work there\nsentence 2: The expensive uniform means that I could not afford to work there. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: If i = j, then it is the own-price elasticity of demand, otherwise magnitude is called the cross-price elasticity of demand.\nsentence 2:  If i =/ j, then it is the own-price elasticity of demand",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: An audited entity receiving a GAGAS attestation report may also need a report on the attestation engagement for purposes other than to comply with requirements calling for a GAGAS audit.\nsentence 2: There is no reason to provide an account of the GAGAS engagement.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: what was it eighty six\nsentence 2: The year of the occurrence was 1975.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: But Pixar went public at a price 77 percent lower than the highest price people paid for its shares on the opening day of trading.\nsentence 2: Pixar went on to become a popular company. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: I'd feel it in my fingertips if he came near me.\"\nsentence 2: If he came near I could sense it in my fingers.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: people now i mean it used to be the law was and no one enforced it but they are enforcing it now and and i'm glad they are however one solution presents another problem well i would like certainly like to see this you know if this is true with this fellow in Atlanta it sounds wonderful\nsentence 2: No one cares about enforcing the law in this country.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: 'You didn't give me long to work, J,' She said, scratching her head.\nsentence 2: She said she needed another week to finish.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: H-2A workers may be more attractive to employers for a number of reasons.\nsentence 2: H-2A workers are not as beneficial as employers once believed.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Generally accepted government auditing standards (GAGAS) incorporate the AICPA field work and reporting standards and related SASs unless the Comptroller General of the United States excludes them by formal announcement.\nsentence 2: AICPA standards are incorporated by GAGAS unless the Comptroller General says otherwise.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: This reduces the ratio of net foreign investment to GDP over time as GDP grows.\nsentence 2: There is no ratio between foreign investments and GDP.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: They have no money for a lawyer.\nsentence 2: There are no lawyers that they can afford.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: I could see by the expression on his face that he himself had little hope. \nsentence 2: He tried his best. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: In its FrameworkforFederalFinancialManagementSystems, JFMIP envisioned automated systems with standardized information and electronic data exchange to eliminate manual processes, reduce the risks of data loss or errors, and eliminate manual reentry and interpretation.\nsentence 2: JFMIP never envisioned automated systems with standardized information",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The house is surprisingly small and simple, with one bedroom, a tiny kitchen, and a couple of social rooms.\nsentence 2: The house is very large and boasts over ten bedrooms, a huge kitchen, and a full sized olympic pool.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The size of the contingency quickly became a cause celebre with many parties to the rate case.\nsentence 2: The contingency size became an issue for the parties of the case, as each side hoped to change it.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: It was raised to honor Emperor Diocletian, not the Roman general that now gives it its name.\nsentence 2: It was not raised in honor, but out of disgrace of the people.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: yeah uh have you seen Shrimp on the Barbie\nsentence 2: Have you ever watched Shrimp on the Barbie?",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: yeah that that's that's so true i mean they say well you voice your opinion uh uh uh on election day\nsentence 2: Voting is supposed to be our voice. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: This is now reproduced in small scale for picture frames or as room screens, which make an excellent statement in a modern living room or bedroom.\nsentence 2: To make a modern statement, this is now reproduced in small scale as room screens or picture frames.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Acute Bronchitis $57 per case3 Average of low and high values recommended for use in Section 812 analysis (Neumann, et al.\nsentence 2: We are discussing a brain tumor",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Gigot's advice to  Whenever you have the impulse to give an on-the-record interview, you ought to just sit down, take a Valium, and get over it.\nsentence 2: Gigot recommended if you ever have the desire to give a public interview, take a pill and get over the urge.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Going to Large.\nsentence 2: Heading off to Large.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: uh uh-huh uh do you go more for natural keeping them off naturally or do you use insecticides\nsentence 2: why aren't you doing anything about those bugs?",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Yes, she said quietly, \"that was not Evelyn Howard who spoke!\" She flung her head up proudly. \nsentence 2: She was not proud of her actions.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: and all this and so no i don't trust them a bit i think it's a big scam\nsentence 2: This has to be a scam.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: he said that uh Aikman was hitting him right on the numbers every time so sounds like he's going to be all right for next season they're just trying not to overwork him right now until he gets his shoulder uh back in shape it was his shoulder wasn't it  that he had problems with\nsentence 2: They're monitoring his work load because he's had shoulder problems recently. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Its popularity as a meeting place has kept it busy all these years, with crowds perusing the fruit and vegetable stands for the best bargains, a maze of shops selling foodstuffs and gifts, and inexpensive food stalls serving up a variety of tasty cuisines.\nsentence 2: You can buy inexpensive food from the food stalls in the region.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: so i know uh you know i know about this project so i got my students to sign up and uh apparently a number of them have been participating\nsentence 2: My students love to participate in this program. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: You certainly won't have to go out of your way to hear music performances.\nsentence 2: There are many musical performances because music is a big part of the culture.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: yeah my truck is broken down\nsentence 2: You are going to fix your truck.",
+        "label": "neutral"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "sentence 1: CBS newsman Harry Reasoner is returning to his Iowa hometown to get married Saturday.\nsentence 2: CBS newsman Harry Reasoner was born in Iowa.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: As his jubilant nation cheered, Yunus told reporters in the capital of Dhaka that he wants \"to work to create some more new things in the world\" and would use the award money to start a company to produce inexpensive yet nutritious food for poor people and set up an eye hospital to treat impoverished patients.\nsentence 2: Yunus wants to start a company.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Nick Leeson was jailed for fraud following the collapse of Barings Bank in 1995. He had run up losses of 850m on the Far East stock markets.\nsentence 2: Nick Leeson was arrested for collapse of Barings Bank PLC.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: India and Pakistan have agreed to release hundreds of fishermen and other civilians in each other's jails, a goodwill measure that comes as part of a peace process between the two countries.\nsentence 2: India and Pakistan have decided to free hundreds of civilian prisoners in each others jails.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: State Police issued bulletins via teletype requesting patrols to be on the lookout for Robert Senacal, 35, of Cortlandt Manor.\nsentence 2: Senacal resides in Cortland Manor.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: New research shows there has been a sharp increase in disfiguring skin cancers, particularly in women under the age of 40, providing more evidence that young people are not heeding warnings about the dangers of tanning.\nsentence 2: Tanning may cause skin cancers.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The presence of oil in the South Atlantic was first proved in 1974, but the distance and isolation of the Falklands deterred oil companies from exploring the area until the 1990s.\nsentence 2: Petroleum is explored in the South Atlantic.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: An Alzheimer's patient travelled 2,000 miles to commit suicide with the help of a doctor who built a device that gave her a lethal dose of chemicals.\nsentence 2: The woman in the Kevorkian case injected lethal chemicals into her body.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The Anzio beachhead, 33 miles south of Rome, saw some of the bloodiest fighting of World War II, and accounted for many of the 10,000 US battle deaths in Italy in the first half of 1944.\nsentence 2: The Anzio beachhead is located 33 miles south of Rome.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The father of an Oxnard teenager accused of gunning down a gay classmate who was romantically attracted to him has been found dead, Ventura County authorities said today.  Bill McInerney, 45, was found shortly before 8 a.m. in the living room of his Silver Strand home by a friend, said James Baroni, Ventura County's chief deputy medical examiner. The friend was supposed to drive him to a court hearing in his son's murder trial, Baroni said.  McInerney's 15-year-old son, Brandon, is accused of murder and a hate crime in the Feb. 12, 2008, shooting death of classmate Lawrence \"Larry\" King, 15. The two boys had been sparring in the days before the killing, allegedly because Larry had expressed a romantic interest in Brandon.\nsentence 2: Bill McInerney is accused of killing a gay teenager.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Passions surrounding Germany's final match at the Euro 2004 soccer championships turned violent when a woman stabbed her partner in the head because she didn't want to watch the game on television.\nsentence 2: A woman passionately wanted to watch the soccer championship.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Tuareg fighters launched uprisings in the Sahara in the 1960s and 1990s, and renewed rebellions since early 2007 against the central governments of Niger and Mali have increased instability in a region where al Qaeda cells also operate. Fighting in Niger's rebellion, instigated by the Niger Justice Movement (MNJ), has killed more than 300 rebels and around 80 government soldiers. The MNJ says it is fighting for equality with black Africans in the south of the country, more political autonomy and a greater say in the use of mineral resources from the north, which has a booming uranium mining industry.\nsentence 2: MNJ is an organization of Tuareg rebels.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Budapest consists of two parts, Buda and Pest, which are situated on opposite sides of the river and connected by a series of bridges.\nsentence 2: Pest is on the opposite, east bank.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The terrorist is suspected of being behind several deadly kidnappings and dozens of suicide attacks in Iraq.\nsentence 2: Terrorist kidnaps dozens of Iraqis.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Cyanide is also used by Muru-ami fishermen in the Philippines to drive fish from the coral reefs.\nsentence 2: Philippine fishermen use cyanide in fishing.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The development application for a McDonald's restaurant at Minyama, on Queensland's Sunshine Coast in Australia, has been rejected by the Sunshine Coast Regional Council. \"We knocked back a Hungry Jack's on Nicklin Way because of the nuisance code,\" said divisional councilor Chris Thompson. \"We already have a 24-hour McDonald's at Mooloolaba, only one kilometre away, and there are already [anti-social] issues at that site.\"\nsentence 2: Sunshine Coast Regional Council accepted McDonald's Australia development plans.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The council prohibited any travel outside of Haiti by all officers of the Haitian military and police and all major participants in the September, 1991, coup.\nsentence 2: The council is prohibited to travel outside of Haiti by military officers.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Nagin defended his plan to return up to 180,000 people to the city, within a week and a half, despite concerns about the short supply of drinking water and heavily polluted floodwaters.\nsentence 2: As many as 180,000 people could return within 10 days to a city that held 460,000 before Hurricane Katrina struck.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Exercising the powers referred to in article 15, paragraph 3, of the protocol to suppress and punish trafficking in persons, especially women and children, the government of Ecuador makes a reservation with regard to article 15, paragraph 2, relating to the settlement of disputes.\nsentence 2: The government of Ecuador aims to prevent trafficking in persons.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The Marriott is a popular place for foreigners to stay and a prominent enterprise in the city, despite a wave of violence the country suffers. The hotel had been victim of another attack in January 2007 where a security guard was killed and several people injured after the guard blocked a bomber from getting at the hotel, forcing him to detonate his explosives where he was.\nsentence 2: There is a Marriott Hotel in London.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Nagin defended his plan to return up to 180,000 people to the city, within a week and a half, despite concerns about the short supply of drinking water and heavily polluted floodwaters.\nsentence 2: Thousands of people are expected to return to New Orleans this week, as areas of the city are opened up to residents.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Carmine Rocco, Health Director was contacted in June by Sue Robbins, Division of Waste Management, to advise him that she would be in the county to conduct a site visit to the former Woodson-Tenent Laboratory.\nsentence 2: Sue Robbins visits the former Woodson-Tenent Laboratory.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: 95% of the Gulf of Mexico's oil output is now out of service following Katrina, together with more than 83% of natural gas production.\nsentence 2: Crude oil prices have hit fresh highs as fears grow over the extent of damage, done by Hurricane Katrina, to oil output in the Gulf of Mexico.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Although the birth rate is the highest it has been for five years, there were still more deaths in Scotland than births last year.\nsentence 2: Scotland is the European country with the highest birth rate.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: WINNENDEN, Germany ―A teenage gunman killed 15 people, most of them female, on Wednesday in a rampage that began at a school near Stuttgart in southern Germany and ended in a nearby town, where he then killed himself after the police wounded him. The attack left Germany, which tightened tough gun controls after a similar attack at a school seven years ago, struggling to understand the carnage that had again befallen it, a country with relatively little violent crime. In 2002, a gunman killed 16 people before killing himself at a school in Erfurt, in eastern Germany.\nsentence 2: A teenager shot 15 people in Germany.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Four men were released on bail and were ordered to return to a police station Monday, when they may be charged with assault, a police spokesman said.\nsentence 2: All four men have been released on bail and are due to return to a police station.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Even the most draconian proposal — to reinstate flight limits to ease the bottlenecks at Kennedy — might backfire, industry analysts say, because airlines would end up shifting flights to Newark Airport, which is already strained. \"Kennedy is the perfect example of putting 10 pounds in a 5-pound bag,\" said Darryl Jenkins, a longtime airline consultant. \"J.F.K. was never set up to be a hub for anybody; its been a gateway,\" he said. But in recent years it became a hub for JetBlue and Delta. These days, delays at Kennedy are so bad, he said, that \"it's backing up the whole country.\".\nsentence 2: JFK airport is in New York.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: It would create an underclass of illiterate and impoverished residents, deprived of basic skills, including English-language skills, necessary for the integration of immigrant children into our society and our work force.\nsentence 2: Language skills are a means of social integration.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: ON 29 June the Dutch right-wing coalition government collapsed. It was made up of the Christian-democrats (CDA) led by Prime Minister Jan Peter Balkenende, the right wing liberal party (VVD) and the so-called 'left-liberal' D66.\nsentence 2: Three parties form a Dutch coalition government.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Five years later, Rennyo returned to the Kyoto area, establishing new Honganji branch temples. During this time, he established a new form of liturgy (gongyo), incorporating elements that would eventually become the core of Honganji Shinshu Buddhism.\nsentence 2: Rennyo founded Honganji Shinshu Buddhism.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: These acoustic methods are now expected to be useful for the long-range remote sensing of schools of fish as well as for distant ocean bottom characterizations.\nsentence 2: Ocean remote sensing is developed.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Vance used to be Hooper's supervisor, he said, but was let go several months ago.\nsentence 2: Vance worked with Hooper.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Eric Gurr, creator of U4Prez.com, says you shouldn't be fooled be the site's MySpace-like facade. \"It's all about the politics,\" he says. \"I think most of our users have accounts on MySpace and Facebook, and use U4prez strictly for the political dialogue.\" Wikinews conducted an email interview with Gurr, in which he discussed how the site works, how the Internet has affected politics, and who he is endorsing for President.\nsentence 2: Facebook and MySpace were invented by Eric Gurr.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Franz Liszt, a Hungarian composer who lived from 1811 to 1886 was the equivalent of a rock star in his day. His piano compositions were extremely popular and he often gave concerts to his multitude of fans. Liszt was also the pioneer of many musical techniques, including the symphonic poem and the technique of transforming themes.\nsentence 2: Franz Liszt lived from 1811 to 1886.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Police found four weapons-two semiautomatic machine guns, a .223-caliber rifle and two handguns in the vehicle.\nsentence 2: Police found four weapons - a .50-calibre rifle, two military style assault rifles and a handgun in the vehicle.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Movil Access, a Grupo Salinas company, announced today that Gustavo Guzman will appoint Jose Luis Riera as company CFO of Grupo Iusacell.\nsentence 2: Movil Access appoints Gustavo Guzman as CFO.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The new moon, which is only about 25 miles in diameter, was actually photographed 13 years ago by the Voyager 2.\nsentence 2: The moon Titan has a diameter of 5100 kilometers.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: \"I guess you have to expect this in a growing community,\" said Mardelle Kean, who lives across the street from John Joseph Famalaro, charged in the death of Denise A. Huber, who was 23 when she disappeared in 1991.\nsentence 2: John J. Famalaro is accused of having killed Denise A. Huber.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: In all, Zerich bought $422 million worth of oil from Iraq, according to the Volcker committee. In the early 1990s after the Soviet Union collapsed, Rich quickly became the most powerful trader there.\nsentence 2: Zerich bought oil from Iraq during the embargo.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Medium-size black holes actually do exist, according to the latest findings from NASA's Hubble Space Telescope, but scientists had to look in some unexpected places to find them. The previously undiscovered black holes provide an important link that sheds light on the way in which black holes grow.\nsentence 2: Hubble discovers black holes.",
+        "label": "entailment"
+    }
+]

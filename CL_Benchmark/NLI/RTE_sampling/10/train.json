@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "sentence 1: The longest stay in space was 438 days by Valeri Polyakov.\nsentence 2: The record for the longest stay in space, by a human, is 438 days.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Despite this, even the most enthusiastic surgeons say it is likely to be several years before they would consider leaving a robot to operate on its own.\nsentence 2: Robots are used to assist in a range of surgical procedures.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: From Joss Stone to Keith Richards to Sting, the artists joining Les on the rock-charged album share one clear common bond: Les Paul is one of their most respected and beloved mentors.\nsentence 2: Eric Clapton is in business with Les Paul.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: That prompted Clinton, wife Hillary Rodham Clinton and daughter Chelsea to spend a cold and dreary Saturday in Minsk.\nsentence 2: Clinton's wife is called Hillary Rodham Clinton.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: SEATTLE - Apple Inc., maker of Macintosh computers and the iPhone, reports fiscal second-quarter earnings Wednesday after the closing bell. The following is a summary of key developments related to that period. OVERVIEW: In January, Apple founder Steve Jobs addressed the matter of his increasingly gaunt appearance — twice. He first said it was caused by an easily treatable hormone imbalance, and that he would remain at the helm. The next week, Jobs, a cancer survivor, revealed the problem was more complicated and said he would take a medical leave of absence until the end of June. Chief Operating Officer Tim Cook is running the company in his absence.\nsentence 2: Steve Jobs is the creator of Apple.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The fifth World Social Forum (WSF) has kicked off in Porto Alegre, Rio Grande do Sul state, Brazil.\nsentence 2: The WSF takes place in Brazil.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Ostriches put their heads into the sand to avoid the wind.\nsentence 2: Ostriches bury their heads in the sand.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Warheads believed to contain the deadly nerve agent cyclosarin that were found by Polish troops in Iraq date back to Saddam Hussein's war with Iran in the 1980s, authorities said Friday.\nsentence 2: Polish troops confiscated Warheads",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Traditionally, 60 percent of the tickets sold for a stop on the Vans Warped Tour, for example, occur six days prior to the show.\nsentence 2: Most tours only sell 60 percent of the tickets.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Claes was foreign minister of Belgium from 1992 until 1994, and secretary general of NATO from 1994 until 1995, when he was forced to resign because of allegations of corruption related to improper contracts for Agusta helicopters approved by him while he was minister of economic affairs. For that he also lost his civil rights for numerous years.\nsentence 2: NATO Secretary General Willy Claes resigned.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Carelessness by contractors is a common cause of fire, including many fires that result in serious financial loss. It has been estimated that perhaps 20-25% of all non-domestic fires result from 'on-going work', such as refurbishment, repair and construction.\nsentence 2: Domestic fires are the major cause of fire death.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: British singer-songwriter Natasha Bedingfield, who sang with her brother Daniel and sister Nikola as The DNA Algorithm, tied the knot with a California businessman in Malibu. According to reports the marriage, which took place Saturday in a 30-minute outdoor ceremony overlooking the Pacific Ocean, was attended by about 150 guests.  The guests watched Bedingfield walk down the aisle in a Vera Wang dress beside the chateau at the Church Estates Vineyards.  Bedingfield, who was born in New Zealand and grown up in England, found her partner, in America.\nsentence 2: Natasha Bedingfield is married to Matthew Robinson.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Startling new research into mobile phones claims they may reduce a man's sperm count by up to 30%.\nsentence 2: Male fertility may be affected by use of a mobile phones.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Though Wilkins and his family settled quickly in Italy, it wasn't a successful era for Milan, and Wilkins was allowed to leave in 1987 to join French outfit Paris Saint-Germain.\nsentence 2: Wilkins departed Milan in 1987.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Some of the buildings around the city square in the Kota also date from colonial times, including the old city hall ( 1710 ), which has been restored and now serves as the municipal museum.\nsentence 2: In the Old City are the old port, the Dutch town hall, and a square.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The country's largest private employer, Wal-Mart Stores Inc., is being sued by a number of its female employees who claim they were kept out of jobs in management because they are women.\nsentence 2: Wal-Mart sued for sexual discrimination",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Energy analysts said oil prices could soar as high as $80 a barrel and drivers in the U.S. could soon be paying $3 a gallon for gasoline, if damage reports from oil companies bear bad news.\nsentence 2: Oil prices surged.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Some passengers were escorted off the ship in wheelchairs by crew wearing blue gloves.\nsentence 2: Wheelchairs were used to lead passengers off the ship.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Côte d'Ivoire's President Laurent Gbagbo promulgated new election laws on July 14, including the creation of an independent electoral commission to oversee the presidential vote, which is slated for October 30.\nsentence 2: New elections in Côte d'Ivoire will take place on July 14.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Digging in a different trench Phoenix's robotic Arm connected with a hard surface that has scientists excited about the prospect of next uncovering an icy layer.  \"We have dug a trench and uncovered a hard layer at the same depth as the ice layer in our other trench,\" said Washington University robotic arm investigator for Phoenix, Ray Arvidson. The arm tried at least three times to penetrate the layer, but was unsuccessful. As a result the arm went into a holding pattern, awaiting its next commands.\nsentence 2: A robotic arm has been used for scientific discoveries.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Levomepromazine has prominent sedative and anticholinergic/ sympatholytic effects (dry mouth, hypotension, sinus tachycardia, extreme night sweats) and causes massive weight gain. These side effects normally do not allow to give the drug in doses needed for full remission of schizophrenia, so it has to be combined with a more potent antipsychotic.\nsentence 2: Levomepromazine causes schizophrenia.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Twelve of Jupiter's moons are relatively small and seem to have been more likely captured than to have been formed in orbit around Jupiter.\nsentence 2: Jupiter has Twelve moons.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Under the headline \"Greed instead of quality\", Germany's Die Tageszeitung says no good will come of the acquisition of the publisher Berliner Verlag by two British and US-based investment funds.\nsentence 2: British and US-based investment funds acquire Berliner Verlag.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: An explosion, followed by a raging fire, demolished a plastics factory, killing at least three people and injuring at least 37.\nsentence 2: A massive blast at a plastics factory killed at least two people.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: When the last member of the Hasmonean Dynasty died in 37 B.C., Rome made Herod king of Judah.  With Roman backing, Herod (37-34 B.C.) ruled on both sides of the Jordan River.  After his death the Jewish kingdom was divided among his heirs and gradually absorbed into the Roman Empire.\nsentence 2: The Hasmonean Dynasty rules Jordan.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: When the African Union summit elected Colonel Muammar Gaddafi as its chairman at the beginning of February, many delegates predicted a bumpy year ahead. To start with all went well. But now he finds himself at odds with the AU's Peace and Security Council over its policy on Mauritania, which has been suspended since a coup d'etat last August. On a visit to the Mauritanian capital earlier this month, the Libyan leader announced that since the current military leadership had promised to organise elections in June, everything was fine and the file was now closed.\nsentence 2: Gaddafi is the chairman of the African Union.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Vivid spokesperson Jackie Markham has said the footage was created earlier this year and was purchased by the company two months ago from an unidentified third party. Markham said Jessica's attorney has not contacted them and she is unsure if any proceeds will reach Sierra. The tape also shows her making abusive comments about other contestants, such as Carrie Underwood, who has gone on to have some success.\nsentence 2: Jessica Sierra once reached the finals of \"American Idol\".",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Jill Pilgrim, general counsel of USA Track and Field, brought up the issue during a panel on women's sports at the sports lawyers conference. Pilgrim said the law regarding who is legally considered a woman is changing as sex-change operations become more common.\nsentence 2: Sex-change operations become more common.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Stolen Warhol works recovered: Amsterdam police said Wednesday that they have recovered stolen lithographs by the late U.S. pop artist Andy Warhol worth more than $1 million. Dali's paintings are still missing.\nsentence 2: Millions of dollars of art were recovered, including works by Dali.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The report catalogues 10 missed opportunities within the CIA and FBI to uncover pieces of the September 11 plot.\nsentence 2: The report analyzes 10 missed opportunities within the CIA and FBI to uncover pieces of the September 11 plot.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: After the polio cases were identified, public health officials in the Dominican Republic and Haiti began giving the vaccines to large numbers of children. Public health officials now say the disease is under control and is not a public health threat.\nsentence 2: Polio is under control in the world.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Evans Paul, the pro-Aristide mayor of Port-au-Prince, said he had been told that the money will go to American lobbyists, politicians and journalists to campaign against the return of Aristide, Haiti's first democratically elected president\nsentence 2: Aristide is the mayor of Port-au-Prince.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: An Iraqi official reported today, Saturday, that 68 Iraqi civilians were killed as a result of the American and British bombing on Iraq and that their funerals were held today in Baghdad.\nsentence 2: Reports from an Iraqi official today, Saturday, said that the 68 civilians killed as a result of the Anglo-American bombing of Iraq, were buried today in Baghdad .",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: South Korean President Roh Moo-hyun Thursday asked the Board of Audit and Inspection (BAI) to investigate questions arising about the Foreign Ministry's response to the kidnapping of a South Korean in Iraq who was later killed by Muslim militants, according to Yonhap.\nsentence 2: Roh Moo-hyun asked the BAI to kidnap a South Korean in Iraq.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: On any given day, Ms Lupse is on camera for between one and five hours, presenting a number of different call-in shows on several different networks: not only National TV but also Prima TV and Antena 1, all broadcast from the same studio. Despite the repetition, she doesn't get bored. \"For me it's always exciting. I enjoy it very much! If I'm tired at the end of the show it means I've done a good show. But I'm never tired during the show.\" When I play a clip of one of her energetic show presentations - not the one she's become best known for - she elaborates on her exuberance. \"I'm always excited when I'm about to give big prizes! There is no show without winners!\".\nsentence 2: Ms Lupse works for Prima TV.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The first dinosaur remains in south-east Asia were found in Laos as early as 1936, but little else eventuated until the 1980s. Much of the area is heavily vegetated, and although difficult to explore, promises many significant finds in the future. Thailand has provided the best finds, particularly from the Khorat Group, which covers the period from the late Triassic to the early Cretaceous .\nsentence 2: Dinosaur remains were found in Asia.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The Anzio beachhead, 33 miles south of Rome, saw some of the bloodiest fighting of World War II, and accounted for many of the 10,000 US battle deaths in Italy in the first half of 1944.\nsentence 2: The Anzio beachhead is located 33 miles south of Rome.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Jahche Broughton, 15, was sentenced to life imprisonment and ordered to serve at least 12-and-a-half years behind bars for the murder on January 17 last year.  Miss Aim, 26, from Orkney, was killed as she made her way home from a night out with friends in the North Island resort of Taupo.   She suffered serious head injuries and later died in hospital.  A judge at the High Court in Rotorua told Broughton that the sentence took into account his age and guilty plea.  The teenager was 14 when he carried out the murder and is believed to be one of the youngest convicted criminals in New Zealand to be given a life sentence.\nsentence 2: Jahche Broughton is the murderer of Miss Aim.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Hurricane Katrina petroleum-supply outlook improved somewhat, yesterday, as U.S. and European governments agreed to release 2 million barrels a day, of oil and refined products, from their reserves.\nsentence 2: Offers by individual European governments, involved supplies of crude or refined oil products.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: A teenager in Japan whose parents are being deported to the Philippines has decided to stay in Tokyo with her aunt. After the family lost a three-year battle to remain in Japan, Noriko Calderon, 13, had to choose whether to stay in Japan or go with her parents. She said an emotional goodbye to them at Tokyo's main airport. Filipinos Arlan and Sarah Calderon used fake passports to enter Japan in the early 1990s, and their daughter was born and raised in the country.\nsentence 2: Arlan and Sarah Calderon are Japanese.",
+        "label": "contradiction"
+    }
+]

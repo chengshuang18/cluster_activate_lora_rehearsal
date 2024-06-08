@@ -1,0 +1,34 @@
+[
+    {
+        "label": "A",
+        "sentence": "Which sentence is the effect of \"The man wanted to get revenge on his enemy.\"? Choose one between A and B.\nA: The man framed his enemy for a crime.\nB: The man declared a truce with his enemy."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The boy filled the bucket with sand.\"? Choose one between A and B.\nA: He was collecting seashells in the sand.\nB: He was building a sand castle."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The climbers reached the peak of the mountain.\"? Choose one between A and B.\nA: They encountered an avalanche.\nB: They congratulated each other."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The police closed the investigation.\"? Choose one between A and B.\nA: They apprehended the suspect.\nB: The victim recovered."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the effect of \"The button on my shirt fell off.\"? Choose one between A and B.\nA: I sewed the button back on.\nB: I glued the button back on."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The teenager ran away from home.\"? Choose one between A and B.\nA: He relied on his parents.\nB: His parents abused him."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The boy found the television show boring.\"? Choose one between A and B.\nA: He recorded it.\nB: He shut it off."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"Air leaked out of the beach ball.\"? Choose one between A and B.\nA: It was inflated.\nB: There was a hole in it."
+    }
+]

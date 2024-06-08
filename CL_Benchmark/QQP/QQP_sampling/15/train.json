@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "first sentence: How do you know if you truly know what you know or if you only think you know?\nsecond sentence: How do you know what you know now?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Will butterflies be extinct?\nsecond sentence: Will language ever go extinct?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How is it to minor in Physics at IITB?\nsecond sentence: What is the CS minor cut off for SC category at IITB?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the top process pain points at ad agencies, specific to the creative delivery process?\nsecond sentence: What are the top process pain points at ad agencies?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is best i5 6th or i5 7th gen?\nsecond sentence: Which is the best i5 6th gen or 7th gen?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What are the benefits of drinking coffee without milk/milk powder and sugar?\nsecond sentence: How do you make milk powder from milk?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the most interesting Burning Man alternatives?\nsecond sentence: Which events are most similar to Burning Man?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Why are people so close minded?\nsecond sentence: Why are people closed minded?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Where can I find an online etymology for learning Tamil?\nsecond sentence: Where can I learn Tamil for free in Delhi?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the job opportunities after getting a Master's degree in mechanical engineering in Germany?\nsecond sentence: What are career option and job opportunities for mechanical engineering (graduate) student in Germany?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Was Steve Jobs an inventor or an innovator? \nsecond sentence: Was Steve Jobs an inventor?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How do I trust a divorcee in an arranged re marriage situation?\nsecond sentence: How do the Indian newly-weds spend their first night?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: If you feel unsafe stopping for a police officer on a deserted road while driving alone, is it legal to keep driving until you get to a safer place?\nsecond sentence: Can I learn car driving while baby in car seat? Is it legally allowed in US?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is oracle erp cloud?\nsecond sentence: What is oracle erp?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Does Moto m have gorilla glass?\nsecond sentence: How do admission committees look at applicants with one decent GRE score and one bad GRE score?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Is it possible to go invisible to certain Twitter followers without actually blocking them?\nsecond sentence: Does following someone on Twitter imply that I support them?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Can I get a play store gift card even if I don't have a credit card?\nsecond sentence: What are the disadvantages of PWA Framework?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Is java programming easy?\nsecond sentence: Is Java easy to learn?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What certification details should I give in nextstep TCS after my placement?\nsecond sentence: What is a single speed bike good for?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How important is Navamsa chart?\nsecond sentence: What does Jupiter alone in 4th house (Taurus) of D9 (navamsa) chart mean?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What should a girl need to pack if she is going for ILP training at Trivandrum?\nsecond sentence: Which online courses can I do in second year btech computer science?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Is GDP a good measure of economic growth? Why or why not?\nsecond sentence: Which is the most appropriate measure for the economic growth of a country and why?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is your favorite sport?\nsecond sentence: What is your favorite sport and why do you like it so much?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Do soulmates exist? How do you know you have met one?\nsecond sentence: What should one do if he is found betraying but is not the one?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the basics to digital marketing?\nsecond sentence: What is digital marketing and how to set career in digital marketing?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is 6/6 myopia vision?\nsecond sentence: What is 6/6 vision?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What kind of programming language should I learn if I want to debug a game-making website like Zondle.com?\nsecond sentence: Which programming language should I learn if I am interested in game development?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How are communism and capitalism alike?\nsecond sentence: How alike are capitalism and communism?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Why is yawning considered to be contagious?\nsecond sentence: Is there an explanation to why yawning is infectious?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: \"What did Sohrab do to himself in \"\"The Kite Runner\"\"?\"\nsecond sentence: \"What does Sohrab do to himself in \"\"The Kite Runner\"\"?\"",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is a good way to learn the violin?\nsecond sentence: How can I learn how to play violin?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Can you miss someone you've never met?\nsecond sentence: Can you miss someone you never met?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Why do we dream a particular dream?\nsecond sentence: Why do we have dreams?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: If you could re-live your 20's, what would you do?\nsecond sentence: Many of us dream; when we're children, when we're young maybe in 20's. How many of you still have unrealistic dreams in your late 30's or early 40's?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What could be the reason behind Arnab Goswami quitting Times Now?\nsecond sentence: Why did Arnab Goswami resign as the Editor-in-Chief of Times Now?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How do Hollywood actors avoid male pattern baldness?\nsecond sentence: What are some of the movies with the most beautiful actresses?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What's the best computer program to make flyers and why?\nsecond sentence: What's the best computer program to make flyers?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is salary in Varun Shipping for junior engineer 2015?\nsecond sentence: What is the average salary (+bonus) and equity for a software engineer at a round D promising tech startup in Sillicon Valley (December 2015)?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Does Donald Trump laugh?\nsecond sentence: Why does Donald Trump never laugh?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What's your new year resolution for 2017?\nsecond sentence: What's your New Year's resolution for 2017?",
+        "label": "True"
+    }
+]

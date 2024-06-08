@@ -1,0 +1,242 @@
+[
+    {
+        "sentence": "sentence 1: As Ca'daan and the others approached, the crowd cheered.\nsentence 2: The crowd began to cheer.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: yeah i don't i didn't hear any major complaints about it um  i definitely think that we ought to let them decide and not say okay you're a state now or you're your own country or whatever\nsentence 2: I don't think we should tell them okay you're a state now.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: First, isn't my thought experiment too simple to tell us anything about the real world?\nsentence 2: My thought experiment is only 3 pages long of researched data.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Or does life, in general, figure out the trick of using oxygen and growing big and brawny?\nsentence 2: The use of carbon dioxide and growing small and skinny are just some of the qualities of the human body.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Riggs says legal-aid agencies help stabilize society\nsentence 2: A society can only rain stable through the use of  legal-aid agencies.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: and it's hard to get on a regular schedule and then we're pretty active in our church which takes up a lot more time too so\nsentence 2: We often skip church to do things with other people.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The house was constantly besieged by reporters, who were consistently denied admission, but who continued to haunt the village and the grounds, where they lay in wait with cameras, for any unwary members of the household. \nsentence 2: The reporters left after no one would let them in.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: From 1919 to 1922 he waged war with the Greeks, who had invaded at Smyrna, and ultimately managed to defeat them and force their withdrawal from Asia Minor.\nsentence 2: The war with Greeks lasted 3 years.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: And, if the inflation-adjustment rules are changed, that will raise taxes as well as trim spending.\nsentence 2: The rules being changed will cause a lot of problems with finances.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: what do you do in your garden and i'll go nothing what is should i do but anyway i guess that's about it though it sounds like we've covered all the bases so i guess we'll let you go and um do you have anything else you wanted to say\nsentence 2: I guess we've covered all the bases about my yard, I'll you go.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: This guide is intended to help auditors conduct more\nsentence 2: The guide is written to be easy to understand.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: That's what we're after her for.\nsentence 2: We're after her for something else.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: He was less successful in fighting China over territory on the Tibetan frontier.\nsentence 2: He did not achieve total victory in the fight with China over Tibetan territory.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: yeah it it's not like this in Pennsylvania\nsentence 2: It is the same in Pennsylvania.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Monica, ever imaginative, bragged about the dress to Linda Tripp even though it was just an ordinary dress.\nsentence 2: To Monica the dress seemed much more special than it really was.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: But the larger premise--that intelligent people used to be scattered throughout the class structure, and are now concentrated at the top--is almost impossible to prove, simply because the mass administration of mental tests is such a recent phenomenon.\nsentence 2: Smart people are not at the top. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: you know like you have to prepare the fire and then put the sausages on and then you know you put all these different meats which take different times\nsentence 2: Sausages should be the last ones to go on the fire.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: After the stoning, there was a brief break during which Simon realized that sex with L.T.\nsentence 2: Simon thought about how it felt to be stoned.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: A mysterious knock had brought Tuppence to the door of the apartment she was sharing with the American girl.\nsentence 2: Tuppence did not live alone in her apartment.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: right even though there's probably women with MBA's maybe even PhD's that are staying at home with the children um\nsentence 2: Some women might work from home with kids, though. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: These two documents define the mission of the state's civil legal assistance delivery system, express key Equal Justice Values and attempt to identify corresponding Core Capacities, to serve the mission.\nsentence 2: These two documents try to point out corresponding Core Capacities.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: um i don't i don't really know about that uh uh if well uh i think i think it's it's only it only applies to certain a very few types of crimes uh murder and i think kidnapping could carry death penalty as well i'm not sure what how what the range is for uh for the crimes that uh would merit a death penalty\nsentence 2: I don't agree with the death penalty. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Dining room, bar.\nsentence 2: It has a dining room in it.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: During the season there are many exhibitions and performances in the gardens of the hall; ask at the Tourist Board office for information.\nsentence 2: The Tourist Board Office was disbanded three years ago after a terrorist attack, you have to ask the locals for information.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: yeah local uh-huh there you go that's right that's true i understand that\nsentence 2: That's right because it's fair and I understand that.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: 6-billion budget from the United States.\nsentence 2: The us gave them a large budget. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: everybody likes his speed but he can't catch the ball\nsentence 2: He can run fast, but he can't catch. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: In 2002, our reviews resulted in LSC recommending modifications in several programs' legal work management and supervision systems.\nsentence 2: The LSC didn't recommend any changes to the supervision systems of any of the programs.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: and they're wondering where does that cholesterol go\nsentence 2: Where does the cholesterol go?",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: He was _holding_ them, and feeding them meat.\"  \nsentence 2: He was feeding them meat while holding them.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: GAOas basic authority stems from the Budget and Accounting Act of 1921, which, as discussed below, provides GAO with broad and comprehensive authority to investigate all matters relating to the use of public money.\nsentence 2: GAOs basic authority stems from the Budget and Accounting Act of 1921",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The Post is pouring resources into tech coverage.\nsentence 2: The post is spending a lot on their tech coverage.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: So far, nude bathing has been legalized only on the isolated beaches of Illetas and Llevant, but it is practised virtually everywhere.\nsentence 2: Nobody goes to the nude beach.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: see i've only been here four\nsentence 2: I have been here for four but I wanted to have been here for 10. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: you realize it\nsentence 2: You realize that he is gay",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: But long-standing management problems, including weaknesses in strategic planning, had threatened the agency's ability to adapt to changing demands.\nsentence 2: Despite strong strategy and planning, the agency simply wasn't able to keep up.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Acute Bronchitis $57 per case3 Average of low and high values recommended for use in Section 812 analysis (Neumann, et al.\nsentence 2: We are discussing a brain tumor",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Buddhism in Tibet and Nepal is influenced by elements of Tantrism, techniques to speed up enlightenment.\nsentence 2: The techniques to speed up enlightenment were developed in Tibet.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The men work in the fields or at their boats, with older men at the kafeneion or coffee shop where the world is put to rights over a strong caf?? ellenikos.\nsentence 2: Agriculture and boating are important parts of life.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: 1, The Defense Acquisition System (Oct.\nsentence 2: The Defense Acquisition System on Oct",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Joy flooded into Ca'daan.\nsentence 2: Ca'daan felt flooded with sadness and fear. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: People who have forgotten where they came from.\nsentence 2: People forget where they came from.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: 'It's all about symbolism.\nsentence 2: In this complicated world, it's all symbolic.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Have you here now, or have you had here at any time, a young girl called Jane Finn?  \nsentence 2: Haven't you always lived alone?",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Before I wrote you, I investigated your position in the planetary economy.\"\nsentence 2: I investigated your position in the planetary economy after I wrote to you.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The formula doesn't exist.\nsentence 2: The formula to solve that problem has not yet been created.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: oh yeah you're that's a good point but at TI they before they had the testing i've forgotten it seems seems like it's a year ago September something like that they told us that the agency that did it was the one that did it for the government and and that of course that's critical just as the point that you're brought up that whoever does your testing has got to be you know have a lot of quality control that they keep track of everything they don't make mistakes that would be terribly embarrassing\nsentence 2: There are some drug testing agencies that make mistakes.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Therefore, they questioned the cost/benefit of requiring that the fair value of stewardship property transferred to state and local governments be determined and reported.\nsentence 2: State and local governments may face scrutiny when it comes to financial matters.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: In the pretty village of A?¯nhoa each sturdy-beamed whitewashed house is of a different height and juts out at a different angle.\nsentence 2: Houses are pretty much identical in that pretty village.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: This path has been smoothed by the nihilism of those Arab intellectuals--including Said--who prefer utopian dreams to a view of politics as the art of compromise.\nsentence 2: Said will do whatever it takes to achieve his version of utopia.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: One  most of the island's resort hotels are quite a distance from the capital.\nsentence 2: The capital has high rates of crime while resorts are safe and clean.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: In a forested valley in the center of Spain, Francisco Franco decreed that a memorial for the victims of the Civil War be built on a site chosen personally by him.\nsentence 2: Francisco Franco was against the construction of a Civil War memorial.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: This is the payment mail, i.e., mail used by households to pay their bills.\nsentence 2: The term payment mail refers the mail that is used when residents pay bills.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: I wondered. \nsentence 2: I wondered as to the meaning.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: and you're going to be able to buy your what was no wait\nsentence 2: You can purchase what you want without waiting if you call your order in first. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The effects on personal consumption show a decline of between $13 billion and $31, or 0.1% to 0.3%, depending on the scenario.\nsentence 2: Personal consumption has been on a steady rise. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: yeah after about eighteen months of talking about the year and a half training you know it's it's something you know i think that's why you know children really need to\nsentence 2: The training was very intense.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: There are thousands and thousands of people who have problems that never get an opportunity to appear in court, Pivnick said. \nsentence 2: Of the thousand of people with problems, few ever get to court.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: His kidneys seemed to be wrenched out of him.\nsentence 2: His kidneys seemed to be massaged inside him.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Mary shivered a little, and buttoned her black sports coat closer. \nsentence 2: Mary wasn't feeling cold. ",
+        "label": "contradiction"
+    }
+]

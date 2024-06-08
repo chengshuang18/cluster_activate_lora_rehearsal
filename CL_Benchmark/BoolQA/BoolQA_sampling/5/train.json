@@ -1,0 +1,162 @@
+[
+    {
+        "label": "True",
+        "sentence": "question: is hamilton part of the greater toronto area\npassage: Greater Toronto Area -- The regional span of the Greater Toronto Area is sometimes combined with the city of Hamilton, Ontario, located west of Halton Region, to form the Greater Toronto and Hamilton Area. The Greater Toronto Area anchors a much larger unofficial urban agglomeration known as the Golden Horseshoe and an area officially designated as the Greater Golden Horseshoe."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is there a bart station in san jose\npassage: Downtown San Jose station -- Downtown San Jose BART station is a proposed underground Bay Area Rapid Transit station in San Jose, California. The station would be co-located with the Santa Clara Light Rail Station and connect to the proposed Santa Clara, Richmond and San Francisco/Daly City stations. It would be preceded by the proposed Alum Rock BART station. Revenue service is envisioned to start in 2025."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are there two colorado rivers in the united states\npassage: Colorado River (Texas) -- The Colorado River, which means ``red'' or ``reddish'' river in Spanish, was frequently confused by Spanish explorers with the Brazos River to the north. The European discoverer of these two neighboring rivers called the present Colorado River the Brazos de Dios, and called the present Brazos the Colorado River, and later the names were reversed."
+    },
+    {
+        "label": "False",
+        "sentence": "question: inflation means specific prices are rising and relative prices are falling\npassage: Inflation -- Conceptually, inflation refers to the general trend of prices, not changes in any specific price. For example, if people choose to buy more cucumbers than tomatoes, cucumbers consequently become more expensive and tomatoes cheaper. These changes are not related to inflation, they reflect a shift in tastes. Inflation is related to the value of currency itself. When currency was linked with gold, if new gold deposits were found, the price of gold and the value of currency would fall, and consequently prices of all other goods would become higher."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is greenland on the continent of north america\npassage: Greenland -- Greenland (Greenlandic: Kalaallit Nunaat, pronounced (kalaːɬit nunaːt); Danish: Grønland, pronounced (ˈɡʁɶnˌlanˀ)) is an autonomous constituent country within the Kingdom of Denmark between the Arctic and Atlantic Oceans, east of the Canadian Arctic Archipelago. Though physiographically a part of the continent of North America, Greenland has been politically and culturally associated with Europe (specifically Norway and Denmark, the colonial powers, as well as the nearby island of Iceland) for more than a millennium. The majority of its residents are Inuit, whose ancestors began migrating from the Canadian mainland in the 13th century, gradually settling across the island."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is it safe to put a regular bulb in a 3 way lamp\npassage: 3-way lamp -- A 3-way lamp, also known as a tri-light, is a lamp that uses a 3-way light bulb to produce three levels of light in a low-medium-high configuration. A 3-way lamp requires a 3-way bulb and socket, and a 3-way switch. Unlike an incandescent lamp controlled by a dimmer, each of the filaments operates at full voltage, so the color of the light does not change between the three steps of light available. Certain compact fluorescent lamp bulbs are designed to replace 3-way incandescent bulbs, and have an extra contact and circuitry to bring about similar light level. In recent years, LED three way bulbs have become available as well."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the us treasury part of the federal reserve\npassage: Federal Reserve System -- The Federal Reserve System is composed of several layers. It is governed by the presidentially appointed Board of Governors or Federal Reserve Board (FRB). Twelve regional Federal Reserve Banks, located in cities throughout the nation, oversee the privately owned U.S. member banks. Nationally chartered commercial banks are required to hold stock in the Federal Reserve Bank of their region, which entitles them to elect some of their board members. The Federal Open Market Committee (FOMC) sets monetary policy; it consists of all seven members of the Board of Governors and the twelve regional bank presidents, though only five bank presidents vote at any given time: the president of the New York Fed and four others who rotate through one-year terms. There are also various advisory councils. Thus, the Federal Reserve System has both public and private components. The structure is considered unique among central banks. It is also unusual in that the United States Department of the Treasury, an entity outside of the central bank, prints the currency used."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is it possible to download all of wikipedia\npassage: Wikipedia:Database download -- Wikipedia offers free copies of all available content to interested users. These databases can be used for mirroring, personal use, informal backups, offline use or database queries (such as for Wikipedia:Maintenance). All text content is multi-licensed under the Creative Commons Attribution-ShareAlike 3.0 License (CC-BY-SA) and the GNU Free Documentation License (GFDL). Images and other files are available under different terms, as detailed on their description pages. For our advice about complying with these licenses, see Wikipedia:Copyrights."
+    },
+    {
+        "label": "True",
+        "sentence": "question: have china ever qualified for the world cup\npassage: China at the FIFA World Cup -- The China national team was founded in 1924 and joined FIFA in 1931--1958, and then from 1979. China first entered World Cup qualification in 1957 in an attempt to qualify for the 1958 FIFA World Cup. China failed to score a goal in their maiden World Cup appearance in 2002. However, qualifying for the tournament has been considered the greatest accomplishment in China's football history. As football is widely followed in China, triumph by the national team is considered to be a source of national pride. Around 300 million people tuned into broadcasts of China's World Cup 2002 matches, with 170 million new television sets being purchased by citizens in order to watch their nation's first World Cup appearance. The team is colloquially referred to as Team China (中国队), the National Team (国家队) or Guozu (国足, lit. ``national foot'' also meaning national football)."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you use the 5th amendment in court\npassage: Fifth Amendment to the United States Constitution -- The Fifth Amendment (Amendment V) to the United States Constitution is part of the Bill of Rights and, among other things, protects individuals from being compelled to be witnesses against themselves in criminal cases. ``Pleading the Fifth'' is thus a colloquial term for invoking the right that allows witnesses to decline to answer questions where the answers might incriminate them, and generally without having to suffer a penalty for asserting the right. This evidentiary privilege ensures that defendants cannot be compelled to become witnesses at their own trials. If, however, they choose to testify, they are not entitled to the right during cross-examination, where questions are relevant to their testimony on direct examination. The Amendment requires that felonies be tried only upon indictment by a grand jury. Federal grand juries can force people to take the witness stand, but defendants in those proceedings have Fifth Amendment privileges until they choose to answer any question. To claim the privilege for failure to answer when being interviewed by police, the interviewee must have explicitly invoked the constitutional right when declining to answer questions."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is all of hawaii part of the united states\npassage: Hawaii -- The state encompasses nearly the entire volcanic Hawaiian archipelago, which comprises hundreds of islands spread over 1,500 miles (2,400 km). At the southeastern end of the archipelago, the eight main islands are--in order from northwest to southeast: Niʻihau, Kauaʻi, Oʻahu, Molokaʻi, Lānaʻi, Kahoʻolawe, Maui, and the Island of Hawaiʻi. The last is the largest island in the group; it is often called the ``Big Island'' or ``Hawaiʻi Island'' to avoid confusion with the state or archipelago. The archipelago is physiographically and ethnologically part of the Polynesian subregion of Oceania."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can an attorney practice law in any state\npassage: Admission to practice law -- Regulation of the legal profession is a power reserved to the states pursuant to the Tenth Amendment to the US Constitution. Each state, territory and the District of Columbia has its own rules. Unlike many other countries, US jurisdictions do not license legal practitioners as solicitors and barristers, but all licensed attorneys are qualified to practice as both."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the coast guard a branch of the military\npassage: United States Coast Guard -- The United States Coast Guard (USCG) is a branch of the United States Armed Forces and one of the country's seven uniformed services. The Coast Guard is a maritime, military, multi-mission service unique among the U.S. military branches for having a maritime law enforcement mission (with jurisdiction in both domestic and international waters) and a federal regulatory agency mission as part of its mission set. It operates under the U.S. Department of Homeland Security during peacetime, and can be transferred to the U.S. Department of the Navy by the U.S. President at any time, or by the U.S. Congress during times of war. This has happened twice, in 1917, during World War I, and in 1941, during World War II."
+    },
+    {
+        "label": "True",
+        "sentence": "question: does the b train go to church ave\npassage: Church Avenue (BMT Brighton Line) -- Church Avenue is an express station on the BMT Brighton Line of the New York City Subway, located at Church Avenue near East 18th Street in the Flatbush neighborhood of Brooklyn. The station is served by Q at all times and by the B on weekdays only."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the oceanic crust part of the lithosphere\npassage: Lithosphere -- Oceanic lithosphere is less dense than asthenosphere for a few tens of millions of years but after this becomes increasingly denser than asthenosphere. This is because the chemically differentiated oceanic crust is lighter than asthenosphere, but thermal contraction of the mantle lithosphere makes it more dense than the asthenosphere. The gravitational instability of mature oceanic lithosphere has the effect that at subduction zones, oceanic lithosphere invariably sinks underneath the overriding lithosphere, which can be oceanic or continental. New oceanic lithosphere is constantly being produced at mid-ocean ridges and is recycled back to the mantle at subduction zones. As a result, oceanic lithosphere is much younger than continental lithosphere: the oldest oceanic lithosphere is about 170 million years old, while parts of the continental lithosphere are billions of years old. The oldest parts of continental lithosphere underlie cratons, and the mantle lithosphere there is thicker and less dense than typical; the relatively low density of such mantle ``roots of cratons'' helps to stabilize these regions."
+    },
+    {
+        "label": "True",
+        "sentence": "question: bank of england is mother of all central banks\npassage: Bank of England -- The Bank of England, formally the Governor and Company of the Bank of England, is the central bank of the United Kingdom and the model on which most modern central banks have been based. Established in 1694, it is the second oldest central bank in operation today, after the Sveriges Riksbank. The Bank of England is the world's 8th oldest bank. It was established to act as the English Government's banker and is still one of the bankers for the Government of the United Kingdom. The Bank was privately owned by stockholders from its foundation in 1694 until it was nationalised in 1946."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are the oscars the same as the academy awards\npassage: Academy Awards -- The Academy Awards, also known as the Oscars, are a set of 24 awards for artistic and technical merit in the American film industry, given annually by the Academy of Motion Picture Arts and Sciences (AMPAS), to recognize excellence in cinematic achievements as assessed by the Academy's voting membership. The various category winners are awarded a copy of a golden statuette, officially called the ``Academy Award of Merit'', which has become commonly known by its nickname ``Oscar''. The sculpture was created by George Stanley. The awards, first presented in 1929 at the Hollywood Roosevelt Hotel, are overseen by AMPAS."
+    },
+    {
+        "label": "True",
+        "sentence": "question: does the us army use the metric system\npassage: Metrication in the United States -- Although customary units are used more often than metric units in the U.S., the SI system is used extensively in some fields such as science, medicine, the military, automobile production and repair, and international affairs. Post 1994 federal law also mandates most packaged consumer goods be labeled in both customary and metric units. Still, most"
+    },
+    {
+        "label": "False",
+        "sentence": "question: are sweet potatos and yams the same thing\npassage: Sweet potato -- Although the soft, orange sweet potato is often called a ``yam'' in parts of North America, the sweet potato is botanically very distinct from a genuine yam (Dioscorea), which is native to Africa and Asia and belongs to the monocot family Dioscoreaceae. To add to the confusion, a different crop plant, the oca (Oxalis tuberosa, a species of wood sorrel), is called a ``yam'' in many parts of Polynesia, including New Zealand."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the bank of england a private limited company\npassage: Bank of England -- In 1977, the Bank set up a wholly owned subsidiary called Bank of England Nominees Limited (BOEN), a private limited company, with two of its hundred £1 shares issued. According to its Memorandum & Articles of Association, its objectives are: ``To act as Nominee or agent or attorney either solely or jointly with others, for any person or persons, partnership, company, corporation, government, state, organisation, sovereign, province, authority, or public body, or any group or association of them...'' Bank of England Nominees Limited was granted an exemption by Edmund Dell, Secretary of State for Trade, from the disclosure requirements under Section 27(9) of the Companies Act 1976, because ``it was considered undesirable that the disclosure requirements should apply to certain categories of shareholders.'' The Bank of England is also protected by its royal charter status, and the Official Secrets Act. BOEN is a vehicle for governments and heads of state to invest in UK companies (subject to approval from the Secretary of State), providing they undertake ``not to influence the affairs of the company''. BOEN is no longer exempt from company law disclosure requirements. Although a dormant company, dormancy does not preclude a company actively operating as a nominee shareholder. BOEN has two shareholders: the Bank of England, and the Secretary of the Bank of England.."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are fava beans and broad beans the same thing\npassage: Vicia faba -- Vicia faba, also known as the broad bean, fava bean, faba bean, field bean, bell bean, or tic bean, is a species of flowering plant in the pea and bean family Fabaceae. It is of uncertain origin and widely cultivated as a crop. Horse bean, Vicia faba var. equina Pers., is a variety recognized as an accepted name."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is bar keepers friend the same as comet\npassage: Bar Keepers Friend -- According to the 2015 material safety data sheet, the ingredients are feldspar, linear sodium dodecyl benzene sulfonate (DDBSA), and oxalic acid. Unlike more abrasive cleaning powders such as Comet and Ajax, Bar Keepers Friend uses oxalic acid as its primary active ingredient. A similar abrasive cleaning product, Zud Heavy Duty Cleanser, also contains oxalic acid. Prolonged use and extended skin contact may cause irritation, peeling and contact dermatitis, which is avoided by wearing gloves. The product can also be an eye irritant."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you drink on the street in france\npassage: Drinking in public -- Public drinking in France is legal. Although it is illegal to sell alcohol to minors (under 18) it is not illegal for minors to consume alcohol in public. However local laws may ban public drinking or the purchase of alcohol in certain areas or at certain times."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is once upon a time in mexico the sequel to desperado\npassage: Once Upon a Time in Mexico -- Once Upon a Time in Mexico (also known as Desperado 2) is a 2003 American contemporary western action film written, directed, produced, photographed, scored, and edited by Robert Rodriguez. It is the third and final film in Rodriguez's Mexico Trilogy, and is a sequel to El Mariachi and Desperado. The film features Antonio Banderas in his second and final performance as El Mariachi. In the film, El Mariachi is recruited by CIA agent Sheldon Sands (Johnny Depp) to kill Armando Barillo (Willem Dafoe), a Mexican drug lord who is planning a coup d'état against the President of Mexico. At the same time, El Mariachi seeks revenge against a corrupt general responsible for the death of his wife, Carolina (Salma Hayek)."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are you related to your brother in law's wife\npassage: Sibling-in-law -- One's sibling-in-law is one's spouse's sibling, or one's sibling's spouse, or ones's spouse's sibling's spouse. By gender, this is specified as brother-in-law for one's spouse's brother, one's sibling's husband, or one's spouse's sibling's husband, and sister-in-law for the one's spouse's sister, one's sibling's wife, or one's spouse's sibling's wife."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the strangers prey at night a sequel\npassage: The Strangers: Prey at Night -- The Strangers: Prey at Night is a 2018 American slasher film directed by Johannes Roberts and starring Christina Hendricks, Martin Henderson, Bailee Madison and Lewis Pullman. A sequel to the 2008 film The Strangers, it is written by Bryan Bertino (who wrote and directed the first film) and Ben Ketai. Mike and his wife Cindy take their son and daughter on a road trip that becomes their worst nightmare. The family members soon find themselves in a desperate fight for survival when they arrive at a secluded mobile home park that's mysteriously deserted -- until three masked psychopaths show up to satisfy their thirst for blood."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the mass number the same as protons\npassage: Mass number -- The mass number (symbol A, from the German word Atomgewichte (atomic weight), also called atomic mass number or nucleon number, is the total number of protons and neutrons (together known as nucleons) in an atomic nucleus. It determines the atomic mass of atoms. Because protons and neutrons both are baryons, the mass number A is identical with the baryon number B as of the nucleus as of the whole atom or ion. The mass number is different for each different isotope of a chemical element. This is not the same as the atomic number (Z) which denotes the number of protons in a nucleus, and thus uniquely identifies an element. Hence, the difference between the mass number and the atomic number gives the number of neutrons (N) in a given nucleus: N = A − Z (\\displaystyle N=A-Z) ."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is kinetic energy a quantitative measure of inertia\npassage: Inertia -- By this formula, the greater its mass, the less a body accelerates under a given force. The masses defined by the above formulas are equal because the latter formula is a consequence of the former, if mass does not depend on time and velocity. Thus, ``mass is the quantitative or numerical measure of a body's inertia, that is of its resistance to being accelerated''."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is german shepherd and alsatian the same breed\npassage: German Shepherd -- The German Shepherd (German: Deutscher Schäferhund, German pronunciation: (ˈʃɛːfɐˌhʊnt)) is a breed of medium to large-sized working dog that originated in Germany. The breed's officially recognized name is German Shepherd Dog in the English language (sometimes abbreviated as GSD). The breed was once known as the Alsatian in Britain and Ireland. The German Shepherd is a relatively new breed of dog, with their origin dating to 1899. As part of the Herding Group, German Shepherds are working dogs developed originally for herding sheep. Since that time however, because of their strength, intelligence, trainability, and obedience, German Shepherds around the world are often the preferred breed for many types of work, including disability assistance, search-and-rescue, police and military roles, and even acting. The German Shepherd is the second-most registered breed by the American Kennel Club and seventh-most registered breed by The Kennel Club in the United Kingdom."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is an ip address referred to as a dotted quad\npassage: Dot-decimal notation -- A common use of dot-decimal notation is in information technology where it is a method of writing numbers in octet-grouped base-10 (decimal) numbers separated by dots (full stops). In computer networking, Internet Protocol Version 4 addresses (IPv4 addresses) are commonly written using the quad-dotted notation of four decimal integers, ranging from 0 to 255 each."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is bar council of india a body corporate\npassage: Bar Council of India -- The Bar Council of India is a statutory body established under the section 4 of advocates Act 1961 that regulates the legal practice and legal education in India. Its members are elected from amongst the lawyers in India and as such represents the Indian bar. It prescribes standards of professional conduct, etiquettes and exercises disciplinary jurisdiction over the bar. It also sets standards for legal education and grants recognition to Universities whose degree in law will serve as a qualification for students to enroll themselves as advocates upon graduation."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is a duplex considered a 2 unit property\npassage: Duplex (building) -- A duplex house plan has two living units attached to each other, either next to each other via townhouses or above each other like apartments By contrast, a building comprising two attached units on two distinct properties is typically considered semi-detached or twin homes but is also called a duplex in the Northeastern United States."
+    },
+    {
+        "label": "True",
+        "sentence": "question: did the louvre used to be a palace\npassage: Louvre Palace -- The Louvre Palace (French: Palais du Louvre, IPA: (palɛ dy luvʁ)) is a former royal palace located on the Right Bank of the Seine in Paris, between the Tuileries Gardens and the church of Saint-Germain l'Auxerrois. Originally a fortress built in the medieval period, it became a royal palace in the fourteenth century under Charles V and was used from time to time by the kings of France as their main Paris residence. Its present structure has evolved in stages since the 16th century. In 1793 part of the Louvre became a public museum, now the Musée du Louvre, which has expanded to occupy most of the building."
+    },
+    {
+        "label": "False",
+        "sentence": "question: does kate die in the book my sister's keeper\npassage: My Sister's Keeper (novel) -- She goes into cardiac arrest and is revived. Both she and Campbell are rushed to the hospital. At the hospital, the doctor informs Sara and Brian that Anna is brain-dead and asks them if they have considered organ donation. An injured Campbell steps in and declares that he has the power of attorney and that ``there is a girl upstairs who needs that kidney.'' Kate is prepared for surgery, and Anna's kidney is successfully transplanted. Anna's life-support machines are then shut off by her family. Kate survives the surgery and remains in remission. Jesse has reformed and graduates from the police academy, despite his criminal record."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is oops i did it again a remake\npassage: Oops!... I Did It Again (song) -- ``Oops!... I Did It Again'' is a song by American singer Britney Spears, from her second album of the same name. It was released on March 27, 2000, by Jive Records as the lead single from the album. The song was written and produced by Max Martin and Rami Yacoub. ``Oops!... I Did It Again'' is a song that lyrically speaks of a female who views love as a game, and she decides to use that to her advantage by playing with her lover's emotions. Its bridge features a dialogue which references the blockbuster film Titanic (1997)."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there a new season of agents of shield\npassage: Agents of S.H.I.E.L.D. (season 5) -- The fifth season began airing on December 1, 2017, and is set to run for 22 episodes on ABC until May 18, 2018."
+    },
+    {
+        "label": "True",
+        "sentence": "question: do sam and dean find their mother killer\npassage: Azazel (Supernatural) -- Azazel's last appearance chronologically is in the second season finale ``All Hell Breaks Loose'', where he kidnaps Sam and the other young adults that he had infected. He visits Sam in a dream, and reveals that his ``special children'' must fight to the death to determine who will lead his army. Although Sam is the demon's favorite, the super-strong Jake Talley becomes the winner. As Dean sells his soul to another demon in exchange for Sam's resurrection, Azazel gives Jake the Colt and coerces him to travel to a cemetery in the middle of a giant devil's trap. Though Sam and Dean, along with other hunters, attempt to stop him, Jake uses the Colt as a key to unlock a mausoleum there. This action briefly opens a gateway to Hell, releasing Lilith and hundreds of other demons. With the devil's trap around the cemetery now broken, Azazel confronts the Winchesters and easily overpowers them. However, John's soul escapes through the Gate, and distracts Azazel long enough for Dean to shoot him dead with the Colt."
+    },
+    {
+        "label": "False",
+        "sentence": "question: footnote 4 of united states v. carolene products co. identifies areas where\npassage: United States v. Carolene Products Co. -- United States v. Carolene Products Company, 304 U.S. 144 (1938), was an April 25, 1938 decision by the United States Supreme Court. The case is famous for its ``Footnote Four'' in which the Court established the system of heightened scrutiny for laws targeting ``discrete and insular minorities,'' compared with the lower scrutiny applied for economic regulations, as in this case."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is a raven part of the crow family\npassage: Corvidae -- Corvidae is a cosmopolitan family of oscine passerine birds that contains the crows, ravens, rooks, jackdaws, jays, magpies, treepies, choughs, and nutcrackers. In common English, they are known as the crow family, or, more technically, corvids. Over 120 species are described. The genus Corvus, including the jackdaws, crows, rooks, and ravens, makes up over a third of the entire family."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are humans the only animals that create art\npassage: Animal-made art -- Animal-made art is art created by a non-human animal. Animal-made works of art have been created by apes, elephants, cetacea, reptiles, and bowerbirds, among other species."
+    }
+]

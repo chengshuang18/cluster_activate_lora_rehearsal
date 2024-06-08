@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "Text: experimental enough to alienate the mainstream audience while ringing cliched to hardened indie-heads ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: say something about its subjects ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: some intelligent observations on the success of bollywood ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: do n't think most of the people who loved the 1989 paradiso will prefer this new version . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: like a film so cold and dead ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: is cumbersome ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: a troubled and determined homicide cop ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: stay ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: a droll , bitchy frolic which pokes fun at the price of popularity and small-town pretension in the lone star state ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: to tiresome jargon ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: bordering on confessional ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: willie would have loved it ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: the story that emerges has elements of romance , tragedy and even silent-movie comedy . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: bluer than the atlantic and more biologically detailed than an autopsy , the movie ... is , also , frequently hilarious . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: done his subject justice ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: messy and frustrating , ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: it amounts to little more than preliminary notes for a science-fiction horror film ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: poetic , heartbreaking ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: deserves a better vehicle ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: playful paranoia ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: ( denis ) accomplishes in his chilling , unnerving film ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: , this has layered , well-developed characters and some surprises . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: consumed and forgotten ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: sometimes tedious ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: takes hold and grips ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: bound ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: rough-hewn vanity project ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: delight ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: : it 's not really funny . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: disappointment ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: yet another tired old vision ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: amusing and ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: the charm of the first movie ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: , this deeply moving french drama develops a startling story that works both as a detailed personal portrait and as a rather frightening examination of modern times . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: a series of escapades demonstrating the adage that what is good for the goose is also good for the gander , some of which occasionally amuses but none of which amounts to much of a story . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: know a star ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: that tian 's meticulous talent has not withered during his enforced hiatus ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: ... should have been sent back to the tailor for some major alterations . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: reminds me of a vastly improved germanic version of my big fat greek wedding ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: chitchat that only self-aware neurotics engage in ",
+        "label": "Bad"
+    }
+]

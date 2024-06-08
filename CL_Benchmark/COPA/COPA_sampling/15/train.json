@@ -1,0 +1,34 @@
+[
+    {
+        "label": "A",
+        "sentence": "Which sentence is the effect of \"I poured water on my sleeping friend.\"? Choose one between A and B.\nA: My friend awoke.\nB: My friend snored."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"My friend paid for my ticket.\"? Choose one between A and B.\nA: I sought a refund.\nB: I paid her back."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the effect of \"The bureau drawers were cluttered.\"? Choose one between A and B.\nA: I threw away unnecessary contents.\nB: I locked the drawers shut."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"Cars moved to the shoulder of the road.\"? Choose one between A and B.\nA: The traffic light turned green.\nB: A screaming ambulance approached."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The girl pushed her friend.\"? Choose one between A and B.\nA: Her friend choked.\nB: Her friend fell over."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The boy felt homesick.\"? Choose one between A and B.\nA: He went away to camp.\nB: He bickered with his sister."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the effect of \"I saw a woman getting robbed on the street.\"? Choose one between A and B.\nA: I called 911.\nB: I hailed a cab."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The woman received a diploma.\"? Choose one between A and B.\nA: She enrolled in college.\nB: She graduated from college."
+    }
+]

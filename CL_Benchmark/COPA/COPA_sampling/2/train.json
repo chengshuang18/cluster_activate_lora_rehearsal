@@ -1,0 +1,34 @@
+[
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The driver honked her horn.\"? Choose one between A and B.\nA: Another car swerved into her lane.\nB: She made a right turn at the light."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The man removed his coat.\"? Choose one between A and B.\nA: He entered the house.\nB: He loosened his tie."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The man craved a cigarette.\"? Choose one between A and B.\nA: His family urged him to quit smoking.\nB: He was addicted to nicotine."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The spy discovered the enemy's location.\"? Choose one between A and B.\nA: The spy bugged the enemy's phone.\nB: The spy was hired by the government."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"I put my plate in the sink.\"? Choose one between A and B.\nA: I finished eating.\nB: I skipped dinner."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The investigators deemed the man's death a suicide.\"? Choose one between A and B.\nA: He left a note.\nB: He had children."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The boy was afraid to go to bed.\"? Choose one between A and B.\nA: He turned on his nightlight.\nB: He watched a horror movie."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the effect of \"The man became disabled.\"? Choose one between A and B.\nA: His family offered him financial support.\nB: His family cut off contact with him."
+    }
+]

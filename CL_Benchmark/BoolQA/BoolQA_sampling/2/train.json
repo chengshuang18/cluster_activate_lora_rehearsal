@@ -1,0 +1,162 @@
+[
+    {
+        "label": "True",
+        "sentence": "question: the earliest form of state police agency to emerge in the united states was the texas rangers\npassage: State police (United States) -- The Texas Rangers are the earliest form of state law enforcement in the United States, first organized by Stephen F. Austin in 1823. The original ranger force consisted of ten men charged with protecting settlers from Indian attacks. Though the rangers of this era are today considered law enforcement officers, they rarely wore badges and were little more than volunteers; the Mexican military was officially in charge of law enforcement in the then-Mexican state of Coahuila y Tejas. The Rangers later served as a paramilitary force on the U.S.-Mexico border and in several armed military conflicts, including the Texas Revolution, the Mexican--American War, and the American Civil War. They continued to fill basic law enforcement and frontier protection roles until the close of the ``wild west'' era. In the early 1900s, they transformed into a criminal investigative agency. The history and legacy of the Texas Rangers has spawned numerous depictions in popular culture. The colloquial image of a Texas Ranger ``always (getting) their man'' has likewise made the Rangers a revered and highly competitive agency within law enforcement, with fewer than 1 in 100 applicants being considered for a single position."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you practice law without a law degree\npassage: Admission to the bar in the United States -- In California, Tennessee, Vermont, Virginia, Washington, and Wyoming an applicant who has not attended law school may take the bar exam after study under a judge or practicing attorney for an extended period of time. This method is known as ``reading law'' or ``reading the law''."
+    },
+    {
+        "label": "False",
+        "sentence": "question: does jeremy become a vampire in vampire diaries\npassage: List of The Vampire Diaries characters -- In season six, Jeremy has become a drunk after Bonnie's death, paying her cell phone bill just to hear her voicemail recording. After Kai absorbed the Travelers' spell around Mystic Falls, Jeremy regained his hunter abilities. Later, Jeremy came to the conclusion that it was time for him to move on with his life and leave for Santa Fe, New Mexico. While nearly all of his friends and family are under the impression that Jeremy is going to art school there, in reality, Jeremy has moved there to hunt vampires, with only Alaric, who planned to feed him leads, knowing Jeremy's true plans. Jeremy returns in the series finale, shown teaching gifted youngsters how to defend themselves against the supernatural at the Salvatore School."
+    },
+    {
+        "label": "False",
+        "sentence": "question: does the equal protection clause apply to private businesses\npassage: Equal Protection Clause -- During Reconstruction, Congress enacted race-conscious programs primarily to assist newly freed slaves who had personally been denied many advantages earlier in their lives. Such legislation was enacted by many of the same people who framed the Equal Protection Clause, though that clause did not apply to such federal legislation, and instead only applied to state legislation. Likewise, the Equal Protection Clause does not apply to private universities and other private businesses, which are free to practice affirmative action unless prohibited by federal statute or state law."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is bank of scotland same as royal bank of scotland\npassage: Bank of Scotland -- The Bank of Scotland was suspected of Jacobite sympathies. Its first rival, The Royal Bank of Scotland was formed by royal charter in 1727. This led to a period of great competition between the two banks as they set to drive each other out of business. Although the ``Bank Wars'' ended in around 1751, competition soon arose from other sources, as other Scottish banks were founded throughout the country. In response, the Bank of Scotland itself began to open branches throughout Scotland. The first branch in London opened in 1865."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are mammals the only animals that give live birth\npassage: Birth -- It is not only mammals that give birth. Some reptiles, amphibians, fish and invertebrates carry their developing young inside them. Some of these are ovoviviparous, with the eggs being hatched inside the mother's body, and others are viviparous, with the embryo developing inside her body, as in mammals."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you die from jumping in cold water\npassage: Cold shock response -- In humans, cold shock response is perhaps the most common cause of death from immersion in very cold water, such as by falling through thin ice. The immediate shock of the cold causes involuntary inhalation, which if underwater can result in drowning. The cold water can also cause heart attack due to vasoconstriction; the heart has to work harder to pump the same volume of blood throughout the body. For people with heart disease, this additional workload can cause the heart to go into arrest. Inhalation of water (and thus drowning) may result from hyperventilation. Some people are much better able to survive swimming in very cold water due to body or mental conditioning."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the shoulder a part of the arm\npassage: Arm -- In human anatomy, the arm is the part of the upper limb between the glenohumeral joint (shoulder joint) and the elbow joint. In common usage, the arm extends to the hand. It can be divided into the upper arm, which extends from the shoulder to the elbow, the forearm which extends from the elbow to the hand, and the hand. Anatomically the shoulder girdle with bones and corresponding muscles is by definition a part of the arm. The Latin term brachium may refer to either the arm as a whole or to the upper arm on its own."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are carbon zinc batteries the same as alkaline\npassage: Alkaline battery -- Compared with zinc-carbon batteries of the Leclanché cell or zinc chloride types, alkaline batteries have a higher energy density and longer shelf-life, with the same voltage."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is all of hawaii part of the united states\npassage: Hawaii -- The state encompasses nearly the entire volcanic Hawaiian archipelago, which comprises hundreds of islands spread over 1,500 miles (2,400 km). At the southeastern end of the archipelago, the eight main islands are--in order from northwest to southeast: Niʻihau, Kauaʻi, Oʻahu, Molokaʻi, Lānaʻi, Kahoʻolawe, Maui, and the Island of Hawaiʻi. The last is the largest island in the group; it is often called the ``Big Island'' or ``Hawaiʻi Island'' to avoid confusion with the state or archipelago. The archipelago is physiographically and ethnologically part of the Polynesian subregion of Oceania."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is forever21 and charlotte russe owned by the same company\npassage: Charlotte Russe (clothing retailer) -- Charlotte Russe typically serves the same audience and competes with Forever 21, H&M and Rue21, who sell similar clothes."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can a us citizen travel to north korea\npassage: Tourism in North Korea -- Those groups that still offer access to all western nations include: Uri Tours (known for its role in Dennis Rodman's and Eric Schmidt's trips to North Korea), Lupine Travel (a UK-based budget travel agency known for its DPRK Amateur Golf Open), Tongil Tours (with a focus on college tours and special delegations), and KTG (known for their small sized groups and affordable tours). FarRail Tours also takes tours to see operating steam railways and the Pyongyang Metro."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is working tax credit classed as a benefit\npassage: Working Tax Credit -- Working Tax Credit (WTC) is a state benefit in the United Kingdom made to people who work and have a low income. It was introduced in April 2003 and is a means-tested benefit. Despite their name, tax credits are not to be confused with tax credits linked to a person's tax bill, because they are used to top-up wages. Unlike most other benefits, it is paid by HM Revenue and Customs (HMRC)."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can your hair turn from blonde to brown\npassage: Human hair color -- Blond (or blonde for women) hair ranges from nearly white (platinum blond, tow-haired) to a dark golden blonde. Strawberry blond, a mixture of blond and red hair, is a much rarer type containing the most pheomelanin. Blond hair can have almost any proportion of pheomelanin and eumelanin, but has only small amounts of both. More pheomelanin creates a more golden or strawberry blond color, and more eumelanin creates an ash or sandy blond color. Many children born with blond hair develop darker hair as they age, with the majority of natural blonds developing a hair color of a dark blond hue by the time they reach middle age. Pregnancy hormones hasten this process. Natural light blond hair is rare in adulthood, with claims of the world's population ranging from 2% naturally blond to 16% in the US. Blond hair is most commonly found in Northern and Western Europeans and their descendants but can be found spread around most of Europe. Studies in 2012 showed that naturally blond hair of Melanesians is caused by a recessive mutation in tyrosinase-related protein 1 (TYRP1). In the Solomon Islands, 26% of the population carry the gene; however, it is absent outside of Oceania."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can an 18 year old date a 15 year old in new jersey\npassage: Ages of consent in the United States -- State law specifies (by not saying anything) that minors between 13 and 15 years old may, in general, engage in a consensual sexual relationship with someone up to four years older. Therefore, for example, it is legal for a 14-year-old male or female to engage in consensual sex with a person up to 18 years of age."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is colby jack the same as monterey jack\npassage: Colby-Jack -- Colby-Jack, or Cojack, is a cheese produced from a mixture of Colby and Monterey Jack cheeses. It is generally sold in a full-moon or a half-moon shape when it is still young and mild in flavor. The cheese has a semi-hard texture. The flavor of Colby-Jack is mild to mellow."
+    },
+    {
+        "label": "True",
+        "sentence": "question: has anyone ever won back to back us opens golf\npassage: List of U.S. Open (golf) champions -- Willie Anderson, Bobby Jones, Ben Hogan and Jack Nicklaus hold the record for the most U.S. Open victories, with four victories each. Anderson holds the record for most consecutive wins with three (1903--05). Hale Irwin is the oldest winner of the U.S. Open: he was 45 years and 15 days old when he won in 1990. The youngest winner of the U.S. Open is John McDermott who was 19 years, 10 months and 14 days old when he won in 1911. Rory McIlroy holds the record for the lowest aggregate score in 2011 at 268. Rory McIlroy and Brooks Koepka share the record for the lowest score in relation to par with their winning scores of -16."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you have round ligament pain not pregnant\npassage: Round ligament pain -- Round ligament pain (RLP) is pain associated with the round ligament of the uterus, usually during pregnancy. RLP is one of the most common discomforts of pregnancy and usually starts at the second trimester of gestation and continues until delivery. It usually resolves completely after delivery although cases of postpartum RLP (that is, RLP that persisted for a few days after delivery) have been reported. RLP also occurs in nonpregnant women."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the mass number the same as protons\npassage: Mass number -- The mass number (symbol A, from the German word Atomgewichte (atomic weight), also called atomic mass number or nucleon number, is the total number of protons and neutrons (together known as nucleons) in an atomic nucleus. It determines the atomic mass of atoms. Because protons and neutrons both are baryons, the mass number A is identical with the baryon number B as of the nucleus as of the whole atom or ion. The mass number is different for each different isotope of a chemical element. This is not the same as the atomic number (Z) which denotes the number of protons in a nucleus, and thus uniquely identifies an element. Hence, the difference between the mass number and the atomic number gives the number of neutrons (N) in a given nucleus: N = A − Z (\\displaystyle N=A-Z) ."
+    },
+    {
+        "label": "False",
+        "sentence": "question: do all animals hear the same frequencies of sound as humans do\npassage: Hearing range -- Several animal species are able to hear frequencies well beyond the human hearing range. Some dolphins and bats, for example, can hear frequencies up to 100,000 Hz. Elephants can hear sounds at 14--16 Hz, while some whales can hear infrasonic sounds as low as 7 Hz (in water)."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are there lymph nodes next to the thyroid\npassage: Thyroid lymph nodes -- The thyroid lymph nodes are deep anterior cervical lymph nodes found near the thyroid gland on the neck."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is last house on the left true story\npassage: The Last House on the Left (1972 film) -- Cunningham served as producer and Craven served as writer and director on the project. Written by Craven in 1971, the original script was intended to be a graphic ``hardcore'' film, with all actors and crew being committed to filming it as such. However, after shooting began, the decision was made to edit the script into a much softer film. This script, written under the title Night of Vengeance, has never been released; only a brief glimpse is visible in the featurette Celluloid Crime of the Century (a 2003 documentary on the making of the film). The crux of the plot is based on the Swedish ballad ``Töres döttrar i Wänge,'' which itself was the basis of Ingmar Bergman's The Virgin Spring (1960), of which Craven was an admirer. Craven envisioned a film in which the violence would be shown in detail onscreen; he felt that many popular films of the era, such as Westerns, glamorized violence and the ``vigilante hero,'' and gave the public a misleading representation of death in the wake of Vietnam War."
+    },
+    {
+        "label": "True",
+        "sentence": "question: do you get money when you win the nobel peace prize\npassage: Nobel Prize -- Between 1901 and 2017, the Nobel Prizes including the Economic Prizes were awarded 585 times to 923 people and organizations. With some receiving the Nobel Prize more than once, this makes a total of 24 organizations, and 892 individuals. The prize ceremonies take place annually in Stockholm, Sweden (with the exception of the peace prize, which is held in Oslo, Norway). Each recipient, or laureate, receives a gold medal, a diploma, and a sum of money that has been decided by the Nobel Foundation. (As of 2017, each prize is worth 9,000,000 SEK, or about US$1,110,000, €944,000, £836,000 or ₹72,693,900.) Medals made before 1980 were struck in 23 carat gold, and later in 18 carat green gold plated with a 24 carat gold coating."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is ghost in the shell based on the anime\npassage: Ghost in the Shell -- Animation studio Production I.G has produced several different anime adaptations of Ghost in the Shell, starting with the 1995 film of the same name, telling the story of Section 9's investigation of the Puppet Master. The television series Ghost in the Shell: Stand Alone Complex followed in 2002, telling an alternate story from the manga and first film, featuring Section 9's investigations of government corruption in the Laughing Man and Individual Eleven incidents. A sequel to the 1995 film, Ghost in the Shell 2: Innocence, was released in 2004. In 2006, the film Ghost in the Shell: Stand Alone Complex - Solid State Society retook the story of the television series. 2013 saw the start of the Ghost in the Shell: Arise original video animation (OVA) series, consisting of four parts through mid-2014. The series was recompiled in early 2015 as a television series titled Ghost in the Shell: Arise - Alternative Architecture, airing with an additional two episodes (one part). An animated feature film produced by most of the Arise staff, titled Ghost in the Shell: The New Movie, was released on June 20, 2015. A live-action American film of the same name was released on March 31, 2017."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can you have more than one wife in the usa\npassage: Polygamy in North America -- Polygamy is the act or condition of a person marrying another person while still being lawfully married to another spouse. As this is the very definition of bigamy, it is illegal in the United States. The crime is punishable by a fine, imprisonment, or both, according to the law of the individual state and the circumstances of the offense. Polygamy was outlawed federally by the Edmunds Act, and there are laws against the practice in all 50 states, as well as the District of Columbia, Guam, and Puerto Rico. Because state laws exist, polygamy is not actively prosecuted at the federal level, but the practice is considered ``against public policy'' and, accordingly, the U.S. government won't recognize bigamous marriages for immigration purposes (that is, would not allow one of the spouses to petition for immigration benefits for the other), even if they are legal in the country where bigamous marriage was celebrated. Any immigrant who is coming to the United States to practice polygamy is inadmissible."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are the normal force and force of gravity always equal\npassage: Normal force -- In mechanics, the normal force F n (\\displaystyle F_(n)\\ ) is that component of the contact force that is perpendicular to the surface that an object contacts. For example, the surface of a floor or table that prevents an object from falling. In this instance normal is used in the geometric sense and means perpendicular, as opposed the common language use of normal meaning common or expected. For example, a person standing still on flat ground is supported by a ground reaction force that consists of only a normal force. If the person stands on a slope and does not slide down it, then the total ground reaction force can be divided into two components: a normal force perpendicular to the ground and a frictional force parallel to the ground. In another common situation, if an object hits a surface with some speed, and the surface can withstand it, the normal force provides for a rapid deceleration, which will depend on the flexibility of the surface and the object."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are wizards human in lord of the rings\npassage: Wizard (Middle-earth) -- In the fiction of J.R.R. Tolkien, the Wizards of Middle-earth are a group of beings outwardly resembling Men but possessing much greater physical and mental power. They are also called the Istari (Quenya for ``Wise Ones'') by the Elves. The Sindarin word is Ithryn (sing. Ithron). They were sent by the Valar to assist the people of Middle-earth to contest Sauron."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can i use oyster card at epsom station\npassage: Epsom railway station -- Epsom railway station serves the town of Epsom in Surrey, England. It is located off Waterloo Road and is less than two minutes' walk from the town's high street. It is not in the London Oyster card zone unlike Epsom Downs or Tattenham Corner. It is 14 miles 18 chains (22.9 km) down the line from London Waterloo."
+    },
+    {
+        "label": "True",
+        "sentence": "question: do you fast on the day of atonement\npassage: Yom Kippur -- Yom Kippur (/ˌjɒm kɪˈpʊər, ˌjɔːm ˈkɪpər, ˌjoʊm-/; Hebrew: יוֹם כִּיפּוּר‬, IPA: (ˈjom kiˈpuʁ), or יום הכיפורים‬), also known as the Day of Atonement, is the holiest day of the year in Judaism. Its central themes are atonement and repentance. Jewish people traditionally observe this holy day with an approximate 25-hour period of fasting and intensive prayer, often spending most of the day in synagogue services."
+    },
+    {
+        "label": "True",
+        "sentence": "question: in the phantom menace is padme the queen\npassage: Padmé Amidala -- George Lucas, Rick McCallum, and casting director Robin Gurland auditioned over 200 actresses for the part of Padmé Amidala. They chose 16-year-old actress Natalie Portman to play the role. According to The Phantom Menace production notes, ``The role required a young woman who could be believable as the ruler of that planet, but at the same time be vulnerable and open.'' Portman's performances in The Professional (1994) and Beautiful Girls (1996) impressed Lucas. He stated, ``I was looking for someone who was young, strong, along the lines of Leia. Natalie embodied all those traits and more.''"
+    },
+    {
+        "label": "False",
+        "sentence": "question: can you buy a creme egg all year round\npassage: Cadbury Creme Egg -- Creme eggs are available annually between 1 January and Easter Day. In the UK in the 1980s, Cadbury made Creme Eggs available year-round but sales dropped and they returned to seasonal availability."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is a denatured protein still able to function\npassage: Denaturation (biochemistry) -- Denaturation is a process in which proteins or nucleic acids lose the quaternary structure, tertiary structure and secondary structure which is present in their native state, by application of some external stress or compound such as a strong acid or base, a concentrated inorganic salt, an organic solvent (e.g., alcohol or chloroform), radiation or heat. If proteins in a living cell are denatured, this results in disruption of cell activity and possibly cell death. Protein denaturation is also a consequence of cell death. Denatured proteins can exhibit a wide range of characteristics, from conformational change and loss of solubility to aggregation due to the exposure of hydrophobic groups. Denatured proteins lose their 3D structure and therefore cannot function."
+    },
+    {
+        "label": "True",
+        "sentence": "question: does triamcinolone acetonide cream work on poison ivy\npassage: Triamcinolone acetonide -- Triamcinolone acetonide as an intra-articular injectable has been used to treat a variety of musculoskeletal conditions. When applied as a topical ointment, applied to the skin, it is used to mitigate blistering from poison ivy, oak, and sumac, . When combined with Nystatin, it is used to treat skin infections with discomfort from fungus, though it should not be used on the eyes, mouth, or genital area. It provides relatively immediate relief and is used before using oral prednisone. Oral and dental paste preparations are used for treating aphthous ulcers."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you go to north korea on holiday\npassage: Tourism in North Korea -- Tourism in North Korea is tightly controlled by the North Korean government. Only about 4,000 to 6,000 Western tourists visit North Korea each year. All tourism is organized by one of several state-owned tourism bureaus, including Korea International Travel Company (KITC), Korean International Sports Travel Company (KISTC), Korean International Taekwondo Tourism Company (KITTC) and Korean International Youth Travel Company (KIYTC)."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can puerto rico vote in the presidential elections\npassage: Federal voting rights in Puerto Rico -- Voting rights of United States citizens in Puerto Rico, like the voting rights of residents of other United States territories, differ from those of United States citizens in each of the fifty states and the District of Columbia. Residents of Puerto Rico and other U.S. territories do not have voting representation in the United States Congress, and are not entitled to electoral votes for President. The United States Constitution grants congressional voting representation to U.S. states, which Puerto Rico and other U.S. territories are not, specifying that members of Congress shall be elected by direct popular vote and that the President and the Vice President shall be elected by electors chosen by the States."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there a professional women's lacrosse league\npassage: United Women's Lacrosse League -- The United Women's Lacrosse League (UWLX) is a women's lacrosse league in the United States. It was co-founded in Boston, Massachusetts by Digit Murphy and Aronda Kirby of the Play It Forward Sports Foundation, under the ownership of United Women's Sports LLC in a strategic partnership with STX. Penn State alum and former United States national team player Michele DeJuliis was appointed as the league's commissioner. DeJuliis left after the 2016 season to found a new women's pro lacrosse league, the current General Manager is Kristan Ash."
+    },
+    {
+        "label": "True",
+        "sentence": "question: does sour apple pucker have alcohol in it\npassage: Pucker -- Pucker is a line of fruit-flavored imitation liqueurs made by the DeKuyper company. By volume it is 15% alcohol (30 proof) and is often used in mixed drinks."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is barcelona on the south coast of spain\npassage: Barcelona -- Barcelona is located on the northeast coast of the Iberian Peninsula, facing the Mediterranean Sea, on a plain approximately 5 km (3 mi) wide limited by the mountain range of Collserola, the Llobregat river to the southwest and the Besòs river to the north. This plain covers an area of 170 km (66 sq mi), of which 101 km (39.0 sq mi) are occupied by the city itself. It is 120 kilometres (75 miles) south of the Pyrenees and the Catalan border with France."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the drinking age 21 everywhere in the us\npassage: National Minimum Drinking Age Act -- However, these changes were soon followed by studies showing an increase in motor vehicle fatalities attributable to the decreased MLDA. In response to these findings, many states raised the minimum legal drinking age to 19 (and sometimes to 20 or 21). In 1984, the National Minimum Legal Drinking Act, written by Senator Frank Lautenberg (D-NJ) and influenced by Mothers Against Drunk Driving (MADD), required all states to enforce a minimum legal drinking age of 21 or else risk losing 10% of all federal highway construction funds."
+    },
+    {
+        "label": "True",
+        "sentence": "question: did croatia used to be part of hungary\npassage: Croatia in union with Hungary -- The Kingdom of Croatia (Latin: Regnum Croatiae; Croatian: Hrvatsko kraljevstvo or Kraljevina Hrvatska) entered a personal union with the Kingdom of Hungary in 1102, after a period of rule of kings from the Trpimirović and Svetoslavić dynasties and a succession crisis following the death of king Demetrius Zvonimir. With the coronation of King Coloman of Hungary as ``King of Croatia and Dalmatia'' in 1102 in Biograd, the realm passed to the Árpád dynasty until 1301, when the (male) line of the dynasty died out. Then, kings from the Capetian House of Anjou, who were also cognatic descendants of the Árpád kings, ruled the kingdoms. Later centuries were characterized by conflicts with the Mongols, who sacked Zagreb in 1242, competition with Venice for control over Dalmatian coastal cities, and internal warfare among Croatian nobility. Various powerful nobles emerged in the time period, like Paul I Šubić of Bribir and Hrvoje Vukčić Hrvatinić, that secured de facto independence for their realms. The Ottoman incursion into Europe in the 16th century significantly reduced Croatian territories and left the country weak and divided. After the death of Louis II in 1526 during the Battle of Mohács and a brief period of dynastic dispute, both crowns passed to the Austrian House of Habsburg, and the realms became part of the Habsburg Monarchy."
+    }
+]

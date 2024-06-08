@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "sentence 1: The Kalido Technical Advisory Board members include Boris Evelson, founder and managing partner, Textra Group, Inc., and Bill Inmon, president, Inmon Data Systems.\nsentence 2: Boris Evelson founded the Kalido Technical Advisory Board.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: FBI agent Denise Stemen said in an affidavit that Lowe's alerted the FBI recently that intruders had broken into its computer at company headquarters in North Carolina, altered its computer programs and illegally intercepted credit card transactions.\nsentence 2: Non-authorized personnel illegally entered into computer networks.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: All U.S Embassy personnel in non-emergency positions and family members of U.S Embassy personnel who were evacuated as a result of the initial conflict have been authorized to return to Eritrea.\nsentence 2: U.S. Military evacuated U.S. citizens.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: U.S. policy on drug trafficking is not consistent with the need to put an end and actively repress the consumption of drugs. The solution is not based on the destruction of a native plant, coca, in the continent, but on an active fight against the Colombian drug mafia, which has created a great money and crime empire in Colombia with powerful ramifications outside its borders.\nsentence 2: A native plant is destroyed by the Colombian drug mafia.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Sweden-based airline Scandinavian Airlines System (SAS) said it will reduce payrolls by 8,600 jobs as part of its \"Core SAS\" restructuring plan. The airline will cut 3,000 staff directly and eliminate 5,600 by divesting business ventures, reducing the workforce by 40% to 14,000. The restructuring  comes after SAS posted losses of 6.32 billion Swedish krona in 2008. The company is also to sell airBaltic and Spanair and its stakes in Air Greenland,  BMI, Estonian Air, Skyways Express, Spirit Airlines and Trust. Spanair is to be sold for €1. The company intends to switch to concentrating on its core  Nordic market.\nsentence 2: European Airlines are cutting jobs.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The Jurassic Park Institute is an absolutely accurate way for kids to get excited about dinosaur science! Written by two noted paleontologists and illustrated in big bold colors, this kid-friendly nonfiction guide uses easy-to-understand text to describe at least 100 dinosaurs alphabetically.\nsentence 2: Michael Crichton is the author of the book Jurassic Park.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Prime Minister Mahmoud Abbas has offered 'the hand of peace' to Israel after his landslide victory in Sunday's presidential election.\nsentence 2: Mahmoud Abbas has won a landslide victory in Sunday's presidential election.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The public phase of a capital campaign to raise money for the Kroc Center at the Mid-South Fairgrounds has begun. The goal is to raise $3.9 million for the facility located just south of Central on East Parkway. Once the money is raised, construction on the 15-acre, 100,000-square-foot facility can begin. The campaign has already raised more than $21.1 million. Once the funding is raised, the center will receive a $50 million gift from the Kroc Trust, which was created by McDonald's Corp. founder Ray Kroc and his wife, Joan. A gift of $1.5 billion was given to the Salvation Army to build 25 Kroc Centers across the country. Kroc Centers are designed to serve the needs of families in the neighborhoods surrounding the facilities.\nsentence 2: Ray Kroc is the founder of McDonalds.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Her Majesty Queen Elizabeth II was born in London on April, 21 1926, first child of the Duke and Duchess of York, subsequently King George VI and Queen Elizabeth. Five weeks later she was christened in the chapel of Buckingham Palace and was given the names Elizabeth Alexandra Mary Windsor. The Queen ascended the throne on February 6, 1952 upon the death of her father, King George VI. Her Coronation followed on June 2, 1953.\nsentence 2: Elizabeth the Second's father was George VI.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Brooklyn Borough Hall featured a Who's Who in New York's literary community during the second annual Brooklyn Book Festival. According to Brooklyn Borough President Marty Markowitz, the borough's zip code 11215 boasts more authors than anywhere else in the country. It appeared to be the case on Sunday. More than 100 authors were featured at the day-long event, including The Basketball Diaries writer Jim Carroll, former M*A*S*H star Mike Farrell, author and illustrator Mo Willems, Jack Kerouac's sometime lover and National Book Critics Circle Award recipient Joyce Johnson and PEN American Center President Francine Prose.\nsentence 2: The Brooklyn Book Festival is held in Brooklyn Borough every year.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: King Tut Tomb Fetuses May Reveal Pharaoh's Mother - Egypt Mummies Moved for DNA Tests; Pharaoh Among Them? - March 30, 2009—Researchers may have finally come face-to-face with the real—and wrinkled—Nefertiti, thanks to sophisticated CT scanning technology. A carefully carved limestone face in the inner core of the Egyptian queen's famous bust (above, right) has emerged in new images, a new study says. The object, currently on display in Berlin's Altes Museum, was discovered in 1912 during an excavation of the studio of Egyptian royal sculptor Thutmose. The artist had sculpted Nefertiti—wife of Pharaoh Akhenaten—more than 3,300 years ago.\nsentence 2: Nefertiti was the stepmother of King Tutankhamen.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Manuel Rosales, who ran against Mr Chavez in the 2006 presidential election, faces corruption charges he says are baseless. He had been in hiding since the charges were filed last month. Venezuela's Interior Minister Tareck el-Aissami said Mr Rosales was a criminal on the run. \"If he doesn't appear before the appropriate courts, he would be a fugitive from justice, and as a result the court will activate mechanisms for his international capture,\" said Mr Aissami, denying that the charges were political.\nsentence 2: Manuel Rosales was mayor of Maracaibo.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Muslims are commanded not to take Jews or Christians for friends.\nsentence 2: Jews and Christians pray as Muslims do.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Robert Szabo concludes that circumcision, as practiced by Muslims, would be the most immediately effective intervention for reducing HIV transmission since it is done before men are sexually active.\nsentence 2: It is incorrect to assert that circumcision prevents HIV infection.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The world's oldest known child has been discovered in East Africa in an area known appropriately as the Cradle of Humanity.  The 3.3-million-year-old fossilized toddler was uncovered in north Ethiopia's badlands along the Great Rift Valley (map of Ethiopia). The skeleton, belonging to the primitive human species Australopithecus afarensis, is remarkable for its age and completeness, even for a region spectacularly rich in fossils of our ancient ancestors, experts say.  The new find may even trump the superstar fossil of the same species: \"Lucy,\" a 3.2-million-year-old adult female discovered nearby in 1974 that reshaped theories of human evolution. (Related: \"Fossil Find Is Missing Link in Human Evolution, Scientists Say\" [April 2006].) .\nsentence 2: Lucy fossils have been discovered 3.3 million years ago.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: If legalization reduced current narcotics enforcement costs by one-third to one-fourth, it might save $6 - $9 billion per year.\nsentence 2: Drug legalization has benefits.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Although he won with the lowest majority ever tallied by the ruling party , 48.7% of the votes , his ballots almost doubled those of outsider Diego Fernandez de Cevallos , the rightist runner-up . And insiders are now favored to win other Latin American elections in the coming months : In Brazil , Fernando Henrique Cardoso , a former Senate leader and Cabinet minister , is expected to finish ahead of outsider Luis Inacio (Lula) da Silva , a leftist former labor leader , in the first round of president.\nsentence 2: Fernando Henrique Cardoso is a Brazilian former Senate leader and Cabinet minister.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Thousands of people are expected to return to New Orleans this week, as areas of the city are opened up to residents.\nsentence 2: Over the coming days, thousands of people are expected to make the decision to return to New Orleans.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The measures currently in force include a travel ban on senior government figures, but France has invited Mr. Mugabe to a Franco-African summit in Paris next month, angering several countries.\nsentence 2: France angered a number of countries, by inviting Mr. Mugabe to attend a Franco-African summit in Paris.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Iraq would have been an unsafe, unsecure country that did pose a threat to the world.\nsentence 2: Iraq would have constituted a threat to the world.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The focus on the engines and the fuel, stems from the pilot's radio call, shortly before the crash.\nsentence 2: The pilot had been attempting an emergency landing, after both engines failed.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: \"For Japanese yakuza, the most important thing is staying alive, and making money is second,\" the yakuza said.\nsentence 2: Yakuza are the Japanese mafia.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: A message in a bottle thrown into the sea by a four-year-old girl in England has been found 9,000 miles away in Western Australia. Alesha Johnson threw the bottle into the water at Morecambe Bay, Lancashire last July, enclosing her Heysham address, and a picture of herself. The note read: \"If you get this message, please write back.\" This week, she received a letter from a 10-year-old from Perth, who said he had found the bottle in a local Boatyard. Doreen Johnson, the manager of the nursery Alesha attends in Heysham, said: \"We were all very excited when the letter from Australia arrived addressed to Alesha.\nsentence 2: Heysham is where Doreen Johnson works.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: And this is a town that everybody agrees, law enforcement, Border Patrol, residents on both sides, is a staging area of illegal drugs and illegal aliens.\nsentence 2: Steps are being taken to stop the smuggling of aliens.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The 26-member International Energy Agency said, Friday, that member countries would release oil to help relieve the U.S. fuel crisis caused by Hurricane Katrina.\nsentence 2: Foreign oil reserves will be made available to the U.S. in the wake of Hurricane Katrina.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: California Gov. Arnold Schwarzenegger (R) on Friday signed five bills into law that allow California to receive more than $17.5 billion in federal economic stimulus aid, but the funding will not be enough for the state to avoid $3 billion in tax increases and cuts to services to balance its budget, the San Francisco Chronicle reports. The legislation changes eligibility reporting requirements for children enrolled in Medi-Cal and allows more people to qualify for unemployment insurance and extends the benefit by 20 weeks. Medi-Cal is the state's Medicaid program.\nsentence 2: Arnold Schwarzenegger is Austrian.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Even the most draconian proposal — to reinstate flight limits to ease the bottlenecks at Kennedy — might backfire, industry analysts say, because airlines would end up shifting flights to Newark Airport, which is already strained. \"Kennedy is the perfect example of putting 10 pounds in a 5-pound bag,\" said Darryl Jenkins, a longtime airline consultant. \"J.F.K. was never set up to be a hub for anybody; its been a gateway,\" he said. But in recent years it became a hub for JetBlue and Delta. These days, delays at Kennedy are so bad, he said, that \"it's backing up the whole country.\".\nsentence 2: JFK airport is in New York.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: US President George W. Bush has indicated he will invite Abbas to the United States for talks, something he never did with Abbas's predecessor, the late Yasser Arafat .\nsentence 2: Yasser Arafat succeeded Abbas.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: WASHINGTON - On the mornings he is in town, Dick Cheney wakes up at 6, climbs into his black sport utility vehicle and drives himself to a Starbucks near his McLean, Va., home. He returns with a pair of grande skim lattes — decaf for him, regular for his wife, Lynne — and settles into work in the sun-drenched office above his garage, penning his memoir in longhand on yellow legal pads. It is the kind of scene that Americans have come to expect from their elder statesmen: a quiet, unassuming return to private life after giving up power. Except, that is, for the quiet and unassuming part.\nsentence 2: Dick Cheney is the former Vice President.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: In 1856 Manuel Ruiz Zorrilla was elected deputy, and soon attracted notice among the most advanced Progressists and Democrats. He took part in the revolutionary propaganda that led to the military movement in Madrid on June 22, 1866. He had to take refuge in France for two years, like his fellow-conspirators, and only returned to Spain when the revolution of 1868 took place.\nsentence 2: Zorrilla started the revolution of 1868.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The six-member delegation included lawyers from the Justice, State, and Homeland Security Departments, according to U.S. military sources, who spoke on condition of anonymity because only Justice was allowed to officially disclose the mission. They were to spend a minimum of one hour with each of the Uighur (WEE-gur) captives, who are part of China's Muslim minority and who risk religious persecution if returned to their homeland. Each was captured in Afghanistan in late 2001 and handed over to U.S. forces, who interrogated them to learn about al-Qaeda's paramilitary training camp structure.\nsentence 2: Six Uighurs were captured to gain information about al-Qaeda.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The outlawed Basque political party in Spain, Batasuna, called, on Monday, parties in the Basque Autonomous Government to boycott the parliament decision to ban it.\nsentence 2: Spain's Basque party calls for the boycott of a parliament decision.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Alzheimer's disease is successfully treated, and controlled by drugs which inhibit the synthesis of beta-amyloid protein.\nsentence 2: Alzheimer's disease is treated using drugs.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: With Washington hinting it might soften its tough stance to break the deadlock, top US negotiator, Christopher Hill, said the two sides needed to review the situation.\nsentence 2: Christopher Hill is a relative of a top US negotiator.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Bowles will take the title HRH Duchess of Cornwall, changing it to the Princess Consort, when Charles becomes King.\nsentence 2: Bowles will take the title of Princess Consort.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: You rifle through your visual memory and there it is: Vermeer, the 17th-Century Dutch artist who painted extraordinary portraits of women engaged in the ordinary -- writing a letter, making lace or putting on a necklace of pearls.\nsentence 2: Vermeer is a 17th-Century Dutch artist.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The weapon Inspectors have had since 1991 to peacefully disarm Iraq of its weapons of mass destruction.\nsentence 2: Weapons inspectors will go back to Iraq.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Arromanches-les-Bains or simply Arromanches is a town in Normandy, France, located on the coast in the heart of the area where the Normandy landings took place on D-Day, on June 6, 1944.\nsentence 2: The Normandy landings took place in June 1944.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Mount Olympus, the highest mountain in the Olympic Range, rises to a height of 7,965 feet (2,428 meters) and is less than 25 miles (40 kilometers) from the Strait of Juan de Fuca.\nsentence 2: Mount Olympus is near the Strait of Juan de Fuca.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Canadian MP Belinda Stronach, 40, has reportedly cheated with Canadian hockey star Tie Domi. Domi and his wife were in court today getting divorced and both have now reached a temporary settlement in their divorce proceedings, less than an hour before the case was to be heard before Toronto's Superior Court. Stronach is refusing to comment on the divorce or say if she \"wrecked\" Domi's marriage. \"If it wasn't for my husband's affair with Belinda, we wouldn't be getting a divorce,\" Leanne told the Toronto Star in an interview last night. Domi's wife claimed that the former Toronto Maple Leaf player told her if she did not hire a lawyer he would give her $1 million in cash and a $1.5-million house if she kept quiet about his affair with Stronach. If she contacted a lawyer, however, she \"would get nothing.\"\nsentence 2: Leanne was married to Tie Domi.",
+        "label": "entailment"
+    }
+]

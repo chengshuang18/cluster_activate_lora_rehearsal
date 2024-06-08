@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "Text: payami tries to raise some serious issues about iran 's electoral process , ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: i saw worse stunt editing or cheaper action movie production values than in extreme ops ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: what makes salton sea surprisingly engrossing is that caruso takes an atypically hypnotic approach to a world that 's often handled in fast-edit , hopped-up fashion . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: his machismo ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: this deeply moving french drama develops a startling story that works both as a detailed personal portrait and as a rather frightening examination of modern times . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: unstinting ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: are about a half dozen young turks angling to see how many times they can work the words `` radical '' or `` suck '' into a sentence ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: philippe , who makes oliver far more interesting than the character 's lines would suggest , and sarandon , who could n't be better as a cruel but weirdly likable wasp matron ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: you 'll derive from this choppy and sloppy affair ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: suicide ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: by the artsy and often pointless visuals ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: this film , like the similarly ill-timed antitrust , ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: with impeccable comic timing , raffish charm and piercing intellect ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: perfectly executed ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: cruel but weirdly likable ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: who is in complete denial about his obsessive behavior ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: a hallmark film in an increasingly important film industry and worth the look . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: 's supposed to be post-feminist breezy but ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: too full ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: funny look ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: cheesy ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: 's definitely an improvement on the first blade , ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: another disjointed ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: -- if predictable -- ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: utterly painful to watch ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: a ravishing , baroque beauty ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: of this ` we 're - doing-it-for - the-cash ' sequel ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: seems uncertain whether it wants to be an acidic all-male all about eve or a lush , swooning melodrama in the intermezzo strain . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: has about 3/4th the fun of its spry 2001 predecessor -- but it 's a rushed , slapdash , sequel-for-the-sake - of-a-sequel with less than half the plot and ingenuity . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: shining with all the usual spielberg flair , expertly ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: gooding is the energetic frontman , and it 's hard to resist his enthusiasm , even if the filmmakers come up with nothing original in the way of slapstick sequences . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: gone straight to video ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: gets sillier , not scarier ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: to embrace small , sweet ` evelyn ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: heavy-handed moralistic ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: own languorous charm ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: is as deep as a petri dish and as well-characterized as a telephone book but still ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: moderately successful but ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: a solidly entertaining and moving family drama ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: got as potent a topic as ever here ",
+        "label": "Good"
+    }
+]

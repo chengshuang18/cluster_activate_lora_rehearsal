@@ -1,0 +1,162 @@
+[
+    {
+        "label": "True",
+        "sentence": "question: is sky movies the same as sky cinema\npassage: Sky Cinema -- Sky Cinema (formerly Sky Movies) is the collective name for the premium subscription television film channels operated in the United Kingdom and the Republic of Ireland by Sky plc. The UK and Ireland channels have over 5 million subscribers, via satellite, cable and IPTV. In addition to the television channels, it has an interactive 'red button' service, a website (sky.com/movies) and in 2005 launched a 3G mobile service via Vodafone."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is magenta from blue's clues a boy\npassage: List of Blue's Clues characters -- Magenta is Blue's best friend, who is identical to her with the exception of a magenta fur coat. She is first shown in the episode ``Blue's Story Time'' but is not properly introduced until ``Magenta Comes Over''. She is one of Blue's classmates at school and has visited the Blue's Clues house on special occasions. She gets a pair of purple eyeglasses in the fourth season and keeps them for her appearances later on in the series. Magenta is shyer than Blue but shares the same playful and energetic attitude. Steven Burns stated in an interview that both she and Blue are girls. She is voiced by Koyalee Chanda."
+    },
+    {
+        "label": "True",
+        "sentence": "question: did hayden panettiere actually skate in ice princess\npassage: Ice Princess -- Blumas said that he was put on hold for two months during the audition process, and that there had been ``a lot of switch-overs with the directors''. Blumas ended up playing Teddy as a sort of father figure. He began training to drive a Zamboni soon after arriving in Toronto; according to him, he later ended up smoothing the ice on some mornings at the rink where they were shooting. Panettiere did much of her own skating, including a fast spin seen at the end of the regionals short program. Trachtenberg trained for eight months, including the time they were filming (during which time she says she worked twenty-hour days). She had to be on the ice longer than most of the other actors as she was one of the few adults on the film. She had stunt doubles to handle the falls and some of the complex moves, although Trachtenberg did learn a specific move that could not be done by a stunt double as the differences in their build would be apparent. She sustained some injuries while working on the film. According to Trachtenberg, a mistake was made in one of the physics formulas her character recites, which was later fixed; a shot of the back of her head was used and the correct term was looped in. Trachtenberg described the film as ``not a Disney kitschy movie'' and was somewhat apprehensive of the idea of a sequel for fear of belittling the original. Cusack noted that the relationship between Casey and her mother had already been well-developed in the script, but said that it generated a good deal of discussion during the production, and Cusack ultimately described her role as ``meaningful'' in terms of the acting and also how it related to her personally."
+    },
+    {
+        "label": "True",
+        "sentence": "question: does the purple line go to union station\npassage: Purple Line (Los Angeles Metro) -- The Metro Purple Line is a 6.4-mile (10.3 km) line that begins at Union Station. At Union Station, passengers can connect to the Metro Silver Line bus rapid transit line, and the Metro Gold Line. The Purple Line travels southwest through Downtown Los Angeles, passing the Civic Center, Pershing Square (near the Historic Core) and the Financial District. Passengers can connect to the Metro Silver Line (both directions) at Civic Center Station. At Pershing Square Station, passengers can board the northbound Metro Silver Line bus at Olive Street/5th Street. At 7th St/Metro Center Station, travelers can connect to the Metro Blue Line, Metro Expo Line and the Metro Silver Line. From here, the train travels between 7th Street and Wilshire Boulevard (and briefly Ingraham Street) west through Pico-Union and Westlake, arriving at Wilshire/Vermont in the city's Mid-Wilshire/Koreatown district. Up to this point, track is shared with the Metro Red Line: at Wilshire/Vermont, the two lines diverge. The Purple Line continues west for one additional mile, and terminates at Wilshire/Western."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can the national guard be used for law enforcement\npassage: Posse Comitatus Act -- The act only specifically applies to the United States Army and, as amended in 1956, the United States Air Force. While the act does not explicitly mention the United States Navy and the United States Marine Corps, the Department of the Navy has prescribed regulations that are generally construed to give the act force with respect to those services as well. The act does not apply to the Army National Guard or the Air National Guard under state authority from acting in a law enforcement capacity within its home state or in an adjacent state if invited by that state's governor. The United States Coast Guard, which operates under the Department of Homeland Security, is not covered by the Posse Comitatus Act either, primarily because although the Coast Guard is an armed service, it also has both a maritime law enforcement mission and a federal regulatory agency mission."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is augusta golf course open to the public\npassage: Augusta National Golf Club -- Augusta National Golf Club has about 300 members at any given time. Membership is strictly by invitation: there is no application process. In 2004, USA Today published a list of all the current members. Membership is believed to cost between $10,000 and $30,000 and annual dues were estimated in 2009 to be less than $10,000 per year."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you get married at 16 in canada\npassage: Marriage in Canada -- Since 2015, federal law has set the absolute minimum marriageable age at 16. Provinces and territories may set a minimum age higher than that. In Canada the age of majority is set by province/territory at 18 or 19, so minors under this age have additional restrictions (i.e. parental and court consent). Section 293.2 of the Criminal Code also addresses marriages of individuals under the age of 16, reading: Everyone who celebrates, aids or participates in a marriage rite or ceremony knowing that one of the persons being married is under the age of 16 years is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years. Section 2.2 of the Civil Marriage Act also states: No person who is under the age of 16 years may contract marriage. These provisions were enacted in 2015. Before 2015, it was possible for children less than 16 years old to get married in some jurisdictions of Canada, with parental consent or a court order. (The legal marriage age with parental consent was possibly as low as 7 in some Canadian jurisdictions.)"
+    },
+    {
+        "label": "True",
+        "sentence": "question: in the last song does ronnie's dad die\npassage: The Last Song (film) -- Ronnie soon hears the rumor that her father burned down the church from some locals. Distraught, she goes to Will and laments about the situation. Will, knowing that it was actually his friend Scott who while playing around set fire to the church, is overcome by guilt and goes to Steve to apologize. When Ronnie comes in hearing this, she walks out and Will follows where they have an argument and break up. Will leaves. Fall arrives and Jonah returns to New York for the school year. Ronnie stays behind to take care of their father, who revealed to Ronnie & Jonah during the summer that he is terminally ill. Leading a slow life, she tries to make up for the time with her father that she's lost. She continues work on a composition he had been writing (titled ``For Ronnie''), after losing the steadiness of his hands due to his illness. He dies just as she finishes it."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is rhubarb and celery in the same family\npassage: Rhubarb -- Although rhubarb is a vegetable, it is often put to the same culinary uses as fruits. The leaf stalks can be used raw, when they have a crisp texture (similar to celery, although it is in a different family), but are most commonly cooked with sugar and used in pies, crumbles and other desserts. They have a strong, tart taste. Several varieties have been domesticated for human consumption, most of which are recognised as Rheum x hybridum by the Royal Horticultural Society."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can class a misdemeanor be expunged in texas\npassage: Expungement in Texas -- Texas expungement law allows expungement of arrests which did not lead to a finding of guilt, and class C misdemeanors if the defendant received deferred adjudication, and completed a community supervision. If the defendant was found guilty, pleaded guilty, or pleaded no contest to any offense other than a class ``C'' misdemeanor, it is not eligible for expungement; however, it may be eligible for non-disclosure if deferred adjudication was granted."
+    },
+    {
+        "label": "True",
+        "sentence": "question: did robin get married at the end of career of evil\npassage: Career of Evil -- Now free from the stress of the murderer, Strike decides to repair his relationship with Robin by attending her wedding, the invitation to which was never formally rescinded following her dismissal. After a frantic dash to the church, Strike arrives just in time to see Robin and Matthew exchange vows. The novel ends as Robin looks into the room full of wedding guests, sees Strike, and beams."
+    },
+    {
+        "label": "True",
+        "sentence": "question: has the washington capitals ever made it to the stanley cup\npassage: Washington Capitals -- The Capitals were founded in 1974 as an expansion franchise, alongside the Kansas City Scouts. Since purchasing the team in 1999, Leonsis revitalized the franchise by drafting star players such as Alexander Ovechkin, Nicklas Backstrom, Mike Green and Braden Holtby. The 2009--10 Capitals won the franchise's first-ever Presidents' Trophy for being the team with the most points at the end of the regular season. They won it a second time in 2015--16, and did so for a third time the following season in 2016--17. In addition to eleven division titles and three Presidents' Trophies, the Capitals have reached the Stanley Cup Finals twice (in 1998 and 2018), winning in 2018."
+    },
+    {
+        "label": "True",
+        "sentence": "question: did the capitals ever win a stanley cup\npassage: Washington Capitals -- The Capitals were founded in 1974 as an expansion franchise, alongside the Kansas City Scouts. Since purchasing the team in 1999, Leonsis revitalized the franchise by drafting star players such as Alexander Ovechkin, Nicklas Backstrom, Mike Green and Braden Holtby. The 2009--10 Capitals won the franchise's first-ever Presidents' Trophy for being the team with the most points at the end of the regular season. They won it a second time in 2015--16, and did so for a third time the following season in 2016--17. In addition to eleven division titles and three Presidents' Trophies, the Capitals have reached the Stanley Cup Finals twice (in 1998 and 2018), winning in 2018."
+    },
+    {
+        "label": "True",
+        "sentence": "question: has anyone won a tony oscar emmy and grammy\npassage: List of people who have won Academy, Emmy, Grammy, and Tony Awards -- Twelve people have won all four major annual American entertainment awards in a competitive, individual (non-group) category of the Emmy, Grammy, Oscar, and Tony Awards. Respectively, these awards honor outstanding achievements in television, recording, film, and theater. Winning all four awards has been referred to as winning the ``grand slam'' of American show business."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is american money worth more than canadian money\npassage: Canadian dollar -- Since the late 2000s, the Canadian dollar has been valued at levels comparable to the years before the swift rise in 2007. A dollar in the mid 70 cent US range has been the usual rate for much of the 2010s."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is a cockatiel part of the parrot family\npassage: Cockatiel -- The cockatiel is the only member of the genus Nymphicus. It was previously considered a crested parrot or small cockatoo; however, more recent molecular studies have assigned it to its own subfamily, Nymphicinae. It is, therefore, now classified as the smallest of the Cacatuidae (cockatoo family). Cockatiels are native to Australia, and favour the Australian wetlands, scrublands, and bush lands."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the queen of england related to her husband\npassage: Prince Philip, Duke of Edinburgh -- In 1939, King George VI and Queen Elizabeth toured the Royal Naval College, Dartmouth. During the visit, the Queen and Earl Mountbatten asked Philip to escort the King's two daughters, Elizabeth and Margaret, who were Philip's third cousins through Queen Victoria, and second cousins once removed through King Christian IX of Denmark. Elizabeth fell in love with Philip and they began to exchange letters when she was thirteen. Eventually, in the summer of 1946, Philip asked the King for his daughter's hand in marriage. The King granted his request, provided that any formal engagement be delayed until Elizabeth's twenty-first birthday the following April. By March 1947, Philip had abandoned his Greek and Danish royal titles, had adopted the surname Mountbatten from his mother's family, and had become a naturalised British subject. The engagement was announced to the public on 10 July 1947. Though Philip appeared ``always to have regarded himself as an Anglican'', and he had attended Anglican services with his classmates and relations in England and throughout his Royal Navy days, he had been baptised in the Greek Orthodox Church. The Archbishop of Canterbury, Geoffrey Fisher, wanted to ``regularise'' Philip's position by officially receiving him into the Church of England, which he did in October 1947. The day preceding his wedding, King George VI bestowed the style of Royal Highness on Philip and, on the morning of the wedding, 20 November 1947, he was made the Duke of Edinburgh, Earl of Merioneth, and Baron Greenwich of Greenwich in the County of London. Consequently, being already a Knight of the Garter, between 19 and 20 November 1947 he bore the unusual style His Royal Highness Sir Philip Mountbatten and is so described in the Letters Patent of 20 November 1947."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is oxygen an effective treatment for cyanide poisoning\npassage: Cyanide poisoning -- If exposure is suspected, the person should be removed from the source of exposure and decontaminated. Treatment involves supportive care and giving the person 100% oxygen. Hydroxocobalamin (vitamin B12) appears to be useful as an antidote and is generally first-line. Sodium thiosulphate may also be given. Historically cyanide has been used for mass suicide and by the Nazis for genocide."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is a full moon the same as a new moon\npassage: Full moon -- The interval period between a new or full moon and the next same phase, a synodic month, averages about 29.53 days. Therefore, in those lunar calendars in which each month begins on the day of the new moon, the full moon falls on either the 14th or 15th day of the lunar month. Because a calendar month consists of a whole number of days, a lunar month may be either 29 or 30 days long."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the loud house based on a true story\npassage: The Loud House -- The series was pitched to the network in 2013 as a two-minute short film entered in the annual Animated Shorts Program. It was greenlighted for production the following year. Episodes are produced at Nickelodeon Animation Studio in Burbank, California and animated by the Canadian studio Jam Filled Entertainment. The series is based on Savino's own childhood growing up in a large family, and its animation is largely influenced by newspaper comic strips."
+    },
+    {
+        "label": "False",
+        "sentence": "question: does winning the fa cup qualify you for the champions league\npassage: FA Cup -- Winners receive the FA Cup trophy, of which there have been two designs and five actual cups; the latest is a 2014 replica of the second design, introduced in 1911. Winners also qualify for the Europa League and a place in the FA Community Shield match. Chelsea are the current holders, having beaten Manchester United 1--0 in the 2018 final. Arsenal are the most successful club with 13 titles. Arsenal's Arsène Wenger is the most successful manager in the competition with seven finals won."
+    },
+    {
+        "label": "False",
+        "sentence": "question: isotope refers to the electrical charge of the electron\npassage: Isotope -- The number of protons within the atom's nucleus is called atomic number and is equal to the number of electrons in the neutral (non-ionized) atom. Each atomic number identifies a specific element, but not the isotope; an atom of a given element may have a wide range in its number of neutrons. The number of nucleons (both protons and neutrons) in the nucleus is the atom's mass number, and each isotope of a given element has a different mass number."
+    },
+    {
+        "label": "False",
+        "sentence": "question: do you have to swear on the bible to be president\npassage: Oath of office of the President of the United States -- Theodore Roosevelt did not use a Bible when taking the oath in 1901. Both John Quincy Adams and Franklin Pierce swore on a book of law, with the intention that they were swearing on the constitution. Lyndon B. Johnson was sworn in on a Roman Catholic missal on Air Force One. Harry Truman, Dwight Eisenhower, Richard Nixon, George H.W. Bush, Barack Obama and Donald Trump each swore the oath on two Bibles."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is tandoori masala the same as garam masala\npassage: Tandoori masala -- Tandoori masala or Tandoori sauce is a mixture of spices specifically for use with a tandoor, or clay oven, in traditional cooking in the Indian subcontinent. The specific spices vary somewhat from one region to another, but typically include garam masala, garlic, ginger, onion, cayenne pepper, and may include other spices and additives. The spices are often ground together with a pestle and mortar."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is saving hope coming back for season 6\npassage: Saving Hope -- The series premiered on June 7, 2012 on both CTV in Canada and NBC in the United States. On July 25, 2012, CTV ordered a second, 13 episode season for the summer of 2013. NBC, however, pulled the show's final two episodes from its broadcast schedule and made them available on their official website. On November 16, 2012, CTV announced they had increased their episode order for season 2 to eighteen episodes. On November 7, 2013, CTV ordered a third season of Saving Hope that consisted of eighteen episodes and aired in 2014. On November 10, 2014, CTV ordered a fourth season of Saving Hope that consisted of eighteen episodes, and premiered on September 24. 2015. On December 17, 2015, CTV ordered a fifth and final season of Saving Hope that consisted of 18 episodes."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can a person have 2 different blood types\npassage: Chimera (genetics) -- A genetic chimerism or chimera (/kɪˈmɪərə/ or /kaɪˈmɪərə/, also chimaera (chimæra) is a single organism composed of cells with distinct genotypes. In animals, this means an individual derived from two or more zygotes, which can include possessing blood cells of different blood types, subtle variations in form (phenotype) and, if the zygotes were of differing sexes, then even the possession of both female and male sex organs (this is just one of many different ways that may result in intersexuality). Animal chimeras are produced by the merger of multiple fertilized eggs. In plant chimeras, however, the distinct types of tissue may originate from the same zygote, and the difference is often due to mutation during ordinary cell division. Normally, genetic chimerism is not visible on casual inspection; however, it has been detected in the course of proving parentage."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the trachea part of the upper airway\npassage: Respiratory tract -- The respiratory tract is divided into the upper airways and lower airways. The upper airways or upper respiratory tract includes the nose and nasal passages, paranasal sinuses, the pharynx, and the portion of the larynx above the vocal folds (cords). The lower airways or lower respiratory tract includes the portion of the larynx below the vocal folds, trachea, bronchi and bronchioles. The lungs can be included in the lower respiratory tract or as separate entity and include the respiratory bronchioles, alveolar ducts, alveolar sacs, and alveoli."
+    },
+    {
+        "label": "True",
+        "sentence": "question: does catherine die in beauty and the beast\npassage: Beauty and the Beast (1987 TV series) -- When the series returned for its abbreviated third season late in 1989, Linda Hamilton had announced her decision to leave the series as she was pregnant at the time. It was a decision that, along with the network's desire to attract more male viewers, would have serious repercussions for the show's continued survival. In the resolution to the previous season's cliffhanger, Catherine rescued Vincent from his inner demons but was kidnapped by a man named Gabriel (played by Stephen McHattie), the ruthless head of a huge criminal empire she had been investigating, which was trying to corrupt the D.A.'s office. She was killed, but not before giving birth to Vincent's son, who was held hostage by the evil Gabriel. Catherine's boss and close friend Joe Maxwell (Jay Acovone) hired Diana Bennett (Jo Anderson), a criminal profiler with the police department, to track down Catherine's killer. Quite naturally, her investigation ultimately led her to the now darkly obsessed and grieving Vincent."
+    },
+    {
+        "label": "False",
+        "sentence": "question: does christina die in the book of henry\npassage: The Book of Henry -- Susan slips away from the talent show and puts the plan into motion. As she is about to pull the trigger, however, she realizes that Henry's plan, though ingenious, is the construct of a child, and that she must act as an adult. She immediately confronts Glenn and tells him that she is going to expose him for what he has done to Christina. Glenn replies that everyone will believe him, not her, and he tells her that he is going to call his police chief to come and bring her in. At the same time, affected by Christina's dance performance at the talent show, Principal Wilder decides to follow through on the abuse accusation and contacts the authorities. Glenn returns home, calls his relative at Social Services, and learns that an investigation is being opened into his abuse of Christina. As the police arrive at his house, Glenn kills himself. Susan legally adopts Christina as her daughter. She also finishes writing one of her children's books, as Henry had urged her to do."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are there any actors from hogan's heroes still alive\npassage: Robert Clary -- Robert Clary (born Robert Max Widerman; March 1, 1926) is a French-American actor, published author, artist and lecturer. He is known for his role in the television sitcom Hogan's Heroes as Corporal Louis LeBeau."
+    },
+    {
+        "label": "True",
+        "sentence": "question: do you have to touch the bases on a home run\npassage: Home run -- A home run accomplished in any of the above manners is an automatic home run. The ball is dead, even if it rebounds back onto the field (e.g., from striking a foul pole), and the batter and any preceding runners cannot be put out at any time while running the bases. However, if one or more runners fail to touch a base or one runner passes another before reaching home plate, that runner or runners can be called out on appeal, though in the case of not touching a base a runner can go back and touch it if doing so won't cause them to be passed by another preceding runner and they have not yet touched the next base (or home plate in the case of missing third base). This stipulation is in Approved Ruling (2) of Rule 7.10(b)."
+    },
+    {
+        "label": "False",
+        "sentence": "question: do you use your vocal cords when you whisper\npassage: Whispering -- Whispering is an unvoiced mode of phonation in which the vocal folds (vocal cords) are abducted so that they do not vibrate; air passes between the arytenoid cartilages to create audible turbulence during speech. Supralaryngeal articulation remains the same as in normal speech."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you have dual nationality in the netherlands\npassage: Dutch nationality law -- Although Dutch law restricts dual citizenship, it is possible for Dutch subjects to legally hold dual citizenship in a number of circumstances, including:"
+    },
+    {
+        "label": "True",
+        "sentence": "question: are the avett brothers recording a new album\npassage: The Avett Brothers -- On August 18, 2017 the band announced that keyboardist Paul Defiglia would be leaving the band on September 3, 2017. On September 24, 2017 Scott Avett stated in a video interview that ``the process has begun'' for working on their tenth studio album. On December 21, 2017 Scott Avett mentioned in an interview that they were again working with producer Rick Rubin."
+    },
+    {
+        "label": "True",
+        "sentence": "question: do the superior and inferior vena cava meet\npassage: Cavoatrial junction -- The cavoatrial junction (CAJ) is the point at which the superior vena cava meets and melds into the superior wall of the cardiac right atrium. Both the superior and inferior vena cavae enter the right atrium, but only the superior entry is called the cavoatrial junction. This junction marks the inferior end of the superior vena cava, the continuation below that point being considered part of the heart."
+    },
+    {
+        "label": "False",
+        "sentence": "question: did the french fight in the civil war\npassage: France and the American Civil War -- The Second French Empire remained officially neutral throughout the American Civil War and never recognized the Confederate States of America. The United States of America warned that recognition would mean war. France was reluctant to act without British collaboration, and the British rejected intervention."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is square d and schneider electric the same company\npassage: Square D -- Square D is an American manufacturer of electrical equipment headquartered in Andover, Massachusetts. Square D is a flagship brand of Schneider Electric, which acquired Square D in 1991."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there a military base in rhode island\npassage: Naval Station Newport -- The Naval Station Newport (NAVSTA Newport) is a United States Navy base located in the city of Newport and the town of Middletown, Rhode Island. Naval Station Newport is home to the Naval War College and the Naval Justice School. It once was the homeport for Cruiser Destroyer Force Atlantic (COMCRUDESLANT), which relocated to Naval Station Norfolk in the early 1970s. Newport now maintains inactive ships at its pier facilities, along with the United States Coast Guard. In BRAC 2005 (Base Realignment and Closure), NAVSTA Newport gained over five hundred billets, in addition to receiving, again, the Officer Candidate School (OCS), the Naval Supply Corps School (in 2011), and several other activities, to include a few Army Reserve units."
+    },
+    {
+        "label": "True",
+        "sentence": "question: do universal life policies have a cash value\npassage: Universal life insurance -- Universal life insurance (often shortened to UL) is a type of cash value life insurance, sold primarily in the United States of America. Under the terms of the policy, the excess of premium payments above the current cost of insurance is credited to the cash value of the policy. The cash value is credited each month with interest, and the policy is debited each month by a cost of insurance (COI) charge, as well as any other policy charges and fees drawn from the cash value, even if no premium payment is made that month. Interest credited to the account is determined by the insurer, but has a contractual minimum rate (often 2%). When an earnings rate is pegged to a financial index such as a stock, bond or other interest rate index, the policy is an ``Indexed Universal Life'' contract. These types of policies offer the advantage of guaranteed level premiums throughout the insured's lifetime at substantially lower premium cost than an equivalent whole life policy at first; the cost of insurance is always increasing as found on the cost index table (usually p. 3 of a contract). This not only allows for easy comparison of costs between carriers, but also works well in irrevocable life insurance trusts (ILIT's) since cash is of no consequence."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you drink alcohol outside in the uk\npassage: Drinking in public -- Drinking in public is legal in England and Wales -- one may carry a drink from a public house down the street (though it is preferred that the user requests a plastic glass to avoid danger of breakage and because the taking of the glass could be considered an offence of Theft as only the drink has been purchased), and one may purchase alcohol at an off-licence and immediately begin drinking it outside. Separately, one may drink on aeroplanes and on most National Rail train services, either purchasing alcohol on-board or consuming one's own."
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "first sentence: When working in Mainland China as a foreigner, how do you learn Mandarin, is Pinyin enough?\nsecond sentence: How important is government connection when starting a company as a foreigner in China?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the strongest majors in terms of job prospects and what are the weakest majors at Vassar College?\nsecond sentence: What are the strongest majors in terms of job prospects and what are the weakest majors at Hunter College?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I get rid of the wrinkles on my hands?\nsecond sentence: How do you get rid of wrinkles?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Teacher's Day games?\nsecond sentence: What would life be like in the next millennia?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I integrate Aptos POS with Hybris marketing?\nsecond sentence: Who does a liability go in favor of, within a market or POS for example?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Are there any data sources for places of interest (POIs) in JSON format?\nsecond sentence: Is there any music data in JSON format?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the best drugs to make someone unconscious?\nsecond sentence: How do I make the unconscious conscious?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: In the episode The Study In Pink, did Sherlock pick up the good bottle or the bad bottle? Which capsule was the safe one?\nsecond sentence: In one word, can Klein bottles exist in R3?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Why is Eugen Goldstein regarded as one of the fathers in the atomic theory?\nsecond sentence: How does the Theory of relativity explain the expansion of the universe?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are some things new employees should know going into their first day at Biomed Realty Trust?\nsecond sentence: What are some things new employees should know going into their first day at Education Realty Trust?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How often is it sunny in Philadelphia?\nsecond sentence: Is it always sunny in Philadelphia?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How do you know if you truly know what you know or if you only think you know?\nsecond sentence: How do you know what you know now?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are some good, easy, well-known Bollywood songs for a beginner to play on an acoustic guitar?\nsecond sentence: Which popular Bollywood songs can be played easily on an acoustic guitar?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How is a synchronous motor used for power factor correction? How is it operated at max efficiency?\nsecond sentence: How does a capacitor correct a power factor?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Which is the best love stories you ever heard?\nsecond sentence: Which is the best love story, you ever heard?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What's your 2017 new year resolution?\nsecond sentence: What Is your New year resolutions in 2017?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is the role of a teacher to there students?\nsecond sentence: What is the role of teacher?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What do copywriters do?\nsecond sentence: What does a copywriter do?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Can girl and a boy be best friends?\nsecond sentence: Can a girl and a boy be best friends forever?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What kinds of compounds does the element form?\nsecond sentence: What advice would you give to an engineering student in his first internship?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is the Ishrat Jahan encounter case? Why Mulayam Singh Yadav not able to drag Narendra Modi into this case yet?\nsecond sentence: What is the Ishrat Jehan encounter case? Why not Mayawati Prabhu Das can't able to drag Narendra Modi into this case yet?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What will be the impact on Indian people if the GST bill gets passed?\nsecond sentence: What is the benefit for a middleclass people on this GST Bill being passed?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is the penalty for driving without a license in Alabama, how do they compare to the penalties in Missouri?\nsecond sentence: What is the penalty for driving without a license in Alabama, how do they compare to the penalties in California?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do you mass save photos from text messages on an iPhone?\nsecond sentence: Can you text someone after you block their number?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What's the capital of Pakistan like to live in?\nsecond sentence: What is the capital of Pakistan?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are similarities and differences between the Ottoman Safavid and Mughal empires?\nsecond sentence: Who would have won in a war between the Ottoman Empire vs the Mughal Dynasty at their peak?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the best pranks?\nsecond sentence: What are good pranks?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Which is the good book to study data structures?\nsecond sentence: What are the best books on data structures?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is the difference between wait and sleep in operating system?\nsecond sentence: What is the difference between an operating system and ROM in a mobile phone?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I hack a computer?\nsecond sentence: How do I hack a computer or a website?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How can I improve my pronunciation in English?\nsecond sentence: What can I do to improve my English speaking?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is the difference between direct and retrograde verniers?\nsecond sentence: What is the difference between direct vernier and retrograde vernier?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What are the possibilities of Donal Trump being elected as president?\nsecond sentence: What are the chances of Donald Trump becoming the President?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What it's like dating an Indian man?\nsecond sentence: What it's really like dating a British man?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What should we do to burn fat?\nsecond sentence: What is the easiest way to burn fat?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Why do we lose the ability to trust people after a breakup?\nsecond sentence: Why do people have so much trust in their relationship partner to begin with, that they would lose a lot of trust because of a breakup?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What food should you eat to make you grow taller?\nsecond sentence: What are some foods that make you grow taller?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Is it safe for cats to eat Cheerios?\nsecond sentence: Is Frosty Paws safe for cats?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are colors that start with the letter k?\nsecond sentence: What are colors that start with the letter n?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Has a student ever outsmarted you as a teacher?\nsecond sentence: Have you ever seen a student completely roasting the teacher?",
+        "label": "False"
+    }
+]

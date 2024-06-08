@@ -2,20 +2,52 @@
     "SC": [
         {
             "sampling strategy": "full",
+            "dataset name": "amazon_sampling/9"
+        },
+        {
+            "sampling strategy": "full",
+            "dataset name": "yelp_sampling/9"
+        },
+        {
+            "sampling strategy": "full",
+            "dataset name": "IMDB_sampling/9"
+        },
+        {
+            "sampling strategy": "full",
             "dataset name": "SST-2"
         }
     ],
-    "TC": [
+    "TC": [     
     ],
-    "NLI": [   
+    "NLI": [
+        {
+            "sampling strategy": "full",
+            "dataset name": "MNLI_sampling/9"
+        },
+        {
+            "sampling strategy": "full",
+            "dataset name": "CB_sampling/9"
+        },
+        {
+            "sampling strategy": "full",
+            "dataset name": "RTE_sampling/9"
+        } 
     ],
-    "QQP": [ 
+    "QQP": [  
+        {
+            "sampling strategy": "full",
+            "dataset name": "QQP_sampling/9"
+        } 
     ],
     "WiC": [ 
     ],
     "MultiRC": [ 
     ],
-    "COPA": [
+    "COPA": [ 
+        {
+            "sampling strategy": "full",
+            "dataset name": "COPA_sampling/9"
+        } 
     ],
     "BoolQA": [
     ]

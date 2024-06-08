@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "sentence 1: The chapters voluntarily transferred their right of electing the bishop to Emperor Charles V, and Pope Clement VII gave his consent to these proceedings.\nsentence 2: Emperor Charles V was elected by Clement VII.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The owners of Phinda, the South African-based Conservation Corporation, could not have paid for a better advertisement for their philosophy of wildlife conservation: a people-based approach to conservation, which is slowly gaining ground in Africa as game reserves come under ever greater threat from hungry, poor and angry local populations.\nsentence 2: The South African-based Conservation Corporation threatens the local population.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: \"From a research point of view, this is the first time we could identify what appears to be typical Parkinson's disease cases before people develop symptoms,\" says Mayo Clinic neuroscientist Matthew Farrer. \"We know if someone inherits the mutation they are going to get Parkinson's disease.\" The mutation was discovered by sequencing the LRRK2 gene in families with Parkinson's from the US, Norway, Ireland and Poland.\nsentence 2: A genetic mutation has been linked with Parkinson's disease.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Hunting reef sharks is now banned throughout Maldivian waters. The government decision has made the Indian Ocean archipelago the first nation in the region to outlaw the practice. Shark numbers have plummeted in the Maldives in recent years because a significant minority of fishermen target sharks for their lucrative fins, which are used in shark-fin soup, a luxury Asian dish. Once its fins have been cut off, the shark is often returned to the sea where it suffocates over many painful hours.\nsentence 2: Due to the decreasing number of sharks, Maldives have banned the hunt of reef sharks.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Mexico's new president, Felipe Calderon, seems to be doing all the right things in cracking down on Mexico's drug traffickers. He's appointed new people to key military and criminal justice positions, deployed troops to quell drug violence, reasserted federal police power, extradited a few major traffickers to the United States, and given a green light to legislation clarifying Mexico's drug laws. But all this provides little reason to hope that Mexico has really turned a corner in its efforts to control the illegal drug trade. For a guide to what's in store, one need only look at past sexenios (the six year terms of Mexican presidents).\nsentence 2: Felipe Calderon is the President of Mexico.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Gross domestic product, a measure of total output within the nation's borders, climbed at a 3% annual pace in the April-June period.\nsentence 2: Annual rate increase of 3% in second quarter much lower than forecasts.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Stefano Falconi, director of finance at the Massachusetts Institute of Technology (MIT), has joined Carnegie Mellon as its vice president for administration and chief financial officer. Falconi succeeds Jeff Bolton, who left the university last July to become chief financial officer at the Mayo Foundation in Rochester, Minn.\nsentence 2: The Massachusetts Institute of Technology (MIT) appoints Stefano Falconi as chief financial officer.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: \"The rapidly mixed brigades of former enemies have been sent to the front lines with no salaries, rations, or any formal training, increasing the likelihood of future human rights violations,\" Human Rights Watch said in a statement. Among the former rebels integrated into the regular army are Bosco Ntaganda, who was recently promoted to the position of general. He is wanted on an arrest warrant by the International Criminal Court for enlisting child soldiers and is accused of commanding the rebel troops that massacred 150 villagers in the town of Kiwanja last November.\nsentence 2: Bosco Ntaganda is a general.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The pills were sold under store brands by Wal-Mart, CVS, Safeway and more than 120 other major retailers, the Food and Drug Administration said.\nsentence 2: The pills were commercialized by major retailers.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: A Continental Connection flight from Newark to Buffalo crashed into a house about four to six miles from Buffalo Niagara International Airport on Thursday night, killing 50 people, officials said. Continental Airlines Flight 3407 is a daily commuter flight from Newark Liberty International Airport in Newark, New Jersey to Buffalo, New York, operated under the Continental Connection brand by Virginia-based regional airline Colgan Air.\nsentence 2: Buffalo is not far from Newark.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: John Wilkes Booth assassinated Abraham Lincoln as he sat in the presidential box of Ford's Theater watching the light comedy, \"Our American Cousin.\"\nsentence 2: Lincoln was assassinated in the presidential box of Ford's Theater.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: No player scored more goals in European cup games than Miller: 66 goals in 74 games.\nsentence 2: Miller was the best scorer at the World Championship in 1966.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: It was difficult to assess the objectives behind increased militia activity in East Timor, but its intent seemed to be to continue a pattern of violence against civilians and the United Nations Transitional Administration in East Timor (UNTAET) in order to undermine the transition process, Hedi Annabi, Assistant Secretary-General for Peacekeeping Operations, told the Security Council this morning.\nsentence 2: Guerrillas increase activity in East Timor.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Jurassic Park is a novel written by Michael Crichton. Jurassic Park was published in 1990.\nsentence 2: Michael Crichton is the author of the book Jurassic Park.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Camacho is a Mexican version of Japan's Morihiro Hosokawa -- a pragmatic tactician using a crisis and the attendant outcry for reform to further his political standing.\nsentence 2: The Japanese Prime Minister is Morihiro Hosokawa.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: 95% of the Gulf of Mexico's oil output is now out of service following Katrina, together with more than 83% of natural gas production.\nsentence 2: Crude oil prices have hit fresh highs as fears grow over the extent of damage, done by Hurricane Katrina, to oil output in the Gulf of Mexico.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The Arabic Language is the door to Islam and the Language of the holy Quran and Prophetic traditions. Therefore, distancing ourselves from Arabic studies leads to innovation and disbelief.\nsentence 2: Arabic is the language of the Quran.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Passions surrounding Germany's final match at the Euro 2004 soccer championships turned violent when a woman stabbed her partner in the head because she didn't want to watch the game on television.\nsentence 2: A man was stabbed because of a soccer game.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: John and Frances Galyean are partners in life and now both share a passion for photography. The Galyeans, married for more than 46 years, have been involved in photography since 1999.\nsentence 2: John Galyean's wife is called Frances.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: NUCOR, the leading US steel mini-mill group is to greatly expand production capacity at a plant in Crawfordsville, Indiana which has shaken up the industry by its use of a radical, new technology.\nsentence 2: The new thin-casting process shook up the steel industry.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The twin buildings are 88 stories each, compared with the Sears Tower's 110 stories.\nsentence 2: The Sears Tower has 110 stories.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Two midsummer cruises aboard Clipper Adventure Cruises' 140-passenger World Discoverer (July 8 and Aug. 9) will take you to the wind-swept cliffs of the Pribilof Islands in the Bering Sea, where cartoon-faced horned and tufted puffins stare.\nsentence 2: The Pribilof Islands are located in the Bering Sea.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Aboard Air Force One, Nov. 22, 2006 President Bush and Iraqi Prime Minister Nouri al-Maliki will meet next week in Jordan to discuss the deteriorating security situation in Iraq.\nsentence 2: Jordan will host the meeting between President Bush and Iraqi Prime Minister Nouri al-Maliki.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: In a statement to reporters, Parker called the spilt with Gap a mutual decision, and walks away $38 million richer and recently signed a 2-year deal with former employer HBO to develop future programming for the network. Parker is also scheduled to appear in two upcoming comedy films, a movie adaptation of the Comedy Central series, Strangers with Candy, as well as The Family Stone, costarring Diane Keaton and Claire Danes.\nsentence 2: Claire Danes is an actress who played in \"Stardust\".",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The actor's publicists confirmed that Mr Willis, who celebrated his 54th birthday on Thursday, married 30-year-old Emma Heming in a private ceremony in his home in the Caribbean archipelago of Turks and Caicos Islands.  Ms Heming was born in Malta, but was raised in London. She has been a lingerie model for Victoria's Secret and La Senza.  The couple met through mutual friends around a year ago. The marriage is Ms Heming's first and Mr Willis' second. The actor's first wife, actress Demi Moore, was among the guests at the wedding.  Comments (0)  .\nsentence 2: Mr. Willis' second wife is from Malta.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: This paper discusses marijuana, crack/cocaine, tranquilizers, hallucinogens, amphetamines, heroin, alcohol, nicotine and caffeine to provide a framework for the author's argument that the legalization of drugs can in no way be deemed as ethical or moral.\nsentence 2: Drug legalization has benefits.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Two weeks ago, China became the first nation to operate a maglev railway commercially, when officials inaugurated a 30-kilometer-long line between downtown Shanghai and the city's airport.\nsentence 2: Maglev is commercially used.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Argentina remains one of 17 countries still banning British cattle for breeding because of the outbreak of mad cow disease in 1980s.\nsentence 2: Refusal of Argentina to buy cattle created new tensions between the two countries.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Tintin, the Smurfs, Boule et Bill, Astérix, Natacha, Spirou and other legendary characters were created by talented artists like Hergé, Morris, Franquin and Walthéry.\nsentence 2: Spirou was created by Rob-Vel.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Although he won with the lowest majority ever tallied by the ruling party , 48.7% of the votes , his ballots almost doubled those of outsider Diego Fernandez de Cevallos , the rightist runner-up . And insiders are now favored to win other Latin American elections in the coming months : In Brazil , Fernando Henrique Cardoso , a former Senate leader and Cabinet minister , is expected to finish ahead of outsider Luis Inacio (Lula) da Silva , a leftist former labor leader , in the first round of president.\nsentence 2: Fernando Henrique Cardoso is a Brazilian former Senate leader and Cabinet minister.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: John Lennon's widow, Yoko Ono, has topped the US dance chart at the age of 71 with a song supporting gay marriage.\nsentence 2: Yoko Ono is John Lennon's widow.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: WASHINGTON --  A newly declassified narrative of the Bush administration's advice to the CIA on harsh interrogations shows that the small group of Justice Department lawyers who wrote memos authorizing controversial interrogation techniques were operating not on their own but with direction from top administration officials, including then-Vice President Dick Cheney and national security adviser Condoleezza Rice. At the same time, the narrative suggests that then-Defense Secretary Donald H. Rumsfeld and then-Secretary of State Colin Powell were largely left out of the decision-making process.\nsentence 2: Dick Cheney was the Vice President of Bush.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The papers presented show that all European countries are experiencing rapidly aging populations that will cause sharp increases in the cost of retirement income over the next several decades.\nsentence 2: National pension systems currently adopted in Europe are in difficulties.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Herceptin was already approved to treat the sickest breast cancer patients, and the company said, Monday, it will discuss with federal regulators the possibility of prescribing the drug for more breast cancer patients.\nsentence 2: Herceptin can be used to treat breast cancer.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Within trillionths of a second after the Big Bang, they have reasoned, the primordial explosion - many billions of degrees hot - must have created a universe that contained equal quantities of matter and antimatter.\nsentence 2: The Big Bang is the primordial explosion from which the universe was created.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Also, in a landmark deal with Disney, iTunes is now offering current and past episodes from two of the most popular shows on television.\nsentence 2: I-tunes does business with Disney.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Analysts expected the company to earn $1.42 a share on revenue of $3.82 billion, according to a Thomson Financial survey.\nsentence 2: Analysts had expected revenue of $3.8 billion, according to Reuters estimates.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Fiona North, Ophthalmic Adviser with the SHSSB added: Eye injuries caused by fireworks are extremely serious and can permanently damage eyesight. I would urge those who are co-ordinating efficient firework displays to use appropriate eye protection.\nsentence 2: Fireworks may cause serious injuries.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: It would create an underclass of illiterate and impoverished residents, deprived of basic skills, including English-language skills, necessary for the integration of immigrant children into our society and our work force.\nsentence 2: Language skills are a means of social integration.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The biopic of wannabe actor, Johnny Stompanato, may be directed by Adrian Lyne of \"Fatal Attraction\" and \"Indecent Proposal\" fame.\nsentence 2: Johnny Stomponato starred in Fatal Attraction.",
+        "label": "contradiction"
+    }
+]

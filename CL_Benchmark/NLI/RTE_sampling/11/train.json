@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "sentence 1: Eddeh reasserted his opinion that President Al-Hrawi ought to be reinstated for another 3 years, claiming that the he \"has considerable experience in the running of the state, but his resignation would be appropriate after the withdrawal of Israeli and Syrian forces.\"\nsentence 2: Eddeh calls for an extension to Al-Hrawi's presidency, saying that he should resign after the withdrawal of the Israeli and Syrian forces.\"",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Aleksandr Yakovenko, an official representative of the Russian ForeignMinistry, has announced that, in connection with the recent terrorist actin Srinagar, about 100 Russian citizens will be evacuated from Pakistan inthe near future.\nsentence 2: U.S. Military evacuated U.S. citizens.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: He met U.S. President, George W. Bush, in Washington and British Prime Minister, Tony Blair, in London.\nsentence 2: Washington is part of London.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Heemeyer cut portholes for his guns, then welded a tight enclosure around them so police bullets could not penetrate.\nsentence 2: Out of an old bulldozer, Heemeyer built a concrete box that no police bullet could penetrate.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: A small bronze bust of Spencer Tracy sold for £174,000.\nsentence 2: A small bronze bust of Spencer Tracy made £180,447.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Pakistani officials announced that two South African men in their custody had confessed to planning attacks at popular tourist spots in their home country.\nsentence 2: Two South Africans were arrested in Pakistan in the past week after a shoot-out at a house between al-Qaeda operatives and security forces.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: British newsreader Natasha Kaplinsky gave birth to a baby boy earlier this morning at around 08:30 BST. She had been on maternity leave since August 21. Kaplinsky had only been working with Five News just over a month when she announced she was pregnant. Her husband of three years, investment banker Justin Bower announced \"We're absolutely thrilled.\" Kaplinsky first started to work for the BBC in 2002 after a two year tenure with Sky News. She started on the BBC Breakfast show but later moved onto the BBC Six O'Clock News and later became only the third woman to present the BBC Ten O'Clock News. She left the BBC in October 2007. She also spent a short time with ITV News. Five News released a statement saying \"Her colleagues here at Five News are delighted too - and we've sent our best wishes.\" They also said both Kaplinsky and the baby are doing fine.\nsentence 2: Natasha Kaplinsky and Justin Bower  got married three years ago.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The iF awards are presented in Hanover, Germany, at the International Forum Design Hannover GMBH. There are a number of fields and disciplines which have their own awards.TAG Heuer's Monaco Calibre 360 LS Concept Chronograph has won the award in the Leisure/Lifestyle category. The timepiece was chosen from over 2,200 watches from 35 countries. This prestigious award was given to the company for the second time in two years. Last year the winner in the same category was TAG Heuer's Professional Golf Watch, designed together with Tiger Woods. This year's winning timepiece from TAG Heuer has a mechanical movement, which represents the first in the history of watchmaking to reach a precision of 1/100th of a second. The watch itself is to be seen at the iF design exhibition 2007, held in Hanover, from March 15 till August.\nsentence 2: Tiger Woods attends the iF design exhibition 2007.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: All genetically modified food, including soya or maize oil produced from GM soya and maize, and food ingredients, must be labelled.\nsentence 2: Companies selling genetically modified foods don't need labels.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: In 1997, Tyson bit off part of one of Evander Holyfield's ears in their rematch that led to Tyson's disqualification and suspension. In 2002, at a melee at a news conference in New York, Tyson bit champion Lennox Lewis' leg.\nsentence 2: Tyson bit off part of one of Evander Holyfield's ears in 2002.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: In 1927 Harnold Lamb wrote a biography of Genghis Khan, and following on its success turned more and more to the writing of non-fiction, penning numerous biographies and history books until his death in 1962.\nsentence 2: Harnold Lamb authored many biographies.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: That natural increase accounted for 56 percent of Missouri population growth during the past four years.\nsentence 2: Missouri's population is 56.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Critics said the National Certificate of Educational Achievement or NCEA, the main qualification for high school students, would be degraded by the authority allowing text-speak use in exams.\nsentence 2: The NCEA has been degraded by the authority.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Robert Szabo concludes that circumcision, as practiced by Muslims, would be the most immediately effective intervention for reducing HIV transmission since it is done before men are sexually active.\nsentence 2: It is incorrect to assert that circumcision prevents HIV infection.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Rod Blagojevich, the former governor of the US state of Illinois, was indicted on Thursday on charges of corruption for allegedly planning to \"sell\" Barack Obama's Senate seat when the latter vacated it to become President. Five of his advisers, including Blagojevich's brother Robert, were also indicted. The others are former fundraiser, Christopher Kelly, former chief of staff John Harris, former aide Lon Monk, and the lobbyist William Cellini.\nsentence 2: Rod Blagojevich has been appointed as the US President.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The 26-member International Energy Agency said, Friday, that member countries would release oil to help relieve the U.S. fuel crisis caused by Hurricane Katrina.\nsentence 2: Foreign oil reserves will be made available to the U.S. in the wake of Hurricane Katrina.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Total coal stocks with the thermal power stations came down to 9.6 million tonnes on March 3, 2003 from 11 million tonnes on October 1, 2002.\nsentence 2: Coal stocks rise.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: State Police issued bulletins via teletype requesting patrols to be on the lookout for Robert Senacal, 35, of Cortlandt Manor.\nsentence 2: Senacal resides in Cortland Manor.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Oil prices, notoriously vulnerable to political events, spiked as high as $40 a barrel during the Gulf War in 1991.\nsentence 2: The Gulf War was fought in 1991.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The first kibbutz, Deganya, near the Sea of Galilee, was founded in 1910.\nsentence 2: The first kibbutz was founded near the Sea of Galilee.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: International observers are surprised at the attack, given the recent advances that the Sri Lanka army has made, driving the LTTE from their former territories. \"It is very significant that the rebels have carried out such an audacious attack when the government say that they are all but finished,\" opined BBC's Sinhala Editor, Priyath Liyanage. \"It confirms what many of us already knew ―the rebels may be experiencing reverses on the battle field but they are not simply just going to disappear.\"\nsentence 2: LTTE stands for Liberation Tigers of Tamil Eelam.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Nigeria has been the culprit so far, preventing the world from being completely polio-free.\nsentence 2: Polio is under control in the world.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The conference found that many Australians experience discrimination through the Governmental, penal, legal and health care systems because of their mental health, race, skin colour, sexuality, sexual formation or refugee status.\nsentence 2: Mental health problems increase in the young.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Feith, 63, started his career at age 25 at the ministry of Foreign Affairs. He worked at the Dutch embassies of Syria, Germany and Sudan, at the United Nations headquarters in New York and at NATO in Brussels. In 2004 he represented E.U. in Darfur and prepared an E.U.-mission in Iraq that trained police-officials and judges. A year later Feith was in charge of the E.U. operation in Aceh and supervised the peace negotiations between the Indonesian government and the rebels.\nsentence 2: Feith works in Brussels.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The main race track in Qatar is located in Shahaniya, on the Dukhan Road.\nsentence 2: Qatar is located in Shahaniya.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Environment Minister David Anderson today announced his decision regarding the environmental assessment of the proposed Toulnustouc Hydroelectric Project.\nsentence 2: A hydroelectric project is proposed or is under construction.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: JERUSALEM, April 2 (Xinhua) -- Israel's new Foreign Minister Avigdor Lieberman was questioned by police on Thursday over several criminal allegations, local news service Ynet reported.  National Fraud Unit investigators questioned the deputy premier, who is suspected of bribery, money laundering, fraud and breach of trust, for over seven hours, and another round is in the cards, said the report.  \"Lieberman answered all of the questions he was asked, and will continue to do so in the future,\" his attorney Yaron Kostelitz was quoted as saying.\nsentence 2: Avigdor Lieberman is the Foreign Minister of Israel.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Officials in Pakistan say parliamentary elections will be delayed until next month. VOA correspondent Nancy-Amelia Collins in Islamabad reports the Pakistan Election Commission says the delay is due to the destruction of election offices and materials in violence that broke out last week after Benazir Bhutto's assassination. Chief election commissioner Qazi Mohammed Farooq says the elections originally scheduled for January 8 are being postponed and will be held next month. \"The polling will now be held on 18th February, 2008 instead of 8th January 2008,\" he said.\nsentence 2: Islamabad is a city in Pakistan.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: If confirmed as rabies, the case could be the first occurence of the infection acquired in the UK since 1902.\nsentence 2: A case of rabies was confirmed.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The Auburn High School Athletic Hall of Fame recently introduced its Class of 2005 which includes 10 members.\nsentence 2: The Auburn High School Athletic Hall of Fame has ten members.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The Rock and Roll Hall Of Fame and Museum opened the nation's first major John Lennon retrospective Thursday (October 19) with a gala party attended by his widow, Yoko Ono.\nsentence 2: Yoko Ono is John Lennon's widow.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Forty-five percent of the bills examined were bipartisan, and 85 percent of the reviewed bills had Republican lead sponsors. 8221; Small business owners are disappointed by the Republican track record, particularly the lack of productivity in the Senate.\nsentence 2: The Senate is the least productive.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The London Eye in London, England sits 443ft over the River Thames. It has attracted more than 27 million visitors since its formal opening on December 31, 1999. Each compartment is set to be air-conditioned and hold up to 30 people. Three possible locations for the wheel to sit have been selected. This is not the first attempt by the Iraqi Tourism Board to bring tourists into the capital. The board are seeking investors for a resort island. The island would include a six star hotel and a 18 hole golf course.\nsentence 2: The River Thames flows through London.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The job gains mean that President Bush can celebrate - albeit by a very fine margin - a net growth in jobs in the US economy in his first term in office.\nsentence 2: President Bush's first term in office showed a net gain in payroll jobs.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The country's largest private employer, Wal-Mart Stores Inc., is being sued by a number of its female employees who claim they were kept out of jobs in management because they are women.\nsentence 2: Wal-Mart sued for sexual discrimination",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: On August 21, the Polish weekly Przekrój published an advertisement for Dan-Mark exercise books, bearing the logo of 4fun.tv, a Polish music/interactive  TV station. Part of the advertisement contained a definition of the word \"exercise book\". The wording looked familiar, and Wikinews consulted Wikipedia,  the collaborative online encyclopedia. Upon seeing the Wikipedia definition, it appeared that the entry quoted in the promotional material was identical to the initial two paragraphs of the relevant Wikipedia entry.\nsentence 2: Readers of online encyclopedias can edit the contents.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Westbridge manufactures certified organic fertilizers including liquid growth enhancers and biostimulants.\nsentence 2: Organic fertilizers are used as soil enhancers.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Nelson Beavers is a co-owner of the current company, Carolina Analytical Laboratories LLC. and has ownership/employment history with Woodson-Tenent and Eurofin.\nsentence 2: Nelson Beaver is staff at Carolina Analytical Laboratories.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Christopher Hitchens called him a \"Bin Ladenist\" and Cathy Young editorialized in The Boston Globe that he \"blames the victims of terrorism\" when he puts out a novel like Snowball's Chance, a biting send-up of George Orwell's Animal Farm which he was inspired to write after the terrorist attacks on September 11. \"The clear references to 9/11 in the apocalyptic ending can only bring Orwell's name into disrepute in the U.S.,\" wrote William Hamilton, the British literary executor of the Orwell estate. That process had already begun: it was revealed Orwell gave the British Foreign Office a list of people he suspected of being \"crypto-Communists and fellow travelers,\" labeling some of them as Jews and homosexuals. \"I really wanted to explode that book,\" Reed told The New York Times. \"I wanted to completely undermine it.\"\nsentence 2: Cathy Young is the author of \"Snowball's Chance\".",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Iraqi militants said Sunday they would behead Kim Sun-Il, a 33-year-old translator, within 24 hours unless plans to dispatch thousands of South Korean troops to Iraq were abandoned.\nsentence 2: translator kidnapped in Iraq",
+        "label": "entailment"
+    }
+]

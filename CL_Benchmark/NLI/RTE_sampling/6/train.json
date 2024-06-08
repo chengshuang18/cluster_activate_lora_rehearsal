@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "sentence 1: Libya's case against Britain and the US concerns the dispute over their demand for extradition of Libyans charged with blowing up a Pan Am jet over Lockerbie in 1988.\nsentence 2: One case involved the extradition of Libyan suspects in the Pan Am Lockerbie bombing.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Maximo Rene Mendez in an apparent smuggling scheme died after doctors disconnected life-support equipment.\nsentence 2: A cocaine-imbibing Miami man had life support removed.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The chapters voluntarily transferred their right of electing the bishop to Emperor Charles V, and Pope Clement VII gave his consent to these proceedings.\nsentence 2: Emperor Charles V was elected by Clement VII.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Officials claimed they were backed by influential members of the Santa Cruz business community of Croatian descent. The security vice-minister, Marcos Farfan, said that police have surveillance photographs of Mr Dwyer at various public events attended by Mr Morales, including a peasant rally near Santa Cruz and a visit to naval installations on Lake Titicaca. Mr Farfan said that Mr Dwyer was \"following\" Mr Morales and other officials as part of the preparations for the \"assassination plot\". He added that police experts are analysing contents reportedly found in computers taken from the rooms in which the men were killed.\nsentence 2: Lake Titicaca has a naval installation.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The summit was marred by criticism of Tunisia for allowing attacks on journalists and human rights defenders to occur in the days leading up to the event. A French journalist for \"Libération\" was stabbed and beaten by unidentified men after he reported on local human rights protesters. A Belgian television crew was harassed and forced to hand over footage of Tunisian dissidents, while local human rights defenders were roughed up and prevented from organising a meeting with international civil society groups. A representative from the French media watchdog Reporters Without Borders, Robert Menard, was prevented from disembarking from his Air France flight to Tunis to attend the summit.\nsentence 2: A French journalist was assaulted in Tunisia.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Comdex -- once among the world's largest trade shows, the launching pad for new computer and software products, and a Las Vegas fixture for 20 years -- has been canceled for this year.\nsentence 2: Comdex launches trade shows for 20 years.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Announced early Wednesday morning at Nokia's GoEvent, in a plan to expand the company's revenue, Finland-based company Nokia Inc. is developing a mobile phone similar to its rival iPhone, which will be available in the near future for Nokia customers. The phone is expected to be available by 2008. Most of the features are the same as the iPhone's. They include music, games, and many other features, even ones that the iPhone may not have. Ovi (in Finnish meaning \"Door\") will be the door for more than 2 million songs and games available for download on the new device. Users will be able to download wirelessly in their own home or anywhere there is access to a computer.\nsentence 2: Nokia is a company based in Finland.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: In February of 1995, one man single-handedly bankrupted the bank that financed the Napoleonic Wars. Founded in 1762, Barings Bank was Britain's oldest merchant bank and Queen Elizabeth's personal bank.\nsentence 2: Barings was Britain's oldest merchant bank.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: That natural increase accounted for 56 percent of Missouri population growth during the past four years.\nsentence 2: Missouri's population is 56.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Barack Obama made history on 4 November 2008 when he defeated Republican rival John McCain to become the first black president of the United States. He had already broken new ground in his White House campaign, as the first black candidate to become the presidential choice of either major US party. To many people, Mr Obama seemed to come from nowhere. Although he had served in the Illinois state senate for eight years, it was only in 2004 that he shot to national prominence, with a speech that stirred the Democratic National Convention.\nsentence 2: Barack Obama is the first black candidate to become the president of the United States.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: While local cab drivers had compliments, not everyone appreciated the company. The Chicago Cubs decided to cancel their booking after hearing about the con, and J.J. Hardy of the Milwaukee Brewers reported being kept up by fans on Wednesday night. The Brewers lost their game the following day. The convention closed with next year's date ―June 26-29 ―along with the announcement of a guest: Disney animator Floyd Norman. The event's theme will be \"It's a Jungle Out There!\".\nsentence 2: J.J. Hardy has a contract with the Milwaukee Brewers.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The prosecutor told the court that the incident had caused \"distress\" to one of the children.\nsentence 2: The prosecutor told the court that \"distress\" in one of the children is associated with the incident.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: At least eight people have been killed in a suicide bomb attack on Sri Lanka's army headquarters, while the head of the army has been seriously injured. Lt Gen Sarath Fonseka is said to be in a stable condition after surgery in Colombo, where the attack happened. The military has blamed Tamil Tiger rebels for the attack and launched air strikes on their positions in the east.\nsentence 2: People were killed in suicide attacks.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: An act signed into law by Afghan President Hamid Karzai last month dramatically rolled back the rights of women in that country, according to human rights groups and a United Nations report on the bill by the United Nations Development Fund for Women. The Afghan government has not provided a copy of the text of the Shia Family Law to the UN or to other outside groups requesting it, citing \"technical problems\", however, the UN and opposition politicians say that the bill contains numerous provisions restricting the rights of women, such as giving their husbands priority in court; requiring the husband's permission to leave the house, obtain education or employment, or to see a doctor; and reserving the custody of children to male relatives.\nsentence 2: Hamid Karzai is an employee of the UN.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Gladys Lauture, a close Aristide friend and longtime supporter, said she and a team of carpenters, plumbers and decorators spent 18 days making Aristide's Port-au-Prince home livable again.\nsentence 2: Aristide is due to live at Port-au-Prince again.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Pratibha Patil has won the 12th Presidential Elections of the Republic of India, becoming the first woman president of the second most populous country in the world. Patil, 72, previously governor of the state of Rajasthan, had support from the governing coalition. She won approximately two thirds of the vote, almost double the number of votes of her nearest rival Bhairon Singh Shekhawat, who resigned as Vice-President after losing the poll.\nsentence 2: Chile has a female President.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Domestic fire incidents have an important impact on population health by contributing to early death, serious and often disfiguring injuries, and ongoing disability. Fire-related injury is a leading cause of unintentional injury in the home in all age groups.\nsentence 2: Domestic fires are a major cause of unintentional injury in the home.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Natalya Reshetovskaya, 84, was the first wife of Alexander Solzhenitsyn.\nsentence 2: Alexander Solzhenitsyn's wife's name was Natalya Reshetovskaya.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: KANDAHAR, Afghanistan — Five suicide bombers stormed a government office in Kandahar on Wednesday morning, killing 13 people, including two provincial government officials, and wounding 14.  One militant detonated a car bomb at the entrance gate of the provincial council office, as the others stormed the compound with assault rifles and hand grenades. Seven civilians and six police officers were killed in the 20-minute gun battle, which ended when two of the militants blew themselves up in the main hall, said the provincial police chief, Matiullah Qati.\nsentence 2: Five government officials were killed in the suicide bomber attack in Kandahar.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: English has been written using the Latin alphabet since around the ninth century. (Before that, Old English had been written using the Anglo-Saxon Futhorc.) The spelling system or orthography of English is historical, not phonological.\nsentence 2: A spelling reform was approved in all German speaking countries.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: I recently took a round trip from Abuja to Yola, the capital of Adamawa State and back to Abuja, with a fourteen-seater bus.\nsentence 2: Abuja is located in Adamawa State.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: In France, art dealers are obliged by law to register all purchases except those bought at a public auction.\nsentence 2: In France, works of art bought at public auction are exempt from registration.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Gibbs also said that Obama planned to meet with Iraqi Prime Minister Nouri al-Maliki, but poor weather in Baghdad means that Obama will likely talk to the prime minister and Iraqi President Jalal Talibani by telephone. American troops are slated to leave Iraq by August 2010, with The New York Times reporting that troop levels will continue to be high until Iraq's federal elections in December. Obama told a group of university students in Turkey that despite his original opposition to the war in 2003, he realized that the troop withdrawal must be done carefully.\nsentence 2: Jalal Talibani is friends with Obama.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The owners of Phinda, the South African-based Conservation Corporation, could not have paid for a better advertisement for their philosophy of wildlife conservation: a people-based approach to conservation, which is slowly gaining ground in Africa as game reserves come under ever greater threat from hungry, poor and angry local populations.\nsentence 2: The South African-based Conservation Corporation threatens the local population.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: San Salvador, Jan. 13, '90 (Acan-Efe) -The bodies of Hector Oqueli and Gilda Flores, who had been kidnapped on the 12th of January, were found in Cuilapa, Guatemala, near the border with El Salvador, the relatives of one of the victims have reported.\nsentence 2: A kidnapping took place in San Salvador.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: United States Senator Ted Stevens of Alaska was convicted Monday on seven counts of failing to report gifts. Stevens, a senior United States Senator from Alaska and the longest serving Republican in the Senate, had been accused of not reporting tens of thousands of dollars worth of gifts from the VECO Corporation including free house remodeling. The jury in the District of Columbia found Stevens guilty on all seven counts.\nsentence 2: Ted Stevens is the longest serving Republican in the US Senate.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Eilat, Israel's most southerly port and the country's only access to the Red Sea, has long been a winter destination for tourists, 80% of whom are Europeans attracted by its temperate climates and clear waters.\nsentence 2: In winter most tourists to Eilat come from Europe.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: A young gunman known as Scarface has been jailed for life for the murder of a promising teenage footballer. Richard Harrison-Allen, 20, shot Etem Celebi dead in November 2007 as he tried to flee the scene in the Smalley Close estate, Stoke Newington, north London. Gang member Harrison-Allen, from Hackney, east London, who was convicted of the teenager's murder earlier this month, was sentenced to a minimum of 26 years at St Albans Crown Court. He sat motionless as sentence was passed.\nsentence 2: \"Scarface\" is the nickname of Richard Harrison-Allen.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Total coal stocks with the thermal power stations came down to 9.6 million tonnes on March 3, 2003 from 11 million tonnes on October 1, 2002.\nsentence 2: Coal stocks rise.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: On June 28, 1997, in what would become known as the bite fight, Mike Tyson bit Evander Holyfield's ear, purportedly in retaliation for Holyfield headbutting him.\nsentence 2: Mike Tyson bit Evander Holyfield's ear on June 28, 1997.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: GM established grounds for suspicion of industrial spying by presenting affidavits from its employees. The aim will be to determine if VW's project was copied from GM data - essential if industrial espionage is to be proved.\nsentence 2: There was an industrial espionage case involving GM and VW.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: In this respect, the reforms required across Europe are similar: stronger incentives within pension systems to delay retirement, rules which facilitate gradual retirement, incentives for workers to save for their retirement, and public information measures to improve awareness of the options available.\nsentence 2: National pension systems currently adopted in Europe are in difficulties.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Stefano Falconi, director of finance at the Massachusetts Institute of Technology (MIT), has joined Carnegie Mellon as its vice president for administration and chief financial officer. Falconi succeeds Jeff Bolton, who left the university last July to become chief financial officer at the Mayo Foundation in Rochester, Minn.\nsentence 2: The Massachusetts Institute of Technology (MIT) appoints Stefano Falconi as chief financial officer.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Although most Palestinians crossed into Egypt in order to shop and see relatives, Palestinian officials say that the recent border chaos enabled smugglers to bring drugs and weapons into Gaza.\nsentence 2: Egyptian and Palestinian border guards failed repeatedly in efforts to end the chaos and to close the border.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Heemeyer cut portholes for his guns, then welded a tight enclosure around them so police bullets could not penetrate.\nsentence 2: Out of an old bulldozer, Heemeyer built a concrete box that no police bullet could penetrate.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: One year on since he was elected to office as President of Paraguay, Fernando Lugo is making headlines in the country he leads, but for all the wrong reasons. Newspapers and TV programmes have been dominated by stories of women coming forward to claim they had a child with the former Catholic bishop. This \"political soap opera\", complained one of these reports, is \"paralysing the government\".  Three women have made allegations so far and there were reports in the Paraguay media that there may be more claims to come.\nsentence 2: Fernando Lugo was a Catholic bishop.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Google and NASA announced a working agreement, Wednesday, that could result in the Internet giant building a complex of up to 1 million square feet on NASA-owned property, adjacent to Moffett Field, near Mountain View.\nsentence 2: Google may build a campus on NASA property.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The Auburn High School Athletic Hall of Fame recently introduced its Class of 2005 which includes 10 members.\nsentence 2: The Auburn High School Athletic Hall of Fame has ten members.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Oil prices eased back from record high levels after Russia's justice ministry said embattled oil giant Yukos can continue oil production and sales.\nsentence 2: Oil prices rise.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: While the total population for Missouri increased by 2.8 percent, the Hispanic population shows a 24.9 percent increase between 2000 and 2004.\nsentence 2: Missouri's population is 2.8 million.",
+        "label": "contradiction"
+    }
+]

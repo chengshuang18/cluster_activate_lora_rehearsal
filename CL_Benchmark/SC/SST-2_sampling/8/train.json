@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "Text: the butt of its own joke ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: most brilliant and brutal ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: wanders ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: everything too safe ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: to generate any interest in an unsympathetic hero caught up in an intricate plot that while cleverly worked out , can not overcome blah characters ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: downplays the raunch in favor of gags that rely on the strength of their own cleverness as opposed to the extent of their outrageousness ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: innovations and glimpse ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: rough-hewn vanity project ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: incompetent ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: from director mark romanek 's self-conscious scrutiny ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: less psycho ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: the trap of the maudlin or tearful ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: it 's a movie that gets under your skin . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: marshall keeps the energy humming , ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: of invention ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: touching , raucously amusing , uncomfortable , and , yes , ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: painful ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: seduce and ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: humor and lightness ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: take ( its ) earnest errors and hard-won rewards over the bombastic self-glorification of other feel-good fiascos like antwone fisher or the emperor 's club any time ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: roman polanski 's autobiographical gesture at redemption is better than ` shindler 's list ' - ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: that rare quality ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: tackled a meaty subject ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: as a very distinctive sensibility , working to develop her own film language with conspicuous success ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: charismatic and tragically ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: emphasizes the well-wrought story ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: thoroughly involving ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: each scene drags , underscoring the obvious , and sentiment is slathered on top . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: the best he 's been in years ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: 's denial of sincere grief and mourning in favor of bogus spiritualism ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: very real and amusing give-and-take ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: , you 'll like promises . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: not a strike against yang 's similarly themed yi yi , but i found what time ? ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: to cram earplugs ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: has enough moments to keep it entertaining ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: comes to dreaming up romantic comedies ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: feels like a hazy high that takes too long to shake . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: is oppressively heavy . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: emotionally vapid ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: is the director 's talent . ",
+        "label": "Good"
+    }
+]

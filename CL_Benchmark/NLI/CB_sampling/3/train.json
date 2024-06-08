@@ -1,0 +1,22 @@
+[
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: A: It's divided, yeah. B: Wow! A: It really is, so we've got our Cowboys here and, uh, I don't think anybody roots differently\nsentence 2: somebody roots differently"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: His hair was white, as my daughters reported when they went to view the body before it was given to the Odonata. Now he is known as The Man Who Changed the World, and there are statues to him everywhere. No one remembers he had a younger brother.\nsentence 2: The Man Who Changed the World had a younger brother"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: And why bother to write anyway? What was there to say? Mary had some vague idea that Adam's parents might suspect he was down here and come to see him.\nsentence 2: Adam was down here"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: ``And you're wrong about us. We're not children and I 'd say we're learning the rules pretty quickly.'' You may have noticed I'm not shaking any more!\nsentence 2: he's not shaking any more"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: The big Norwegian shook his head, frowning. ``Jeg fonstAr ikke.'' I don't think he found Ward's accent at all easy and anyway like many foreigners he found it easier to speak English than to understand it.\nsentence 2: the big Norwegian found Ward's accent at all easy"
+    }
+]

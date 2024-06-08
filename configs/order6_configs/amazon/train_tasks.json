@@ -3,19 +3,23 @@
         {
             "sampling strategy": "full",
             "dataset name": "amazon"
+        },
+        {
+            "sampling strategy": "full",
+            "dataset name": "yelp_sampling/2"
         }
     ],
-    "TC": [
+    "TC": [     
     ],
-    "NLI": [   
+    "NLI": [
     ],
-    "QQP": [ 
+    "QQP": [  
     ],
     "WiC": [ 
     ],
     "MultiRC": [ 
     ],
-    "COPA": [
+    "COPA": [ 
     ],
     "BoolQA": [
     ]

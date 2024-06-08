@@ -1,0 +1,162 @@
+[
+    {
+        "label": "False",
+        "sentence": "word: product\nThis is a product of lime and nitric acid.\nHis reaction was the product of hunger and fatigue."
+    },
+    {
+        "label": "True",
+        "sentence": "word: shell\nNuts shell in falling.\nWheat or rye shells in reaping."
+    },
+    {
+        "label": "False",
+        "sentence": "word: air\nOpen a window and let in some air.\nAs he waited he could feel the air on his neck."
+    },
+    {
+        "label": "True",
+        "sentence": "word: appearance\nIt was Bernhardt's last appearance in America.\nDavid Beckham's first appearance with the LA Galaxy at Giants Stadium against the New York Red Bulls last night drew a crowd of 66237."
+    },
+    {
+        "label": "False",
+        "sentence": "word: limit\nThe sequence of reciprocals has zero as its limit.\nTo the limit of his ability."
+    },
+    {
+        "label": "False",
+        "sentence": "word: strike\nStrike a medal.\nThe teacher struck the child."
+    },
+    {
+        "label": "True",
+        "sentence": "word: part\nShe played the part of Desdemona.\nWe all have a part to play."
+    },
+    {
+        "label": "False",
+        "sentence": "word: hit\nWe hit Detroit at one in the morning but kept driving through the night.\nThe ball hit the fence."
+    },
+    {
+        "label": "True",
+        "sentence": "word: pursuit\nUnremitting pursuit of wealth doesn't bring happiness, particularly if successful.\nThe culprit started to run and the cop took off in pursuit."
+    },
+    {
+        "label": "True",
+        "sentence": "word: appearance\nA person makes his appearance as an historian, an artist, or an orator.\nDavid Beckham's first appearance with the LA Galaxy at Giants Stadium against the New York Red Bulls last night drew a crowd of 66237."
+    },
+    {
+        "label": "False",
+        "sentence": "word: take\nTake steps.\nShall we take a guide in Rome?"
+    },
+    {
+        "label": "True",
+        "sentence": "word: vermin\nBoys in the village have probably been shooting vermin.\nCereals must be protected from mice and other vermin."
+    },
+    {
+        "label": "True",
+        "sentence": "word: side\nIt brought out his better side.\nHe is on the purchasing side of the business."
+    },
+    {
+        "label": "True",
+        "sentence": "word: purchase\nTo purchase land, to purchase a house.\nThe family purchased a new car."
+    },
+    {
+        "label": "True",
+        "sentence": "word: fatigue\nThe American public is experiencing scandal fatigue.\nAfter watching TV with her husband she had a bad case of football fatigue."
+    },
+    {
+        "label": "True",
+        "sentence": "word: field\nThe home crowd cheered when Princeton took the field.\nThere are several species of wild flowers growing in this field."
+    },
+    {
+        "label": "False",
+        "sentence": "word: press\nTo press a crowd back.\nThis guy can press 300 pounds."
+    },
+    {
+        "label": "False",
+        "sentence": "word: lap\nThe lap of the shingles should be at least ten inches.\nThe dog's laps were warm and wet."
+    },
+    {
+        "label": "False",
+        "sentence": "word: unit\nThe team is a unit.\nA unit of wheat is a bushel."
+    },
+    {
+        "label": "True",
+        "sentence": "word: land\nIt can be tricky to land a helicopter.\nUse the net to land the fish."
+    },
+    {
+        "label": "False",
+        "sentence": "word: draw\nDraw a weapon.\nDraw a wagon."
+    },
+    {
+        "label": "False",
+        "sentence": "word: thing\nA thing of the spirit.\nA funny thing happened on the way to the ..."
+    },
+    {
+        "label": "True",
+        "sentence": "word: chain\nThe third link of the silver chain needs to be resoldered.\nThe chain of command."
+    },
+    {
+        "label": "True",
+        "sentence": "word: scale\nThe scale of the model.\nThere are some who question the scale of our ambitions."
+    },
+    {
+        "label": "False",
+        "sentence": "word: face\nDew dripped from the face of the leaf.\nWhy the sad face?"
+    },
+    {
+        "label": "False",
+        "sentence": "word: take\nTake a risk.\nI'll take that plate off the table."
+    },
+    {
+        "label": "True",
+        "sentence": "word: window\nThe expanded window will give us time to catch the thieves.\nThey had a window of less than an hour when an attack would have succeeded."
+    },
+    {
+        "label": "False",
+        "sentence": "word: life\nHe wanted to live his own life without interference from others.\nThe life of this milk carton may be thousands of years in this landfill."
+    },
+    {
+        "label": "False",
+        "sentence": "word: wall\nHis back was to the wall.\nThe container's walls were blue."
+    },
+    {
+        "label": "True",
+        "sentence": "word: coverage\nDon't go to lunch if we don't have enough coverage for the help-desk phones.\nThe dictionary's coverage of standard English is excellent."
+    },
+    {
+        "label": "False",
+        "sentence": "word: tread\nFor fools rush in where angels fear to tread.\nTread grapes to make wine."
+    },
+    {
+        "label": "False",
+        "sentence": "word: addition\nThe addition of a leap day every four years.\nThe addition of cinnamon improved the flavor."
+    },
+    {
+        "label": "True",
+        "sentence": "word: rub\nRub oil into her skin.\nI rubbed my hands together for warmth."
+    },
+    {
+        "label": "False",
+        "sentence": "word: raise\nTo raise a wall, or a heap of stones.\nRaise a family."
+    },
+    {
+        "label": "True",
+        "sentence": "word: turn\nTurn the car around.\nTurn your face to the wall."
+    },
+    {
+        "label": "False",
+        "sentence": "word: cover\nCover the grave with flowers.\nThe insurance won't cover this."
+    },
+    {
+        "label": "True",
+        "sentence": "word: cold\nCold is a vasoconstrictor.\nCome in, out of the cold."
+    },
+    {
+        "label": "True",
+        "sentence": "word: see\nYou'll see a lot of cheating in this school.\nThe 1960's saw the rebellion of the younger generation against established traditions."
+    },
+    {
+        "label": "True",
+        "sentence": "word: enemy\nRally together against a common enemy.\nThe enemy attacked at dawn."
+    },
+    {
+        "label": "True",
+        "sentence": "word: business\nBusiness is good today.\nBusiness has been slow lately."
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "sentence": "sentence 1: On the Adriatic, Pesaro honors its native son Rossini from mid-August to late September.\nsentence 2: Rossini is honoured  from August to September.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Will that suit you?\"\nsentence 2: Is that fitting for you?",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Two years ago, American Lawyer magazine (a sister publication of the Law Journal) found that during the fat year of 1999, the approximately 50,000 lawyers at the nation's 100 highest-grossing firms spent an average of eight minutes a day on pro bono cases, or about 36 hours per year, which is down significantly from an average 56 annual hours during the recession year of 1992.\nsentence 2: In 1999, lawyers at the nation's highest grossing firms spent 36 hours per year on pro bono cases.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Thorn stood, blood covering his body and soaking through his hair.\nsentence 2: Thorn was covered in his own blood.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: They approach a presidential candidate the way a woman approaches a date.\nsentence 2: They spend a lot of time getting ready for a presidential candidate.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: 'Or...Abraham or...whatever...Are you actually going to be killing me or arresting me or something? Because if not, this conversation is beginning to get a little existentialist for my taste.'\nsentence 2: There is no chance that Abraham could ever kill me. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Therapeutic laws become props for rhetoric that might be called demagoguery, except that it disgraces the memories of Joe McCarthy and Huey Long and the ambitions of Pat Buchanan to call Clinton a demagogue.\nsentence 2: Clinton has past been compared to a demagogue.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: After the stoning, there was a brief break during which Simon realized that sex with L.T.\nsentence 2: Simon thought about how it felt to be stoned.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: just all right but he's getting to where uh i don't know if it's his age or what but he just can't play the whole game they've got to get somebody young that can uh run the court that's still big\nsentence 2: He may have gotten older but he's just as good as before.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Our simulation results reflect unified budget deficits/surpluses.\nsentence 2: There was no simulation with results on budget deficits.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: oh okay and i was in the Philippines for about three or four years and Gene used to come out and visit us uh when i was in the Philippines and\nsentence 2: I was surprised only Gene came to visit me in the Philippines. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: For testing to be effective, it must be addressed relatively early in the acquisition so it can be properly included in planning.\nsentence 2: For testing to be effective, it must be conducted early and with expensive analytics tools.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: One example might be immigration lawyers, a service that clients often need but that the organization does not provide, Gomez said.\nsentence 2: Gomez said that he needs an immigration lawyer.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: University officials anticipate $20 million in revenues just in the next five years.\nsentence 2: The University does not expect to bring in much money. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: I fully appreciate that much work may be needed before agencies' respective performance management systems are able to support a more direct link between pay and individual knowledge, skills, and performance.\nsentence 2: I don't understand, I think the Performance management systems ought to be able to support this direct link between pay and individual performance. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: But for a long time, there was no further sign of life.\nsentence 2: There were no signs of life because all of the people were secretly hiding in the mountains. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The Chief Operating Officer is appointed by the Secretary of Education to a minimum 3-year and a maximum 5-year term, and may receive a bonus for meeting the performance goals or be removed for failing to meet them.\nsentence 2: The COO has been appointed to a lifelong position, no matter how they perform. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The Las Vegas Valley is rimmed with quality hiking trails.\nsentence 2: The Las Vegas Valley has a lot of hiking trails.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Far from devastating, this slowdown was, the White House said at the time, good for seniors.\nsentence 2: The slow down is bad for seniors.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: what about in international trials do you think they should have a jury there i think that would be kind of interesting\nsentence 2: Do you think they should get rid of juries in international trials? ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: If we prevent future generations from being conceived in the first place, and if the unconceived don't count as moral entities, then our crimes have no victims, so they're not true crimes.\nsentence 2: Preventing future generations from being conceived is technically a crime.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Breath analysis and self-reports as measures of alcohol-related emergency room admission.\nsentence 2: Many doctors have been critical of self-reports as a valid measure of alcohol-related emergency room admission.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: I don't know if it was mercy or vengeance.\nsentence 2: I wasn't sure if the killing was mercy or vengeance.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Boilermakers are a skilled labor source that is fairly unique to utility work.\nsentence 2: The boilermaker industry is one of the most common utility work labor sources out there.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: But you would help me if you could?\nsentence 2: You want to offer help to anyone that needs it. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: 5 million in grants. \nsentence 2: The grants totaled 5 million.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Then all are accounted for. \nsentence 2: There were several missing. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The second is an economic argument which presumes that the Postal Service as a monopolist is an efficient provider of delivery.\nsentence 2: The Postal Service does not operate as a monopoly.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Most spectacular of all, though, set in the eastern courtyard of the fourth enclosure, is the Sesharyar worship hall with eight carved pillars of rearing horses bearing proud warriors.\nsentence 2: There is not much spectacular about the Sesharyar worship hall.  ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Suppose a potential competitor needed a critical mass in order to begin operations.\nsentence 2: A potential competitor does not need a critical mass. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: This is particularly unwise because after weeks of raking Clinton, reporters and pundits are inclined to demonstrate their balance by going after the GOP.\nsentence 2: The reporters would rather go after the GOP.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: uh too bad\nsentence 2: That is unfortunate.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: man can we trust them have they repented for what they did have they made a world apology\nsentence 2: They didn't do anything inappropriate.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The lady professor from the Department of Westernmostentatious European Polonisation began to use the products, but sadly Ms. Ceracz didn't have enough time, because she was treated like crap by Pisak, and stopped taking care of herself in order to make him feel sorry.\nsentence 2: The lady started using the products.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: 'Funny.' White tilted his head to one side.\nsentence 2: White was standing on his head. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: we usually average oh anywhere from six to twelve inches during the winter and this year as well as last year we have had less than four inches total accumulation\nsentence 2: We normally get between 5 and 10 inches but this season, we've already had 32 inches of snow. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: 'Let's just say I have some Easter Eggs waiting in the Corporation, but this one is apparently walking free of my influence, so it will have to be dealt with the old fashioned way.\nsentence 2: This was not under my influence and would need to be dealt with.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: well he at least saw it one time\nsentence 2: He has not seen it yet.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Blood spattered to the dirt as she pulled the spike free but the demon fought on.\nsentence 2: The first blow with the spike killed the demon.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: what processor does it have in it\nsentence 2: What processor is used?",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: seems like they have ninety percent of the people calling from Texas\nsentence 2: The other 10% were from California.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The final rule amends Regulation Y to improve the competitiveness of bank holding companies by eliminating unnecessary regulatory burden and operating restrictions and streamlining the application and notice process.\nsentence 2: The final rule makes changes to Regulation Z.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: To have GAO e-mail this list to you every afternoon, go to www.gao.govand select Subscribe to daily E-mail alert for newly released products under the GAO Reports heading.\nsentence 2: There are a lot of ways the GAO can contact you.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: This popular shrine features a strongly Chinese-influenced design and an extensive landscaped garden considered one of Kyoto's finest, with numerous cherry trees and a large pond with an elegant pagoda linked to the shore by a covered bridge.\nsentence 2: The derelict garden at this shrine is a cause of shame for Kyoto.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: With the great improvement in the accuracy for 2000, LSC can return to using the reported figures without any adjustment.\nsentence 2: The reported figures came from a national survey.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: I shall be all right, snapped Tuppence with her usual resentment of any kind of pity.\nsentence 2: Tuppence was likely to accept help if it came from a place of pity for her situation.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: An additional reporting standard for financial audits performed in accordance with GAGAS \nsentence 2: There was an additional report for financial audits performed.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Murder episodes are almost always one hour in length.\nsentence 2: Murder episodes are usually 1 hour long because they require longer and more complicated stories.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: and um most Indian places don't have a rabbi the places that we eat  right so um\nsentence 2: Most indian places don't have a rabbi.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: he said that uh Aikman was hitting him right on the numbers every time so sounds like he's going to be all right for next season they're just trying not to overwork him right now until he gets his shoulder uh back in shape it was his shoulder wasn't it  that he had problems with\nsentence 2: They're monitoring his work load because he's had shoulder problems recently. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The former POV might be thought of as Democratic, the latter Republican.\nsentence 2: The latter POV is thought of as a Republican.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Nearby on the banks of the river is the Nile Hilton Hotel a landmark for Cairenes (as the people of the city are known) as well as tourists.\nsentence 2: The Nile Hilton Hotel is located close to the banks of the river. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: yeah i'm not much of a Rotocop man Robocop you know myself\nsentence 2: I love RoboCop.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: right especially to to pay that kind of money for it\nsentence 2: You should definitely get your money's worth if you're paying that much for it.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: yeah that that's that's so true i mean they say well you voice your opinion uh uh uh on election day\nsentence 2: Voting is supposed to be our voice. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Guangzhou's most important Buddhist monument is the 1,400-year-old Temple of the Six Banyan Trees (open 8am 5pm).\nsentence 2: Guangzhou is a place where Buddhism is prominently practiced.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Wigand and Bergman are both insiders, and both, ultimately, whistle-blowers.\nsentence 2: Wingand and Bergman are in the know. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: well that's the way to do it\nsentence 2: That is not going to work",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Programs and Staff\nsentence 2: There are programs and staff.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: This theory is a little hazy about lobsters.\nsentence 2: This theory is a little hazy about alligators.",
+        "label": "contradiction"
+    }
+]

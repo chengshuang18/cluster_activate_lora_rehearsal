@@ -1,0 +1,162 @@
+[
+    {
+        "label": "True",
+        "sentence": "word: tell\nI tell you that man is a crook!\nEllen told Helen about the situation."
+    },
+    {
+        "label": "True",
+        "sentence": "word: toy\nToy with an idea.\nFigo is toying with the English defence."
+    },
+    {
+        "label": "False",
+        "sentence": "word: break\nThis play will either make or break the playwright.\nThe figurine broke."
+    },
+    {
+        "label": "False",
+        "sentence": "word: light\nIt brought the scandal to light.\nHe could paint the lightest light and the darkest dark."
+    },
+    {
+        "label": "False",
+        "sentence": "word: follow\nCan you follow her argument?\nShe followed the men with the binoculars."
+    },
+    {
+        "label": "False",
+        "sentence": "word: space\nThey tested his ability to locate objects in space.\nWrite your name in the space provided."
+    },
+    {
+        "label": "False",
+        "sentence": "word: roll\nRoll your hair around your finger.\nThe thunder rolled."
+    },
+    {
+        "label": "True",
+        "sentence": "word: process\nThis product of last month's quality standards committee is quite good, even though the process was flawed.\nThe process of calcification begins later for boys than for girls."
+    },
+    {
+        "label": "True",
+        "sentence": "word: scale\nThe scale of the model.\nThere are some who question the scale of our ambitions."
+    },
+    {
+        "label": "False",
+        "sentence": "word: burn\nHe watched the house burn.\nThe sun burned his face."
+    },
+    {
+        "label": "True",
+        "sentence": "word: check\nCheck into the rumor.\nCheck the time of the class."
+    },
+    {
+        "label": "False",
+        "sentence": "word: approach\nApproach a task.\nI was approached by the President to serve as his adviser in foreign matters."
+    },
+    {
+        "label": "True",
+        "sentence": "word: present\nThat is enough for the present.\nHe lives in the present with no thought of tomorrow."
+    },
+    {
+        "label": "False",
+        "sentence": "word: cut\nThe employer wants to cut back health benefits.\nCut trenches."
+    },
+    {
+        "label": "False",
+        "sentence": "word: clear\nClear the water before it can be drunk.\nClear the patrons from the theater after the bomb threat."
+    },
+    {
+        "label": "True",
+        "sentence": "word: check\nI will check up on the car tomorrow.\nCheck out the engine."
+    },
+    {
+        "label": "True",
+        "sentence": "word: air\nAir pollution.\nThere was a tension in the air which made me suspect an approaching storm."
+    },
+    {
+        "label": "False",
+        "sentence": "word: number\nIn English the subject and the verb must agree in number.\nI hope to become one of their number before I die."
+    },
+    {
+        "label": "True",
+        "sentence": "word: shortness\nThe shortness of a stubby pencil.\nThe patient's shortness of breath."
+    },
+    {
+        "label": "False",
+        "sentence": "word: assimilate\nThe teacher paused in her lecture to allow the students to assimilate what she had said.\nThis country assimilates immigrants very quickly."
+    },
+    {
+        "label": "False",
+        "sentence": "word: draw\nDraw a weapon.\nThe President's comments drew sharp criticism from the Republicans."
+    },
+    {
+        "label": "True",
+        "sentence": "word: neighbour\nMy neighbour has an annoying cat.\nMy neighbour is very irritable and grumpy at times."
+    },
+    {
+        "label": "True",
+        "sentence": "word: hyponym\nDog is a hyponym of animal.\nBritish is a hyponym of European."
+    },
+    {
+        "label": "True",
+        "sentence": "word: impact\nHis friend's opinion had an impact on his decision.\nOur choice of concrete will have a tremendous impact on the building's mechanical performance."
+    },
+    {
+        "label": "False",
+        "sentence": "word: light\nThey saw the light of the beacon.\nHe stopped the car and turned off the lights."
+    },
+    {
+        "label": "False",
+        "sentence": "word: do\nWhat makes her do this way?\nA 'B' grade doesn't suffice to get me into medical school."
+    },
+    {
+        "label": "True",
+        "sentence": "word: cry\nThat sad movie always makes me cry.\nShe cried bitterly when she heard the news of his death."
+    },
+    {
+        "label": "True",
+        "sentence": "word: air\nI need some fresh air.\nA smell of chemicals in the air."
+    },
+    {
+        "label": "False",
+        "sentence": "word: shift\nYou have to shift when you go down a steep hill.\nShift one's position."
+    },
+    {
+        "label": "True",
+        "sentence": "word: order\nI gave the waiter my order.\nThe company's products were in such demand that they got more orders than their call center could handle."
+    },
+    {
+        "label": "False",
+        "sentence": "word: strike\nStrike a medal.\nThe teacher struck the child."
+    },
+    {
+        "label": "False",
+        "sentence": "word: play\nPlay football.\nPlay with her feelings."
+    },
+    {
+        "label": "False",
+        "sentence": "word: polish\nPolish your social manners.\nHe polished up the chrome until it gleamed."
+    },
+    {
+        "label": "False",
+        "sentence": "word: train\nThey joined the wagon train for safety.\nThe bride's train was carried by her two young nephews."
+    },
+    {
+        "label": "True",
+        "sentence": "word: hinge\nHis absence is the hinge of our plan.\nThis argument was the hinge on which the question turned."
+    },
+    {
+        "label": "False",
+        "sentence": "word: authority\nRespect my authority!\nShe spoke with authority."
+    },
+    {
+        "label": "True",
+        "sentence": "word: make\nDon't make this into a big deal.\nMake yourself clear."
+    },
+    {
+        "label": "False",
+        "sentence": "word: component\nA component or constituent element of a system.\nThe smaller component is hard to reach."
+    },
+    {
+        "label": "False",
+        "sentence": "word: point\nGet to the point.\nAt that point I had to leave."
+    },
+    {
+        "label": "False",
+        "sentence": "word: break\nBreak a circuit.\nBreak a promise."
+    }
+]

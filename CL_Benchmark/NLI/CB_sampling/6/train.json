@@ -1,0 +1,22 @@
+[
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: A: Oh, oh yeah, and every time you see one hit on the side of the road you say is that my cat. B: Uh-huh. A: And you go crazy thinking it might be yours. B: Right, well I didn't realize my husband was such a sucker for animals until I brought one home one night.\nsentence 2: her husband was such a sucker for animals"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: Jed wondered. He 'd scarcely set eyes on him since the night they 'd had dinner together at the house in Westwood. Nobody had mentioned him either and Jed didn't feel he should ask.\nsentence 2: Jed should ask"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: ``Oh, my poor Folly... We 've been together for five years, Lexy and I - she practically holds that company together. Of course I gave her an ``A''. But that doesn't mean I'm having an affair with her.\nsentence 2: he is having an affair with Lexy"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: B: I don't know how my parents did it. A: Yeah. B: I mean, there were five of us and I don't recall, you know, wanting anything in particular. Uh, but I don't know how my father did it. He worked at a truck line and he just didn't make that kind of money with five children. But we did okay. We had a house and a home and, but now, my wife and I both work and I don't believe we have as much as my parents did.\nsentence 2: he and his wife have as much as his parents did"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: B: I think that not only applies inside the public school system, but in society itself. there's been too much negative reinforcement. How much, like, the caught being good slips. How about, just the John Q citizen out there on the street? A: Yeah, well that's true. I think, really though, I mean, that's one thing that, I mean, my kids definitely get spanked when they need to be spanked. But I really do try to use positive, uh, reinforcement with them at home, also. And it really helps. And I mean, they don't get spanked very often, but they do when they deserve it, you know. But, uh, I don't think any kid should be exempt from being spanked. I mean, I think I wouldn't mind if a teacher spanked my child. But, you know, that's just my personal opinion, and that's not going to, I mean, I don't think that law will ever change.\nsentence 2: the law will change"
+    }
+]

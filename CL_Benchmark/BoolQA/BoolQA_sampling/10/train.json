@@ -1,0 +1,162 @@
+[
+    {
+        "label": "True",
+        "sentence": "question: is there such thing as a 100 pound note\npassage: Banknotes of the pound sterling -- Not since 1945 has there been bigger notes than £50 issued for general circulation by the Bank of England, although banks in Scotland and Northern Ireland still use £100 notes. However, the Bank of England does produce higher-value notes that are used to maintain parity with Scottish and Northern Irish notes. Banknotes issued by Scottish and Northern Irish banks have to be backed pound for pound by Bank of England notes (other than a small amount representing the currency in circulation in 1845), and special £1 million and £100 million notes are used for this purpose. Their design is based on the old Series A notes."
+    },
+    {
+        "label": "False",
+        "sentence": "question: do airplanes dump their waste in the air\npassage: Blue ice (aviation) -- Blue ice, in the context of aviation, is frozen sewage material that has leaked mid-flight from commercial aircraft lavatory waste systems. It is a mixture of human biowaste and liquid disinfectant that freezes at high altitude. The name comes from the blue color of the disinfectant. Airlines are not allowed to dump their waste tanks in mid-flight, and pilots have no mechanism by which to do so; however, leaks sometimes do occur."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can you buy liquor at walmart in kansas\npassage: Alcohol laws of Kansas -- Off-premises liquor sales are only allowed in licensed liquor stores. Grocery stores and gas stations may sell CMB. Retail liquor stores are licensed by the state, and CMB retailers are licensed by the city or county."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is china the third largest country in population\npassage: China -- China, officially the People's Republic of China (PRC), is a unitary one-party sovereign state in East Asia and the world's most populous country, with a population of around 1.404 billion. Covering approximately 9,600,000 square kilometers (3,700,000 sq mi), it is the third- or fourth-largest country by total area, depending on the source consulted. China also has the most neighbor countries in the world. Governed by the Communist Party of China, it exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and the special administrative regions of Hong Kong and Macau."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is there a 1 000 bill in circulation\npassage: Large denominations of United States currency -- Large denominations of United States currency greater than $100 were circulated by the United States Treasury until 1969. Since then, U.S. dollar banknotes have only been issued in seven denominations: $1, $2, $5, $10, $20, $50, and $100."
+    },
+    {
+        "label": "True",
+        "sentence": "question: did attack on titan season 2 come out\npassage: Attack on Titan -- A second season of the anime series was announced on the opening day of the first theatrical film, which was originally set to be released in 2016. It was then confirmed in the January 2017 issue of the Bessatsu Shōnen Magazine that the second season would premiere in April 2017. Masashi Koizuka directed the second season, with Araki acting as chief director. It has also been licensed by Funimation. It ran for 12 episodes."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is maze runner death cure the last movie\npassage: Maze Runner: The Death Cure -- Maze Runner: The Death Cure (also known simply as The Death Cure) is a 2018 American dystopian science fiction action film directed by Wes Ball and written by T.S. Nowlin, based on the novel The Death Cure written by James Dashner. It is the sequel to the 2015 film Maze Runner: The Scorch Trials and the third and final installment in the Maze Runner film series. The film stars Dylan O'Brien, Kaya Scodelario, Thomas Brodie-Sangster, Dexter Darden, Nathalie Emmanuel, Giancarlo Esposito, Aidan Gillen, Walton Goggins, Ki Hong Lee, Jacob Lofland, Katherine McNamara, Barry Pepper, Will Poulter, Rosa Salazar, and Patricia Clarkson."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are rosewood and stars hollow the same set\npassage: Stars Hollow -- Since 2010, the Gilmore Girls set is used for the ABC Family show Pretty Little Liars. Luke's Diner is now used as Rosewood Cafe. Hart of Dixie's fictional Bluebell also uses the square. The Stars Hollow High School is used as Rosewood High School."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is rhubarb and celery in the same family\npassage: Rhubarb -- Although rhubarb is a vegetable, it is often put to the same culinary uses as fruits. The leaf stalks can be used raw, when they have a crisp texture (similar to celery, although it is in a different family), but are most commonly cooked with sugar and used in pies, crumbles and other desserts. They have a strong, tart taste. Several varieties have been domesticated for human consumption, most of which are recognised as Rheum x hybridum by the Royal Horticultural Society."
+    },
+    {
+        "label": "False",
+        "sentence": "question: did one of the twins from full house die\npassage: Mary-Kate and Ashley Olsen -- Mary-Kate Olsen and Ashley Olsen (born June 13, 1986), also known as the Olsen twins collectively, are American fashion designers and former child actresses. The identical twins made their acting debut as infants playing Michelle Tanner on the television series Full House. At the age of six, Mary-Kate and Ashley Olsen began starring together in TV, film, and video projects, which continued to their teenage years. Through their company Dualstar, the Olsens joined the ranks of the wealthiest women in the entertainment industry at a young age."
+    },
+    {
+        "label": "False",
+        "sentence": "question: does the equal protection clause apply to private businesses\npassage: Equal Protection Clause -- During Reconstruction, Congress enacted race-conscious programs primarily to assist newly freed slaves who had personally been denied many advantages earlier in their lives. Such legislation was enacted by many of the same people who framed the Equal Protection Clause, though that clause did not apply to such federal legislation, and instead only applied to state legislation. Likewise, the Equal Protection Clause does not apply to private universities and other private businesses, which are free to practice affirmative action unless prohibited by federal statute or state law."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there a jury system in the uk\npassage: Juries in England and Wales -- In the legal jurisdiction of England and Wales, there is a long tradition of jury trial that has evolved over centuries."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is present continuous the same as present progressive\npassage: Continuous and progressive aspects -- In the grammars of many languages the two terms are used interchangeably. This is also the case with English: a construction such as ``He is washing'' may be described either as present continuous or as present progressive. However, there are certain languages for which two different aspects are distinguished. In Chinese, for example, progressive aspect denotes a current action, as in ``he is getting dressed'', while continuous aspect denotes a current state, as in ``he is wearing fine clothes''."
+    },
+    {
+        "label": "True",
+        "sentence": "question: will there be a marvel runaways season 2\npassage: Runaways (TV series) -- The first season was released from November 21, 2017, to January 9, 2018. In January 2018, Runaways was renewed for a 13-episode second season."
+    },
+    {
+        "label": "True",
+        "sentence": "question: has anyone ever been to the south pole\npassage: South Pole -- The first men to reach the Geographic South Pole were the Norwegian Roald Amundsen and his party on December 14, 1911. Amundsen named his camp Polheim and the entire plateau surrounding the Pole King Haakon VII Vidde in honour of King Haakon VII of Norway. Robert Falcon Scott returned to Antarctica with his second expedition, the Terra Nova Expedition, initially unaware of Amundsen's secretive expedition. Scott and four other men reached the South Pole on January 17, 1912, thirty-four days after Amundsen. On the return trip, Scott and his four companions all died of starvation and extreme cold."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is land rover the same as range rover\npassage: Range Rover -- The Land Rover Range Rover (generally known simply as a Range Rover) is a full-sized luxury sport utility vehicle (SUV) from Land Rover, a marque of Jaguar Land Rover. The Range Rover was launched in 1970 by British Leyland. This flagship model is now in its fourth generation."
+    },
+    {
+        "label": "False",
+        "sentence": "question: does the associative property allow you to change the order in which you complete two operations\npassage: Associative property -- Associativity is not the same as commutativity, which addresses whether or not the order of two operands changes the result. For example, the order does not matter in the multiplication of real numbers, that is, a × b = b × a, so we say that the multiplication of real numbers is a commutative operation."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is sodium hydrogen carbonate the same as baking soda\npassage: Sodium bicarbonate -- Sodium bicarbonate (IUPAC name: sodium hydrogen carbonate), commonly known as baking soda, is a chemical compound with the formula NaHCO. It is a salt composed of a sodium cation (Na) and a bicarbonate anion (HCO). Sodium bicarbonate is a white solid that is crystalline, but often appears as a fine powder. It has a slightly salty, alkaline taste resembling that of washing soda (sodium carbonate). The natural mineral form is nahcolite. It is a component of the mineral natron and is found dissolved in many mineral springs."
+    },
+    {
+        "label": "True",
+        "sentence": "question: does the heater core affect the air conditioning\npassage: Heater core -- In a car equipped with air conditioning, outside air, or cabin air if the recirculation flap has been set to close the external air passages, is first forced, often after being filtered by a cabin air filter, through the air conditioner's evaporator coil. This can be thought of as a heater core filled with very cold liquid that is undergoing a phase change to gas (the evaporation), a process which cools rather than heats the incoming air. In order to obtain the desired temperature incoming air may first be cooled by the air conditioning and then heated again by the heater core. In a vehicle fitted with manual controls for the heater and air conditioning compressor, using both systems together will dehumidify the air in the cabin, as the evaporator coil removes moisture from the air due to condensation. This can result in increased air comfort levels inside the vehicle. Automatic temperature control systems can take the best course of action in regulating the compressor operation, amount of reheating and blower speed depending upon the external air temperature, the internal one and the cabin air temperature value or a rapid defrost effect requested by the user."
+    },
+    {
+        "label": "True",
+        "sentence": "question: has anyone ever got an albatross in golf\npassage: List of albatrosses in important tournaments -- This article lists albatrosses that have been scored in important golf tournaments. An albatross, also called a double eagle, is a score of three-under-par on a single hole. This is most commonly achieved with two shots on a par-5, but can be done with a hole-in-one on a par-4 or three shots on a par-6."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the plcb responsible for enforcing the liquor code\npassage: Pennsylvania Liquor Control Board -- The Pennsylvania Liquor Control Board (PLCB) is an independent government agency that manages the beverage alcohol industry in Pennsylvania by administering the Pennsylvania Liquor Code. It is responsible for licensing the possession, sale, storage, transportation, importation and manufacture of wine, spirits and malt or brewed beverages in the commonwealth, as well as operating a system of liquor distribution (retailing) and providing education about the harmful effects of underage and dangerous drinking."
+    },
+    {
+        "label": "False",
+        "sentence": "question: does total internal reflection occur at the critical angle\npassage: Total internal reflection -- Total internal reflection is the phenomenon which occurs when a propagated wave strikes a medium boundary at an angle larger than a particular critical angle with respect to the normal to the surface. If the refractive index is lower on the other side of the boundary and the incident angle is greater than the critical angle, the wave cannot pass through and is entirely reflected. The critical angle is the angle of incidence above which the total internal reflection occurs. This is particularly common as an optical phenomenon, where light waves are involved, but it occurs with many types of waves, such as electromagnetic waves in general or sound waves. When a wave reaches a boundary between different materials with different refractive indices, the wave will in general be partially refracted at the boundary surface, and partially reflected. However, if the angle of incidence is greater (i.e. the direction of propagation is closer to being parallel to the boundary) than the critical angle -- the angle of incidence at which light is refracted such that it travels along the boundary -- then the wave will not cross the boundary, but will instead be totally reflected back internally. This can only occur when the wave in a medium with a higher refractive index (n) reaches a boundary with a medium of lower refractive index (n). For example, it will occur with light reaching air from glass, but not when reaching glass from air."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are tui and thomas cook the same company\npassage: TUI Group -- With the sale of Salzgitter AG and purchase of the navigation and logistics company Hapag-Lloyd AG in 1997, Preussag AG became a global enterprise in the service and leisure industry. At that time, Hapag-Lloyd held a 30% interest in the tourism conglomerate TUI (founded 1968), increased to 100% by 1999. In addition the company acquired 25% of Thomas Cook shares in 1997, which it doubled the following year. On 2 February 1999, the Carlson Leisure Group merged with Thomas Cook into a holding company owned by the German bank, Westdeutsche Landesbank, Carlson Inc and Preussag. However, in mid-2000 Preussag acquired Thomas Cook's rival Thomson Travel and was forced to sell its majority 50.1% stake in Thomas Cook by regulatory authorities. In 2002, Preussag renamed itself TUI AG."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are bath and body works and victoria's secret owned by the same company\npassage: L Brands -- Its flagship brands include Victoria's Secret and Bath & Body Works. L Brands posted $10.5 billion in revenue in 2013, and was listed as #258 in the 2013 Fortune 500 list of top companies."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is coronary artery disease and ischemic heart disease the same thing\npassage: Coronary artery disease -- Coronary artery disease (CAD), also known as ischemic heart disease (IHD), refers to a group of diseases which includes stable angina, unstable angina, myocardial infarction, and sudden cardiac death. It is within the group of cardiovascular diseases of which it is the most common type. A common symptom is chest pain or discomfort which may travel into the shoulder, arm, back, neck, or jaw. Occasionally it may feel like heartburn. Usually symptoms occur with exercise or emotional stress, last less than a few minutes, and improve with rest. Shortness of breath may also occur and sometimes no symptoms are present. In many cases, the first sign is a heart attack. Other complications include heart failure or an abnormal heartbeat."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is mothers day on the same day worldwide\npassage: Mother's Day -- Mother's Day is a celebration honoring the mother of the family, as well as motherhood, maternal bonds, and the influence of mothers in society. It is celebrated on various days in many parts of the world, most commonly in the months of March or May. It complements similar celebrations honoring family members, such as Father's Day, Siblings Day, and Grandparents Day."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is star wars the last jedi the last star wars\npassage: Star Wars: The Last Jedi -- Star Wars: The Last Jedi (also known as Star Wars: Episode VIII -- The Last Jedi) is a 2017 American epic space opera film written and directed by Rian Johnson. It is the second installment of the Star Wars sequel trilogy and the eighth main installment of the Star Wars franchise, following Star Wars: The Force Awakens (2015). It was produced by Lucasfilm and distributed by Walt Disney Studios Motion Pictures. The film's ensemble cast includes Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Andy Serkis, Lupita Nyong'o, Domhnall Gleeson, Anthony Daniels and Gwendoline Christie in returning roles, with Kelly Marie Tran, Laura Dern and Benicio del Toro joining the cast. The film features the final film performance by Fisher, who died in December 2016, and it is dedicated to her memory. The plot follows Rey as she receives Jedi training from Luke Skywalker, in hopes of turning the tide for the Resistance in the fight against Kylo Ren and the First Order, while General Leia Organa, Finn, and Poe Dameron attempt to escape a First Order attack on the dwindling Resistance fleet."
+    },
+    {
+        "label": "True",
+        "sentence": "question: scrubs do elliot and jd end up together\npassage: J.D. (Scrubs) -- In Season 9, it is revealed that J.D. and Elliot are in fact married and expecting a child. This is punctuated by an extremely awkward morning ritual in front of Elliot's class where J.D. kisses her stomach for every month she is pregnant and says ``and thank you for making mommy's boobs bigger''; Elliot then puts her breasts on his head. In their final appearance together, they go on a ``babymoon'', a romantic getaway for expecting parents."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are you (mg fe2+)2(mg fe2+)5si8o22(oh)2\npassage: Cummingtonite -- Cummingtonite is a metamorphic amphibole with the chemical composition (Mg,Fe)(Mg,Fe)SiO(OH), magnesium iron silicate hydroxide."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the coast guard a branch of the military\npassage: United States Coast Guard -- The United States Coast Guard (USCG) is a branch of the United States Armed Forces and one of the country's seven uniformed services. The Coast Guard is a maritime, military, multi-mission service unique among the U.S. military branches for having a maritime law enforcement mission (with jurisdiction in both domestic and international waters) and a federal regulatory agency mission as part of its mission set. It operates under the U.S. Department of Homeland Security during peacetime, and can be transferred to the U.S. Department of the Navy by the U.S. President at any time, or by the U.S. Congress during times of war. This has happened twice, in 1917, during World War I, and in 1941, during World War II."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is trinidad and tobago part of the caribbean\npassage: Trinidad and Tobago -- Trinidad and Tobago (/ˈtrɪnɪdæd ... təˈbeɪɡoʊ/ ( listen), /toʊ-/), officially the Republic of Trinidad and Tobago, is a twin island sovereign state that is the southernmost nation of the West Indies in the Caribbean. It is situated 130 kilometres (81 miles) south of Grenada off the northern edge of the South American mainland, 11 kilometres (6.8 miles) off the coast of northeastern Venezuela. It shares maritime boundaries with Barbados to the northeast, Grenada to the northwest, Guyana to the southeast, and Venezuela to the south and west."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is movie the post based on true story\npassage: The Post (film) -- The Post is a 2017 American historical political thriller film directed and produced by Steven Spielberg and written by Liz Hannah and Josh Singer. It stars Meryl Streep as Katharine Graham, the first female publisher of a major American newspaper, and Tom Hanks as Ben Bradlee, the executive editor of The Washington Post, with Sarah Paulson, Bob Odenkirk, Tracy Letts, Bradley Whitford, Bruce Greenwood, Carrie Coon, and Matthew Rhys in supporting roles. Set in the early 1970s, The Post depicts the true story of attempts by journalists at The Washington Post to publish the Pentagon Papers, classified documents regarding the 30-year involvement of the United States government in the Vietnam War."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is it possible to count cards in blackjack\npassage: Card counting -- Card counting is a casino card game strategy used primarily in the blackjack family of casino games to determine whether the next hand is likely to give a probable advantage to the player or to the dealer. Card counters are a class of advantage players, who attempt to decrease the inherent casino house edge by keeping a running tally of all high and low valued cards seen by the player. Card counting allows players to bet more with less risk when the count gives an advantage as well as minimize losses during an unfavorable count. Card counting also provides the ability to alter playing decisions based on the composition of remaining cards."
+    },
+    {
+        "label": "False",
+        "sentence": "question: does the bat boy travel with the team\npassage: Batboy -- During any given major league game, both the home and visiting team batboys will be drawn from the city where the game is taking place (batboys typically do not travel on the road with their team, unless they are relatives of a player). Home batboys often have regular jobs with a team, and thus may wear their first names on their uniforms; visiting teams, on the other hand, usually do not know who will be serving as their batboys on the road, and thus will send uniforms of various sizes to accommodate batboys of varying heights and weights."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the national gallery of art part of the smithsonian\npassage: National Gallery of Art -- The National Gallery of Art is supported through a private-public partnership. The United States federal government provides funds, through annual appropriations, to support the museum's operations and maintenance. All artwork, as well as special programs, are provided through private donations and funds. The museum is not part of the Smithsonian Institution."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the legend of korra related to avatar\npassage: The Legend of Korra -- The Legend of Korra is an American animated television series that aired on the Nickelodeon television network from 2012 to 2014. It was created by Bryan Konietzko and Michael Dante DiMartino as a sequel to Avatar: The Last Airbender, which aired from 2005 to 2008. Animated in a style strongly influenced by anime, most of the animation was done by Studio Mir of South Korea, and some by Studio Pierrot of Japan."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is cinderella man based on a true story\npassage: James J. Braddock -- The 2005 biographical film Cinderella Man tells Braddock's story. Directed by Ron Howard, it stars Russell Crowe as Braddock and Renée Zellweger as his wife, Mae. The film had an estimated budget of $88 million and grossed $108.5 million worldwide. Crowe's performance earned him a Golden Globe nomination for Best Actor. Paul Giamatti, playing Braddock's manager Joe Gould, was nominated for the Academy Award for Best Supporting Actor. The role of neighbor Sara Wilson was played by Rosemarie DeWitt, who is Braddock's real-life granddaughter (daughter of Braddock's daughter Rosemarie Braddock and husband Kenny DeWitt). The film received mostly positive reviews."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the oceanic crust part of the lithosphere\npassage: Lithosphere -- Oceanic lithosphere is less dense than asthenosphere for a few tens of millions of years but after this becomes increasingly denser than asthenosphere. This is because the chemically differentiated oceanic crust is lighter than asthenosphere, but thermal contraction of the mantle lithosphere makes it more dense than the asthenosphere. The gravitational instability of mature oceanic lithosphere has the effect that at subduction zones, oceanic lithosphere invariably sinks underneath the overriding lithosphere, which can be oceanic or continental. New oceanic lithosphere is constantly being produced at mid-ocean ridges and is recycled back to the mantle at subduction zones. As a result, oceanic lithosphere is much younger than continental lithosphere: the oldest oceanic lithosphere is about 170 million years old, while parts of the continental lithosphere are billions of years old. The oldest parts of continental lithosphere underlie cratons, and the mantle lithosphere there is thicker and less dense than typical; the relatively low density of such mantle ``roots of cratons'' helps to stabilize these regions."
+    },
+    {
+        "label": "True",
+        "sentence": "question: will there be a sequel to the maze runner\npassage: Maze Runner (film series) -- The first film, The Maze Runner, was released on September 19, 2014 and became a commercial success grossing over $348 million worldwide. The second film, Maze Runner: The Scorch Trials was released on September 18, 2015, and was also a success, grossing over $312 million worldwide. The film series concluded with the release of the third film, Maze Runner: The Death Cure on January 26, 2018."
+    },
+    {
+        "label": "False",
+        "sentence": "question: do we ever learn where fez is from\npassage: Fez (That '70s Show) -- Valderrama has stated that he fabricated the accent he used on the show so that no one could identify which country his character is from, a mystery the show creators deliberately kept a secret."
+    }
+]

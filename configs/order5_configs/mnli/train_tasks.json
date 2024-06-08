@@ -7,16 +7,28 @@
         {
             "sampling strategy": "full",
             "dataset name": "MNLI"
-        } 
+        }
     ],
     "QQP": [ 
     ],
     "WiC": [ 
+        {
+            "sampling strategy": "full",
+            "dataset name": "WiC_sampling/4"
+        }
     ],
     "MultiRC": [ 
+        {
+            "sampling strategy": "full",
+            "dataset name": "MultiRC_sampling/4"
+        }
     ],
     "COPA": [
     ],
     "BoolQA": [
+        {
+            "sampling strategy": "full",
+            "dataset name": "BoolQA_sampling/4"
+        }
     ]
 }

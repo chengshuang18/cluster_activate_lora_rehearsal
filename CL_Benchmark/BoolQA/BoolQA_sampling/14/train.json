@@ -1,0 +1,162 @@
+[
+    {
+        "label": "True",
+        "sentence": "question: have the williams sisters played each other in a final\npassage: Williams sisters rivalry -- Venus Williams and Serena Williams (born June 17, 1980, and September 26, 1981, respectively) are professional tennis players and sisters who have faced off 29 times in professional tournaments, most recently in the 2018 Indian Wells Masters 1000 event. Serena leads their head-to-head 17--12."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the greatest showman about barnum and bailey circus\npassage: The Greatest Showman -- The Greatest Showman is a 2017 American musical film directed by Michael Gracey in his directorial debut, written by Jenny Bicks and Bill Condon and starring Hugh Jackman, Zac Efron, Michelle Williams, Rebecca Ferguson, and Zendaya. The film is inspired by the story of P.T. Barnum's creation of the Barnum & Bailey Circus and the lives of its star attractions."
+    },
+    {
+        "label": "False",
+        "sentence": "question: the ʺfruits of the poisonous treeʺ doctrine applies only to arrests and not searches\npassage: Fruit of the poisonous tree -- Such evidence is not generally admissible in court. For example, if a police officer conducted an unconstitutional (Fourth Amendment) search of a home and obtained a key to a train station locker, and evidence of a crime came from the locker, that evidence would most likely be excluded under the fruit of the poisonous tree legal doctrine. The testimony of a witness who is discovered through illegal means would not necessarily be excluded, however, due to the ``attenuation doctrine'' , which allows certain evidence or testimony to be admitted in court if the link between the illegal police conduct and the resulting evidence or testimony is sufficiently attenuated. It is believed that a witness who freely and voluntarily testifies is enough of an independent intervening factor to sufficiently ``attenuate'' the connection between the government's illegal discovery of the witness and the witness's voluntary testimony itself. (United States v. Ceccolini, 435 U.S. 268 (1978))"
+    },
+    {
+        "label": "True",
+        "sentence": "question: has anyone won a tony oscar emmy and grammy\npassage: List of people who have won Academy, Emmy, Grammy, and Tony Awards -- Twelve people have won all four major annual American entertainment awards in a competitive, individual (non-group) category of the Emmy, Grammy, Oscar, and Tony Awards. Respectively, these awards honor outstanding achievements in television, recording, film, and theater. Winning all four awards has been referred to as winning the ``grand slam'' of American show business."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the lincoln memorial on the national mall\npassage: National Mall -- The term National Mall commonly includes areas that are also officially part of neighboring West Potomac Park and Constitution Gardens to the southwest. The term is often taken to refer to the entire area between the Lincoln Memorial on the west and east to the United States Capitol grounds, with the Washington Monument dividing the area slightly west of its midpoint. A smaller designation sometimes referred to as the National Mall (proper) excludes both the Capitol grounds and the Washington Monument grounds, applying only to an area between them."
+    },
+    {
+        "label": "True",
+        "sentence": "question: does pete's dragon have a happy ending\npassage: Pete's Dragon (2016 film) -- In the years that follow, Grace and Jack marry and adopt Pete as their son. Not only has Elliot slowly faded from the town's memory, but Gavin has learned to be more scrupulous and has moved on from the experience. Pete and his family eventually go on vacation, and see that Elliot is finally reunited with his fellow dragons."
+    },
+    {
+        "label": "True",
+        "sentence": "question: was the partridge family based on the cowsills\npassage: The Cowsills -- The band's road manager for most of their career was Richard 'Biggie' Korn. When the group expanded to its full family membership by 1967, the six siblings ranged in age from 8 to 19. Joined by their mother, Barbara Cowsill (née Russell), the group inspired the 1970s television show The Partridge Family."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you have twins and have two different fathers\npassage: Superfecundation -- Heteropaternal superfecundation is common in animals such as cats and dogs. Stray dogs can produce litters in which every puppy has a different sire. Though rare in humans, cases have been documented. In one study on humans, the frequency was 2.4% among dizygotic twins whose parents had been involved in paternity suits."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you get a £100 pound note\npassage: Banknotes of the pound sterling -- Not since 1945 has there been bigger notes than £50 issued for general circulation by the Bank of England, although banks in Scotland and Northern Ireland still use £100 notes. However, the Bank of England does produce higher-value notes that are used to maintain parity with Scottish and Northern Irish notes. Banknotes issued by Scottish and Northern Irish banks have to be backed pound for pound by Bank of England notes (other than a small amount representing the currency in circulation in 1845), and special £1 million and £100 million notes are used for this purpose. Their design is based on the old Series A notes."
+    },
+    {
+        "label": "True",
+        "sentence": "question: does cleveland state university have a football team\npassage: Cleveland State Vikings -- On October 14, 2008 Cleveland State University President Michael Schwartz stated ``he wants a blue ribbon panel to give him a recommendation on the football team before July 1 when he is scheduled to retire. He also said the program will have to be structured to pay for itself.'' On November 19, 2008 it was revealed that President Schwartz had chosen the committee members to explore the feasibility of football at Cleveland State. On October 9, 2009 it was announced the University had completed its feasibility study. From April 12--14, 2010 the Cleveland State Student Government Association polled students online about whether they favored football at Cleveland State. The results were as follows."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the national curriculum the same in england and wales\npassage: National Curriculum (England, Wales and Northern Ireland) -- The National Curriculum was introduced into England, Wales and Northern Ireland as a nationwide curriculum for primary and secondary state schools following the Education Reform Act (1988). Notwithstanding its name, it does not apply to independent schools. Academies and free schools may also set their own curricula, though many choose to follow the National Curriculum. Whilst only certain subjects were included at first, in subsequent years the curriculum grew to fill the entire teaching time of most state schools."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there a relationship between molecular weight and diffusion rate\npassage: Graham's law -- Graham's law states that the rate of diffusion or of effusion of a gas is inversely proportional to the square root of its molecular weight. Thus, if the molecular weight of one gas is four times that of another, it would diffuse through a porous plug or escape through a small pinhole in a vessel at half the rate of the other (heavier gases diffuse more slowly). A complete theoretical explanation of Graham's law was provided years later by the kinetic theory of gases. Graham's law provides a basis for separating isotopes by diffusion--a method that came to play a crucial role in the development of the atomic bomb."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there a sequel to the 5th wave\npassage: The Last Star (novel) -- The Last Star is a young adult science fiction novel written by American author Rick Yancey. It was published on May 24, 2016, by G.P. Putnam's Sons. The novel is the third and final in The 5th Wave trilogy, preceded by The Infinite Sea."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is flat bread the same as pita bread\npassage: Pita -- Flat breads rarely appear in Greek cuisine; the Greek word pita means ``pastry''. Various cakes and pastries are pitas, such as spanakopita (spinach pie) and karydopita (walnut cake). Traditional breads in Greek cuisine are leavened loaves, such as the round καρβέλι karvéli or the oblong φραντζόλα frantzóla. The full name of the flat bread known in English as pita bread is aravikē pita (lit. 'Arabic pastry'), though it is also called simply ``pita''. In Greece, pita bread is almost exclusively used as a component of pita-souvlaki sandwich consisting of souvlaki or gyros with tzatziki, tomatoes, onions, french fries, and condiments stuffed into a pita bread pocket."
+    },
+    {
+        "label": "True",
+        "sentence": "question: did eminem win an oscar for 8 mile\npassage: List of awards and nominations received by Eminem -- The Academy Award, also known as the ``Oscar'', is an award presented by the Academy of Motion Picture Arts and Sciences (AMPAS) at an annual ceremony, in recognition of people in the film industry. Eminem won the Academy Award for Best Original Song at the 75th Academy Awards, for his single ``Lose Yourself'' from the soundtrack of 8 Mile."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is arequipe the same as dulce de leche\npassage: Dulce de leche -- The dulce de leche of El Salvador has a soft, crumbly texture, with an almost crystallized form. Central Mexico had versions as manjar (vanilla flavored) or cajeta, which is made from goat's milk, while in the North of the country the ``dulce de leche'' from cow's milk is more common. In Cuba, dulce de leche is made from soured milk that's curdled and then sweetened, called cortada. In the Dominican Republic, it is made with equal parts milk and sugar with cinnamon, and the texture is more like fudge. In Puerto Rico, dulce de leche is sometimes made with unsweetened coconut milk. In Colombia, it is called Arequipe, along with some regional variants, such as Manjar Blanco, which has higher content of milk. In Chile, it is called manjar."
+    },
+    {
+        "label": "False",
+        "sentence": "question: did they have red dot sights in ww1\npassage: Reflector sight -- Since their invention in 1900, reflector sights have come to be used as gun sights on all kinds of weapons. They were used on fighter aircraft, in a limited capacity in World War I, widely used in World War II, and still used as the base component in many types of modern head-up displays. They have been used in other types of (usually large) weapons as well, such as anti-aircraft gun sights, anti tank gun sights, and any other role where the operator had to engage fast moving targets over a wide field of view, and the sight itself could be supplied with sufficient electrical power to function. There was some limited use of the sight on small arms after World War II but it came into widespread use after the late 1970s with the invention of the red dot sight, with a red light-emitting diode (LED) as its reticle, making a dependable sight with durability and extremely long illumination run time."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is scotland still part of the european union\npassage: Scotland -- In the aftermath of the United Kingdom's decision to withdraw from the European Union in 2016, the Scottish Government has called for there to be a joint approach from each of the devolved governments. In early 2017, the devolved governments met to discuss Brexit and agree on Brexit strategies from each devolved government which lead for Theresa May to issue a statement that claims that the devolved governments will not have a central role or decision making process in the Brexit process, but that the UK Government plans to ``fully engage'' Scotland in talks alongside the governments of Wales and Northern Ireland."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are there grizzly bears in the upper peninsula\npassage: Grizzly bear -- There are currently about 55,000 wild grizzly bears total located throughout North America, most of which reside in Alaska. Only about 1,500 grizzlies are left in the lower 48 states of the US. Of these, about 800 live in Montana. About 600 more live in Wyoming, in the Yellowstone-Teton area. There are an estimated 70--100 grizzly bears living in northern and eastern Idaho. Its original range included much of the Great Plains and the southwestern states, but it has been extirpated in most of those areas. Combining Canada and the United States, grizzly bears inhabit approximately half the area of their historical range."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is canada the only country with maple trees\npassage: Maple syrup -- Maple products are considered emblematic of Canada, in particular Quebec, and are frequently sold in tourist shops and airports as souvenirs from Canada. The sugar maple's leaf has come to symbolize Canada, and is depicted on the country's flag. Several US states, including New York, Vermont and Wisconsin, have the sugar maple as their state tree. A scene of sap collection is depicted on the Vermont state quarter, issued in 2001."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can we see both sides of the moon\npassage: Near side of the Moon -- The near side of the Moon is the lunar hemisphere that is permanently turned towards Earth, whereas the opposite side is the far side. Only one side of the Moon is visible from Earth because the Moon rotates on its axis at the same rate that the Moon orbits the Earth -- a situation known as synchronous rotation, or tidal locking."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is last house on the left true story\npassage: The Last House on the Left (1972 film) -- Cunningham served as producer and Craven served as writer and director on the project. Written by Craven in 1971, the original script was intended to be a graphic ``hardcore'' film, with all actors and crew being committed to filming it as such. However, after shooting began, the decision was made to edit the script into a much softer film. This script, written under the title Night of Vengeance, has never been released; only a brief glimpse is visible in the featurette Celluloid Crime of the Century (a 2003 documentary on the making of the film). The crux of the plot is based on the Swedish ballad ``Töres döttrar i Wänge,'' which itself was the basis of Ingmar Bergman's The Virgin Spring (1960), of which Craven was an admirer. Craven envisioned a film in which the violence would be shown in detail onscreen; he felt that many popular films of the era, such as Westerns, glamorized violence and the ``vigilante hero,'' and gave the public a misleading representation of death in the wake of Vietnam War."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is a star is born 2018 a remake\npassage: A Star Is Born (2018 film) -- A Star Is Born is an upcoming American musical romantic drama film produced and directed by Bradley Cooper, in his directorial debut. Cooper also wrote the screenplay with Will Fetters and Eric Roth. A remake of the 1937 film of the same name, it stars Cooper, Lady Gaga, Andrew Dice Clay, Dave Chappelle, and Sam Elliott, and follows a hard-drinking country musician (Cooper) who discovers and falls in love with a young singer (Gaga). It marks the third remake of the original 1937 film (which featured Janet Gaynor and Fredric March), which was adapted into a 1954 musical (starring Judy Garland and James Mason) and then remade as a 1976 rock musical with Barbra Streisand and Kris Kristofferson."
+    },
+    {
+        "label": "True",
+        "sentence": "question: does scotch have to be made in scotland\npassage: Scotch whisky -- Scotch whisky (Scottish Gaelic: uisge-beatha na h-Alba; often simply called Scotch) is malt whisky or grain whisky made in Scotland. Scotch whisky must be made in a manner specified by law."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is star wars the clone wars tv show canon\npassage: Star Wars expanded to other media -- The Star Wars film series itself has never rebooted, however due to the works set after the original trilogy contradicting and deviating from Lucas own view of the Star Wars story a decision was made to discard the EU works from the franchise canon. Lucas decided to cease creative involvement after selling Lucasfilm (the production company of Star Wars) along with the Star Wars franchise itself to The Walt Disney Company in October 2012, and with a sequel trilogy of films and other works in development in order for new films to have creative freedom and prevent them from being beholden by the EU works. Because of Lucas views and the upcoming films needing such creative freedom, the decision was made to rebrand all the EU works as Star Wars Legends and discard them from canon. The only two EU works that remained within the Star Wars franchise canon were the 2008 Star Wars: The Clone Wars animated film and Star Wars: The Clone Wars animated TV series. With few exceptions, most of the non-film works works produced after April 2014 are part of the official canon as defined by Lucasfilm."
+    },
+    {
+        "label": "False",
+        "sentence": "question: do you have to pay to make a reservation at a restaurant\npassage: Table reservation -- Most restaurants do not charge a customer who fails to honor their reservations, and courts have tended not to impose substantial penalties on restaurants that fail to honor reservations. Nonetheless, it is generally considered polite to call and cancel a reservation once it is known one will not use it."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is a caribou the same as an elk\npassage: Elk -- Modern subspecies are descended from elk that once inhabited Beringia, a steppe region between Asia and North America that connected the two continents during the Pleistocene. Beringia provided a migratory route for numerous mammal species, including brown bear, camel, horse, caribou, and moose, as well as humans. As the Pleistocene came to an end, ocean levels began to rise; elk migrated southwards into Asia and North America. In North America they adapted to almost all ecosystems except for tundra, true deserts, and the gulf coast of the U.S. The elk of southern Siberia and central Asia were once more widespread but today are restricted to the mountain ranges west of Lake Baikal including the Sayan and Altai Mountains of Mongolia and the Tianshan region that borders Kyrgyzstan, Kazakhstan, and China's Xinjiang Province. The habitat of Siberian elk in Asia is similar to that of the Rocky Mountain subspecies in North America."
+    },
+    {
+        "label": "True",
+        "sentence": "question: was cheers filmed in front of a live studio audience\npassage: Cheers -- Most Cheers episodes were, as a voiceover stated at the start of each, ``filmed before a live studio audience'' on Paramount Stage 25 in Hollywood, generally on Tuesday nights. Scripts for a new episode were issued the Wednesday before for a read-through, Friday was rehearsal day, and final scripts were issued on Monday. Burrows, who directed most episodes, insisted on using film stock rather than videotape. He was also noted for using motion in his directorial style, trying to constantly keep characters moving rather than standing still. During the first season when ratings were poor Paramount and NBC asked that the show use videotape to save money, but a poor test taping ended the experiment and Cheers continued to use film."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are black beans the same as turtle beans\npassage: Black turtle bean -- The black turtle bean is a small, shiny variety of the common bean (Phaseolus vulgaris), especially popular in Latin American cuisine, though it can also be found in Cajun and Creole cuisines of south Louisiana. Like most common beans, they are native to the Americas, but have been introduced around the world. They are also used in East Indian cooking, Punjabi cuisine and are referred to as black beans and in Maharshtrian cuisine known as ``Kala Ghevada''. They are used interchangeably with vigna mungo in countries such as the US. They are often simply called black beans (frijoles negros, zaragoza, judía negra, poroto negro, caraota o habichuela negra in Spanish, and feijão preto in Portuguese), although this can cause confusion with other black beans."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is it possible to remember being 1 years old\npassage: Childhood amnesia -- Some research has demonstrated that children can remember events from the age of 1, but that these memories may decline as children get older. Most psychologists differ in defining the offset of childhood amnesia. Some define it as the age from which a first memory can be retrieved. This is usually at the age of 3 or 4, but it can range from 2 to 8 years."
+    },
+    {
+        "label": "True",
+        "sentence": "question: do archie and betty end up together in the comics\npassage: Archie Marries Veronica/Archie Marries Betty -- As the next few months pass, Archie & Betty become two of the most popular teachers at Riverdale High, and as Betty's pregnancy advances, they start to have less time for the rest of the old gang. Then one fall day, as Archie plans to go for a bike ride, Betty goes into labor while he goes into a panic. Instead of calling an ambulance, Archie calls the water department. Archie then drives Betty to the hospital, but they end up getting a flat tire. Luckily, Archie had his bike in the trunk, and takes her the rest of the way by bike. After a few misunderstandings at the admitting desk, Betty is rushed to the maternity ward, and soon gives birth to twins; a red haired boy named Archie and a blonde haired girl named Betty. Soon, Mr. & Mrs. Cooper and Mr. & Mrs. Andrews arrive along with all their friends and colleagues. Archie and Betty ask Jughead, Veronica and Reggie to be the twins' godparents, while Reggie & Veronica ask them to be their best man and maid of honor at their wedding. The next weekend they fly the whole gang out to Las Vegas for the star studded ceremony."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is harry potter and the half blood prince in two parts\npassage: Harry Potter and the Half-Blood Prince (film) -- Harry Potter and the Half-Blood Prince is a 2009 fantasy film directed by David Yates and distributed by Warner Bros. Pictures. It is based on the 2005 novel of the same name by J.K. Rowling. The film, which is the sixth instalment in the Harry Potter film series, was written by Steve Kloves and produced by David Heyman and David Barron. The story follows Harry Potter's sixth year at Hogwarts as he receives a mysterious textbook, falls in love, and attempts to retrieve a memory that holds the key to Lord Voldemort's downfall."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is weight always equal to the normal force\npassage: Normal force -- For a person standing in an elevator either stationary or moving at constant velocity, the normal force on the person's feet balances the person's weight. In an elevator that is accelerating upward, the normal force is greater than the person's ground weight and so the person's perceived weight increases (making the person feel heavier). In an elevator that is accelerating downward, the normal force is less than the person's ground weight and so a passenger's perceived weight decreases. If a passenger were to stand on a weighing scale, such as a conventional bathroom scale, while riding the elevator, the scale will be reading the normal force it delivers to the passenger's feet, and will be different than the person's ground weight if the elevator cab is accelerating up or down. The weighing scale measures normal force (which varies as the elevator cab accelerates), not gravitational force (which does not vary as the cab accelerates)."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is blue cross blue shield a not for profit organization\npassage: Blue Cross Blue Shield Association -- In 1994, BCBS changed to allow its licensees to be for-profit corporations. During 2010, Health Care Service Corporation, the parent company of BCBS in Texas, Oklahoma, New Mexico, Montana and Illinois, nearly doubled its income to $1.09 billion in 2010, and began four years of billion-dollar profits. In the final spending bill for FY 2015 after much lobbying since 2010, nonprofit Blue Cross and Blue Shield plans continue to have special tax breaks that were understood to be threatened by the Affordable Care Act of 2010."
+    },
+    {
+        "label": "False",
+        "sentence": "question: the fermentation of sugar to alcohol can take place only if living yeast cells are present\npassage: Fermentation -- Although showing fermentation to be the result of the action of living microorganisms was a breakthrough, it did not explain the basic nature of the fermentation process, or prove that it is caused by the microorganisms that appear to be always present. Many scientists, including Pasteur, had unsuccessfully attempted to extract the fermentation enzyme from yeast. Success came in 1897 when the German chemist Eduard Buechner ground up yeast, extracted a juice from them, then found to his amazement that this ``dead'' liquid would ferment a sugar solution, forming carbon dioxide and alcohol much like living yeasts. Buechner's results are considered to mark the birth of biochemistry. The ``unorganized ferments'' behaved just like the organized ones. From that time on, the term enzyme came to be applied to all ferments. It was then understood that fermentation is caused by enzymes that are produced by microorganisms. In 1907, Buechner won the Nobel Prize in chemistry for his work."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is captain marvel a female in the comics\npassage: Carol Danvers -- Carol Susan Jane Danvers is a fictional superhero appearing in American comic books published by Marvel Comics. Created by writer Roy Thomas and artist Gene Colan, Danvers first appeared as an officer in the United States Air Force and a colleague of the Kree superhero Mar-Vell in Marvel Super-Heroes #13 (March 1968) and later became the first incarnation of Ms. Marvel in Ms. Marvel #1 (cover-dated January 1977) after her DNA was fused with Mar-Vell's during an explosion, giving her superhuman powers. Debuting in the Silver Age of comics, the character was featured in a self-titled series in the late 1970s before becoming associated with the superhero teams the Avengers and the X-Men. The character has also been known as Binary, Warbird and Captain Marvel at various points in her history, and has been featured in other Marvel licensed products including video games, animated television series, and merchandise such as trading cards."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can two houses have the same postal code\npassage: Postal code -- Although postal codes are usually assigned to geographical areas, special codes are sometimes assigned to individual addresses or to institutions that receive large volumes of mail, such as government agencies and large commercial companies. One example is the French CEDEX system."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can we consider rainfall as a source of irrigation\npassage: Irrigation -- Irrigation is the application of controlled amounts of water to plants at needed intervals. Irrigation helps to grow agricultural crops, maintain landscapes, and revegetate disturbed soils in dry areas and during periods of less than average rainfall. Irrigation also has other uses in crop production, including frost protection, suppressing weed growth in grain fields and preventing soil consolidation. In contrast, agriculture that relies only on direct rainfall is referred to as rain-fed or dry land farming."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you have dual citizenship in the netherlands\npassage: Dutch nationality law -- Although Dutch law restricts dual citizenship, it is possible for Dutch subjects to legally hold dual citizenship in a number of circumstances, including:"
+    },
+    {
+        "label": "False",
+        "sentence": "question: is maniac on netflix based on a book\npassage: Maniac (miniseries) -- Maniac is an American psychological dark comedy-drama web television miniseries based on the Norwegian television series of the same name by Espen PA Lervaag, Håakon Bast Mossige, Kjetil Indregard, and Ole Marius Araldsen, that premiered on September 21, 2018 on Netflix. The series, created by Patrick Somerville and directed by Cary Joji Fukunaga, follows two strangers who connect during a mind-bending pharmaceutical trial. It stars Emma Stone, Jonah Hill, Justin Theroux, Sonoya Mizuno, Gabriel Byrne, and Sally Field."
+    }
+]

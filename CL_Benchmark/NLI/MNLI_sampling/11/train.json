@@ -1,0 +1,242 @@
+[
+    {
+        "sentence": "sentence 1: It was off the coast here that Commodore Matthew Perry, ordered by the US government to open diplomatic relation with Japan by force if necessary, anchored his fleet of black ships.\nsentence 2: Commodore Matthew Perry never brought any ships near the coastline here. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The act requires that auditors for each of the 24 departments and agencies named in the CFO Act report, as part of their annual audits of the agenciesa financial statements, whether the agenciesa financial management systems comply substantially with federal financial management systems requirements, applicable federal accounting standards, and SGL at the transaction level.\nsentence 2: The report should have included more agencies.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: That disposes of that.\"\nsentence 2: There is nothing left of it.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: yeah yeah and and even changing the things i mean first off i i mean you need to address do you even need to change the signs because for so long people are going are going to be able to equate miles to kilometers i mean when you drive around Europe you do the same thing\nsentence 2: When you drive around Europe, you  have to equate miles to kilometers.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: It is impossible to name a single amusing movie that takes place beneath the waves.\nsentence 2: There aren't many sea based movies.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The men work in the fields or at their boats, with older men at the kafeneion or coffee shop where the world is put to rights over a strong caf?? ellenikos.\nsentence 2: Agriculture and boating are important parts of life.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: In the New Republic , James Wood calls Toni Morrison's Paradise trite and  It forces magic and pure rhapsodies on its characters like a demented anesthetist bullying patients with laughing gas.\nsentence 2: Toni Morrison's Paradise is compared with the torture of patients with laughing gas.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: yeah local uh-huh there you go that's right that's true i understand that\nsentence 2: That's right because it's fair and I understand that.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: An ambitious plan for a hexagonally based church, raised above the ground on stilts and with stained-glass windows by Pollock, came to nothing.\nsentence 2: The complex plan of the church, came to nothing, but it's still an example for architects and designers.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Further details are provided in Appendix 5.2.\nsentence 2: The appendix has no more information.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Horse races were held here in the 1780s, and also five World Fairs between 1867 and 1937.\nsentence 2: The area hosted five World Fairs in the 19th and 20th century and in 18th century was home to horse races.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The Scotland Yard men came and went, examining, questioning, lynx-eyed and reserved of tongue. \nsentence 2: The fellows from Scotland Yard appeared and left.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: If a decision is made to commit to develop and produce a design before the critical technology, design, or manufacturing knowledge is captured, problems will cascade and become magnified through the product development and production phases.\nsentence 2: If you decide to produce a design before becoming comfortable with the technology, design, or manufacturing, then there will be a buildup of many problems in later phases.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: But these targets still seem far out of reach.\nsentence 2: The archery targets were really far away.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: They are going to come and we are going to die.\nsentence 2: The people will arrive.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: yeah you know the less actually the less you spend on a car it seems like luxury cars they're called luxury cars even though they're much more expensive like like uh um a Mercedes Benz they don't have the history of breaking down or things like that that would go wrong would definitely not be considered disposable\nsentence 2: Mercedes Benz only break down half as often as other car makes do.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Want to find out how many times and in what context the aspect ratio of envelopes was mentioned in the current rate case?\nsentence 2: Do you want to know how often envelope aspect ratios were mentioned?",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: What the hell   Tommy interrupted him.\nsentence 2: What the devil, Tommy cut him off.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Throughout the story of Brian Arthur's travails, people make the kind of dramatic, pithy remarks that almost never get uttered in real life.\nsentence 2: Pithy and dramatic remarks are unspoken in Brain Arthur's travails. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: When all were out, Bork tapped the egg-shaped object and caught it as it shrank.\nsentence 2: When none were out, Bork smashed the egg-shaped object.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Mary shivered a little, and buttoned her black sports coat closer. \nsentence 2: Mary wasn't feeling cold. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: yes finally we did it didn't take\nsentence 2: In fact, I think it was only ten minutes.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Likewise, had Talmudic authors had the sanitary conditions of today, laws for keeping kosher might have been much less stringent or possibly omitted altogether.\nsentence 2: Kosher laws have not been enforced by Talmudic authors.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Plans are in place to turn the house into a museum charting the life and works of this extraordinary man.\nsentence 2: There are no plans to turn his house into a museum.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: really oh wow that's impressive\nsentence 2: Oh wow, really? That's impressive.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The largest cave is called the Cathedral because of its size and scale.\nsentence 2: You can go into the Cathedral and experience the darkness around you.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Her eyes were calm.\nsentence 2: She gave the man a calm glance.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: You've got the right idea, but you're too slow.\nsentence 2: You may be right, but you're not fast enough.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: i guess when you're in a big metropolitan area like this or i guess a lot of pressure in that business to\nsentence 2: There's some pressure in business in metropolitan areas.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: \"No.\" Drew knew that sounded curt, but Oliveri ruffled him.\nsentence 2: Drew sounded discourteous but Oliveri had angered him.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Next is the King's Bedchamber, perhaps the most richly decorated room in the royal apartments.\nsentence 2: The King kept his bedchamber as basic as possible.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Down to Gatehouse, sure.\nsentence 2: No, not down to the Gatehouse.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: yes i'm i'm i have some great concerns about uh my my parents and my relatives reaching that age um around here where i live in Maryland in the Washington area there's there's and uh i used to live down in Dallas there was just so many stories about uh rest homes where the people are being abused where the people are being kept in filthy conditions in fact here in Baltimore they've actually shut a couple of them down and taken all the people out of them because they were so uh bug infested and rat infested and it i you know really concerns me that um first of all that anyone could let someone live like that but if you have to you know how do you make sure i mean i'm sure when you make your appointment and go by everybody puts on a happy face um you know how are you sure that the home is really as good as it is because once you put someone into there you know they may not like the fact that they've been put in there and they might complain about the place all the time even though it's the best place in the whole world they could be just because they want to make you feel guilty for putting them in there and you know\nsentence 2: I live in Maryland but at one point I was in Dallas, I have heard horror stories about people trying to rent places down there.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: In some ways, this is the only way to make an intolerable situation somehow manageable.\nsentence 2: This wasy is the easiest way to manage an intolerable situation.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: What's on ABC, folks?\nsentence 2: I do not want to know what is on ABC.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Ryugen-in has five distinct rock gardens, one of which is apparently the smallest in Japan.\nsentence 2: You can find the smallest rock garden in Japan at the Ryugen-in.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Nye stepped back and let him pass.\nsentence 2: Although Nye stepped back, Smith did not.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The moral guilt, Tuppence pointed out, \"would be theirs not mine.\nsentence 2: Tuppence was feeling moral guilt.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Yes, said Jon.\nsentence 2: Jon confirmed it to the people. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: uh-huh yeah i think do you find that as a woman that you probably see more things of invasions of privacy than uh a man would\nsentence 2: Men think you're invading their privacy more often than women do.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: right yeah well that's a good thing to do\nsentence 2: That is a bad thing to do. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: If they sense treachery, or worse, if they sense what you can do, they will kill you.\nsentence 2: They'll be accepting of you if you just let them know your intentions. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Personal saving plays a dual role, ensuring both individuals' retirement security and the nation's economic security.\nsentence 2: Savings ensure an individuals retirement security as well as the nations economic security.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: When an individual delays retirement saving, that individual enjoys the additional consumption in the early years and then personally bears the burden of saving larger amounts later, working longer, or accepting a lower standard of living in retirement.\nsentence 2: Saving for retirement now has no benefits down the road.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Somebody always talks! \nsentence 2: Somebody will always speak.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: It now houses the castle cafe with a good selection of snacks and hot meals but was originally used to store the provisions carts.\nsentence 2: It has the cafe in it.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: A 1923 pineapple plantation guesthouse for company executives, this country inn near the town square caters to outdoor enthusiasts.\nsentence 2: The country inn just opened in 2017, as a newly constructed building in the rural part of town.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: But if you're an optimist and expect to practice future self-control, you'll be inclined to save your money and pass it along into your own future good hands.\nsentence 2: If you're an optimist, it's good to save and invest your money.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: No one had been able to revive him, though bringing the dead back to life when the body was reasonably intact was routine magic that even a sersa could perform.\nsentence 2: No one could revive him even though it should have been easy.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: but i mean the i mean there's nothing to do like for example yesterday\nsentence 2: There is always something to do everyday.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Once approved, by signature, the form without the supporting documents was forwarded to Treasury (for civil agencies) or another unit under the disbursing officer (for DOD) for actual payment.\nsentence 2: Civilian and DOD forward their payments to the same place.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: You might imagine I loved covering him.\nsentence 2: I loved saving him.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Having done so, they finally agree to marry but with  She has privacy, freedom to pursue her own life and friends, control over money, etc.\nsentence 2: Despite their eventual agreement to wed, she still had her own privacy, freedom and control.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: When Clinton lawyer Bob Bennett requested that the Paula Jones trial begin sooner than scheduled, reporters construed it as a display of confidence.\nsentence 2: Bob Bennett had never before requested that a trial begin sooner, so it showed he was really confident.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Once I heard of a fine swordsman who traveled halfway across the desert to fight his nemesis in these pits, said Adrin.\nsentence 2: A swordsman ran away so he didn't have to fight.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Their direct observations form the primary data source for our report.\nsentence 2: Our primary data source is their direct observations.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: really yes well i had that that cat that i mentioned i'll be one morning and you know the first thing you do is you get up and you you you you you you feed this cat something something and and you make sure that it can get to its litterbox well\nsentence 2: The first thing you do in the morning is feed the cat. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Drew knew that feeling also.\nsentence 2: Drew was familiar with the feeling. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: If the Postal Service should have a greater degree of pricing freedom and be able to engage in negotiations with selected mailers, one way to provide such freedom, even without further changes, would be to allow the Postal Service to operate under inverse price caps.\nsentence 2: The postal service has no freedom in pricing things. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The raven-haired beauty, her voluptuous curves thrusting against the tight fabric of a low-cut white dress, stood outside the door of the Oval Office near midnight, a come-hither look in her flashing, dark eyes.\nsentence 2: Dressed modestly, the homely woman stood outside the Oval Office waiting for no one in particular.",
+        "label": "contradiction"
+    }
+]

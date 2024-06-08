@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "Text: a cultural wildcard experience : wacky , different , unusual , even nutty . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: with wit it plays like a reading from bartlett 's familiar quotations ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: mel brooks ' borscht belt schtick look sophisticated ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: dialogue and likeable characters ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: a spectacular completion one ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: downer ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: seem tiresomely simpleminded ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: an unsympathetic hero ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: agreeably startling ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: it 's not going to be everyone 's bag of popcorn , but it definitely gives you something to chew on ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: the color sense of stuart little 2 is its most immediate and most obvious pleasure , ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: the overall fabric is hypnotic , and ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: a cruel deception carried out by men of marginal intelligence , with reactionary ideas about women and a total lack of empathy ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: runs on the pure adrenalin of pacino 's performance ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: jeong-hyang lee 's film is deceptively simple , deeply satisfying . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: wo n't be disappointed ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: 11 times too many ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: invented ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: an interesting story of pointed personalities , courage , tragedy and the little guys ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: warped logic by writer-director kurt wimmer ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: of two fine actors , morgan freeman and ashley judd ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: watching this film , one is left with the inescapable conclusion that hitchens ' obsession with kissinger is , at bottom , a sophisticated flower child 's desire to purge the world of the tooth and claw of human power . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: while cherish does n't completely survive its tonal transformation from dark comedy to suspense thriller , it 's got just enough charm and appealing character quirks to forgive that still serious problem . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: 's worth the price of admission for the ridicule factor alone ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: while clearly a manipulative film , emerges as powerful rather than cloying ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: starts off witty and sophisticated and you want to love it -- but filmmaker yvan attal quickly writes himself into a corner . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: still , the updated dickensian sensibility of writer craig bartlett 's story is appealing . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: with stunning animation ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: maudlin ending ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: is often preachy and poorly acted ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: hell-jaunt ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: is pleasant , diverting and modest ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: funny look ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: you 'll feel like you ate a reeses without the peanut butter ... ' ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: have been any easier to sit through than this hastily dubbed disaster ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: director shekhar kapur and screenwriters michael schiffer and hossein amini have tried hard to modernize and reconceptualize things , but the barriers finally prove to be too great . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: brash young men set out to conquer the online world with laptops , cell phones and sketchy business plans ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: the film has a terrific look ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: while the production details are lavish ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: to tiresome jargon ",
+        "label": "Bad"
+    }
+]

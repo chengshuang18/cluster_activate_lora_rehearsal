@@ -1,0 +1,34 @@
+[
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The child kicked the stack of blocks.\"? Choose one between A and B.\nA: The stack towered over the boy's head.\nB: The blocks scattered all over the rug."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The man threw out the bread.\"? Choose one between A and B.\nA: It was fresh.\nB: It was stale."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The mother suspected that her son was lying.\"? Choose one between A and B.\nA: He refused to talk to her.\nB: He avoided making eye contact with her."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The boy mimicked his older brother.\"? Choose one between A and B.\nA: The boy looked up to his older brother.\nB: The boy wrestled with his older brother."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"My body cast a shadow over the grass.\"? Choose one between A and B.\nA: The sun was rising.\nB: The grass was cut."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The cook stirred the ingredients in the bowl.\"? Choose one between A and B.\nA: The ingredients melted.\nB: The ingredients blended together."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The police aimed their weapons at the fugitive.\"? Choose one between A and B.\nA: The fugitive fell to the ground.\nB: The fugitive dropped his gun."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the effect of \"The farmland needed irrigation.\"? Choose one between A and B.\nA: A canal was constructed.\nB: A flood occurred."
+    }
+]

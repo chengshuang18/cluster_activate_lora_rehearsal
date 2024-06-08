@@ -1,0 +1,22 @@
+[
+    {
+        "label": "neutral",
+        "sentence": "sentence 1: A: Well I, uh, when is your next one, uh, scheduled now. B: Well it's like, the last one was my high school graduation the next one was when I graduated from college, so I guess about two more years. A: Yes, well, and do you think you'll have a baby to take back with you.\nsentence 2: speaker B will have a baby to take back with her"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: Did he intend everyone in the castle to know he did not want the wife he had married in such a hurry? Did he intend to ignore her completely? Then Isabel saw Ellen's stunned face and realised that her maid at least did not know she had spent the night alone.\nsentence 2: Isabel had spent the night alone"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: Matthew rode on feeling a little more at peace with himself. He skirted the spruce plantation and supposed that at some point he should tell Sara about it. He could imagine that she might be interested in its money-making propensity at the end of the year.\nsentence 2: Sara might be interested in its money-making propensity at the end of the year"
+    },
+    {
+        "label": "neutral",
+        "sentence": "sentence 1: B: Right. And I'm sure that would make a big difference, too. You know, you've got, A: Yeah. Well, what about a voluntary program? Do you think that would be a good idea?\nsentence 2: a voluntary program would be a good idea"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: A: so I watch the fish, you know. Whatever I can do to keep myself occupied. I like to have the TV on, because that usually keeps me, um, more occupied. It kind of takes the time away and I don't realize, that's really the only time I ever watch TV, is when I'm on the bike. and then usually after I'm done riding the bike, just to cool myself down, I usually take a walk, you know, and that just kind of uh, gets me, you know, to where I'm not quite as tired I guess. But it's definitely a task. B: You think so? A: I can't say that I really enjoy it.\nsentence 2: she really enjoys it"
+    }
+]

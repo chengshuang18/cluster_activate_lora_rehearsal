@@ -4,12 +4,28 @@
     "TC": [
     ],
     "NLI": [   
+        {
+            "sampling strategy": "full",
+            "dataset name": "MNLI_sampling/6"
+        },
+        {
+            "sampling strategy": "full",
+            "dataset name": "CB_sampling/6"
+        } 
     ],
     "QQP": [ 
     ],
     "WiC": [ 
+        {
+            "sampling strategy": "full",
+            "dataset name": "WiC_sampling/6"
+        }
     ],
     "MultiRC": [ 
+        {
+            "sampling strategy": "full",
+            "dataset name": "MultiRC_sampling/6"
+        }
     ],
     "COPA": [
         {
@@ -18,5 +34,9 @@
         }
     ],
     "BoolQA": [
+        {
+            "sampling strategy": "full",
+            "dataset name": "BoolQA_sampling/6"
+        }
     ]
 }

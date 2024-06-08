@@ -1,21 +1,57 @@
 {
     "SC": [
+        {
+            "sampling strategy": "full",
+            "dataset name": "amazon_sampling/10"
+        },
+        {
+            "sampling strategy": "full",
+            "dataset name": "yelp_sampling/10"
+        },
+        {
+            "sampling strategy": "full",
+            "dataset name": "IMDB_sampling/10"
+        },
+        {
+            "sampling strategy": "full",
+            "dataset name": "SST-2_sampling/10"
+        }
     ],
-    "TC": [
+    "TC": [   
         {
             "sampling strategy": "full",
             "dataset name": "dbpedia"
+        }  
+    ],
+    "NLI": [
+        {
+            "sampling strategy": "full",
+            "dataset name": "MNLI_sampling/10"
+        },
+        {
+            "sampling strategy": "full",
+            "dataset name": "CB_sampling/10"
+        },
+        {
+            "sampling strategy": "full",
+            "dataset name": "RTE_sampling/10"
         } 
     ],
-    "NLI": [   
-    ],
-    "QQP": [ 
+    "QQP": [  
+        {
+            "sampling strategy": "full",
+            "dataset name": "QQP_sampling/10"
+        } 
     ],
     "WiC": [ 
     ],
     "MultiRC": [ 
     ],
-    "COPA": [
+    "COPA": [ 
+        {
+            "sampling strategy": "full",
+            "dataset name": "COPA_sampling/10"
+        } 
     ],
     "BoolQA": [
     ]

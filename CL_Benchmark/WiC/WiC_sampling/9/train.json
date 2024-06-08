@@ -1,0 +1,162 @@
+[
+    {
+        "label": "False",
+        "sentence": "word: dress\nShe likes to dress when going to the opera.\nDress the plants in the garden."
+    },
+    {
+        "label": "True",
+        "sentence": "word: variant\nA variant of the same word.\nAll breeds of dog are variants of the species \"Canis lupus familiaris\"."
+    },
+    {
+        "label": "False",
+        "sentence": "word: top\nTop the evening with champagne.\nTop and tail the carrots."
+    },
+    {
+        "label": "True",
+        "sentence": "word: admit\nWe can not admit non-members into our club building.\nShe admitted us here."
+    },
+    {
+        "label": "False",
+        "sentence": "word: draw\nDraw a weapon.\nThe President's comments drew sharp criticism from the Republicans."
+    },
+    {
+        "label": "False",
+        "sentence": "word: shock\nHe had an unruly shock of black hair.\nThe train hit the buffers with a great shock."
+    },
+    {
+        "label": "False",
+        "sentence": "word: extend\nExtend a hand.\nMy land extends over the hills on the horizon."
+    },
+    {
+        "label": "False",
+        "sentence": "word: hit\nWe were hit by really bad weather.\nThe temperature could hit 110 F tomorrow."
+    },
+    {
+        "label": "True",
+        "sentence": "word: connect\nThe new railroad will connect the northern part of the state to the southern part.\nThese computers connected well."
+    },
+    {
+        "label": "False",
+        "sentence": "word: ditch\nDitch a plane.\nDitch a lover."
+    },
+    {
+        "label": "False",
+        "sentence": "word: hollow\nThe hollow of the hand or of a tree.\nHe built himself a cabin in a hollow high up in the Rockies."
+    },
+    {
+        "label": "True",
+        "sentence": "word: time\nIt took more than half my time.\nTake time to smell the roses."
+    },
+    {
+        "label": "True",
+        "sentence": "word: bit\nI gave him a bit of my mind.\nA bit of lint."
+    },
+    {
+        "label": "False",
+        "sentence": "word: demand\nThe automobile reduced the demand for buggywhips.\nHis demands for attention were unceasing."
+    },
+    {
+        "label": "True",
+        "sentence": "word: play\nPlay the casinos in Trouville.\nPlay the races."
+    },
+    {
+        "label": "True",
+        "sentence": "word: head\n200 head of cattle.\n12 head of big cattle and 14 head of branded calves."
+    },
+    {
+        "label": "False",
+        "sentence": "word: catch\nCatch one's breath.\nThe fire caught."
+    },
+    {
+        "label": "False",
+        "sentence": "word: direction\nIs the direction of the economy a function of government?\nI couldn't follow the direction of his thoughts."
+    },
+    {
+        "label": "True",
+        "sentence": "word: blowout\nThe right front tire had a blowout.\nAs a result of the blowout we lost all the lights."
+    },
+    {
+        "label": "True",
+        "sentence": "word: work\nDo you want to work after the age of 60?\nMy wife never worked."
+    },
+    {
+        "label": "True",
+        "sentence": "word: taste\nThe melon had a delicious taste.\nThe candy left him with a bad taste."
+    },
+    {
+        "label": "False",
+        "sentence": "word: floor\nWe spread our sleeping bags on the dry floor of the tent.\nThe fire spared the forest floor."
+    },
+    {
+        "label": "True",
+        "sentence": "word: avoid\nHer former friends now avoid her.\nHe avoided his nagging."
+    },
+    {
+        "label": "True",
+        "sentence": "word: application\nThe application of indexes to tables of data.\nMassage has far-reaching medical applications."
+    },
+    {
+        "label": "True",
+        "sentence": "word: arouse\nTo arouse anger.\nArouse pity."
+    },
+    {
+        "label": "True",
+        "sentence": "word: court\nThe girls were playing in the court.\nThe house was built around an inner court."
+    },
+    {
+        "label": "False",
+        "sentence": "word: thing\nA thing of the spirit.\nA funny thing happened on the way to the ..."
+    },
+    {
+        "label": "False",
+        "sentence": "word: point\nHe stuck the point of the knife into a tree.\nHe knows my bad points as well as my good points."
+    },
+    {
+        "label": "False",
+        "sentence": "word: round\nA round of pleasures.\nThe story is going the rounds in Washington."
+    },
+    {
+        "label": "False",
+        "sentence": "word: line\nHe's not in my line of business.\nHistorians can only point out those lines for which evidence is available."
+    },
+    {
+        "label": "True",
+        "sentence": "word: formation\nThe formation of crystals.\nThe formation of pseudopods."
+    },
+    {
+        "label": "False",
+        "sentence": "word: time\nThe judge leniently granted a sentence with no hard time.\nHe had a time holding back the tears."
+    },
+    {
+        "label": "True",
+        "sentence": "word: stiff\nA working stiff.\nA lucky stiff."
+    },
+    {
+        "label": "False",
+        "sentence": "word: attendance\nA student's attendance is an important factor in her grade.\nThe class sat down so that the teacher could take attendance."
+    },
+    {
+        "label": "True",
+        "sentence": "word: cover\nCover the grave with flowers.\nCover her face with a handkerchief."
+    },
+    {
+        "label": "True",
+        "sentence": "word: plan\nThey drew up a six-step plan.\nThey discussed plans for a new bond issue."
+    },
+    {
+        "label": "False",
+        "sentence": "word: leak\nI have to take a leak.\nThe leaks by Chelsea Manning showed the secrets of the US military."
+    },
+    {
+        "label": "False",
+        "sentence": "word: leave\nShe didn't leave until midnight.\nThe president's remarks left us speechless."
+    },
+    {
+        "label": "False",
+        "sentence": "word: take\nYou can't take credit for this!\nWe took an apartment on a quiet street."
+    },
+    {
+        "label": "False",
+        "sentence": "word: ride\nI ride to work in a bus.\nShe rode a wave of popularity."
+    }
+]

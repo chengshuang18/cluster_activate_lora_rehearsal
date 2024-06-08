@@ -1,0 +1,162 @@
+[
+    {
+        "label": "True",
+        "sentence": "word: rock\nHe threw a rock at me.\nSome fool has thrown a rock through my window."
+    },
+    {
+        "label": "True",
+        "sentence": "word: exercise\nSome parents exercise their infants.\nThis puzzle will exercise your mind."
+    },
+    {
+        "label": "False",
+        "sentence": "word: thing\nA thing of the spirit.\nA funny thing happened on the way to the ..."
+    },
+    {
+        "label": "False",
+        "sentence": "word: act\nShe wants to act Lady Macbeth, but she is too young for the role.\nThe dog acts ferocious, but he is really afraid of people."
+    },
+    {
+        "label": "True",
+        "sentence": "word: touch\nI wouldn't touch her with a ten-foot pole.\nThe local Mafia won't touch gambling."
+    },
+    {
+        "label": "True",
+        "sentence": "word: empathize\nYou really have to empathize.\nYou really have to empathize with them."
+    },
+    {
+        "label": "True",
+        "sentence": "word: pay\nHow much does this savings certificate pay annually?\nTo pay attention."
+    },
+    {
+        "label": "True",
+        "sentence": "word: complexion\nA liberal political complexion.\nHe altered the complexion of his times."
+    },
+    {
+        "label": "True",
+        "sentence": "word: pull\nThe spaceship came under the pull of the gas giant.\nThe pull of the current."
+    },
+    {
+        "label": "True",
+        "sentence": "word: season\nShe always looked forward to the avocado season.\nHe celebrated his 10th season with the ballet company."
+    },
+    {
+        "label": "False",
+        "sentence": "word: develop\nDevelop a market for the new mobile phone.\nMany countries in Asia are now developing at a very fast pace."
+    },
+    {
+        "label": "True",
+        "sentence": "word: persuasion\nI am not of your persuasion.\nIt is his persuasion that abortion should never be condoned."
+    },
+    {
+        "label": "True",
+        "sentence": "word: part\nShe played the part of Desdemona.\nWe all have a part to play."
+    },
+    {
+        "label": "True",
+        "sentence": "word: stay\nStay alone.\nI can only stay for an hour."
+    },
+    {
+        "label": "True",
+        "sentence": "word: year\nIn the year 1920.\nA normal year has 365 full days, but there are 366 days in a leap year."
+    },
+    {
+        "label": "True",
+        "sentence": "word: seek\nSeek happiness.\nSeek a position."
+    },
+    {
+        "label": "False",
+        "sentence": "word: make\nMake my day.\nMake revolution."
+    },
+    {
+        "label": "True",
+        "sentence": "word: strip\nStrip a wall of its wallpaper.\nNorm will strip the old varnish before painting the chair."
+    },
+    {
+        "label": "False",
+        "sentence": "word: make\nMake a stir.\nMake friends."
+    },
+    {
+        "label": "False",
+        "sentence": "word: answer\nShe didn't want to answer.\nThis may answer her needs."
+    },
+    {
+        "label": "False",
+        "sentence": "word: develop\nDevelop a market for the new mobile phone.\nPlease develop this roll of film."
+    },
+    {
+        "label": "False",
+        "sentence": "word: raise\nRaise an army.\nRaise your 'o'."
+    },
+    {
+        "label": "True",
+        "sentence": "word: stuff\nWhat is all that stuff on your bedroom floor?\nHe didn't want his pockets to bulge so he was walking around with all his stuff in his hands."
+    },
+    {
+        "label": "True",
+        "sentence": "word: period\nA time period of 30 years.\nHastened the period of time of his recovery."
+    },
+    {
+        "label": "False",
+        "sentence": "word: focus\nThe controversy brought clearly into focus an important difference of opinion.\nThe focus of activity shifted to molecular biology."
+    },
+    {
+        "label": "False",
+        "sentence": "word: fire\nThere was a fire at the school last night and the whole place burned down.\nWe sat around the fire singing songs and telling stories."
+    },
+    {
+        "label": "False",
+        "sentence": "word: drive\nDrive a car or bus.\nMy new truck drives well."
+    },
+    {
+        "label": "False",
+        "sentence": "word: line\nA dedicated line.\nThe letter consisted of three short lines."
+    },
+    {
+        "label": "True",
+        "sentence": "word: accept\nThe Boy Scouts were going to accept him as a member.\nAccept students for graduate study."
+    },
+    {
+        "label": "False",
+        "sentence": "word: strength\nThe strength of the company's stock in recent weeks.\nFatigue sapped his strength."
+    },
+    {
+        "label": "True",
+        "sentence": "word: year\nThis Chinese year is the year of the Rooster.\nShe is 4 years old."
+    },
+    {
+        "label": "False",
+        "sentence": "word: shock\nSubjects received a small electric shock when they made the wrong response.\nIt came as a shock to learn that he was injured."
+    },
+    {
+        "label": "True",
+        "sentence": "word: call\nThe mayor likes to call on some of the prominent citizens.\nThe engineer called round whilst you were away."
+    },
+    {
+        "label": "True",
+        "sentence": "word: empathize\nYou really have to empathize with them.\nYou've really got to empathize with what they want."
+    },
+    {
+        "label": "False",
+        "sentence": "word: field\nThere are several species of wild flowers growing in this field.\nThis racehorse is the strongest in a weak field."
+    },
+    {
+        "label": "True",
+        "sentence": "word: peak\nThe stock market reached a peak in September 1929.\nVoltage peak."
+    },
+    {
+        "label": "True",
+        "sentence": "word: tension\nThere is a tension between these approaches to understanding history.\nThere is a tension created between narrative time and movie time."
+    },
+    {
+        "label": "False",
+        "sentence": "word: face\nAn angry face.\nWhy the sad face?"
+    },
+    {
+        "label": "False",
+        "sentence": "word: slot\nThe TV program has a new time slot.\nHe put a quarter in the slot."
+    },
+    {
+        "label": "False",
+        "sentence": "word: round\nWe enjoyed our round of the local bars.\nThe story is going the rounds in Washington."
+    }
+]

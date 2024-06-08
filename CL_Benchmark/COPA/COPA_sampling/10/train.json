@@ -1,0 +1,34 @@
+[
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The woman betrayed her friend.\"? Choose one between A and B.\nA: Her friend sent her a greeting card.\nB: Her friend cut off contact with her."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The man was bitten by mosquitoes.\"? Choose one between A and B.\nA: He went camping in the woods.\nB: He fell asleep on his couch."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the effect of \"The school principal implemented a dress code.\"? Choose one between A and B.\nA: Students protested the decision.\nB: Students were expelled from school."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The young woman was denied entrance into the bar.\"? Choose one between A and B.\nA: Her friends stood her up.\nB: She forgot her ID."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The man fell unconscious.\"? Choose one between A and B.\nA: The assailant struck the man in the head.\nB: The assailant took the man's wallet."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The detective flashed his badge to the police officer.\"? Choose one between A and B.\nA: The police officer confiscated the detective's badge.\nB: The police officer let the detective enter the crime scene."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The scientist gained recognition.\"? Choose one between A and B.\nA: She discovered a new species.\nB: She received tenure at the university."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the effect of \"I scratched my skin.\"? Choose one between A and B.\nA: My itch went away.\nB: My scar faded."
+    }
+]

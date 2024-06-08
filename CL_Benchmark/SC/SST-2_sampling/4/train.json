@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "Text: an elegant and sly deadpan ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: reminds me of a vastly improved germanic version of my big fat greek wedding ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: mention `` solaris '' five years from now and i 'm sure those who saw it will have an opinion to share . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: while this movie , by necessity , lacks fellowship 's heart , two towers outdoes its spectacle . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: a stale , overused cocktail ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: an enjoyable 100 minutes in a movie theater ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: while the production details are lavish ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: the most good-hearted yet sensual entertainment ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: not funny performers ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: well-done supernatural thriller ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: all movie ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: people may be wondering what all that jazz was about `` chicago '' in 2002 . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: ramsay is clearly extraordinarily talented , ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: black urban professionals ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: when twentysomething hotsies make movies about their lives , hard-driving narcissism is a given , but what a world we 'd live in if argento 's hollywood counterparts ... had this much imagination and nerve ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: a thoroughly awful movie -- dumb , narratively chaotic , visually sloppy ... a weird amalgam of ` the thing ' and a geriatric ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: exploits ( headbanger ) ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: proves she has the stuff to stand tall with pryor , carlin and murphy ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: a perfect medium ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: know it would n't exist without the precedent of yiddish theater , whose jolly , fun-for-fun 's - sake communal spirit goes to the essence of broadway ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: is an interesting movie ! ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: action-packed chiller ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: sloppily ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: weirdly ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: like a film so cold and dead ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: is surely the funniest and most accurate depiction of writer ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: too many story lines ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: deem it necessary to document all this emotional misery ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: little mermaid ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: it makes the silly spy vs. spy film the sum of all fears , starring ben affleck , seem downright hitchcockian ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: charm , cultivation and devotion ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: ca n't remember a single name responsible for it ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: works as pretty contagious fun ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: no cute factor here ... not that i mind ugly ; the problem is he has no character , loveable or otherwise . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: daringly perceptive , taut , piercing and feisty , biggie and tupac is undeniably subversive and involving in its bold presentation . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: juliette binoche 's sand is vivacious , but it 's hard to sense that powerhouse of 19th-century prose behind her childlike smile . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: a reasonably entertaining sequel to 1994 's surprise family hit that may strain adult credibility . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: know a star ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: it 's at least watchable ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: which is worse : the poor acting by the ensemble cast , the flat dialogue by vincent r. nebrida or the gutless direction by laurice guillen ",
+        "label": "Bad"
+    }
+]

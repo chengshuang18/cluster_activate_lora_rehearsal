@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "sentence 1: Despite the turmoil in Israeli society, there is little doubt that Prime Minister Ariel Sharon will pull the nearly 9,000 Israeli settlers out of Gaza, now a closed military zone.\nsentence 2: 9,000 settlers are employed by Israel.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: [Episcopal News Service]  Several parishes and villages in Sudan's Episcopal Diocese of Mundri have fallen victim to a fresh wave of attacks by the Lord's Resistance Army, a Ugandan rebel organization whose soldiers are prolonging a two-decades-long terrorist campaign gruesomely marked by widespread massacres and child abductions. At least four people have been confirmed dead and insecurity in the region is forcing residents to flee the villages of Tore Wandi, Moba, Bangolo, Ledinwa and Garia for the relative safety of Mundri. One of the slain is Wilson, a lay reader at a parish in Moba, wrote the Rt. Rev. Bismark Monday, bishop of Mundri, in a January 15 email to church partners. Monday explained that one of Wilson's sons and grandsons -- both about 10 years old -- were abducted.\nsentence 2: The Lord's Resistance Army is a rebel organization.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The measures currently in force include a travel ban on senior government figures, but France has invited Mr. Mugabe to a Franco-African summit in Paris next month, angering several countries.\nsentence 2: France angered a number of countries, by inviting Mr. Mugabe to attend a Franco-African summit in Paris.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Spain will recruit 500 extra police to fight Basque separatists ETA and Islamist militants in the next four years, Interior Minister Alfredo Perez Rubalcaba said on Tuesday. Including the new recruits, the number of anti-terrorism officers will have increased by 1,800 since the Socialist government took office in 2004, days after Islamist militants killed 191 people by bombing Madrid trains, Rubalcaba told a parliamentary committee. ETA has killed more than 800 people in four decades in its fight for an independent Basque Country composed of part of northern Spain and southern France. Its last fatal attack came on May 14, authorities believe, when a car bomb wrecked a police barracks in the Spanish Basque Country, killing one officer. The government will also provide an additional 800 officers to combat organised crime and another 1,248 staff to tackle domestic violence, Rubalcaba said.\nsentence 2: ETA fights for the independence of Basque Country.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The motor industry accounts for as much as 40 per cent of the 450,000 installed industrial robots worldwide but their use is changing and applications are expanding.\nsentence 2: The most common use for robots is the manufacture of automobiles.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: MEXICO CITY (Reuters) - A deadly strain of swine flu never seen before has broken out in Mexico, killing as many as 60 people and raising fears it is spreading across North America. The World Health Organization said it was concerned about what it called 800 \"influenza-like\" cases in Mexico, and also about a confirmed outbreak of a new strain of swine flu in the United States. It said about 60 people had died in Mexico. Mexico's government said it had confirmed that at least 16 people had died of the swine flu in central Mexico and that there could be another 45 fatal victims.\nsentence 2: 800 Mexicans have been affected by a new form of swine influenza.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: 2001 Nobel economics prize winner Joseph Stiglitz, meanwhile, said the new currency could come about quickly if it was based on an expansion of the IMF's already established system of Special Drawing Rights, units of exchange used by the IMF which already have some of the features of currency. Stiglitz argued that, as the US dollar has become the standard global reserve currency, it has inadvertently created a system which hurts the world economy. \"It's a net transfer, in a sense, to the United States of foreign aid,\" he argued, reasoning that when other countries purchase US dollars in order to use them on international markets (such as for the buying and selling of petroleum), they effectively give the US a zero-interest loan — sometimes at times when they can least afford it. Stiglitz made his comments as head of a United Nations panel of economists giving recommendations to address the global financial crisis.\nsentence 2: Joseph Stiglitz is the winner of a Nobel prize in economics.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: By 45,000 years ago, humans had weathered the comings and goings of a number of ice ages, had spread themselves throughout most of Africa, Europe and Asia, and had reached a population of roughly a million.\nsentence 2: Humans existed 10,000 years ago.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Clonaid said, Sunday, that the cloned baby, allegedly born to an American woman, and her family were going to return to the United States Monday, but where they live and further details were not released.\nsentence 2: Clonaid announced that mother and daughter would be returning to the US on Monday.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: World health officials warned yesterday that West Africa and Central Africa were on the verge of the worst polio outbreak in years, stemming from the refusal of a single state in northern Nigeria to vaccinate children against the disease.\nsentence 2: African polio outbreak feared",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Parviz Davudi was representing Iran at a meeting of the Shanghai Co-operation Organisation (SCO), the fledgling association that binds Russia, China and four former Soviet republics of central Asia together to fight terrorism.\nsentence 2: China is a member of SCO.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Among the 21 candidates left over after the previous election round ended on January 1, 2006, the Acropolis and the Maya archeological site of Chichen Itza were doing well in earlier rankings. A spokeswoman for the Foundation said earlier this month that the result is wide open. The election ceremony will be held in Lisbon, Portugal. Hollywood actress Hilary Swank, British actor Sir Ben Kingsley and Bollywood actress Bipasha Basu have been announced as hosts, astronaut Neil Armstrong will be present, and performers will include Jennifer Lopez and Chaka Khan.\nsentence 2: Jennifer Lopez will not perform in Portugal.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Abu Eisa al-Hindi was said to have been involved in a plot to attack Heathrow airport, details of which were allegedly discovered on the computer of Abu Eisa al-Hindi, 25, an al-Qa'ida suspect recently arrested in Pakistan.\nsentence 2: Abu Eisa al-Hindi is the father of Abu Eisa al-Hindi.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Located just three miles from Tullamore and only 45 minutes from the K Club, venue of the 2006 Ryder Cup, is Esker Hills, a genuine hidden gem and one of Irish golf's best kept secrets.\nsentence 2: The K Club will host the 2006 Ryder Cup.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Many hopes are riding on the sale of Talisman's holdings in Palm Beach and Hendry counties, which Vice President Al Gore announced with much fanfare last year at the 50th anniversary of Everglades National Park.\nsentence 2: Everglades National Park is located in Florida.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Only 18 states, including Massachusetts, have specific provisions that allow women who quit their jobs due to domestic violence to qualify for UI.\nsentence 2: 18 states have provisions that permit women who quit their jobs because of domestic violence to collect unemployment insurance.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: A male rabbit is called a buck and a female rabbit is called a doe, just like deer.\nsentence 2: A female rabbit is called a doe.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Hughes loved his wife, Gracia, and was absolutely obsessed with his little daughter Elicia.\nsentence 2: Hughes was married to Gracia.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The Philippine Stock Exchange Composite Index rose 0.1 percent to 1573.65.\nsentence 2: The Philippine Stock Exchange Composite Index dropped.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: ASCAP is a membership association of more than 200,000 U.S. composers, songwriters, lyricists and music publishers of every kind of music.\nsentence 2: More than 200,000 U.S. composers, songwriters, lyricists and music publishers are members of ASCAP.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The iF awards are presented in Hanover, Germany, at the International Forum Design Hannover GMBH. There are a number of fields and disciplines which have their own awards.TAG Heuer's Monaco Calibre 360 LS Concept Chronograph has won the award in the Leisure/Lifestyle category. The timepiece was chosen from over 2,200 watches from 35 countries. This prestigious award was given to the company for the second time in two years. Last year the winner in the same category was TAG Heuer's Professional Golf Watch, designed together with Tiger Woods. This year's winning timepiece from TAG Heuer has a mechanical movement, which represents the first in the history of watchmaking to reach a precision of 1/100th of a second. The watch itself is to be seen at the iF design exhibition 2007, held in Hanover, from March 15 till August.\nsentence 2: Tiger Woods attends the iF design exhibition 2007.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Acetaminophen is best known as the drug in products sold under the Tylenol brand, but is widely available in typically less expensive generic versions.\nsentence 2: Acetaminophen is produced by Tylenol.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The Mona Lisa, painted by Leonardo da Vinci from 1503-1506, hangs in Paris' Louvre Museum.\nsentence 2: The Mona Lisa is in France.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Lennon was murdered by Mark David Chapman outside the Dakota on Dec. 8, 1980.\nsentence 2: Mark David Chapman killed Lennon.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Hoover's director reports directly to Stanford's president.\nsentence 2: Hoover is the president of Stanford University.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Alzheimer's disease is successfully treated, and controlled by drugs which inhibit the synthesis of beta-amyloid protein.\nsentence 2: Alzheimer's disease is treated using drugs.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: But according to Dr. Williams, other members of the panel have championed other ideas, for example, that planets should be larger than 2,000 kilometers (or about 1,250 miles) in diameter (Pluto is about 1,500 miles).\nsentence 2: The diameter of Pluto measures 1,500 miles.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Prior to that, Andy Sipowicz began to date Assistant District Attorney Sylvia Costas. They got married in 1995 and had a son Theo in 1996.\nsentence 2: Sylvia Costas is the wife of Andy Sipowicz.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: FROM two tiny rooms high up and far back in St. Augustine's Episcopal Church, with its neo-Georgian archways, straight-backed pews and simple, graceful detail, the legacy of slavery in Manhattan looks down. The stone church, on Henry Street near Montgomery Street on the Lower East Side, was built for a patrician white congregation. But although it was completed in 1828, a year after slavery was legally abolished in New York State, behind the balcony and on either side of the organ are two cramped rooms, built so that black churchgoers could worship there without being seen by white parishioners.\nsentence 2: St. Augustine's Episcopal Church is in Manhattan.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Co-author Dr Zita Martins, a chemist and astrobiologist from Imperial College London, believes their findings suggest that some of the chemicals that generated life on Earth came from meteorite bombardments. \"We are not saying that only meteorites contributed to the building blocks of life,\" she said, \"but it's a very great contribution.\" Other scientists, however, do not believe that meteoritic chemicals played such a significant role. According to Emeritus Professor Robert Shapiro of New York University, \"They're a subunit of a subunit of DNA. My opinion is that their amounts were utterly unimportant and insignificant.\" Wikinews contacted Professor Paul Davies, a physicist and astrobiologist presently at Arizona State University, about the recent findings. While he agreed with the findings, he said that he thinks such discoveries are \"a red herring in the origin of life story - a hangover from the Miller-Urey experiment. Life is all about information - its replication and processing.\"\nsentence 2: Shapiro teaches at NY University.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: \"Welcome home, Discovery, after a great mission to bring the International Space Station to full power,\" said an astronaut, George Zamka, radioing from the mission control center in Houston, Texas. NASA tested an experimental tile under the Discovery's left wing during its approach for landing. The tile was almost eight centimetres thick, and had a bump in it, intended to disturb the otherwise smooth airflow over the shuttle's wing, thus exposing it to high amounts of heat. Engineers installed the tile in order to measure the excess heat that was generated on downstream tiles. A military airplane monitored the heat with an infrared camera. The findings will be used to help determine better designs for future shuttles.\nsentence 2: Houston is George Zamka's hometown.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Victor Emmanuel III yielded most of his powers to his son Umberto II in 1944, when Umberto was appointed as Lieutenant General of the Realm, and finally abdicated in 1946.\nsentence 2: Victor Emmanuel III was king of Italy from 1900 to 1946.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Japanese drug makers are now trying to build comprehensive independent operations in research and development, production and marketing.\nsentence 2: There are companies that have split the management of their Research and Development processes.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Most of the life of Petko Kiryakov was not unveiled by historians but by the prominent Bulgarian writer Nikolai Haitov, who wrote a novel and a script which was turned into a TV series, which became a favourite of most Bulgarians.\nsentence 2: Nikolai Haitov is a historian.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: US-based News Corporation (formerly based in Australia) has announced its purchase of IGN Entertainment, a US-based online media group, for US$650 million. IGN's assets include popular video game sites IGN.com and GameSpy.com, as well as movie and game review site Rotten Tomatoes. IGN will become part of the News Corporation's Fox Interactive Media division, which will expand the company's online presence to become the fourth largest online media company, with over 70 million individual users and 12 billion page views per month when the takeover is complete.\nsentence 2: News Corporation is located in Australia.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: On Feb. 1, 1945, the Polish government made Warsaw its capital, and an office for urban reconstruction was set up.\nsentence 2: Warsaw remained Poland's capital after the war.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The 54-year-old man from London, who was not otherwise identified, was located following cooperation with British authorities, police said in a statement.\nsentence 2: The 54-year-old man resides in London.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Cannabis is freely available in the Netherlands for sale in \"coffee shops\" in small quantities. The cost of five grammes, the maximum amount that can be legally purchased, is about £.50 ($19), enough to make about a dozen cigarettes.\nsentence 2: In the Netherlands five grams of cannabis can be legally held in possession.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: As an active member of the National Guard, he was called to duty in 1941. Although Kennon did not see active combat, he did not return home from World War II until May of 1945.\nsentence 2: Kennon did not participate in WWII.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Eilat, Israel's most southerly port and the country's only access to the Red Sea, has long been a winter destination for tourists, 80% of whom are Europeans attracted by its temperate climates and clear waters.\nsentence 2: In winter most tourists to Eilat come from Europe.",
+        "label": "entailment"
+    }
+]

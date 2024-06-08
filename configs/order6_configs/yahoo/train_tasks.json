@@ -1,21 +1,65 @@
 {
     "SC": [
+        {
+            "sampling strategy": "full",
+            "dataset name": "amazon_sampling/12"
+        },
+        {
+            "sampling strategy": "full",
+            "dataset name": "yelp_sampling/12"
+        },
+        {
+            "sampling strategy": "full",
+            "dataset name": "IMDB_sampling/12"
+        },
+        {
+            "sampling strategy": "full",
+            "dataset name": "SST-2_sampling/12"
+        }
     ],
-    "TC": [
+    "TC": [   
+        {
+            "sampling strategy": "full",
+            "dataset name": "dbpedia_sampling/12"
+        },
+        {
+            "sampling strategy": "full",
+            "dataset name": "agnews_sampling/12"
+        },
         {
             "sampling strategy": "full",
             "dataset name": "yahoo"
         }
     ],
-    "NLI": [   
+    "NLI": [
+        {
+            "sampling strategy": "full",
+            "dataset name": "MNLI_sampling/12"
+        },
+        {
+            "sampling strategy": "full",
+            "dataset name": "CB_sampling/12"
+        },
+        {
+            "sampling strategy": "full",
+            "dataset name": "RTE_sampling/12"
+        } 
     ],
-    "QQP": [ 
+    "QQP": [  
+        {
+            "sampling strategy": "full",
+            "dataset name": "QQP_sampling/12"
+        } 
     ],
     "WiC": [ 
     ],
     "MultiRC": [ 
     ],
-    "COPA": [
+    "COPA": [ 
+        {
+            "sampling strategy": "full",
+            "dataset name": "COPA_sampling/12"
+        } 
     ],
     "BoolQA": [
     ]

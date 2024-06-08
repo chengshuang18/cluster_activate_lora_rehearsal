@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "first sentence: How should I start and continue a conversation with my crush?\nsecond sentence: How can I approach my crush?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How do I score a good rank in olympiard?\nsecond sentence: What are the favourite blog websites?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are some major landforms in Texas, and how do they compare to the most famous landforms in Colorado?\nsecond sentence: What are some major landforms in Texas, and how do they compare to the most famous landforms in Hawaii?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How many Facebook victims were there in 2015?\nsecond sentence: How many Facebook victims were there in 2014?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Is the M4 rifle really as bad as some people claim?\nsecond sentence: Are people really as bad a shot as they seem in the movies?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: You wake up as a homeless man with no sellable skills. and $5 how do you destroy the world?\nsecond sentence: How do I answer to my bf question?his parents don't support us as I can't give dowry,and I am not Bihari,he said to choose between him n my parents.",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the most profitable applications for Etherium?\nsecond sentence: What are some must have Android apps?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Will the value of Indian rupee increase after the ban of 500 and 1000 rupee notes?\nsecond sentence: What are your views on India banning 500 and 1000 notes? In what way it will affect Indian economy?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Is there infinite energy in zero point energy or it is just a mathematical result with no physical existence?\nsecond sentence: Is zero point energy infinite in reality or just in a mathematical way?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Is there proof of alien life form?\nsecond sentence: Is there unequivocal proof of alien existence?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How do I grow weed at home?\nsecond sentence: Can I grow weed at home?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How cold can the Gobi Desert get, and how do its average temperatures compare to the ones in the Chihuahuan Desert?\nsecond sentence: How cold can the Gobi Desert get, and how do its average temperatures compare to the ones in the Kalahari Desert?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How do you mass save photos from text messages on an iPhone?\nsecond sentence: Can you text someone after you block their number?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: \"What can classify someone as \"\"dumb\"\"?\"\nsecond sentence: Imagine someone of below average intelligence, would I say his greatest flaw is his intelligence or his dumbness?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I find the most recent questions on Quora?\nsecond sentence: How do you get to the most recent questions here on Quora?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Is stock market worth investing in?\nsecond sentence: Is investing in the stock market worth it?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Who are the young entrepreneurs in Chennai?\nsecond sentence: What are the qualities a young entrepreneur needs?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How long does it take to die from stress?\nsecond sentence: How long does it take for a fly to appear when a person dies?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How can we find out dt the the erson is on another call or not in imo video call? Whts the diff between available stauts and online status\nsecond sentence: I spent 10 weeks training for a job and realized quickly this is not for me (call center).  The benefits are good but not the pay or job. How long should I try it out before finding a new job?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Does Hillary want to start a no-fly zone, and would it translate to a war with Russia?\nsecond sentence: Does Hillary really want to start a war with Iran and Russia?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: My Moto G2 mobile were stuck in startup logo I done to all but it can't what should I do?\nsecond sentence: What should I do if my Samsung smartphone won't go further but freezes on its logo (I even tried factory reset. But I couldn't)?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Are there any data sources for places of interest (POIs) in JSON format?\nsecond sentence: Is there any music data in JSON format?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Is it necessary to do MBA for business?\nsecond sentence: Is it necessary to do MBA to become an entrepreneur?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is it in soil that makes it smell so good after the first rain?\nsecond sentence: What exactly is the smell of rain?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is the best book written on Narendra Modi and why?\nsecond sentence: Which is the best book on/about Narendra Modi?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What are the best places to take a first date to in New York City?\nsecond sentence: What are the best places to see in New York City?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is a perfect elastic demand?\nsecond sentence: What is perfectly elastic demand?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Why does sound travel faster in water than air?\nsecond sentence: In which season sound travels faster (summer or winter)? How?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Which companies currently offer the best mobile game development services?\nsecond sentence: How can I find the best app development company?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Is ezetimibe good or bad?\nsecond sentence: Is Masturbation good or bad?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What image/picture comes to your mind when you hear the word beginning?\nsecond sentence: What image comes to your mind when you hear the word profession? Why?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Why are most airliners painted white?\nsecond sentence: Why are airplanes commonly painted white?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What are some things I can do to become more self-aware?\nsecond sentence: How can I become more self-aware?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What are the best softwares for intra day trading in Indian stocks?\nsecond sentence: Which is the best software for Indian stock trading?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What's a more important question, how or why?\nsecond sentence: Which is a more important question: ‘Why?’ or ‘How?’",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Are Bob Ross' paintings worth anything?\nsecond sentence: Did Bob Ross die of lymphoma from his years of exposure to oil paints?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Should I buy Sphero 2.0 or Mip robot? Please do not recommend others, you are forced to choose between these two, and keep in mind about the price too.\nsecond sentence: If I keep choosing not to fully think about a concept or grab onto it when it appears in my mind while I am reading or doing something else, am I damaging my brain's ability to understand and act on those things in the future?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I motivate myself to exercise?\nsecond sentence: How do you have the motvitation to exercise?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is the difference between an air cooler and an air conditioner?\nsecond sentence: Which is the best air conditioner to buy?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Why is it that some wizards can do magic without wands in Harry Potter?\nsecond sentence: What was the most powerful piece of magic performed by anyone in the Harry Potter books?",
+        "label": "False"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The boy filled the bucket with sand.\"? Choose one between A and B.\nA: He was collecting seashells in the sand.\nB: He was building a sand castle."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the effect of \"The physician misdiagnosed the patient.\"? Choose one between A and B.\nA: The patient filed a malpractice lawsuit against the physician.\nB: The patient disclosed confidential information to the physician."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The girl wanted to demonstrate proper etiquette.\"? Choose one between A and B.\nA: She threw away her napkin after eating.\nB: She put her napkin on her lap before eating."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The girl stared at herself in the mirror.\"? Choose one between A and B.\nA: She felt self-conscious.\nB: The mirror was smudged."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The man looked at his watch.\"? Choose one between A and B.\nA: He realized he forgot something.\nB: He realized he was early."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The balloon expanded.\"? Choose one between A and B.\nA: I blew into it.\nB: I pricked it."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The man broke his toe.\"? Choose one between A and B.\nA: He got a hole in his sock.\nB: He dropped a hammer on his foot."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The politician lost the election.\"? Choose one between A and B.\nA: He ran negative campaign ads.\nB: No one voted for him."
+    }
+]

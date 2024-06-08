@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "Text: it goes on for too long and bogs down in a surfeit of characters and unnecessary subplots . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: funny film . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: enjoyable 100 ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: the only way to tolerate this insipid , brutally clueless film ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: is highly pleasurable ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: worse than you can imagine ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: member ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: it is visually ravishing , penetrating , impenetrable . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: terrifically entertaining ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: a rumor of angels should dispel it . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: blithe rebel fantasy ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: have been better off staying on the festival circuit ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: spaces both large ... and small ... with considerable aplomb ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: , jackass lacks aspirations of social upheaval . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: the dramatic scenes are frequently unintentionally funny , and the action sequences -- clearly the main event -- are surprisingly uninvolving . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: plenty of warmth to go around , with music and laughter and the love of family . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: what makes salton sea surprisingly engrossing is that caruso takes an atypically hypnotic approach to a world that 's often handled in fast-edit , hopped-up fashion . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: this insane ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: dull-witted ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: that memorable ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: to the junk-calorie suspense tropes that have all but ruined his career ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: imitative ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: with minimal imagination ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: `` simone '' is a fun and funky look into an artificial creation in a world that thrives on artificiality . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: impossibly ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: behold in its sparkling beauty ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: with heavy-handed symbolism , dime-store psychology and endless scenic shots that make 105 minutes seem twice as long ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: why , after only three films , director/co-writer jacques audiard , though little known in this country , belongs in the very top rank of french filmmakers ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: mel brooks ' borscht belt schtick look sophisticated ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: a rating of zero ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: ambiguous ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: christian love ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: wonderful fencing scenes and an exciting plot make this an eminently engrossing film . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: guilty of the worst sin of attributable to a movie like this : it 's not scary in the slightest . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: paraphrase a line from another dickens ' novel ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: a solidly entertaining and moving family drama ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: the increasingly diverse french director ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: bound ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: in an impossible spot because his character 's deceptions ultimately undo him and the believability of the entire scenario ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: that 's so mechanical you can smell the grease on the plot ",
+        "label": "Bad"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "label": "True",
+        "sentence": "question: can you play the original xbox games on xbox 360\npassage: List of Xbox games compatible with Xbox 360 -- The Xbox 360 gaming console has received updates from Microsoft since its launch in 2005 that enable it to play select games from its predecessor, Xbox. The Xbox 360 launched with backward compatibility with the number of supported Xbox games varying depending on region. Microsoft continued to updated the list of Xbox games that were compatible with Xbox 360 until November 2007 when the list was finalized. Microsoft later launched the Xbox Originals program on December 7, 2007 where select backward compatible Xbox games could be purchased digitally on Xbox 360 consoles with the program ending less than two years later in June 2009. The following is a list of all backward compatible games on Xbox 360 available on physical and digital media."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can residents of puerto rico vote for president\npassage: Federal voting rights in Puerto Rico -- Voting rights of United States citizens in Puerto Rico, like the voting rights of residents of other United States territories, differ from those of United States citizens in each of the fifty states and the District of Columbia. Residents of Puerto Rico and other U.S. territories do not have voting representation in the United States Congress, and are not entitled to electoral votes for President. The United States Constitution grants congressional voting representation to U.S. states, which Puerto Rico and other U.S. territories are not, specifying that members of Congress shall be elected by direct popular vote and that the President and the Vice President shall be elected by electors chosen by the States."
+    },
+    {
+        "label": "True",
+        "sentence": "question: has a woman received the medal of honor\npassage: Mary Edwards Walker -- Mary Edwards Walker (November 26, 1832 -- February 21, 1919), commonly referred to as Dr. Mary Walker, was an American abolitionist, prohibitionist, prisoner of war and Civil War surgeon. She was the only woman to ever receive the Medal of Honor."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is it illegal to sign the american flag\npassage: Flag desecration -- The flag of the United States is sometimes burned in protest of the policies of the American government, both within the country and abroad. The United States Supreme Court in Texas v. Johnson, 491 U.S. 397 (1989), and reaffirmed in U.S. v. Eichman, 496 U.S. 310 (1990), has ruled that due to the First Amendment to the United States Constitution, it is unconstitutional for a government (whether federal, state, or municipal) to prohibit the desecration of a flag, due to its status as ``symbolic speech.'' However, content-neutral restrictions may still be imposed to regulate the time, place, and manner of such expression. If the flag that was burned was someone else's property (as it was in the Johnson case, since Johnson had stolen the flag from a Texas bank's flagpole), the offender could be charged with petty larceny (a flag usually sells at retail for less than USD 20), or with destruction of private property, or possibly both."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the us virgin islands part of the usa\npassage: United States Virgin Islands -- The United States Virgin Islands (USVI; also called the American Virgin Islands), officially the Virgin Islands of the United States, is a group of islands in the Caribbean that is an insular area of the United States located 40 miles (64 km) east of Puerto Rico. The islands are geographically part of the Virgin Islands archipelago and are located in the Leeward Islands of the Lesser Antilles. It is the easternmost point (in terms of jurisdiction) and territory of the United States."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is trent dilfer in the hall of fame\npassage: Trent Dilfer -- In 2009, Dilfer was inducted into the Fresno County Athletic Hall of Fame."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is weed legal in the uk for personal use\npassage: Cannabis in the United Kingdom -- According to the Home Office, ``It remains illegal for UK residents to possess cannabis in any form''. Giving evidence to 1997--98 parliamentary select committee hearings, the British Medical Association (BMA) said that users of cannabis for medical purposes should be aware of the risks, should enroll for clinical trials, and should talk to their doctors about new alternative treatments; but the BMA did not advise them to stop."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is jersey currency legal tender in the uk\npassage: Jersey pound -- Both Jersey and Bank of England notes are legal tender in Jersey and circulate together, alongside the Guernsey pound and Scottish banknotes. The Jersey notes are not legal tender in the United Kingdom but are legal currency, so creditors and traders may accept them if they so choose."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there such thing as international men's day\npassage: International Men's Day -- International Men's Day (IMD) is an annual international event celebrated every year on 19 November. Inaugurated in 1992 on February by Thomas Oaster The project of International Men's Day was conceived one year earlier on 8 February 1991. The project was re-initialised in 1999 in Trinidad and Tobago. The longest running celebration of International Men's Day is Malta, where events have occurred since 7 February 1994."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are shaw academy diplomas recognised in south africa\npassage: Shaw Academy -- The Shaw Academy Professional Higher Diploma -- EQF Level 5 -- is the equivalent to an Associate Degree (USA), AQF Level Six (Australia), NQF Level Six (South Africa) & OQF Level Eight (Canada). The European Qualifications Framework encourages lifelong learning by promoting the validation of education."
+    },
+    {
+        "label": "False",
+        "sentence": "question: do you have to pay for google sites\npassage: Google Sites -- In February 2006, JotSpot was named part of Business 2.0, ``Next Net 25'', and in May 2006, it was honored as one of InfoWorld's ``15 Start-ups to Watch''. In October 2006, JotSpot was acquired by Google. Google announced a prolonged data transition of webpages created using Google Page Creator (also known as ``Google Pages'') to Google Sites servers in 2007. On February 28, 2008, Google Sites was unveiled using the JotSpot technology. The service was free, but users needed a domain name, which Google offered for $10. However, as of May 21, 2008, Google Sites became available for free, separately from Google Apps, and without the need for a domain."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are international studies and international relations the same\npassage: International studies -- International Studies (IS) generally refers to the specific university degrees and courses which are concerned with the study of 'the major political, economic, social, and cultural issues that dominate the international agenda'. Predominant topics are politics, economics and law on a global level. The term itself can be more specifically defined as 'the contemporary and historical understanding of global societies, cultures, languages and systems of government and of the complex relationships between them that shape the world we live in'. The terms and concepts of International Studies and international relations are strongly related; however, International relations focus more directly on the relationship between countries, whereas International Studies can encompass all phenomena which are globally oriented."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the show the sinner based on a true story\npassage: The Sinner (TV series) -- The series, described as a ``close-ended series'' by the network, was adapted from the novel of the same name by Petra Hammesfahr; however, the book's darker outlook was toned down and the location shifted from Germany to Upstate New York in the United States. It was the first time that Biel had executive-produced a series, a role she said was ``gold''. Biel stated that she moved into production so that she could develop projects with challenging and interesting roles rather than wait for them to happen."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you have twins and have two different fathers\npassage: Superfecundation -- Heteropaternal superfecundation is common in animals such as cats and dogs. Stray dogs can produce litters in which every puppy has a different sire. Though rare in humans, cases have been documented. In one study on humans, the frequency was 2.4% among dizygotic twins whose parents had been involved in paternity suits."
+    },
+    {
+        "label": "True",
+        "sentence": "question: does every player get a super bowl trophy\npassage: Vince Lombardi Trophy -- The Vince Lombardi Trophy is the trophy awarded each year to the winning team of the National Football League's championship game, the Super Bowl. The trophy is named in honor of NFL coach Vince Lombardi."
+    },
+    {
+        "label": "True",
+        "sentence": "question: was pam actually pregnant in the office season 8\npassage: Pam's Replacement -- The episode was written by consulting producer Allison Silverman, her first writing credit for the series after joining the writing staff in the eighth season. It was directed by Matt Sohn, one of the series' cinematographers and camera operators, his third directing credit for the series. The episode features a guest appearance from Lindsey Broad, and her character was described as ``Pam's competent and likable pal,'' Cathy. She appeared in a recurring role in the eighth season. The episode also relates to Pam's pregnancy. Jenna Fischer was actually pregnant and her pregnancy was written into the series with Pam and Jim having their second baby. The man who played Robert's skilled drummer friend is Steve Moore, better known as ``The Mad Drummer'' for the viral video he featured in, ``This drummer is at the wrong gig''."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you checkmate with two bishops and a king\npassage: Checkmate -- It is not too difficult for two bishops to force checkmate, with the aid of their king. Two principles apply:"
+    },
+    {
+        "label": "True",
+        "sentence": "question: are holby city and casualty set in the same hospital\npassage: Holby City -- Holby City was created by Tony McHale and Mal Young as a spin-off from the BBC medical drama Casualty, which is set in the emergency department of the fictional Holby City Hospital. Young wanted to explore what happened to patients treated in Casualty once they were taken away to the hospital's surgical wards. While Casualty's scope is limited to ``accident of the week'' storylines about patients entering hospital, Holby City allowed the possibility of storylines about long-term care, rather than immediate life and death decisions. The series was commissioned by BBC One Controller Peter Salmon, and began airing on BBC One on 12 January 1999."
+    },
+    {
+        "label": "False",
+        "sentence": "question: minnie driver did she sing in phantom of the opera\npassage: Carlotta (The Phantom of the Opera) -- In the Lloyd Webber-Joel Schumacher 2004 film version, she was played by Minnie Driver. Due to Driver's lack of experience in opera, her singing voice was dubbed by opera singer Margaret Preece, although she lent her actual voice to the song ``Learn to Be Lonely'' during the end credits."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is it legal to carry a knife in france\npassage: Knife legislation -- In France, any knife of any blade length with a fixed blade, or a folding blade with a locking system, falls into unregulated Category D weapon (armes de catégorie D en vente libre). Unregulated category D weapons may be legally purchased if over 18 years of age, but they may not be carried on one's person, unless carried ``for good reason'', for example, as part of the tools of one's profession. If carried in a vehicle, such knives must be placed in a secure, locked compartment not accessible to the vehicle occupants. In addition, French law provides that authorities may classify any knife as a prohibited item depending upon circumstances and the discretion of the police or judicial authorities. Since ``reasonable size'' knives are merely tolerated in most circumstances, authorities may summarily confiscate it."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is it legal to smoke weed in new zealand\npassage: Cannabis in New Zealand -- The use of cannabis in New Zealand is governed by the Misuse of Drugs Act 1975, which makes unauthorised possession of any amount of cannabis illegal. There are political efforts to remove penalties on its use for those over 18 years of age. In October 2017, following the ascension of a Labour/Green/New Zealand First coalition to government, the Greens announced a nationwide referendum of the legality of cannabis for both medical and personal use, set to be held by 2020."
+    },
+    {
+        "label": "True",
+        "sentence": "question: has wayne rooney ever won the champions league\npassage: Wayne Rooney -- Wayne Mark Rooney (/ˈruːni/; born 24 October 1985) is an English professional footballer who plays for Premier League club Everton. He has played much of his career as a forward, and he has also been used in various midfield roles. He is the record goalscorer for the England national team and for Manchester United. At club level, he has won every honour available in English, Continental and European football, with the exception of the European Super Cup. Along with Michael Carrick, he is the only English player to win the Premier League, FA Cup, UEFA Champions League, League Cup, UEFA Europa League and FIFA Club World Cup."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can liquid latex be used as an adhesive\npassage: Liquid latex -- As the latex dries it becomes very sticky and will stick to itself if accidentally folded over. Most manufacturers offer a slick spray for latex once it is dry to take away the stickiness allowing the movement of the model's limbs. Alternatively, shimmer powders can be dusted over dried liquid latex to create metallic effects. One advantage to the tackiness of liquid latex is that it can act as an adhesive to attach things to the paint, such as zippers."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can i use oyster card at epsom station\npassage: Epsom railway station -- Epsom railway station serves the town of Epsom in Surrey, England. It is located off Waterloo Road and is less than two minutes' walk from the town's high street. It is not in the London Oyster card zone unlike Epsom Downs or Tattenham Corner. It is 14 miles 18 chains (22.9 km) down the line from London Waterloo."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you ride a bicycle on the highway\npassage: Bicycle law in the United States -- While there are no sections in the United States Constitution explicitly mentioning bicycles, bicycles are recognized as (non-motorized) vehicles nationally, and several states align bicycles with the same rights and privileges as horses and/or horse carriages, which may be limited from state to state and from city to city. Bicycles can, and in some cases do, generally travel on basic streets and highways."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there such a thing as watermelon wine\npassage: Watermelon -- Watermelons are a sweet, popular fruit of summer, usually consumed fresh in slices, diced in mixed fruit salads, or as juice. Watermelon juice can be blended with other fruit juices or made into wine."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are us and canadian passports the same size\npassage: Canadian passport -- All Canadian passports are issued by the Passport Program of Immigration, Refugees and Citizenship Canada (IRCC). Prior to July 1, 2013, Canadian passports were issued by Passport Canada, an independent operating agency of Foreign Affairs and International Trade Canada. They are normally valid for five or ten years for persons 16 years of age and older, and five years for children under 16. In 2015, 67 per cent of Canadians had passports, and 22.88 million Canadian travel documents were in circulation as of March 31, 2015. Although held by individuals, all Canadian passports remain property of the Government of Canada, as stated on the inside front cover of the booklet."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are vidalia onions the same as sweet onions\npassage: Vidalia onion -- A Vidalia onion (/vɪˈdeɪliə/ or /vaɪˈdeɪliə/) is a sweet onion of certain varieties, grown in a production area defined by law of the U.S. state of Georgia and by the United States Code of Federal Regulations (CFR)."
+    },
+    {
+        "label": "False",
+        "sentence": "question: was the longest yard based on a true story\npassage: The Longest Yard (1974 film) -- The Longest Yard is a 1974 American sports comedy film directed by Robert Aldrich, written by Tracy Keenan Wynn and based on a story by producer Albert S. Ruddy. The film follows a former NFL player (Burt Reynolds) recruiting the group of prisoners and playing football against their guards."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is a uterus and a womb the same thing\npassage: Uterus -- The uterus (from Latin ``uterus'', plural uteri) or womb is a major female hormone-responsive secondary sex organ of the reproductive system in humans and most other mammals. In the human, the lower end of the uterus, the cervix, opens into the vagina, while the upper end, the fundus, is connected to the fallopian tubes. It is within the uterus that the fetus develops during gestation. In the human embryo, the uterus develops from the paramesonephric ducts which fuse into the single organ known as a simplex uterus. The uterus has different forms in many other animals and in some it exists as two separate uteri known as a duplex uterus."
+    },
+    {
+        "label": "True",
+        "sentence": "question: have england ever won the rugby world cup\npassage: List of Rugby World Cup finals -- New Zealand are the most successful team in the history of the tournament, with three wins. They are also the only team to have won consecutive tournaments, with their victories in the 2011 and 2015 Rugby World Cup. Australia and South Africa have won the competition twice, while England have one win. They are the only nation from the northern hemisphere to have won the competition. France are the only team to appear in a final without winning, losing all three finals they have contested."
+    },
+    {
+        "label": "True",
+        "sentence": "question: do ac milan and inter milan share the same stadium\npassage: San Siro -- The Giuseppe Meazza Stadium (Italian pronunciation: (dʒuˈzɛppe meˈattsa)), commonly known as San Siro, is a football stadium in the San Siro district of Milan, Italy, which is the home of A.C. Milan and Inter Milan. It has a seating capacity of 80,018, making it one of the largest stadiums in Europe, and the largest in Italy."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are there offices in the empire state building\npassage: Empire State Building -- As of 2014 the building is owned by the Empire State Realty Trust with Anthony Malkin as Chairman, CEO, and President. Details on the trust's profits are scarce, but it is known that significantly more revenue was earned from tourism than from leasing the office space in 2011. In August 2016, the Qatar Investment Authority (QIA) obtained a 10% share in the Empire State Building through a $622 million investment in the Empire State Realty Trust. The trust's president John Kessler called it an ``endorsement of the company's irreplaceable assets''. The investment has been described by the real-estate magazine The Real Deal as ``an unusual move for a sovereign wealth fund'', as these funds typically buy direct stakes in buildings rather than real estate companies. Other foreign entities that have a stake in the Empire State Building include investors from Norway, Japan, and Australia."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is a routing number the same as a transit number\npassage: ABA routing transit number -- An ABA routing transit number (ABA RTN) is a nine-digit code, used in the United States, which appears on the bottom of negotiable instruments such as checks to identify the financial institution on which it was drawn. The ABA RTN was originally designed to facilitate the sorting, bundling, and shipment of paper checks back to the drawer's (check writer's) account. As new payment methods were developed (ACH and Wire), the system was expanded to accommodate these payment methods."
+    },
+    {
+        "label": "True",
+        "sentence": "question: does paul mccartney sing in four five seconds\npassage: FourFiveSeconds -- ``FourFiveSeconds'' is a song recorded by Barbadian singer Rihanna, American musician Kanye West and English musician/former Beatles member Paul McCartney. It was written and produced by West, McCartney, Mike Dean, Dave Longstreth and Noah Goldstein with an additional writing from Kirby Lauryen, Ty Dolla Sign, Dallas Austin and Elon Rutberg. Previewed by West at the iHeartMedia Music Summit on January 21, 2015, it was posted on Rihanna's official website on January 24. The same day the song was made available for digital download. ``FourFiveSeconds'' is a folk-pop, pop and soul pop song with an instrumentation consisting of an acoustic guitar, organ and bass guitar."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the movie the commuter based on a book\npassage: The Commuter (film) -- The Commuter is an upcoming action thriller film directed by Jaume Collet-Serra from a screenplay by Byron Willinger, Philip de Blasi, and Ryan Engle. The film stars Liam Neeson, Vera Farmiga, Patrick Wilson, Jonathan Banks, Elizabeth McGovern, and Sam Neill. The film is scheduled to be released in the United States on January 12, 2018 by Lionsgate, and in the United Kingdom on January 19, 2018 by StudioCanal."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is chickpea flour and gram flour the same thing\npassage: Gram flour -- Gram flour or chickpea flour or besan (Hindi: बेसन; Burmese: ပဲမှုန့်; Urdu: بيسن‎), is a pulse flour made from a variety of ground chickpea known as Bengal gram. It is a staple ingredient in the cuisine of the Indian subcontinent, including in Indian, Bangladeshi, Burmese, Nepali, Pakistani and Sri Lankan cuisines. Gram flour can be made from either raw or roasted gram beans. The roasted variety is more flavorful, while the raw variety has a slightly bitter taste."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there a bar called cheers in boston\npassage: Cheers Beacon Hill -- Cheers Beacon Hill is a bar/restaurant located on Beacon Street in the Beacon Hill neighborhood of Boston, Massachusetts, across from the Boston Public Garden. Founded in 1969 as the Bull & Finch Pub, the bar is best remembered internationally as the exterior of the bar seen in the hit NBC sitcom Cheers, which ran between 1982 and 1993."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is faze rug part of the faze clan\npassage: FaZe Clan -- FaZe Clan started through YouTube in 2010, as a group of players who performed trick shots in Call of Duty and posted clips and montages on the site. As the members' personalities and audience preferences changed, so did the video content. The FaZe YouTubers--including Banks, Apex, Blaze, Rug, Adapt, Censor, and Rain--started to vlog and do creative skits to further develop their channels. Although the FaZe YouTubers are the more famous members, they do not usually compete in any competitive gaming. These YouTubers strictly make YouTube videos in order to extend the FaZe Clan brand and entertain their fans."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the nation of hawaii part of the united states\npassage: Legal status of Hawaii -- The legal status of Hawaii--as opposed to its political status--is a settled legal matter but there has been scholarly and legal debate. While Hawaii is internationally recognized as a state of the United States of America while also being broadly accepted as such in mainstream understanding, there have been essays written denying the legality of this status. The argument is that Hawaii is an independent nation under military occupation. The legality of control of Hawaii by the United States has also been raised in the losing side in cases in the U.S. Supreme Court, and in U.S. District Court."
+    }
+]

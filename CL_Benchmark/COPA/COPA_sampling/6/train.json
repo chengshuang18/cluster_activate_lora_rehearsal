@@ -1,0 +1,34 @@
+[
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The girl's mouth ached.\"? Choose one between A and B.\nA: She lost a tooth.\nB: She swallowed her gum."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The spy discovered the enemy's location.\"? Choose one between A and B.\nA: The spy bugged the enemy's phone.\nB: The spy was hired by the government."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The patient underwent the risky medical procedure.\"? Choose one between A and B.\nA: The procedure was costly.\nB: Specialists recommended the procedure."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The police eliminated the woman from the list of suspects.\"? Choose one between A and B.\nA: The police interrogated her.\nB: Her alibi checked out."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The woman covered her ears.\"? Choose one between A and B.\nA: The fire alarm blared.\nB: The woman smelled smoke."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"It got dark outside.\"? Choose one between A and B.\nA: Snowflakes began to fall from the sky.\nB: The moon became visible in the sky."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the effect of \"The school principal implemented a dress code.\"? Choose one between A and B.\nA: Students protested the decision.\nB: Students were expelled from school."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The man's watch was broken.\"? Choose one between A and B.\nA: He waited at the bus stop.\nB: He asked a stranger for the time."
+    }
+]

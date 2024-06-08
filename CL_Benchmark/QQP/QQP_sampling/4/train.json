@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "first sentence: Which parts of the human body will remain alive and for how much time after death?\nsecond sentence: Can tails be a part of human body once again?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is the use of Swayam satellite made by students of College of Engineering, Pune (COEP) ?\nsecond sentence: How is life at College of Engineering, Pune?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What's the best tax software for Mac?\nsecond sentence: What is the best tax software for startups?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the pros and cons of working alone versus working in a team?\nsecond sentence: What Are the pros and cons of working at Captech?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is oracle erp cloud?\nsecond sentence: What is oracle erp?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Is there a tool that gives me the top Facebook pages most liked in a specific country by women?\nsecond sentence: Is there a way to see the names of all the people who like a specific Facebook page?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I pull up my credit history from India? The property manager in US needs it.\nsecond sentence: How do I get my money back from a property broker in India with whom I have a promissory note?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Can I retrieve deleted messages on Instagram?\nsecond sentence: How do I delete a message on Instagram?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is the penalty for driving without a license in Alabama, how do they compare to the penalties in Missouri?\nsecond sentence: What is the penalty for driving without a license in Alabama, how do they compare to the penalties in California?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I use Internet?\nsecond sentence: What is the best way to use the Internet?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: In a healthcare insurance plan, does the deductible amount (that you need to pay before the insurance starts covering the healthcare costs) include the monthly premium payments or not? If not, how are the deductibles paid?\nsecond sentence: Can someone enroll in a health insurance plan and later decide not to use it (was never used at that moment) and neither pay the monthly premiums?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I help a depressed person to get over it?\nsecond sentence: How can one help a depressed and anxiety ridden person to get out of this state?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Would you say Beowulf was confident in his abilities when he fought Grendel?\nsecond sentence: How do I convert RGB image to CSV for CNN?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I make my penis longer?\nsecond sentence: How can I increse my penis size?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is the history of some words?\nsecond sentence: \"What is the history of the word \"\"percent\"\"?\"",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How secured is the new 2000 and 500 currency notes?\nsecond sentence: What is the new technology behind new 2000 rupee note?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How can I make friends on Quora for practice my English?\nsecond sentence: How do I make friends with people on Quora?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How many shopping malls in US with over 50 retailers?\nsecond sentence: How many shopping malls are there in the US with over 50 retailers?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Why do I keep getting pimples filled with blood?\nsecond sentence: How can I avoid getting pimples filled with blood?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Can hard work defeat luck?\nsecond sentence: Does luck count in success? Will I ever be successful no matter how hard I am working?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the weird facts that you know?\nsecond sentence: What are the most interesting facts you know?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is the most important thing we should achieve in life?\nsecond sentence: What is the best thing you have achieved in your life?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Why do some men choose to marry women who are plain, needy, dull and uninteresting over women who are smart, educated, attractive and fun?\nsecond sentence: Why do 40 year old Men get attracted to 30 year old married women?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: When I run or exercise, is a 180 bpm pulse normal? Is it safe?\nsecond sentence: My teeth hurt when I am running, is that normal?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How was your 2016?\nsecond sentence: How's your 2016?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How do I gain weight in a healthy way?\nsecond sentence: How do I gain some healthy weight?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Which is the best mobile under the budget of 15000 in july 2016?\nsecond sentence: Which is the best Smartphone under INR 15000 ?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is the distinction between dissociative amnesia and fugue?\nsecond sentence: How do I get amnesia without hurting myself?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is black money and how can it effect the economy of a country?\nsecond sentence: How does black money affect the economy?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How do I update Instagram?\nsecond sentence: How can I update Instagram in Android 4.0.4?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: I accidently trimmed my beard to smaller number. What should I do to grow it faster?\nsecond sentence: Can I get my beard to grow faster using any everyday things?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is your review of BBC America?\nsecond sentence: What is your review of BBC?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Why do people believe in their religion?\nsecond sentence: Why do people believe in religion in general?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: \"Neuroscience: In order for \"\"mind-uploading\"\" to happen, which parts of the brain need to be hooked up to \"\"electrodes\"\"?\"\nsecond sentence: Will it ever be possible to hook up someone's brain to a computer to project a person's dream?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is a brain aneurysm and why is it deadly?\nsecond sentence: Can a brain dead person be revived? How can you determine if someone is brain-dead?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How is the quality of the Exide battery vs the Amaron battery for a Ford Fiesta car?\nsecond sentence: How long do batteries last in car key fobs?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How is Avanse? Can I take an education loan from them?\nsecond sentence: Is it safe to take education loan from avanse?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What are some things new employees should know going into their first day at Universal Insurance?\nsecond sentence: What are some things new employees should know going into their first day at Rogers?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Why do most people remember the bad things you do to them more than the good things you do to them?\nsecond sentence: Why do people forget all good things you do for them and remember the one bad thing?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How do I write a high level (English) essay?\nsecond sentence: I have to write an essay about myself. How should I begin (and end) the essay?",
+        "label": "False"
+    }
+]

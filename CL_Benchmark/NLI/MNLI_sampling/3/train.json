@@ -1,0 +1,242 @@
+[
+    {
+        "sentence": "sentence 1: and they want all this power and they want to control all these people and it's not for the people it's for themselves and the way you know that is because they didn't work their way up from the bottom up they went in and they took power and they took authority and they\nsentence 2: They wanted the power, but there are people better placed to use it.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Examples of activities include work on a Federal Executive Board project, participation in Veterans Integrated Service Network meetings, and relations with the media, congressional offices, and service organizations.\nsentence 2: An activity includes relations with the media. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The coast road takes you west to Pointe du Grouin, a cliff 40 m (130 ft) high, with a spectacular view of the Chausey Islands to the north and to Saint-Malo, a town steeped in seafaring history; its sailors left their name as far afield as the Malouines, claimed by the British as the Falkland Islands.\nsentence 2: Pointe du Grouin has a great view of the Chausey Islands.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Riggs says legal-aid agencies help stabilize society\nsentence 2: A society can only rain stable through the use of  legal-aid agencies.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: But in these stories, especially the later ones, he seems to have been unable to get beyond his own commonplace fantasies about prostitutes and 1960s miniskirts.\nsentence 2: He cannot get past his fantasies about hookers and 1960s miniskirts in his works. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: I had a pleasant conversation with him and his wife.\nsentence 2: The conversation was about rescuing poor children.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Augusto Pinochet to Spain to stand trial.\nsentence 2: Pinochet is facing life in prison.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: This massively delayed planning and bill-writing, a traffic jam that still has not cleared.\nsentence 2: There was a traffic jam that affected work.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: That would likely get him killed.\nsentence 2: A probable result would be his death. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Like the Nation of Islam, which claims Elijah Muhammad is currently circling Earth on a space shuttle, Sun Ra made his vision of liberation in Saturn the ideological bedrock of a rigorous theology, organization, and enterprise.\nsentence 2: Elijah Muhammad is apparently onboard a spacecraft which is circling the Earth as we speak.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The humiliation...being stared blankly at by half a million faces... Well, chirped a little part of my brain.\nsentence 2: I felt humiliated in front of the half a million people watching me.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: About 5 km (3 miles) west of Edinburgh's center, past the rugby ground at Murrayfield, you will find Corstorphine.\nsentence 2: Corstorphine is past the rugby field at Muarryfield. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The building stands in the heart of a living museum of Malla dynasty architecture.\nsentence 2: A living museum is devoted to Malla dynasty architecture. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: and uh it uh it was interesting just to listen to the rationale uh being proposed and the logic of some of the people uh it was also extremely difficult to stay awake sometimes because there was so many witnesses and we were not allowed to take any notes of any kind uh and i thought that that was a failing because uh from the standpoint that it was difficult to try to remember everything and and yet the judge said well um if you're taking notes you're missing something\nsentence 2: We could not write down anything about the trial.  ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Buildings as pleasing as the 17th-century town hall face the large oblong plaza where shoppers, businessmen, and tourists take time out for coffee in the fresh air.\nsentence 2: People enjoy coffee in the fresh air here.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: There are few grains of truth in this story.\nsentence 2: The story was embellished to encourage visitors.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: This is Mister Kirby, from Texas. \nsentence 2: Mister Kirby has also lived in Oklahoma.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: yeah yeah uh mine are both out of school and uh\nsentence 2: Both of mine are out of school.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: It should not be interpreted as a recommendation about how much the United States needs to save because saving is not free and there are other ways in which governments, businesses, and individuals can and will adjust.\nsentence 2: Saving in the United States is not free and there are means in which governments, businesses, and individuals can adjust. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: yeah yeah so do you have a do you have a garden or do you just do your landscaping now and your lawn\nsentence 2: Why don't you do any work outdoors any more? ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Turin was little more than a fortified village of 40,000 inhabitants in 1600, but it rose to 93,000 a century later.\nsentence 2: The population rose about one hundred years later.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: One of the most endearing qualities of B-movie makers such as Roger Corman is their self-consciousness, their recognition that they're making crass, but fun, junk.\nsentence 2: Roger Corman is the best maker of B-movie films today.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: every night this week so i have concentrated on watching James Bond movies  this week\nsentence 2: I was thinking of taking some time off this week and watching a few James Bond movies on my nights off. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: For a more skeptical view of these issues, check out these sensible   What Really Happened at Roswell and Abduction by Aliens or Sleep Paralysis .\nsentence 2: What Really Happened at Roswell, Abduction by Aliens, and Sleep Paralysis provide a more skeptical view of these issues. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: These leptin findings imply that hormones and neurotransmitters control the instinctual desire to eat, overwhelming willpower in the process.\nsentence 2: Overreating is always linked to biology.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Is a separate protocol needed for individuals who are admitted to the hospital for surgery or other medical treatments that necessitate a hospital stay?\nsentence 2: There is a separate billing method for individuals who go to the hospital for surgery and have to stay.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Messieurs, mesdames, said Poirot, with a flourish, \"let me introduce you to the murderer, Mr. Alfred Inglethorp!\" 164 Chapter 13 POIROT EXPLAINS \"Poirot, you old villain,\" I said, \"I've half a mind to strangle you! \nsentence 2: Mr. Inglethorp introduces Poirot as the murderer to the audience, and Poirot responds with harsh skepticism.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: are are you a uh a TIer\nsentence 2: What country do you come from?",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The railway line then curves gracefully around Tolo Harbor, an idyllic body of water well-protected from the open sea.\nsentence 2: Tolo Harbor is home to a vast amount of fish species.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: She asked the panel how to balance this need with the many important scientific questions that still need to be answered.\nsentence 2: The panel gave a satisfactory answer to her question.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: uh-huh well uh i've got to respect your opinion you have some uh solid ideas\nsentence 2: I agree with your ideas.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: i wanted to move there it sounded like uh a neat place to live an island in the sun you know and uh\nsentence 2: I don't think an island is an ideal living situation for me.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: oh great what kind of lawn do you have\nsentence 2: Is your lawn bigger than mine?",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Consequently, we have developed this standards update which supersedes our previously issued Standards for Internal Controls in the Federal Government.\nsentence 2: The Standards for Internal Controls in the Federal Government are continued through this day.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The office usually is so overwhelmed, attorneys who work there say, that they have to stop taking calls and evaluating new cases for the day by 10 a.m.\nsentence 2: Most of the lawyers find themselves wishing that they could disconnect their phones after a while.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Soon she fell silent, leaving the screaming to the woman chained to the pillar.\nsentence 2: Both women laid quietly chained to the pillar. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: If that is the goal, he thought we should be examining how to accomplish screening.\nsentence 2: We probably should be examining how to accomplish screening based on the goal.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Before 1970, however, evaluation case studies were similar to research case studies.\nsentence 2: Prior to 1970, evaluation case studies were similar to research case studies.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The Belgian who is here? \nsentence 2: Why is there a Belgian here?",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: As far back as the 13th century, when Paris's first university moved from the cloisters of Notre-Dame to the Left Bank, the young came to the quartier to learn Latin.\nsentence 2: The young were forced to learn Latin in the 13th century.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The gardens' pride is a 200-year-old banyan tree, the Ficus bengalensis, or strangling fig tree.\nsentence 2: The banyan tree that's in the garden is 50 years old.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: But the wound was already healing.\nsentence 2: The wound was beginning to visibally heal already.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The cover profile makes Jerry Seinfeld seem quite charming, if a tad immature.\nsentence 2: The cover profile shows a ridiculous picture of Jerry.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: But insofar as dispersing the slots would foster competition, a strong case can be made that it's the former.\nsentence 2: Dispersing the slots is not the only way to foster competition.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Perfectly.\nsentence 2: Pretty well.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Voluntary associations soon learned to put out their message in newspaper formats, to take advantage of the mail.\nsentence 2: Associations like Goodwill learned to put their message in the newspaper. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: This feudal fortified village is situated amid colorful terraces of vines, bougainvillea, and mimosa, guarded by tall cypresses.\nsentence 2: The village outskirts have very little flora.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Application of this interpretation to the U.S.-Mexico border would disrupt access of permanent legal residents to the legal system in the poorest region of the United States.\nsentence 2: Applying this interpretation could set the U.S.-Mexico border back weeks.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Also, there were the rats.\nsentence 2: There were no critters.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: An organization's internal forces include its culture, its management practices, and its business processes.\nsentence 2: An organization's culture is an internal force that changes how it is run.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: These include both Arsenio (Rua de Santa Maria, 169) and Marcelinos (Trav.Da Torre, 22) in Funchal's old town, and O Pit??u (Rua da Carreira).\nsentence 2: Arsenio is very attractive for tourists.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The church was built on what is thought to be the spot where Moses confronted the Burning Bush, but the Christian community had to confront far more mortal danger in the years following its foundation and its high sturdy protective walls give it the look of a fortress rather than a place of worship.\nsentence 2: The church was built where people believe Moses spoke to the burning bush.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: A newcomer to Charlotte--Bill Capacchione, who had not witnessed the city's efforts in the '70s to surmount mutual distrust--sued to enroll his daughter into a magnet that officials didn't want to tip all white.\nsentence 2: The city of Charlotte always wants to have more whites in school than minorities.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: And while multinational chains have made inroads, they seem less blatant here than elsewhere.\nsentence 2: Multinational chains seem less blatant than in other places. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Further details are provided in Appendix 5.2.\nsentence 2: The appendix has no more information.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Paul Samuelson had good reasons for beginning his textbook with Keynesian analysis.\nsentence 2: Paul had good reason for the Keynesian analysis in his textbook.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Shows 7 and 10pm, no late show Sunday Tuesday; dark Thursday; $38 or less (special rate for children 4 12).\nsentence 2: There is a midnight show on Sunday.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: for God's sake fall in some kind of trivial decency\nsentence 2: Have some decency.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: so will you uh breed one of the litter then next year\nsentence 2: You ate the apple that was sitting on the couch?",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: HHS published a notice of proposed rulemaking on September 8, 1994.\nsentence 2: HHS published notice of proposed rules so there would be no confusion.",
+        "label": "neutral"
+    }
+]

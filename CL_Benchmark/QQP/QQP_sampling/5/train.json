@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "first sentence: Why don't the Commonwealth nations such as India, West Indies etc. ask the British government for compensation for the damages and the loot they are responsible for?\nsecond sentence: Which is the best government job in India that most people don't know about?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What can smart phones do?\nsecond sentence: What can smart phone do?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What if it was possible to go anonymous in real life as well?\nsecond sentence: What was it like to meet Jon Jones in real life? How did he treat you?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What do copywriters do?\nsecond sentence: What does a copywriter do?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What should I know before visiting Italy?\nsecond sentence: What should I know about Italy?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: You wake up as a homeless man with no sellable skills. and $5 how do you destroy the world?\nsecond sentence: How do I answer to my bf question?his parents don't support us as I can't give dowry,and I am not Bihari,he said to choose between him n my parents.",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Does oil conduct electricity?\nsecond sentence: Why does a base conduct electricity?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How safe is it to eat raw eggs? Does it benefit your health in any way?\nsecond sentence: Is it safe to eat raw egg?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What are the top process pain points at ad agencies, specific to the creative delivery process?\nsecond sentence: What are the top process pain points at ad agencies?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is better, Rolex solid end links or hollow end links?\nsecond sentence: How much does the cheapest Rolex watch cost?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How can I create a gui with only a circle showing speech graph with Tkinter or wxPython?\nsecond sentence: Where can I learn to create a GUI using GTK on C/C?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Is it possible to charge an iPhone with a watermelon?\nsecond sentence: Is it possible to over-charge an iPhone in the charger?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Who is the best character in Super Smash Bros Melee?\nsecond sentence: What is the best version of the Super Smash Bros game? Why?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do you want to die and why?\nsecond sentence: Why do I want to die mostly?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Why do many people hate Cristiano Ronaldo?\nsecond sentence: Why do people criticise Cristiano Ronaldo so much?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: I forget things a moment after thinking about them. What does it mean?\nsecond sentence: What are some things most people forget to bring with them to college?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Do you have a photographic memory?\nsecond sentence: Photographs as memories vs art?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How cold can the Gobi Desert get, and how do its average temperatures compare to the ones in the Chihuahuan Desert?\nsecond sentence: How cold can the Gobi Desert get, and how do its average temperatures compare to the ones in the Kalahari Desert?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Are there any visual references to the Searchers in Civil War?\nsecond sentence: Are there any more Advance Wars games in the works?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: When light is absorbed by a solid where does it go?\nsecond sentence: When light gets absorbed into a material, where does the light go?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Which is the best simple book to learn mentalism?\nsecond sentence: What are the best books to learn mentalism skills and techniques?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is Personal Life?\nsecond sentence: I am an engineering student currently just entering third year. But, I want to study economics at DSE. Help me?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: \"When I try to go to my profile on Quora it keeps saying: \"\"Connection Error\"\" I try it again and it still doesn't work! What do I do to fix it?\"\nsecond sentence: Why do I often get 'Connection Error Try Again' when I try to read answers on Quora?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How does one become a hacker?\nsecond sentence: How do I become a hacker only at one time?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How is life without seniors in MBBS college as ours is the first batch of this particular college?\nsecond sentence: How is the life/experience of a student at MBBS college?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Why are only men called gentlemen? Why aren't women called gentlewomen?\nsecond sentence: What secrets do women not want men to know?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: According to your opinion, Which is the best character in Naruto Shippuden and why?\nsecond sentence: Which character according to your opinion has the best story in Naruto Shippuden and why ?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How will Trump’s presidency affect international students in the US?\nsecond sentence: What would be the effect of Trump's presidency on international Master's students who plan to work in the US after completing the degree?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Why can't I study efficiently?\nsecond sentence: How can I study efficiently?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How can I buy an apartment before 30 years old?\nsecond sentence: Is buying 30 year old apartment OK?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do you repair a laptop headphone jack?\nsecond sentence: How can you repair a headphone jack that doesn't work?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How are IIT professors paid?\nsecond sentence: What is the salary of an IIT faculty?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How can I utilize my time while traveling on the Metro for more than an hour?\nsecond sentence: What are some good ways to pass the time while traveling on the metro?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is best i5 6th or i5 7th gen?\nsecond sentence: Which is the best i5 6th gen or 7th gen?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is the difference between 32 bit and 64 bit in laptop?\nsecond sentence: What is the difference between a 32 bit and 64 bit application?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are some funny shows?\nsecond sentence: What isn't funny?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: If blood is red, why are veins blue?\nsecond sentence: If blood is red, why do veins look blue?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is dynamic?\nsecond sentence: What is Dynamic in Java?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do you know when it's time to leave your current company and move on?\nsecond sentence: When and how do you know it is the right time to leave your job as a Software Developer and start your own company?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Can I the name of the person on this picture?\nsecond sentence: How can you find out someone's name from a picture?",
+        "label": "False"
+    }
+]

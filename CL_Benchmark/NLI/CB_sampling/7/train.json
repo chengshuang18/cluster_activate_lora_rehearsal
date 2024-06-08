@@ -1,0 +1,22 @@
+[
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: She longed for a weapon, for even a hairpin, and knowing that she did not have one, she knew too that she was totally defenceless, unarmed and alone. She could feel the great flight of the dragon and sensed that she was high in air and travelling fast towards the sunset. She could feel the great muscles of the dragon's wings send ripplings down the stomach walls and she gave herself over to death.\nsentence 2: the great muscles of the dragon's wings sent ripplings down the stomach walls"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: Indeed, in those busy days, our servants ' hall would often witness a gathering of some of the finest professionals in England talking late into the night by the warmth of the fire. Sometimes, naturally, there would be strong disagreements, but more often than not, the atmosphere was dominated by a feeling of mutual respect. Perhaps I will convey a better idea of the tone of those evenings if I say that regular visitors included the likes of Mr Harry Graham valet-butler to Sir James Chambers and Mr John Donalds valet to Mr Sydney Dickenson.\nsentence 2: regular visitors included the likes of Mr Harry Graham valet-butler to Sir James Chambers"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: B: Uh, uh, I've had one or two American cars I think, and they were okay. I had a Pontiac once and I never had a problem with it, but, uh, my mother had a Dodge at one point and I had driven it a few times and I really did not feel that I would buy a Dodge just from, A: Um. B: well, actually, I had uh, a Dodge Omni at one point A: Uh-huh. B: and that was, I think, what really prejudiced me against American cars because I did not feel that it was a very quality, uh, car.\nsentence 2: the Dodge Omni was a very quality car"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: A: And, uh, I got to stay home with my kids, which I really wanted to do, but now I could not go back and do it. B: Yeah. A: I really couldn't, I don't think I could stay home all the time and do nothing.\nsentence 2: he could stay home all the time and do nothing"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: B: The kind you have sounds very interesting, though. A: Well, um, they're really sweet dogs. uh, we thought probably our neighborhood in Houston had more of this breed than any other place just because of, um, the family that had them and bred them.\nsentence 2: their neighborhood in Houston had more of this breed than any other place because of the family that had them and bred them"
+    }
+]

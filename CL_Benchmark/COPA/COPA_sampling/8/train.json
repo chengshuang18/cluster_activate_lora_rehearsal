@@ -1,0 +1,34 @@
+[
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The boy climbed the tree.\"? Choose one between A and B.\nA: A cat got stuck in the tree.\nB: A bird built a nest in the tree."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the effect of \"The vandals threw a rock at the window.\"? Choose one between A and B.\nA: The window cracked.\nB: The window fogged up."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The DJ turned the music on.\"? Choose one between A and B.\nA: People left the party.\nB: People began to dance."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The man's clothes fit loosely.\"? Choose one between A and B.\nA: He bought them on sale.\nB: He lost weight."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"I chugged the pitcher of water.\"? Choose one between A and B.\nA: I walked upstairs.\nB: I ran five miles."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"Air pollution in the city worsened.\"? Choose one between A and B.\nA: Factories increased their production.\nB: Factories shut down."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the effect of \"I came upon a puddle on the sidewalk.\"? Choose one between A and B.\nA: I leapt over the puddle.\nB: I played in the puddle."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"My favorite song came on the radio.\"? Choose one between A and B.\nA: I covered my ears.\nB: I sang along to it."
+    }
+]

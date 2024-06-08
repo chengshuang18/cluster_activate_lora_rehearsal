@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "sentence 1: Sierra was arrested on December 2 outside a local bar, and is being held without bond. Police claim that after they arrived, she first assaulted an officer then attempted to bribe him by offering to perform a sex act on him. Only two weeks earlier she had pleaded no contest to charges of battery and possessing cocaine. If she is convicted of all the new charges, she could be imprisoned for up to 11 years, which would mean she would have the baby whilst still in prison. Sierra earlier pled not guilty to all charges.\nsentence 2: Jessica Sierra once reached the finals of \"American Idol\".",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The U.S. Senate has scheduled debate and a vote in June on a bill that would allegedly initiate a process for Native Hawaiians to achieve the same level of self-governance and autonomy over their own affairs that many Native American tribes currently have. Critics of the bill characterize it as going much further than any existing tribal recognition, creating a governing entity based solely on race, without the same requirements as needed for Native American tribal recognition, such as having existed predominantly as a distinct community, having exercised political influence over its members as an autonomous entity, and have continuously been identified as a tribal entity since 1900.\nsentence 2: The Shoshones fight for their rights against the U.S. government.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: U.S. policy on drug trafficking is not consistent with the need to put an end and actively repress the consumption of drugs. The solution is not based on the destruction of a native plant, coca, in the continent, but on an active fight against the Colombian drug mafia, which has created a great money and crime empire in Colombia with powerful ramifications outside its borders.\nsentence 2: A native plant is destroyed by the Colombian drug mafia.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Jill Pilgrim, general counsel of USA Track and Field, brought up the issue during a panel on women's sports at the sports lawyers conference. Pilgrim said the law regarding who is legally considered a woman is changing as sex-change operations become more common.\nsentence 2: Sex-change operations become more common.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The American State Department announced that Russia recalled her ambassador to the United States \"for consultation\" due to the bombing operations on Iraq.\nsentence 2: The American Ministry of Foreign Affairs announced that Russia called the United States about the bombings on Iraq.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The ship, owned by Mitsui O.S.K. Lines and flagged in the Cayman Islands, came under attack at around 4 p.m. Somali time (UTC+3) as gunfire came from two small priate boats. The vessel, with a crew of eighteen from the Philippines, suffered light damage to its front and windows were broken. The Jasmine Ace was en-route from Sharjah, United Arab Emirates to Mombasa, Kenya. The 126.75m car carrier had loaded with 377 used cars in Sharjah on March 17.\nsentence 2: Mitsui O.S.K is the owner of the Cayman Islands.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: US-based News Corporation (formerly based in Australia) has announced its purchase of IGN Entertainment, a US-based online media group, for US$650 million. IGN's assets include popular video game sites IGN.com and GameSpy.com, as well as movie and game review site Rotten Tomatoes. IGN will become part of the News Corporation's Fox Interactive Media division, which will expand the company's online presence to become the fourth largest online media company, with over 70 million individual users and 12 billion page views per month when the takeover is complete.\nsentence 2: News Corporation is located in Australia.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Two bombs planted near an Islamic school in Pakistan killed eight people and injured 42 others yesterday in the latest outbreak of violence gripping the southern port of Karachi.\nsentence 2: 42 people killed in Karachi bomb attack.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Argentina announced that it has decided to lift financial and trade restrictions on imports from Britain that were imposed during the 1982 Falklands conflict.\nsentence 2: Argentina lifted restrictions on British imports.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: In announcing plans today to prepare the nation for combating a future worldwide wave of bird flu, President Bush used vocabulary and tactics that are familiar from his confrontation with global terrorism.\nsentence 2: Bush supports global terrorism.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Tom Cruise has returned to The Oprah Winfrey Show and talked about his love for Katie Holmes, but this time he was denying marital problems instead of jumping on the couch to prove his passion for the young actress. \"That's laughable to me,\" Cruise said when Winfrey told him there was speculation that \"what you and Katie have is not real\". It was the first time Cruise appeared on the show since his couch-hopping stunt three years ago drew a flood of satire and ridicule. \"It was something that I just felt that way, and I feel that way about her. That's just how I felt,\" he said in the interview, which aired on Friday in the US.\nsentence 2: Tom Cruise is married to Oprah Winfrey.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Camacho is a Mexican version of Japan's Morihiro Hosokawa -- a pragmatic tactician using a crisis and the attendant outcry for reform to further his political standing.\nsentence 2: The Japanese Prime Minister is Morihiro Hosokawa.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Bombs exploded in two Turkish cities Thursday only days before Turkey plays host to a NATO summit.\nsentence 2: Turkey plays host to suicide bombers.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Only a few Mag-lev trains have been used commercially such as at the Birmingham airport in the UK.\nsentence 2: Maglev is commercially used.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Allen was renowned for his skill at scratch-building and creating scenery, and he pioneered the technique of weathering his models to make them look old and more realistic.\nsentence 2: Allen introduced a new technique of creating realistic scenery.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: \"I guess you have to expect this in a growing community,\" said Mardelle Kean, who lives across the street from John Joseph Famalaro, charged in the death of Denise A. Huber, who was 23 when she disappeared in 1991.\nsentence 2: John J. Famalaro is accused of having killed Denise A. Huber.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The papers presented show that all European countries are experiencing rapidly aging populations that will cause sharp increases in the cost of retirement income over the next several decades.\nsentence 2: National pension systems currently adopted in Europe are in difficulties.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: NRDC states its mission as follows: The Natural Resources Defense Council's purpose is to safeguard the Earth: its people, its plants, animals, and the natural systems on which all life depends.\nsentence 2: The Natural Resources Defense Council safeguards the Earth.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The Duke of Edinburgh and I are very happy that the Prince of Wales and Mrs. Parker Bowles are to marry.\nsentence 2: I am delighted and wish The Prince of Wales and Parker Bowles a happy life.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Although the domestic markets for cigarettes in America in the 1990s was greatly reduced due to bans on advertising, smoking in public places and health warnings, American tobacco companies were showing a higher profit.\nsentence 2: Cigarette sales have declined due to restrictions on advertising.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: NPF said that young people displaying onset symptoms of Parkinson's disease have special needs, because they often have children to raise, jobs to keep and other issues to address that are different than those patients in retirement years.\nsentence 2: The symptoms of Parkinson's disease are: tremor, rigidity (stiffness; increased muscle tone), bradykinesia/akinesia, also \"dysdiadokinesia\", and postural instability.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: An American-owned tugboat from Italy along with its 16 member crew was hijacked around 11 am EST on Saturday in the Gulf of Aden.  The Italian Ambassador, Pierandrea Magistrati, confirmed that \"there is a boat that has been hijacked, I believe by Somali pirates.\" Additionally, Shona Lowe, a spokeswoman at NATO's Northwood maritime command center reported that the Italian-flagged tugboat was hijacked this morning off of Somalia's northern coast.  Lowe also confirmed that Italian government officials along with the company that owned the tugboat were trying to secure the release of the crew, ten of which were Italians.\nsentence 2: The Gulf of Aden is located along the northern coast of Somalia.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Gross domestic product, a measure of total output within the nation's borders, climbed at a 3% annual pace in the April-June period.\nsentence 2: Annual rate increase of 3% in second quarter much lower than forecasts.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Franz Liszt, a Hungarian composer who lived from 1811 to 1886 was the equivalent of a rock star in his day. His piano compositions were extremely popular and he often gave concerts to his multitude of fans. Liszt was also the pioneer of many musical techniques, including the symphonic poem and the technique of transforming themes.\nsentence 2: Franz Liszt lived from 1811 to 1886.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: \"We've never had a core (business) thing,\" founder Richard Branson told Reuters at the launch this month of Virgin Vodka, which, with Virgin cola and Virgin computers, are his latest bright ideas.\nsentence 2: Richard Branson's cola is called Virgin Cola.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: But most Israelis, including those sympathetic to the settlers' efforts to reclaim all the territory that was part of the biblical Land of Israel, reacted with horror to the Hebron killings and the subsequent violence.\nsentence 2: Hebron is located 20 miles south of Jerusalem.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Reagan was seriously wounded by a bullet fired by John Hinckley Jr. in an attempted assassination, but made a remarkably speedy recovery.\nsentence 2: Reagan survived an attempted assassin's bullets.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: For such patients, regular aspirin use significantly decreased the risk for fatal and nonfatal strokes or heart attacks.\nsentence 2: People experienced adverse effects while taking aspirin.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: On Aug. 6, 1945, an atomic bomb was exploded on Hiroshima with an estimated equivalent explosive force of 12,500 tons of TNT, followed three days later by a second, more powerful, bomb on Nagasaki.\nsentence 2: In 1945, an atomic bomb was dropped on Hiroshima.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: In the very same room in fall, 1992, George Bush prepped to debate Clinton and Ross Perot in practice sessions with Chief of Staff John H. Sununu.\nsentence 2: Ross Perot ran for president in 1992.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: In addition to family, the memorial service was attended by actors and actresses who have worked with Ledger, including Cate Blanchett who starred with Ledger in the Bob Dylan bio-flick, I'm Not There. Blanchett spoke of the times she shared with Ledger in New York and Los Angeles. The Other speakers included his parents, sister and Neil Armfield, a director of Ledger's last Australian film, Candy. An emotional Williams, was wearing dark glasses and a white dress with black trim, she was not accompanied by her daughter Matilda. Williams walked in clutching the arm of Ledger's older sister, Kate.\nsentence 2: Williams has a daughter called Matilda.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Humic acids are complex organic molecules formed by the breakdown of organic matter in the soil. They are not considered to be fertilizers, but soil enhancers and improvers.\nsentence 2: Organic fertilizers are used as soil enhancers.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The Nobel shines a spotlight on a form of \"social capitalism\" that has gained currency in recent years, propelled by high-profile supporters like former President Bill Clinton, rock star Bono and Microsoft founder Bill Gates.\nsentence 2: President Bill Clinton is a supporter of \"social capitalism\".",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Patricia Amy Messier and Eugene W. Weaver were married May 28 at St. Clare Roman Catholic Church in North Palm Beach.\nsentence 2: Eugene W. Weaver is the husband of Patricia Amy.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: United States Senator Ted Stevens of Alaska was convicted Monday on seven counts of failing to report gifts. Stevens, a senior United States Senator from Alaska and the longest serving Republican in the Senate, had been accused of not reporting tens of thousands of dollars worth of gifts from the VECO Corporation including free house remodeling. The jury in the District of Columbia found Stevens guilty on all seven counts.\nsentence 2: Ted Stevens is the longest serving Republican in the US Senate.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: There are more than 4,000 street children in the capital city of Ulan Bator.\nsentence 2: The population of Ulan Bator is 4,000.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Two other marines, Tyler Jackson and John Jodka III, have already pleaded guilty to aggravated assault and conspiracy to obstruct justice and were sentenced to 21 months and 18 months, respectively.\nsentence 2: Tyler Jackson has been sentenced to 18 months.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The memorandum noted the United Nations estimated that 2.5 million to 3.5 million people died of AIDS last year.\nsentence 2: Over 2 million people died of AIDS last year.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: In November, the results of the 2008 United States Senate election in Minnesota showed Republican Norm Coleman with a 215 vote lead over the Democratic challenger Franken. The close margin ―less than 0.0075 percent ―triggered an automatic recount which resulted in Franken leading by 225 votes, the total ratified by the Minnesota Canvasing Board January 5. The Coleman campaign filed a motion January 6 in court to block the certification of Franken's victory and prevent Franken from taking a seat in the United States Senate. On March 31, a three-judge panel hearing the case ordered 400 additional ballots be counted.\nsentence 2: Norm Coleman is a member of the Republican Party.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: ISLAMABAD, Pakistan (CNN) -- Taliban militants made their deepest incursion into Pakistan this week, seizing control of areas that are a short drive from the capital city.  A Pakistani government official said the militants fully withdrew from the Buner district on Friday, although other officials cast doubt on the extent of the pullout and how long it would last. Buner is only 60 miles outside Islamabad. The situation is particularly concerning because Pakistan is a nuclear-armed state. The Islamic republic is believed to have between 30 and 40 nuclear warheads, according to the U.N. nuclear watchdog, the International Atomic Energy Agency (IAEA).\nsentence 2: Pakistan's nuclear arsenal creates concerns.",
+        "label": "entailment"
+    }
+]

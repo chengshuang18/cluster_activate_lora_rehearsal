@@ -1,0 +1,242 @@
+[
+    {
+        "sentence": "sentence 1: The united countries defeated the Teutonic Knights at the Battle of Grunwald in 1410 and repelled Germanic eastward expansion.\nsentence 2: Lithuania and Poland joined forces to fight the Teutonic Knights in Grunwald.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Nestled in the northwest corner of Kyoto, Ryoanji is the best known of all Zen Buddhist temples.\nsentence 2: Ryoanji is located in the city of Kyoto.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: A spokesman for fertility doctors suspects that ronsangels.com is really aimed at adolescent boys.\nsentence 2: Ronsangels.com is a clearing house for discount makeup and nail polish.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Some scholars now postulate that Ramses II was the Egyptian Pharoah of biblical fame who let the Jews leave his land for Israel.\nsentence 2: Other scholars claim it was his father, Ramses I, who allowed the Jews to leave Egypt. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The country also has a small but well-integrated Christian community who worship the tenets of St. Mark.\nsentence 2: The Christian community is made up of primarily women.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: you're just always used to men i mean that's just something that men always did\nsentence 2: It has always been done by women in the past.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: big garage a big basement just like my parents house except for on the water\nsentence 2: Tiny garage, Tiny basement and nothing like my parents house. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Those involved with the effort say the center will help workers to learn how to stand up for their rights and students to learn skills they can use in the workplace.\nsentence 2: those involved say the center will do nothing for the workers.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: but um well yeah i used to watch one watch one on the air but that was back\nsentence 2: There used to be one that I would watch on the air.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: There are paired but separate chambers for the sultan and the valide sultan, each having a changing room, a cool room, and a hot room.\nsentence 2: The sultan and the valide sultan have similar chambers with a changing room and hot and cold room.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: What good am I? \nsentence 2: How am I valuable?",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Ashoka began by killing all his rivals before conquering Kalinga in 260 b.c.\nsentence 2: Asoka should have left his enemies alone. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: and i've been up there a few times but didn't accomplish too much because i just run down too quick\nsentence 2: I didn't accomplish much because it get tired.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Generally, if they had the resources they don't need shelter and they can afford private counseling.\nsentence 2: They can afford fancy therapists, they don't need help.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Aiming at what kinds of characteristics?\nsentence 2: Aiming at facial features of what kind?",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The size of the contingency quickly became a cause celebre with many parties to the rate case.\nsentence 2: The contingency size became an issue for the parties of the case, as each side hoped to change it.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: and uh it uh it was interesting just to listen to the rationale uh being proposed and the logic of some of the people uh it was also extremely difficult to stay awake sometimes because there was so many witnesses and we were not allowed to take any notes of any kind uh and i thought that that was a failing because uh from the standpoint that it was difficult to try to remember everything and and yet the judge said well um if you're taking notes you're missing something\nsentence 2: We could not write down anything about the trial.  ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Segregation on Chicago's South Side is as vicious as it is in Compton, and if you're talking about criminalizing the poor and turning public space over to Disney, then Rudolph Giuliani's New York City would seem to be the current industry leader.\nsentence 2: Despite a social effort, segregation is still a huge problem in Chicago.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: As an independent regulatory agency, rules promulgated by the Board of Governors of the Federal Reserve System are not subject to review under the executive order.\nsentence 2: The independant agencies can do anything that they want. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The Japanese were attracted more to Buddhism's ritual and art than to its complex philosophy, rendered all the more difficult because its texts were, for several centuries, available only in Chinese, the language of a small court elite.\nsentence 2: The Japanese weren't interested in beliefs other than Buddhism.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: This plan was intended to better serve customers by helping improve their knowledge and understanding of the tax return process.\nsentence 2: The British Court transferred Chile's Pinochet to prison in North Korea",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Closer to town is Lion Rock, shaped like a lion lying in wait.\nsentence 2: Lion Rock is close to town, and is named as such because it is shaped like a waiting lion.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: They didn't know whether I'd changed the papers, or whether Danvers had been carrying a dummy message, while the real one was sent another way.\nsentence 2: They knew where the real message was.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Don Cazar has good horses?\nsentence 2: I want to ask about the quality of the horses Don Cazar has.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: To get to the castle, drive up the winding road to the summit or use the lift at the far end of Calle Juan Bautista Lafora, close to Postiguet beach.\nsentence 2: Cars trying to visit the castle will be turned back after 5 PM.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: As each successive scenario generates a greater reduction in electricity demand, coal use is reduced significantly (by about 30 percent).\nsentence 2: They wanted to reduce the usage of all fossil fuels.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: First, isn't my thought experiment too simple to tell us anything about the real world?\nsentence 2: My thought experiment is only 3 pages long of researched data.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: the trouble is they think they can buy it for a thousand dollars or less\nsentence 2: They need to spend several thousand dollars for it.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Well, naturally. \nsentence 2: Well, extraordinarily.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: And a bizarre photo essay depicts a husband and wife who have worn matching outfits every day for the last 17 years.\nsentence 2: The couple only began wearing matching outfits five years ago.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Or from our own non-stock repositories of future value--i.e.\nsentence 2: Repositories of future value are an example because we worked so much on them.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: this is pretty unseasonal unseasonal but um at least we you know it it it feels good it gets uh everybody doesn't have cabin fever today it's nice to get out and about\nsentence 2: No one has cabin fever today because it's nice out.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: For decades, Madeira has instead attracted a genteel, even anachronistic form of island tourism.\nsentence 2: Madeira has its own type of island tourism.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: kind of like uh Jerry Glanville\nsentence 2: Nothing like Jerry Glanville.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: 'They were heavily armed.'\nsentence 2: They had a lot of weapons on them.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Factor (Warner Bros.).Critics barely even bother with this action flick starring Cuba Gooding Jr. and Skeet Ulrich as a pair of ne'er-do-wells who end up with a load of heat-sensitive poison on their hands.\nsentence 2: Some critics did not like the action film.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Among the political exiles flocking to Piedmont was a veteran of the earlier revolts, Giuseppe Garibaldi.\nsentence 2: Giuseppe Garibaldi was killed alongside a group of other political exiles in Piedmont.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1:   99% Catholic, 1% Protestant, Greek Orthodox, and Jewish.\nsentence 2: More Jewish than Greek Orthodox.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Red looked miserable and remained silent.\nsentence 2: Red was upset and quiet.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: If the attestation engagement is part of a larger audit, this information may be communicated as part of that audit.\nsentence 2: The attestation engagement information can't be considered part of the audit.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: It is always advisable to make reservations well in advance, particularly if you will be visiting in high season (late June mid Sept) or during school holidays (one week in late May and one week in late Oct).\nsentence 2: They suggest you to making reservations in advance, especially in high season, said the travel agent.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The thriving city has long since spread beyond the fifth-century Byzantine walls built by the Emperor Theodosius II, and now sprawls for miles along the shores of the Sea of Marmara on both the European and Asian sides.\nsentence 2: Byzantine is 20 miles long.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: It's pitiful magic that can be worked without regard to the conjunctions of the planets; but it is all the magic that is left to us.\nsentence 2: The only magic we have left doesn't rely on astrology.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: During this time he and his brothers lodged with Anne Tyson in a little house in the village.\nsentence 2: They lived in the same place with Anne Tyson, in a little house.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Although other types of forfeited property must be sold in order to recognize revenue, or constructively sold (if transferred to another Federal agency or placed into internal use), this is the last step in a process that is inherently nonexchange.\nsentence 2: Forfeited property must be sold or constructively sold.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: But Harrison's audience would not have known what the Internet was.\nsentence 2: Harrison's audience would've known what the Internet was. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: i used to be in Ohio it's some pretty country up there\nsentence 2: I used to be in Indiana although I can't say I enjoy it.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Let's go.'\nsentence 2: Let's stay here.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: How much do you know? he shot out.\nsentence 2: He did not know that they had any knowledge of it.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Then, after Alexander's death in 323 b.c. , Cleomenes took control of the country under the name Ptolemy I. The new city of Alexandria, located on the Mediterranean coast, became the base for the Ptolemaic control of Egypt and the cultural capital of Europe, and Thebes finally lost its influence.\nsentence 2: Cleomenes first considered taking the name Plato, though eventually ruled in favor of the less pretentious Ptolemy. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: This set up needless competition for scarce resources and created hurt feelings among some staff.\nsentence 2: Some of the staff felt hurt because of this.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: He was faster, fearless, felt no pain.\nsentence 2: He was a slow man with lots of fear and weakness. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: After his service, Bush lived off his savings, lounged around a singles apartment complex, and drank to excess.\nsentence 2: Bush lounged at a married's complex.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Prices are generally fixed, except in markets.\nsentence 2: All prices are fixed, even in markets.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Is a liberal president the one who makes the biggest increase in defense spending in a decade, restricts habeas corpus, guts the protections of immigration law, and sends weapons to the Colombian army?\nsentence 2: Weapons were not sent to Colombia.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: These actions are clearly steps in the right direction.\nsentence 2: The actions are steps in the right direction ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: To build a foundation of control and accountability, senior government leaders in the Commonwealth of Virginia had clear goals and objectives that went beyond receiving an unqualified audit opinion.\nsentence 2: The foundation had goals that didn't talk about audit opinions.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Anywhere I can see.\nsentence 2: The places that I cannot see.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Perhaps you don't realize that I am still in the dark.\nsentence 2: You must not know that I am in the dark.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: I was a little concerned about it and wanted to see if there was any reasonable steps that could be taken to help protect folks that are not overly burdensome.\nsentence 2: I wanted to take on a burdensome task so I could help myself.",
+        "label": "contradiction"
+    }
+]

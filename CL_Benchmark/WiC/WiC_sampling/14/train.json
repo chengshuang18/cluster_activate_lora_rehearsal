@@ -1,0 +1,162 @@
+[
+    {
+        "label": "True",
+        "sentence": "word: snap\nTo snap a whip.\nTo snap a fastener."
+    },
+    {
+        "label": "False",
+        "sentence": "word: crash\nThe crash occurred during a thunderstorm and the system has been down ever since.\nHis crash through the window."
+    },
+    {
+        "label": "False",
+        "sentence": "word: tolerate\nI like the way he plays the guitar, but I can't tolerate his voice when he sings.\nThe patient does not tolerate the anti-inflammatory drugs we gave him."
+    },
+    {
+        "label": "False",
+        "sentence": "word: face\nPut a big sign on each face of the building that can be seen from the road.\nWhy the sad face?"
+    },
+    {
+        "label": "False",
+        "sentence": "word: cover\nCover the grave with flowers.\nThe insurance won't cover this."
+    },
+    {
+        "label": "True",
+        "sentence": "word: coordinate\nCoordinate his actions with that of his colleagues.\nCoordinate the painters, masons, and plumbers."
+    },
+    {
+        "label": "False",
+        "sentence": "word: contact\nThey claimed that they had been in contact with extraterrestrial beings.\nThey forget to solder the contacts."
+    },
+    {
+        "label": "True",
+        "sentence": "word: transform\nThe alchemists sought to transform lead into gold.\nShe transformed the clay into a beautiful sculpture."
+    },
+    {
+        "label": "True",
+        "sentence": "word: chain\nThe third link of the silver chain needs to be resoldered.\nThe chain of command."
+    },
+    {
+        "label": "True",
+        "sentence": "word: gob\nHe's always stuffing his gob with fast food.\nShe's got such a gob on her -- she's always gossiping about someone or other."
+    },
+    {
+        "label": "False",
+        "sentence": "word: fall\nFall prey to an imposter.\nThe line of men fall forward."
+    },
+    {
+        "label": "False",
+        "sentence": "word: follow\nLet's follow our great helmsman!\nHe followed his lecture with a question and answer period."
+    },
+    {
+        "label": "True",
+        "sentence": "word: fire\nPut the kettle on the fire.\nBarbecue over an open fire."
+    },
+    {
+        "label": "True",
+        "sentence": "word: shame\nThe teenager couldn't bear the shame of introducing his parents.\nOne mistake brought shame to all his family."
+    },
+    {
+        "label": "True",
+        "sentence": "word: follow\nPlease follow the guide through the museum.\nThe ducklings followed their mother around the pond."
+    },
+    {
+        "label": "True",
+        "sentence": "word: connection\nThe connection between church and state is inescapable.\nThe connection between overeating and obesity."
+    },
+    {
+        "label": "False",
+        "sentence": "word: return\nOn his return from Australia we gave him a welcoming party.\nThe average return was about 5%."
+    },
+    {
+        "label": "True",
+        "sentence": "word: demand\nThere is a demand for jobs.\nThere is a demand for voluntary health workers in the poorer parts of Africa and Asia."
+    },
+    {
+        "label": "True",
+        "sentence": "word: while\nHe was here for a little while.\nHe lectured for quite a long while."
+    },
+    {
+        "label": "False",
+        "sentence": "word: corruption\nCorruption of a minor.\nThe luxury and corruption among the upper classes."
+    },
+    {
+        "label": "True",
+        "sentence": "word: touch\nI wouldn't touch her with a ten-foot pole.\nThe local Mafia won't touch gambling."
+    },
+    {
+        "label": "True",
+        "sentence": "word: distress\nA ship in distress.\nShe was the classic maiden in distress."
+    },
+    {
+        "label": "True",
+        "sentence": "word: nationality\nSuch images define their sense of nationality.\nImmigrants of the same nationality often seek each other out."
+    },
+    {
+        "label": "False",
+        "sentence": "word: run\nThese dyes and colors are guaranteed not to run.\nThe sale will run for ten days."
+    },
+    {
+        "label": "True",
+        "sentence": "word: acknowledge\n* I acknowledge my transgressions. -- Psalm 51:3.\nShe acknowledged that she might have forgotten."
+    },
+    {
+        "label": "True",
+        "sentence": "word: admit\nTo admit evidence in the trial of a cause.\nA ticket admits one into a playhouse."
+    },
+    {
+        "label": "False",
+        "sentence": "word: pocket\nThe trapped miners found a pocket of air.\nThe battle was won except for cleaning up pockets of resistance."
+    },
+    {
+        "label": "False",
+        "sentence": "word: burn\nHe watched the house burn.\nThe sun burned his face."
+    },
+    {
+        "label": "False",
+        "sentence": "word: hold\nI hold with those who say life is sacred.\nThe bridge held."
+    },
+    {
+        "label": "True",
+        "sentence": "word: beg\nI beg your pardon. I didn't mean to cause offence.\nI begged to come."
+    },
+    {
+        "label": "True",
+        "sentence": "word: head\nHis horse won by a head.\nHe is two heads taller than his little sister."
+    },
+    {
+        "label": "True",
+        "sentence": "word: buy\nI'm not going to buy your stupid excuses anymore!\nI can't buy this story."
+    },
+    {
+        "label": "False",
+        "sentence": "word: beat\nThugs beat him up when he walked down the street late at night.\nAgassi beat Becker in the tennis championship."
+    },
+    {
+        "label": "False",
+        "sentence": "word: develop\nDevelop a market for the new mobile phone.\nPlease develop this roll of film."
+    },
+    {
+        "label": "False",
+        "sentence": "word: softness\nHe attributes the disappointing results to softness in the economy.\nAnd in softness almost beyond hearing."
+    },
+    {
+        "label": "True",
+        "sentence": "word: check\nCheck into the rumor.\nCheck the time of the class."
+    },
+    {
+        "label": "False",
+        "sentence": "word: suffer\nSuffer a terrible fate.\nHis grades suffered."
+    },
+    {
+        "label": "False",
+        "sentence": "word: carry\nI carry her image in my mind's eye.\nThe senator carried his home state."
+    },
+    {
+        "label": "False",
+        "sentence": "word: art\nArt does not need to be innovative to be good.\nIt's quite an art."
+    },
+    {
+        "label": "True",
+        "sentence": "word: suspect\nI suspect he is a fugitive.\nTo suspect the presence of disease."
+    }
+]

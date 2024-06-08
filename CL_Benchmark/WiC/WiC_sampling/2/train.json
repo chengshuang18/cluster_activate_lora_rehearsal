@@ -1,0 +1,162 @@
+[
+    {
+        "label": "True",
+        "sentence": "word: use\nUse the plastic bags to store the food.\nHe doesn't know how to use a computer."
+    },
+    {
+        "label": "False",
+        "sentence": "word: action\nThe piano had a very stiff action.\nRecent federal action undermined the segregationist position."
+    },
+    {
+        "label": "True",
+        "sentence": "word: approach\nTo approach the city.\nHe was an admirable poet, and thought even to have approached Homer. -- Sir William Temple."
+    },
+    {
+        "label": "True",
+        "sentence": "word: station\nThe train pulled into the station.\nHe started looking for a gas station."
+    },
+    {
+        "label": "False",
+        "sentence": "word: cover\nWhen the pot comes to a boil, cover it and reduce the heat to medium.\nCover the child with a blanket."
+    },
+    {
+        "label": "True",
+        "sentence": "word: situation\nNo human situation is simple.\nThe dangerous situation developed suddenly."
+    },
+    {
+        "label": "False",
+        "sentence": "word: civilization\nThe people slowly progressed from barbarism to civilization.\nHe is remembered for his generosity and civilization."
+    },
+    {
+        "label": "True",
+        "sentence": "word: society\nIt was then that they decided to found a society of didgeridoo-playing unicyclists.\nThey formed a small lunch society."
+    },
+    {
+        "label": "True",
+        "sentence": "word: snow\nIt started to snow.\nIt is snowing."
+    },
+    {
+        "label": "True",
+        "sentence": "word: head\nThe head of the list.\nThe head of the stairs."
+    },
+    {
+        "label": "True",
+        "sentence": "word: echo\nNapoleon III was an echo of the mighty Emperor but an infinitely better man.\nHis contention contains more than an echo of Rousseau."
+    },
+    {
+        "label": "True",
+        "sentence": "word: shade\nAfter several trials he mixed the shade of pink that she wanted.\nI've painted my room in five lovely shades of pink and chartreuse."
+    },
+    {
+        "label": "False",
+        "sentence": "word: float\nFloat a ship.\nThe boat floated on the water."
+    },
+    {
+        "label": "True",
+        "sentence": "word: war\nThe \"war on drugs\" is a campaign against the use of narcotic drugs.\nIn the US, conservatives rail against the \"war on Christmas\"."
+    },
+    {
+        "label": "True",
+        "sentence": "word: foot\nCurled up on the foot of the bed.\nThe foot of the mountain."
+    },
+    {
+        "label": "True",
+        "sentence": "word: streak\nI was on a winning streak until the fourth game, where I was dealt terrible cards.\nHad a streak of bad luck."
+    },
+    {
+        "label": "False",
+        "sentence": "word: point\nPoint a gun.\nPoint the letter."
+    },
+    {
+        "label": "False",
+        "sentence": "word: draw\nDraw a weapon.\nThe President's comments drew sharp criticism from the Republicans."
+    },
+    {
+        "label": "False",
+        "sentence": "word: development\nThe development and printing of his pictures took only two hours.\nAfter he saw the latest development he changed his mind and became a supporter."
+    },
+    {
+        "label": "True",
+        "sentence": "word: admit\nTo admit evidence in the trial of a cause.\nWe can not admit non-members into our club building."
+    },
+    {
+        "label": "True",
+        "sentence": "word: play\nCan you play on this old recorder?\nHe plays the flute."
+    },
+    {
+        "label": "False",
+        "sentence": "word: organ\nGeorgie Fame plays all types of keyboards including electric piano, organ, and Hammond organ.\nThe organ of the communist party."
+    },
+    {
+        "label": "True",
+        "sentence": "word: drill\nDrill for oil.\nDrill a small hole to start the screw in the right direction."
+    },
+    {
+        "label": "False",
+        "sentence": "word: gather\nGather the close family members.\nGather some stones."
+    },
+    {
+        "label": "True",
+        "sentence": "word: withholding\nThere were allegations of the withholding of evidence.\nI resented his withholding permission."
+    },
+    {
+        "label": "True",
+        "sentence": "word: hold\nShe can hold an audience spellbound.\nThis story held our interest."
+    },
+    {
+        "label": "False",
+        "sentence": "word: control\nControl the budget.\nControl an account."
+    },
+    {
+        "label": "False",
+        "sentence": "word: end\nHe came to a bad end.\nThe end of the pier."
+    },
+    {
+        "label": "True",
+        "sentence": "word: dwelling\nThe old house served as a dwelling for Albert.\nHe built a modest dwelling near the pond."
+    },
+    {
+        "label": "True",
+        "sentence": "word: formation\nThe formation of crystals.\nThe formation of pseudopods."
+    },
+    {
+        "label": "False",
+        "sentence": "word: hold\nHold these truths to be self-evident.\nI'll hold you by your promise."
+    },
+    {
+        "label": "True",
+        "sentence": "word: give\nCan you give me lessons?\nWhen they asked, I gave my coat."
+    },
+    {
+        "label": "True",
+        "sentence": "word: air\nAn air of mystery.\nThe house had a neglected air."
+    },
+    {
+        "label": "True",
+        "sentence": "word: variant\nA variant of the same word.\nAll breeds of dog are variants of the species \"Canis lupus familiaris\"."
+    },
+    {
+        "label": "False",
+        "sentence": "word: border\nA solid border around a table of figures.\nThe border between Canada and USA is the longest in the world."
+    },
+    {
+        "label": "True",
+        "sentence": "word: seek\nSeek happiness.\nSeek a position."
+    },
+    {
+        "label": "False",
+        "sentence": "word: approach\nApproach a task.\nTo approach the city."
+    },
+    {
+        "label": "True",
+        "sentence": "word: attack\nHis plan of attack was misguided.\nAn attack on inflation."
+    },
+    {
+        "label": "True",
+        "sentence": "word: classify\nHow would you classify these pottery shards -- are they prehistoric?\nShe classified the works as 'dangerous'."
+    },
+    {
+        "label": "False",
+        "sentence": "word: respect\nHe went to law school out of respect for his father's wishes.\nHe inspires respect."
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "label": "True",
+        "sentence": "word: ring\nThe distinctive ring of the church bell.\n\"The tintinnabulation that so voluminously swells from the ringing and the dinging of the bells\" -- E. A. Poe."
+    },
+    {
+        "label": "False",
+        "sentence": "word: carry\nI always carry money.\nThe troops carried the town after a brief fight."
+    },
+    {
+        "label": "False",
+        "sentence": "word: business\nShow me where the business was today.\nGovernment and business could not agree."
+    },
+    {
+        "label": "False",
+        "sentence": "word: sale\nHe celebrated after the sale of company.\nThey held a sale to reduce their inventory."
+    },
+    {
+        "label": "True",
+        "sentence": "word: attack\nHis plan of attack was misguided.\nAn attack on inflation."
+    },
+    {
+        "label": "True",
+        "sentence": "word: break\nIf the vase falls to the floor, it might break.\nShe broke the match."
+    },
+    {
+        "label": "False",
+        "sentence": "word: make\nWhat do you make of his remarks?\nHow much do you make a month in your new job?"
+    },
+    {
+        "label": "False",
+        "sentence": "word: form\nHis resentment took the form of extreme hostility.\nThe composition presents problems for students of musical form."
+    },
+    {
+        "label": "True",
+        "sentence": "word: role\nThe role of women has changed significantly in the last century.\nWhat is your role on the team?"
+    },
+    {
+        "label": "True",
+        "sentence": "word: costume\nHe won the prize for best costume.\nWe wore gorilla costumes to the party."
+    },
+    {
+        "label": "False",
+        "sentence": "word: work\nStart from the bottom and work towards the top.\nThis dough does not work easily."
+    },
+    {
+        "label": "True",
+        "sentence": "word: opener\nShe played Chopin for her opener.\nThe season's opener was a game against the Yankees."
+    },
+    {
+        "label": "False",
+        "sentence": "word: work\nThe soft metal works well.\nHe used pliers to work the wire into shape."
+    },
+    {
+        "label": "False",
+        "sentence": "word: war\nWar was declared in November but actual fighting did not begin until the following spring.\nThe \"war on terror\" is a campaign against terrorist crime."
+    },
+    {
+        "label": "False",
+        "sentence": "word: death\nHer death came as a terrible shock.\nHe had two deaths on his conscience."
+    },
+    {
+        "label": "False",
+        "sentence": "word: stick\nStick your thumb in the crack.\nStick some feathers in the turkey before you serve it."
+    },
+    {
+        "label": "True",
+        "sentence": "word: save\nThis will save money.\nI'll save you the trouble."
+    },
+    {
+        "label": "True",
+        "sentence": "word: formation\nThe formation of crystals.\nThe formation of pseudopods."
+    },
+    {
+        "label": "True",
+        "sentence": "word: curmudgeon\nThere's a cranky curmudgeon working at the hospital who gives all the patients and other doctors flak.\nJohn Doe's old age and stubborn aversion to new ideas make him a curmudgeon of a candidate."
+    },
+    {
+        "label": "True",
+        "sentence": "word: process\nThe process of calcification begins later for boys than for girls.\nEvents now in process."
+    },
+    {
+        "label": "True",
+        "sentence": "word: variant\nThe word \"kerosine\" is a variant of \"kerosene\".\nAll breeds of dog are variants of the species \"Canis lupus familiaris\"."
+    },
+    {
+        "label": "True",
+        "sentence": "word: fire\nPut the kettle on the fire.\nBarbecue over an open fire."
+    },
+    {
+        "label": "False",
+        "sentence": "word: cast\nCast a warm light.\nCast a vote."
+    },
+    {
+        "label": "False",
+        "sentence": "word: rest\nThe ocean was finally at rest.\nHe threw away the rest."
+    },
+    {
+        "label": "False",
+        "sentence": "word: source\nPittsburgh is the source of the Ohio River.\nHe spent hours looking for the source of that quotation."
+    },
+    {
+        "label": "True",
+        "sentence": "word: beg\nI beg your pardon. I didn't mean to cause offence.\nI begged to come."
+    },
+    {
+        "label": "False",
+        "sentence": "word: certainty\nHis victory is a certainty.\nHis certainty reassured the others."
+    },
+    {
+        "label": "True",
+        "sentence": "word: question\nThe question of seniority will be discussed at the meeting.\nThere was a question of which material to use."
+    },
+    {
+        "label": "True",
+        "sentence": "word: house\nShe felt she had to get out of the house.\nHe has a house on Cape Cod."
+    },
+    {
+        "label": "False",
+        "sentence": "word: stretch\nStretch out that piece of cloth.\nI always stretch my muscles before exercising."
+    },
+    {
+        "label": "True",
+        "sentence": "word: persuasion\nI am not of your persuasion.\nIt is his persuasion that abortion should never be condoned."
+    },
+    {
+        "label": "False",
+        "sentence": "word: shed\nI didn't shed many tears when he left me.\nOur dog sheds every Spring."
+    },
+    {
+        "label": "True",
+        "sentence": "word: shade\nAfter several trials he mixed the shade of pink that she wanted.\nI've painted my room in five lovely shades of pink and chartreuse."
+    },
+    {
+        "label": "False",
+        "sentence": "word: demand\nThe automobile reduced the demand for buggywhips.\nHis demands for attention were unceasing."
+    },
+    {
+        "label": "False",
+        "sentence": "word: civilization\nThe people slowly progressed from barbarism to civilization.\nHe is remembered for his generosity and civilization."
+    },
+    {
+        "label": "True",
+        "sentence": "word: spring\nThe emerging buds were a sure sign of spring.\nSpring is the time of the year most species reproduce."
+    },
+    {
+        "label": "False",
+        "sentence": "word: hold\nHold these truths to be self-evident.\nI'll hold you by your promise."
+    },
+    {
+        "label": "False",
+        "sentence": "word: extend\nExtend the loan.\nThe war extended over five years."
+    },
+    {
+        "label": "False",
+        "sentence": "word: cup\nHe swore as the ball rimmed the cup and rolled away.\nHe drank a cup of coffee."
+    },
+    {
+        "label": "True",
+        "sentence": "word: grip\nThe grip of a sword.\nThere are several good grips on the northern face of this rock."
+    }
+]

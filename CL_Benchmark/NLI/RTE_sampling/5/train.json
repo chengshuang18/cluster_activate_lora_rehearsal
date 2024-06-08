@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "sentence 1: The loss offered a minor moral victory for Liverpool, as they scored only the second goal this season against Chelsea in league play.\nsentence 2: Liverpool beat Chelsea.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: International observers are surprised at the attack, given the recent advances that the Sri Lanka army has made, driving the LTTE from their former territories. \"It is very significant that the rebels have carried out such an audacious attack when the government say that they are all but finished,\" opined BBC's Sinhala Editor, Priyath Liyanage. \"It confirms what many of us already knew ―the rebels may be experiencing reverses on the battle field but they are not simply just going to disappear.\"\nsentence 2: LTTE stands for Liberation Tigers of Tamil Eelam.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Foreign Ministers of the 16 NATO member countries met early this morning with their Russian counterpart, Yevgeny Primakov, in Berlin in a bid to improve NATO-Russia relations.\nsentence 2: The NATO has 16 members.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The university server containing the information relating to Mason's ID cards was illegally entered by computer hackers.\nsentence 2: Non-authorized personnel illegally entered into computer networks.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Sunshine Coast, Queensland, Australia - The Sunshine Coast Regional Council has formally ratified the rejection of the 24 hour McDonald's in Minyama. The decision comes after council rejected the proposal earlier this week at a general committee meeting. McDonald's forwarded an 11th hour compromise to deputy mayor Tim Dwyer in order to overturn the decision. The compromised had included reducing the opening hours to 6am to 10pm Sunday to Thursday and until 12am Friday and Saturday.\nsentence 2: Sunshine Coast Regional Council accepted McDonald's Australia development plans.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Trade between China and India is expected to touch $20 bn this year and Chinese investors are now rushing into India - lured by the country's growing wealth.\nsentence 2: There is a profitable trade between China and India.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: A Continental Connection flight from Newark to Buffalo crashed into a house about four to six miles from Buffalo Niagara International Airport on Thursday night, killing 50 people, officials said. Continental Airlines Flight 3407 is a daily commuter flight from Newark Liberty International Airport in Newark, New Jersey to Buffalo, New York, operated under the Continental Connection brand by Virginia-based regional airline Colgan Air.\nsentence 2: Buffalo is not far from Newark.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Police say that he was wearing orange overalls, a balaclava and a pistol when he stole $6300 from Cherrywood at about 3:15 p.m. Outside the bank Leatham was trying to hijack a car, he threatened an old man with his pistol, eventually stealing a black Mitsubishi Mirage. The car was later found abandoned around Fairmont Terrace in the Glenn Terrace or Ridge Street area.\nsentence 2: Children in New Zealand are forced to wear orange overalls.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Boris Becker is a former professional tennis player for Germany.\nsentence 2: Boris Becker is a Wimbledon champion.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: US telecom giant AT&T reported a nearly 10 percent drop in quarterly net profit on Wednesday but beat expectations on a hefty increase in wireless revenue and improved performance by Apple's iPhone. Net profit fell 9.7 percent in the first quarter compared with the same quarter last year to 3.12 billion US dollars while revenue fell 0.6 percent to 30.6 billion US dollars, the company said in a statement. Earnings per share of 53 cents were better than the 48 cents per share expected by Wall Street analysts.\nsentence 2: iPhone is a product of AT&T's.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Experts say that Mr. Abbas will need that big win to show that he has the support of most Palestinian people in order to push through his aims of peace talks with Israel.\nsentence 2: Analysts had said that Mr. Abbas needed a large margin of victory in order to push his agenda of peace talks with Israel.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: \"Mayday! Here is Estonia! Outside Uto lighthouse. We have listed 20 to 30 degrees,\" the Finnish Coast Guard quoted the distress signal.\nsentence 2: The Estonia sank south of Uto island.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: By 1979, the literacy rate in Cuba was higher than 90%, comparable to the rates in the United States and other developed countries.\nsentence 2: The literacy rate in Cuba is 90%.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Five years later, Rennyo returned to the Kyoto area, establishing new Honganji branch temples. During this time, he established a new form of liturgy (gongyo), incorporating elements that would eventually become the core of Honganji Shinshu Buddhism.\nsentence 2: Rennyo founded Honganji Shinshu Buddhism.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Saudi Arabia's production mix will shift to a higher proportion of lighter crudes. Unlike last year's Qatif and Abu Safah developments, nearly all of the proposed projects produce Arab Light or lighter crudes.\nsentence 2: Saudi Arabia produces more oil than any other country.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Professor Sir Alec Jeffreys, whose pioneering discoveries revolutionised police investigation techniques, told the Guardian newspaper innocent people were being \"branded as criminals\" because the database retained details of everyone arrested, regardless of whether they were later convicted. The Government now holds more than five million profiles, up 1.4 million in two years. Sir Alec also called for improved genetic testing procedures, warning that the current system could result in a miscarriage of justice, in an interview with the Guardian newspaper.\nsentence 2: Alec Jeffreys is the inventor of genetic fingerprinting.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Iran will hold the first runoff presidential election in its history, between President Akbar Hashemi Rafsanjani and Tehran's hard-line mayor, election officials said Saturday.\nsentence 2: Hashemi Rafsanjani will face Tehran's hard-line mayor in Iran's first runoff presidential election ever, officials said Saturday.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: This paper describes American alcohol use, the temperance movement, Prohibition, and the War on Drugs and explains how legalizing drugs would reduce crime and public health problems.\nsentence 2: Drug legalization has benefits.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Located just three miles from Tullamore and only 45 minutes from the K Club, venue of the 2006 Ryder Cup, is Esker Hills, a genuine hidden gem and one of Irish golf's best kept secrets.\nsentence 2: The K Club will host the 2006 Ryder Cup.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Organic fertilizer slowly enriches and feeds the soil. Fast acting synthetic fertilizers harm soil life.\nsentence 2: Organic fertilizers are used as soil enhancers.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: For example, if you want to find out what the weather in your area will be like for the next five days, select the weather channel from the main multiscreen and you will find detailed forecasts and other weather news. Or if your team has been in action, you can read the top headlines for your chosen sport by keying in 300 on your handset - just as you would on Ceefax.\nsentence 2: The weather channel gives you information about the weather in the next few days.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Kohl participated in the late stage of WWII as a teenage soldier. He joined the Christian-Democratic Union (CDU) in 1947.\nsentence 2: The name of Helmut Kohl's political party is the Christian Democratic Union.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Nine men from Darfur have been executed for the beheading of a Sudanese newspaper editor in 2006. They were hanged in a prison in the capital, Khartoum, in front of the relatives of the editor, Mohammed Taha. It was initially thought that Mr Taha had been killed by Islamists but a defence lawyer said an article in his newspaper had angered Darfur groups. His decapitated body was found on a dirt road a day after he had been abducted from his home in Khartoum.\nsentence 2: Mohammed Taha was Sudanese.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Franz Liszt (Hungarian: Liszt Ferenc) was a Hungarian/Austrian virtuoso pianist and composer who lived from 1811 to 1886. Liszt is widely considered to be one of the greatest piano virtuosi of all time, and certainly the most famous of the nineteenth century.\nsentence 2: Franz Liszt lived from 1811 to 1886.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The United States Department of Homeland Security has announced the awarding of a $3 million grant to Rutgers University to lead a consortium researching advanced information analysis and computational technologies to protect the United States. Under the agreement, Rutgers will also coordinate a team of four university-based centers at the University of Southern California, the University of Illinois at Urbana-Champaign and the University of Pittsburgh. Plans call for a total of $10.2 million in funding over three years for Rutgers and these institutions to advance efforts aimed at identifying common patterns from numerous sources of information.\nsentence 2: Rutgers University will be awarded a $3 million grant.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: U.S. officials said they hope to install Aristide presidential palace in Port-au-Prince about 10 days after U.S. troops land in Haiti, a schedule that an Aristide aide said is acceptable to the ousted president\nsentence 2: Port-au-Prince is in Haiti.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Clonaid, which claims to have produced 13 cloned babies worldwide, told the Streats daily newspaper two Singaporean couples had signed deals agreeing to pay $200,000 to conceive children through cloning.\nsentence 2: Clonaid has cloned 13 babies.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Mossad is one of the world's most well-known intelligence agencies, and is often viewed in the same regard as the CIA and MI6.\nsentence 2: Mossad is an intelligence agency.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Addressing a function organized here by the National Human Rights Commission (NHRC), Anand said, the greatest and most urgent challenges of human rights in India were in the areas of maternal and child care, child education, child labor, child abuse and protection of minorities and weaker sections.\nsentence 2: Amnesty International takes care of human rights.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: PST Chittagong, Bangladesh-- Muhammad Yunus, Bangladesh's \"Banker to the Poor\" who provides loans to help millions of people fight poverty by starting businesses, has won the Nobel Peace Prize.\nsentence 2: Muhammad Yunus won the Nobel Prize for Peace.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Ordonez Reyes accused Jose Jesus Pena, alleged chief of security for the Nicaraguan embassy in Tegucigalpa, of masterminding the January 7th assassination of contra-commander Manuel Antonio Rugama.\nsentence 2: Manuel Antonio Rugama was killed by Jose Jesus Pena.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: On Sunday Memoirs: 1939-1993 a memoir written by former Prime Minister of Canada Brian Mulroney will be released. The 1,152 page tome outlines Mulroney's version of events during his time as prime minister. CTV will broadcast a documentary on Brian Mulroney on the eve of his book launch. In addition, the network plans to air Triumph & Treachery: The Brian Mulroney Story on Sunday, CTV says the 90-minute special will be the most complete interview the former prime minister has ever given and his first comprehensive interview since leaving office in 1993. The Quebec French language TVA network will air a similar documentary exclusively in French later that night.\nsentence 2: The Australian Prime Minister is called John Howard.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Spain will recruit 500 extra police to fight Basque separatists ETA and Islamist militants in the next four years, Interior Minister Alfredo Perez Rubalcaba said on Tuesday. Including the new recruits, the number of anti-terrorism officers will have increased by 1,800 since the Socialist government took office in 2004, days after Islamist militants killed 191 people by bombing Madrid trains, Rubalcaba told a parliamentary committee. ETA has killed more than 800 people in four decades in its fight for an independent Basque Country composed of part of northern Spain and southern France. Its last fatal attack came on May 14, authorities believe, when a car bomb wrecked a police barracks in the Spanish Basque Country, killing one officer. The government will also provide an additional 800 officers to combat organised crime and another 1,248 staff to tackle domestic violence, Rubalcaba said.\nsentence 2: ETA fights for the independence of Basque Country.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Mohandas Karamchand Gandhi never received the Nobel Peace Prize, though he was nominated for it five times between 1937 and 1948.\nsentence 2: Mohandas received the Nobel Prize in 1989.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: \"Do you remember Tsar Nikolai's era? When the Red Army came and when Vladimir Lenin died? Well I do. So take a guess how old I am.\" Meet Sohan Dosova - the newly found treasure of Kazakhstan. She is 130 years old, at least she is according to her documents. The Soviet passport issued in the early 1980s states that Sohan Dosova was born in the Karaganda region on 27 March 1879. Now after a new national census in Kazakhstan, she has been \"rediscovered\".\nsentence 2: Sohan Dosova is 130 years old.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Jack Straw, the Foreign Secretary, will meet his Brazilian counterpart, Celso Amorim, in London today.\nsentence 2: Celso Amorim resides in London.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Since 1987, however, Brazil has taken steps to dramatically reduce the destruction, including stepped-up enforcement and the elimination of tax incentives that led to large-scale land clearing.\nsentence 2: In the early 1990s Brazil began to take action to save the rainforest.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Bülent Ecevit, former prime minister of Turkey and poet, has died at 81. Ecevit was in a coma for nearly six months following a stroke. Ecevit was the prime minister of the government ordering a military intervention on July 20, 1974, to prevent a coup in Cyprus by Greek forces, dividing the island and setting the stage for the foundation of the breakaway Turkish Republic of Northern Cyprus.\nsentence 2: Bülent Ecevit was a poet.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Councilman Pierce had built the home for his daughter on E. 28th Street off Rossville Blvd, as he lives nearby.\nsentence 2: Pierce lives on E. 28th Street.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: A former philosophy teacher whose best-known novel, Sophie's World, was a surprise international best-seller.\nsentence 2: Sophie's World is a best seller.",
+        "label": "entailment"
+    }
+]

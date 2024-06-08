@@ -1,0 +1,162 @@
+[
+    {
+        "label": "False",
+        "sentence": "word: class\nApologizing for losing your temper, even though you were badly provoked, showed real class.\nThe class of '97."
+    },
+    {
+        "label": "True",
+        "sentence": "word: buff\nTo strip to the buff.\nSwimming in the buff."
+    },
+    {
+        "label": "True",
+        "sentence": "word: image\nThe image of f(x) = x^2 is the set of all non-negative real numbers if the domain of the function is the set of all real numbers.\nThe number 6 is the image of 3 under f that is defined as f(x) = 2*x."
+    },
+    {
+        "label": "True",
+        "sentence": "word: quality\nWhile being impulsive can be great for artists, it is not a desirable quality for engineers.\nSecurity, stability, and efficiency are good qualities of an operating system."
+    },
+    {
+        "label": "False",
+        "sentence": "word: drag\nHe took a drag on his cigarette and expelled the smoke slowly.\nHe performed in drag."
+    },
+    {
+        "label": "True",
+        "sentence": "word: wave\nA wave of settlers.\nTroops advancing in waves."
+    },
+    {
+        "label": "True",
+        "sentence": "word: ski\nWe love to ski the Rockies.\nMy children don't ski."
+    },
+    {
+        "label": "True",
+        "sentence": "word: know\nI know that the President lied to the people.\nI want to know who is winning the game!"
+    },
+    {
+        "label": "False",
+        "sentence": "word: extend\nExtend a hand.\nMy land extends over the hills on the horizon."
+    },
+    {
+        "label": "True",
+        "sentence": "word: connect\nThe new railroad will connect the northern part of the state to the southern part.\nThese computers connected well."
+    },
+    {
+        "label": "True",
+        "sentence": "word: use\nWe can use this mathematical formula to solve the problem.\nHe doesn't know how to use a computer."
+    },
+    {
+        "label": "True",
+        "sentence": "word: create\nYou can create the color orange by mixing yellow and red.\nThe company was created 25 years ago."
+    },
+    {
+        "label": "True",
+        "sentence": "word: classify\nShould we classify \"make up\" as an idiom or as a phrasal verb?\nHow would you classify these pottery shards -- are they prehistoric?"
+    },
+    {
+        "label": "False",
+        "sentence": "word: run\nIf you see this man, run!\nThese dresses run small."
+    },
+    {
+        "label": "True",
+        "sentence": "word: eat\nI didn't eat yet, so I gladly accept your invitation.\nWe did not eat until 10 P.M. because there were so many phone calls."
+    },
+    {
+        "label": "False",
+        "sentence": "word: face\nThey climbed the north face of the mountain.\nThe face of the city is changing."
+    },
+    {
+        "label": "True",
+        "sentence": "word: nationality\nSuch images define their sense of nationality.\nImmigrants of the same nationality often seek each other out."
+    },
+    {
+        "label": "False",
+        "sentence": "word: rest\nHe threw away the rest.\nThe boulder came to rest just behind the house after rolling down the mountain."
+    },
+    {
+        "label": "True",
+        "sentence": "word: sense\nA sense of danger.\nA sense of happiness."
+    },
+    {
+        "label": "False",
+        "sentence": "word: drive\nDrive the game.\nShe finally drove him to change jobs."
+    },
+    {
+        "label": "True",
+        "sentence": "word: seat\nThe seat of a saddle.\nThere were not enough seats for all the guests."
+    },
+    {
+        "label": "True",
+        "sentence": "word: book\nMany readers find the first book of A Tale of Two Cities to be confusing.\nGenesis is the first book of the Bible."
+    },
+    {
+        "label": "False",
+        "sentence": "word: connection\nMy headache has no connection with me going out last night.\nThere was a connection via the internet."
+    },
+    {
+        "label": "False",
+        "sentence": "word: life\nThe battery had a short life.\nHaving experienced both, the vampire decided that he preferred (un)death to life."
+    },
+    {
+        "label": "False",
+        "sentence": "word: catch\nI would love to have dinner but I have to catch a plane.\nCatch the ball!"
+    },
+    {
+        "label": "False",
+        "sentence": "word: take\nTake steps.\nShall we take a guide in Rome?"
+    },
+    {
+        "label": "False",
+        "sentence": "word: demand\nThe automobile reduced the demand for buggywhips.\nHis demands for attention were unceasing."
+    },
+    {
+        "label": "False",
+        "sentence": "word: cut\nCut recording tape.\nCut from one scene to another."
+    },
+    {
+        "label": "True",
+        "sentence": "word: call\nHe placed a phone call to London.\nI received several phone calls today."
+    },
+    {
+        "label": "True",
+        "sentence": "word: go\nThese ugly billboards have to go!\nThese luxuries all had to go under the Khmer Rouge."
+    },
+    {
+        "label": "True",
+        "sentence": "word: order\nAn explosion of a low order of magnitude.\nIt was on the order of a mile."
+    },
+    {
+        "label": "False",
+        "sentence": "word: check\nCheck the spelling of this word.\nCheck your luggage before boarding."
+    },
+    {
+        "label": "False",
+        "sentence": "word: swing\nThe soccer player began to swing at the referee.\nHe swung his left fist."
+    },
+    {
+        "label": "True",
+        "sentence": "word: admit\nTo admit evidence in the trial of a cause.\nShe admitted us here."
+    },
+    {
+        "label": "True",
+        "sentence": "word: reply\nPlease reply to my letter.\nHe replied that he was not sure."
+    },
+    {
+        "label": "True",
+        "sentence": "word: crack\nOpen the door a crack.\nWe managed to squeeze through a crack in the rock wall."
+    },
+    {
+        "label": "False",
+        "sentence": "word: account\nHe predicted that although it is of small account now it will rapidly increase in importance.\nThe account of his speech that was given on the evening news made the governor furious."
+    },
+    {
+        "label": "True",
+        "sentence": "word: umbrella\nThe Democratic Party is an umbrella for many liberal groups.\nUnder the umbrella of capitalism."
+    },
+    {
+        "label": "False",
+        "sentence": "word: detail\nThe essay contained too much detail.\nA detail was sent to remove the fallen trees."
+    },
+    {
+        "label": "False",
+        "sentence": "word: pull\nPull the cooked chicken into strips.\nA declining dollar pulled down the export figures for the last quarter."
+    }
+]

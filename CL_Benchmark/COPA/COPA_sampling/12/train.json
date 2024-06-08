@@ -1,0 +1,34 @@
+[
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The boy's hands were shaking.\"? Choose one between A and B.\nA: He planned to ask the girl out.\nB: His palms were cold and sweaty."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The window was opaque.\"? Choose one between A and B.\nA: The glass was stained.\nB: The blinds were open."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The girl went down the hill on her bike.\"? Choose one between A and B.\nA: Her bike swerved.\nB: Her bike sped up."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the effect of \"The group overlooked the woman's faux pas.\"? Choose one between A and B.\nA: The woman was relieved.\nB: The woman apologized."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The woman felt lonely.\"? Choose one between A and B.\nA: She renovated her kitchen.\nB: She adopted a cat."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The boaters set off a flare.\"? Choose one between A and B.\nA: Their boat drifted to shore.\nB: Their boat was rescued."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The papers were disorganized.\"? Choose one between A and B.\nA: I made photocopies of them.\nB: I put them into alphabetical order."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The man went into denial about the tragedy.\"? Choose one between A and B.\nA: He got over it easily.\nB: He refused to talk about it."
+    }
+]

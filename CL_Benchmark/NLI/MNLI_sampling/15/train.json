@@ -1,0 +1,242 @@
+[
+    {
+        "sentence": "sentence 1:  Dominating the mouth of Sant Antoni Bay is the gaunt silhouette of the island of Coniera, or Conejera (meaning rabbit's warren or burrow ).\nsentence 2: Coniera is the only island within ten miles of Sant Antoni Bay. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Trials should be conducted starting with other or no opening questions, using other consumption questions such as those in AUDIT, using other screens such as TWEAK rather than CAGE, changing the sequence to CAGE or TWEAK followed by consumption questions, and checking BAC at the beginning or end of the protocol.\nsentence 2: It's suggested to use questions from those in AUDIT when conducting trials.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: But this problem was quickly resolved when McCain, who was attending the lunch as a guest of U.S.\nsentence 2: This problem was swiftly resolved when McCain attended the lunch as a guest of U.S.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: uh-huh well i'm majoring in uh public relations\nsentence 2: I am majoring in public relations.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: they they get well it it depends on how you look at that because like Sweden they pay a lot in taxes but their day care is government subsidized\nsentence 2: In Sweden, the people a lot in taxes for government-subsidized day care.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Fighting down that instinct of panic which urged her to turn tail and run without further delay, Tuppence returned the lady's gaze firmly and respectfully.\nsentence 2: Tuppence is unable to notice when people are looking at him.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: All three magazines profile Slobodan Milosevic.\nsentence 2: Slobodan Milosevic likes to give a lot of interviews.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: So What's in It?\nsentence 2: What is inside of that?",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The canvas was off but they were just watching.\nsentence 2: The canvas was on so they couldn't see.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: One  most of the island's resort hotels are quite a distance from the capital.\nsentence 2: The capital has high rates of crime while resorts are safe and clean.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Wigand's dark night of the soul is in a hotel, indicted, financially ruined, threatened with death, minus his wife and daughters; Bergman's is in an expensive-looking beach house with his warmly supportive spouse (Lindsay Crouse).\nsentence 2: They were so alike it was clear why they got along so well.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: They are going to come and we are going to die.\nsentence 2: The people will arrive.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: when they when they switch to switch when we get an hour more when they rollback an hour\nsentence 2: When they switch we get an hour more.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Four haiku translated and only 16 more to go for my Japanese final.\nsentence 2: Just finished my Japanese final. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: I thought you had appreciated that point.\"\nsentence 2: You should be happy because it's saying exactly what you told me.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: In addition, for each principle, several key characteristics of organizations that successfully execute these principles are listed.\nsentence 2: Organizations that have successfully executed these principles are listed.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: a convenience yeah and the idea that you know if he got in trouble there's some some ways of getting out and that he doesn't have to carry cash the uh i i like the idea of credit cards that uh i don't i don't i don't carry cash around and and uh i don't even carry checks around i let my wife take the checkbook and she writes the checks and i record them so it's uh it's uh it's but it's interesting that uh the people that can that can uh the amounts of money you can run up with\nsentence 2: It's an inconvenience.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: One saddled but riderless mount galloped along with the rest.\nsentence 2: All of the horses were saddled and had riders. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The tools available to organizations assessing the internal environment include program evaluations, employee surveys, independent audits, and reviews of business processes.\nsentence 2: Employee surveys are a tool that the organization cannot use.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: no no state income tax\nsentence 2: No federal tax.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: I fancy my armour is impregnable… .\nsentence 2: I fancy that because it's so thick!",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: From here, the long, narrow arcade called Nakamise-dori is lined with shops selling toasted rice crackers, spices in gourd-shaped wooden bottles, dolls, toys, fans, children's kimono, and ornaments and souvenirs of all sorts.\nsentence 2: There are no shops on the arcade",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: According to tradition, Herod was buried here.\nsentence 2: Herod is believed to be buried here.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The gardens' pride is a 200-year-old banyan tree, the Ficus bengalensis, or strangling fig tree.\nsentence 2: The banyan tree that's in the garden is 50 years old.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Suddenly a thought occurred to him.\nsentence 2: He was pensive and contemplative when the thought occurred.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: well in most cases i'd have to agree with you i think the uh profit sharing is a little uh\nsentence 2: I don't agree with you about anything you ever say. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Reviewers have noted some possible sources of upward bias in the long-term studies.\nsentence 2: The reviews haven't found any possibility of baises.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: It's as if Hickman and Sunraider have an independent existence of which Ellison offers glimpses and glances in the various pieces he never assembled into a single structure.\nsentence 2: It is possible to see aspects of Hickman and Sunraider's lives in Ellison's writing.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: As shown, the injection rates vary substantially based upon the circumstances.\nsentence 2: Injection rates can be predicted  by looking at the economy. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: and um-hum right going and paying six dollars for a ticket for one person at the theater or something so we i have and it's so convenient at home and you can do it anytime you you take the notion\nsentence 2: I never watch movies at home anymore.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Among other things, women are barred from work and most education, and men may not trim their compulsory beards.\nsentence 2: Among other things, women are forced to work and educate themselvse, and men may trim their optional beards.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Both magazines print huge, heart-rending photographs of Kosovar refugees.\nsentence 2: Photographs of Kosovar refugees were printed in both magazines.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: yeah the way people talk about uh there's not that it won't be as good as the NFL because uh there's not that many good or quality football players i can't believe that\nsentence 2: I think people are right when they say it won't be as good as the NFL.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: i guess i'll go back to work\nsentence 2: I guess I will need to make some income.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Unlike the original American suburbs, new master-planned communities like Summerlin and Green Valley are cities within themselves; in fact, they boast more square miles and more amenities than Las Vegas itself.\nsentence 2: These new suburbs are located in Las Vegas itself. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: That was good.\nsentence 2: That was not pleasant.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: (Financial Accounting Standards Board, Statement of Financial Accounting Standards No.\nsentence 2: Standards for financial accounting ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Although technology is being used to help bring teams that are geographically dispersed together in a virtual environment, to the extent that team members are already located nearby, moving team members to a shared location improved communication and enhanced efficiency.\nsentence 2: Teams have to be in the same city to be together in a virtual environment.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Somehow, he knew I'd understand.\nsentence 2: He was intelligent and knew me well. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: so i i i think that he he he's actually he i think is becoming very dangerous\nsentence 2: I don't think that he poses any significant threat.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Be aware that name brands, including electronics, are sometimes fakes, glass may be sold as jade, and that antique you bought may have been made last night.\nsentence 2: All of the name brands are legitimate and real. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: yep well same here\nsentence 2: Nope, not me.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Back on the river, perched above a 150-m- (490-ft-) deep ravine, is the fairytale castle of Beynac-et-Cazenac.\nsentence 2: Beynac-et-Cazenac is a beautiful and enchanting castle.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: If in the above example the cost had been nine cents in the low cost area and 11 cents in the high cost area, it would be much more difficult for inefficient entry to occur.\nsentence 2: Cost differentials are not important when considering inefficient entry.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: To the contrary, the presence requirement was inserted into the statute for the apparent purpose of expanding LSC representation of legal aliens.\nsentence 2: The presence requirement allows for three days of travel to reach the physical location of the court.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: (a)(1) Except as provided in sections 414(a)(2), 415(a)(3), and 416, beginning January 1, 2000, the Administrator shall not allocate annual allowances to emit sulfur dioxide pursuant to section 414 in such an amount as would result in total annual emissions of sulfur dioxide from utility units in excess of 8.90 million tons except that the Administrator shall not take into account unused allowances carried forward by owners and operators of affected units or by other persons holding such allowances, following the year for which they were allocated.\nsentence 2: The Administrator can take into account any unused allowances that carry over from the previous year. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: But you do not know, inspector, how I have been persecuted and maligned. And he shot a baleful glance at Evelyn Howard. \nsentence 2: Inglethorp sent Miss Howard out the room and spoke forcefully to the inspector. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: His sword rang across the desert plane.\nsentence 2: His sword hit someone.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: to other companies so that the other companies can recognize our E-mail and now we're getting into faxes as well right off the PC\nsentence 2: In order that other companies can recognize our e-mail, which is important for our company",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Remarks to the New Society.\nsentence 2: Critical remarks to the New Society. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: yeah uh have you seen Shrimp on the Barbie\nsentence 2: Have you ever watched Shrimp on the Barbie?",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Of course, it is always possible that an unbalanced individual will misunderstand something in a crazy way, as John Hinckley did with Taxi Driver . But you can't protect yourself against the criminally insane by cutting off their sources of possible inspiration, which are limitless.\nsentence 2: There are many who would contend that there is no way to predict the actions of the criminally insane.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: I didn't know anyone with a DOS system in the early '80s, but I knew plenty of people with Commodore 64s, TI 99-4As, Apple IIs, computers by Tandy, and even Timex--all with distinct and incompatible operating systems.\nsentence 2: He knew plenty of people that had a Commodore 64 in the '80s.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: I've been soothing her for hours and honestly, I don't know why Red should have done it.\"\nsentence 2: Red is here trying to soothe her.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: oh that was fabulous when yeah when he played Danny Boy it just almost brought tears to your eyes because he can make that flute sing\nsentence 2: He plays that flute so beautifully, especially on Danny Boy, that it can be emotionally overwhelming. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: um-hum um-hum yeah Estes State Park is fantastic\nsentence 2: We really like Estes State Park. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: But insofar as dispersing the slots would foster competition, a strong case can be made that it's the former.\nsentence 2: Dispersing the slots is not the only way to foster competition.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: In the absence of legitimate campaign issues, he predicts, this could become a relative biggie.\nsentence 2: There is no campaign, he has fabricated the campaign because he's crazy.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: wow are these disc brakes\nsentence 2: Is it possible that these are disc brakes?",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: There are paired but separate chambers for the sultan and the valide sultan, each having a changing room, a cool room, and a hot room.\nsentence 2: The sultan and the valide sultan have similar chambers with a changing room and hot and cold room.",
+        "label": "entailment"
+    }
+]

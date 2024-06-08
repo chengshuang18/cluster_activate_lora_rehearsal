@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "first sentence: What was Castro doing during the Cuban Missile Crisis?\nsecond sentence: What was Cuban Missile Crisis?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are common legal expenses for start ups?\nsecond sentence: What are the legal expenses to properly set up a startup?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Who are the best modern day philosophers?\nsecond sentence: How smart would Greek philosophers be against educated modern day people?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Can a Rajya Sabha member stand for Lok Sabha elections?\nsecond sentence: How are Rajya Sabha members elected?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How many questions have you asked anonymously on Quora?\nsecond sentence: How many anonymous questions have I asked on Quora?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Why do some people get bored easily as compared to others?\nsecond sentence: Why are some people as addicted to music as others with alcohol?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Which is the best QuickBooks Tech Support Number in Las Vegas?\nsecond sentence: Which is the best QuickBooks Tech Support Number in Texas?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is your review of the 2016 MacBook Pro?\nsecond sentence: Is the 2016 MacBook Pro with Touch Bar a worthy buy?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How do I get Quora emailed daily?\nsecond sentence: How do I get Quora as email?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is Awdhesh Singh's views on caste based reservation system in India?\nsecond sentence: What is Mr Awdhesh Singh's opinion about Indian reservation system?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is the trick to maintaining long distance relationships?\nsecond sentence: Do long distance relationships ever work out?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What can be done if some detail missed out in insurance application and been pointed out later, but they decline to use right word to admit it?\nsecond sentence: Where can I get cheap/good daal baati churma in Raipur? While you at it do tell about litti chowka too :)",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the basics to digital marketing?\nsecond sentence: What is digital marketing and how to set career in digital marketing?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Is there anyway I can increase internal memory for my intex phone?\nsecond sentence: My friend did a factory reset on my Nokia E90 phone while fiddling with it. There was no memory card, just the phone memory. It's an office phone and I need my data back - messages, photos are main, is there anyway to get it back?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I get admission in government schools of Delhi for 11th Arts if I am from other state?\nsecond sentence: How can I get admissions in a good school in 11th?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is a certificate of authenticity? How can you get it?\nsecond sentence: What is a certificate of authenticity? How can you get one?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How do we deal with depression?\nsecond sentence: How can I get rid of my depression?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Should I give BITSAT 2017 before or after JEE advanced if my primary focus is not IIT (but BITS) but still expect a decent rank?\nsecond sentence: Should I give BITSAT 2017 after JEE advanced of before, if my primary focus is not IIT (but BITS) but still expect a decent rank?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How do I increase my stamina?\nsecond sentence: What can I do to increase my running stamina and strength?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Why do guys call girls ugly?\nsecond sentence: Why do guys call girls babe?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What universities does Diamond Foods recruit new grads from? What majors are they looking for?\nsecond sentence: What universities does Treehouse Foods recruit new grads from? What majors are they looking for?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Did RBI confirm that GPS chips have been used in new 2000 rupees notes?\nsecond sentence: Is there really a chip embedded in the new Rupees 2000 note?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How do I help a depressed person to get over it?\nsecond sentence: How can one help a depressed and anxiety ridden person to get out of this state?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How can I book a mini truck in Bangalore?\nsecond sentence: How do I hire a mini truck in Bangalore?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is the difference between U and U/A certified films?\nsecond sentence: What is the difference between watching film in the cinema or at home?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the most surreal places in movies?\nsecond sentence: What are the most surreal places to visit?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is the most Embrassing Story or Incident in your Work Place?\nsecond sentence: What was your most embrassing moment?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What was the significance of the battle of Somme, and how did this battle compare and contrast to the Battle of Hong Kong?\nsecond sentence: What was the significance of the battle of Somme, and how did this battle compare and contrast to the Battle of Singapore?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Why are humans the only species to develop awareness?\nsecond sentence: Why did only humans develop such high levels of awareness and intelligence compared to all other species on earth?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What are the pros and cons of changing your password on Yahoo every month?\nsecond sentence: How do I find an internship in Silicon Valley?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How hard is it to get into Cambridge?\nsecond sentence: How difficult is it to get into cambridge?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Is everything in our life just an illusion?\nsecond sentence: Is life an illusion?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How do I rebuild a DeWalt 18V battery pack?\nsecond sentence: How do I rebuild an 18 volt DeWalt Battery?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Can we forecast earthquakes?\nsecond sentence: Is there really any way to forecast earthquakes?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What image/picture comes to your mind when you hear the word beginning?\nsecond sentence: What image comes to your mind when you hear the word profession? Why?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How can I get a job in mechanical designing field?\nsecond sentence: How do I get a job in mechanical designing field?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Can someone solve this math question?\nsecond sentence: Can you solve this math question?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Is white balsamic vinegar really balsamic vinegar?\nsecond sentence: What does balsamic vinegar taste like?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How does Groupon enforce 1-per-person limits?\nsecond sentence: How do I search Groupon?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What should we do to burn fat?\nsecond sentence: What is the easiest way to burn fat?",
+        "label": "False"
+    }
+]

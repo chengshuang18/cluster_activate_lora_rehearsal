@@ -1,0 +1,162 @@
+[
+    {
+        "label": "True",
+        "sentence": "word: ringing\nThe ringing of the telephone.\n\"The tintinnabulation that so voluminously swells from the ringing and the dinging of the bells\" -- E. A. Poe."
+    },
+    {
+        "label": "True",
+        "sentence": "word: stay\nThey had a nice stay in Paris.\nA lengthy hospital stay."
+    },
+    {
+        "label": "False",
+        "sentence": "word: heart\nIn your heart you know it is true.\nYou haven't got the heart for baseball."
+    },
+    {
+        "label": "False",
+        "sentence": "word: call\nWe could always call on a friend.\nCall roll."
+    },
+    {
+        "label": "False",
+        "sentence": "word: repair\nTo repair a shattered fortune.\nTo repair to sanctuary for safety."
+    },
+    {
+        "label": "False",
+        "sentence": "word: work\nShe knows how to work the system.\nThis old radio doesn't work anymore."
+    },
+    {
+        "label": "True",
+        "sentence": "word: conduct\nShe can not conduct modern pieces.\nBernstein conducted Mahler like no other conductor."
+    },
+    {
+        "label": "False",
+        "sentence": "word: polish\nPolish your social manners.\nHe polished up the chrome until it gleamed."
+    },
+    {
+        "label": "True",
+        "sentence": "word: vault\nFamily members had been buried in the vault for centuries.\nThe bank kept their money safe in a large vault."
+    },
+    {
+        "label": "False",
+        "sentence": "word: ground\nHe dropped the logs on the ground.\nThey gained ground step by step."
+    },
+    {
+        "label": "False",
+        "sentence": "word: break\nBreak into tears.\nIf the vase falls to the floor, it might break."
+    },
+    {
+        "label": "False",
+        "sentence": "word: number\nIn English the subject and the verb must agree in number.\nI hope to become one of their number before I die."
+    },
+    {
+        "label": "False",
+        "sentence": "word: day\nEvery dog has his day.\nMy day began early this morning."
+    },
+    {
+        "label": "False",
+        "sentence": "word: light\nIt brought the scandal to light.\nHe could paint the lightest light and the darkest dark."
+    },
+    {
+        "label": "False",
+        "sentence": "word: lift\nLift a ban.\nI lifted the books onto the table."
+    },
+    {
+        "label": "True",
+        "sentence": "word: day\nAfter that day she never trusted him again.\nI've been here for 2 days and a bit."
+    },
+    {
+        "label": "False",
+        "sentence": "word: smoke\nIt was just smoke and mirrors.\nHe showed batters nothing but smoke."
+    },
+    {
+        "label": "True",
+        "sentence": "word: agonist\nWhen bending the elbow the biceps are the agonist.\nWhen bending the elbow the biceps are the agonist."
+    },
+    {
+        "label": "False",
+        "sentence": "word: treat\nI like to treat myself to a day at a spa when I am depressed.\nTreat the infection with antibiotics."
+    },
+    {
+        "label": "False",
+        "sentence": "word: wall\nHis back was to the wall.\nThe container's walls were blue."
+    },
+    {
+        "label": "True",
+        "sentence": "word: text\nHe wants to reconstruct the original text.\nThey handed out the printed text of the mayor's speech."
+    },
+    {
+        "label": "True",
+        "sentence": "word: bake\nPotatoes bake to a crisp.\nBake the potatoes."
+    },
+    {
+        "label": "True",
+        "sentence": "word: pull\nThe spaceship came under the pull of the gas giant.\nThe pull of the current."
+    },
+    {
+        "label": "False",
+        "sentence": "word: reason\nThe reason that war was declared.\nThere is reason to believe he is lying."
+    },
+    {
+        "label": "False",
+        "sentence": "word: pass\nThe plane turned to make a second pass.\nThe media representatives had special passes."
+    },
+    {
+        "label": "False",
+        "sentence": "word: break\nThis play will either make or break the playwright.\nThe figurine broke."
+    },
+    {
+        "label": "False",
+        "sentence": "word: bank\nThe bank is on the corner of Nassau and Witherspoon.\nHe operated a bank of switches."
+    },
+    {
+        "label": "False",
+        "sentence": "word: respect\nOut of respect for his privacy.\nShe lost all respect for him."
+    },
+    {
+        "label": "False",
+        "sentence": "word: carry\nThese bonds carry warrants.\nShe carries her ideas to the extreme."
+    },
+    {
+        "label": "False",
+        "sentence": "word: side\nIt brought out his better side.\nThe Confederate side was prepared to attack."
+    },
+    {
+        "label": "True",
+        "sentence": "word: tab\nFiles with a red tab will be stored separately.\nThe filing cards were organized by cards having indexed tabs."
+    },
+    {
+        "label": "False",
+        "sentence": "word: do\nAll you ever do is surf the Internet.\nA 'B' grade doesn't suffice to get me into medical school."
+    },
+    {
+        "label": "True",
+        "sentence": "word: burn\nBurn garbage.\nThe car burns only Diesel oil."
+    },
+    {
+        "label": "False",
+        "sentence": "word: strike\nStrike coins.\nA bullet struck him."
+    },
+    {
+        "label": "True",
+        "sentence": "word: cardinal\nThe cardinal number \"three\" can be represented as \"3\" or \"three\".\nThe smallest cardinal numbers are 0, 1, 2, and 3."
+    },
+    {
+        "label": "False",
+        "sentence": "word: start\nWe simply could not start the engine.\nThe rain started at 9:00."
+    },
+    {
+        "label": "True",
+        "sentence": "word: drink\nLikes a drink before dinner.\nCan I buy you a drink?"
+    },
+    {
+        "label": "True",
+        "sentence": "word: image\nThe image of f(x) = x^2 is the set of all non-negative real numbers if the domain of the function is the set of all real numbers.\nThe number 6 is the image of 3 under f that is defined as f(x) = 2*x."
+    },
+    {
+        "label": "False",
+        "sentence": "word: order\nMagnolias belong to the order Magnoliales.\nIt was on the order of a mile."
+    },
+    {
+        "label": "False",
+        "sentence": "word: detach\nDetach a regiment.\nHis retina detached and he had to be rushed into surgery."
+    }
+]

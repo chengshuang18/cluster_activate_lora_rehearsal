@@ -2,13 +2,13 @@
     "SC": [
         {
             "sampling strategy": "full",
-            "dataset name": "amazon_sampling/3"
+            "dataset name": "amazon"
         }
     ],
     "TC": [     
         {
             "sampling strategy": "full",
-            "dataset name": "yahoo_sampling/3"
+            "dataset name": "yahoo"
         },
         {
             "sampling strategy": "full",

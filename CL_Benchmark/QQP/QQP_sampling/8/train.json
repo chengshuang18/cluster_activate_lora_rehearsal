@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "first sentence: How do I reset my Nokia Lumia?\nsecond sentence: How do I reboot my Nokia Lumia 625 mobile?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I become a great player in 8 ball pool?\nsecond sentence: Does the 8 ball pool hack work?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How much of what we do is influenced by our nature vs our nurture?\nsecond sentence: To what extent do we control our own life and how much of it is up to fate? If we can't control our life, who or what does?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Highest maximum marks of commerce topper in net JRF 2016?\nsecond sentence: How different is GATE JRF from CSIR NET JRF?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is southern blotting technique?\nsecond sentence: What is southern blotting technique? What is the purpose of southern blotting?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is really wrong with me?\nsecond sentence: What's wrong with me?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the best gaming laptops under INR 60000?\nsecond sentence: Which is the best gaming laptop in 60000 Rs?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What if I accidentally follow someone I've blocked?\nsecond sentence: What happens if you accidentally follow someone by accident, someone you have blocked, and unfollow really fast from the person you have blocked?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is your favourite social networking site?\nsecond sentence: What is your favorite social networking platform? Why?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How does a German Shepherd/Husky mix interact with other breeds?\nsecond sentence: How does a German Shepherd/Labrador mix interact with other breeds?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do you know if a Scorpio man really likes you or hates you deeply?\nsecond sentence: What are some signs a Scorpio man is interested in you?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do start preparation for IAS?\nsecond sentence: How should I start my preparation for IAS as an engineering student?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What will the people who have Black Money in Swiss Bank do after the demonetisation of ₹1000 & ₹500 note?\nsecond sentence: Will the corrupt politicians still have their black money safe in Swiss Bank even after the scrapping of old Rs 500 and Rs 1000 note?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What came first Jainism or Hinduism?\nsecond sentence: Which religion came first, Jainism or Hinduism?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What can smart phones do?\nsecond sentence: What can smart phone do?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What will be the effect in Stock market after the Indian Government's decision to demonitize 500 and 1000 rupee notes?\nsecond sentence: How will the market react on scrapping Rs 500 & Rs 1000 notes?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: According to ohm's law, V is proportional to I (V=IR), but in case of power V is inversely proportional to I (as P=VI). Why is it so?\nsecond sentence: What does the formula V=IR mean in Ohm's law?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: If I update my iPhone 4s to iOS 8.2, will I still be able to play music from it via the dock connector in my 2009 Toyota?\nsecond sentence: Will Gevey sim work on my iPhone 4S updated to iOS 7?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is the academic pressure and workload at Saint Leo University like?\nsecond sentence: What is the academic pressure and workload at the University of Dayton like?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I learn to play Piano myself?\nsecond sentence: What are some tips for learning to play piano as an adult?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Which is the best porn video?\nsecond sentence: What is the best porn video you've ever watched on the internet?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the causes of dizziness?\nsecond sentence: What are the causes, symptoms and treatments for dizziness?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is your review of Www.siruvarmalar.com?\nsecond sentence: What is your review of Www.infoudio.com?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How can a new Indian Lawyer learn drafting? Any good books?\nsecond sentence: What are some good books which a new Indian Lawyer must read?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How is the printing of new currency note like Rs 2000 going to help in curbing future black money market?\nsecond sentence: How would demonetizing 500 and 1000 rupee notes and introducing new 2000 rupee notes help curb black money and corruption?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Which picture can make you sad?\nsecond sentence: Which picture makes you feel sad?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: \"What is the English word for \"\"pinapansin\"\", a Filipino word?\"\nsecond sentence: What's the english word for 'jhak'?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Is there a way for me to temporarily disable my Quora account?\nsecond sentence: How do I deactivate my account?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are your top three favorite books and why?\nsecond sentence: What is your favorite book, why?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What are the risks from a broken instrument remaining inside a root canal?\nsecond sentence: What goes into the cost of a root canal?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Why is bakchod.org so famous?\nsecond sentence: Im trying to develop a game like slither.io, needs to be multiplayer, except I don’t know how to code and don’t have money to spend. Can anyone Help?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How can I increase fps (frames per second) in Dota 2?\nsecond sentence: If human eye fps (frames per second) is 60 and we have something rotating at 60 rps (rounds per second), will the object rotating look stationary to the human eye?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: If I had some lithium metal, how could I easily prove to my friends that it reacts with nitrogen, assuming they like talking about chemistry?\nsecond sentence: How does lithium metal react with water?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How does the Babolat Pure Drive Roddick Racquet compare to similarly priced racquets?\nsecond sentence: Where can I get a good tennis racquet for about $70?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Can we forecast earthquakes?\nsecond sentence: Is there really any way to forecast earthquakes?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How do I increase the vocabulary?\nsecond sentence: How can I increase English vocabulary?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Why is Western Europe so densely populated?\nsecond sentence: What are the least-densely-populated countries in Europe?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Which Design would be best for my visiting card of my Khakhra business?\nsecond sentence: What it is like to date a sportswoman?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is the another name of rom?\nsecond sentence: How people of Bihar are any different than more educated people of Bengaluru when former chose Lalu Yadav as CM and later chose Siddaramaiah?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are some ways of converting 15 mg to ml?\nsecond sentence: How do you convert mg dosage to ml?",
+        "label": "True"
+    }
+]

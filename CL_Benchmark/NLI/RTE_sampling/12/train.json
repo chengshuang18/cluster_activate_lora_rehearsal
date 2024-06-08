@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "sentence 1: The galaxy, measuring just 2,000 light-years across, is a fraction of the size of our own Milky Way, which stretches 100,000 light-years in diameter.\nsentence 2: The Milky Way measures 2,000 light-years across.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The media always talk about the Dow being up or down a certain number of points.\nsentence 2: Dow Jones is down.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Rehnquist served longer as chief justice than anyone in a century, and his 33-year career as a justice was among the half-dozen longest in the court's history.\nsentence 2: Rehnquist served the second-longest tenure, as chief justice, in US history.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: \"The capacity people have to adjust and make peace with a new situation, even if they feel vulnerable, is really remarkable,\" said Randy Quevillon, chair of the psychology department and the Disaster Mental Health Institute at the University of South Dakota.\nsentence 2: Randy Quevillon is employed at the University of South Dakota.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: After the SkyWest airliner touched down, the Airport Movement Area Safety System (AMASS) alerted and the air traffic controller transmitted \"Hold, Hold, Hold\" to the SkyWest flight crew in an attempt to stop the aircraft short of runway 1L. The SkyWest crew applied maximum braking that resulted in the airplane stopping in the middle of runway 1L. As this was occurring, the captain of Republic Airlines flight 4912 took control of the aircraft from the first officer, realized the aircraft was traveling too fast to stop, and initiated an immediate takeoff. According to the crew of SkyWest 5741, the Republic Airlines aircraft overflew theirs by 30 to 50 feet. The Federal Aviation Administration has categorized the incident as an operational error.\nsentence 2: NTSB is responsible for investigating transportation accidents in the United States.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Rolf Ekeus the Swedish diplomat who chairs the commission said that while Baghdad had been cooperative in helping his panel establish procedures for monitoring and verifying the weapons destruction it is unclear how the Iraqis will react once the system is in operation .\nsentence 2: Rolf Ekeus is a Swedish diplomat.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Clonaid scientist, Brigitte Boisselier, said the first human clone - a girl nicknamed Eve - was born on Thursday to an American mother.\nsentence 2: Brigitte Boisselier announced that a cloned baby had been born.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Other drugs on the market, approved to treat mild to moderate Alzheimer's, are believed to work by inhibiting cholinesterase, an enzyme that breaks down acetylcholine which is a chemical used by nerves to communicate with each other.\nsentence 2: Alzheimer's disease is treated using drugs.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Former Chancellor Helmut Kohl, who stunned Germans with admission that he used illegal bank accounts to funnel secret money to Christian Democratic party, invokes personal honor in refusing to disclose names of people who gave more than $1 million between 1993 and 1998; scandal threatens to shred Kohl's place in history for reunifying Germany and leading Europe toward common currency.\nsentence 2: The name of Helmut Kohl's political party is the Christian Democratic Union.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Tyson, who served three years in jail for rape in the 1990s and who bit off part of Evander Holyfield's ear during a 1997 fight, still thinks he can be heavyweight champion again.\nsentence 2: Mike Tyson bit Holyfield's ear in 1990.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: It is also an acronym that stands for Islamic Resistance Movement, a militant Islamist Palestinian organization that opposes the existence of the state of Israel and favors the creation of an Islamic state in Palestine.\nsentence 2: The Islamic Resistance Movement is also known as the Militant Islamic Palestinian Organization.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: South Korean President Roh Moo-hyun Thursday asked the Board of Audit and Inspection (BAI) to investigate questions arising about the Foreign Ministry's response to the kidnapping of a South Korean in Iraq who was later killed by Muslim militants, according to Yonhap.\nsentence 2: Roh Moo-hyun asked the BAI to kidnap a South Korean in Iraq.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: 20 million years ago there were apes, and by 5 million years ago our closest ancestors and cousins, early ape-humans, had split from the other apes.\nsentence 2: Humans existed 10,000 years ago.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Two Turkish engineers and an Afghan translator kidnapped in December were freed Friday.\nsentence 2: translator kidnapped in Iraq",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Tens of thousands of Colombians and Venezuelans attended a free concert Sunday, held on a bridge linking the two countries. It was organized by Grammy-winning rock artist Juanes to celebrate the end of the diplomatic crisis between Colombia, Venezuela, and Ecuador, and to further improve peaceful relations within the region. The \"Peace Without Borders\" concert was staged atop the Simón Bolívar bridge, which connects the Colombian town of Cúcuta with the Venezuelan town of San Antonio del Táchira. \"It would have been much more practical and simple to do it in a city,\" Juanes told the Miami Herald, \"but the border is a symbol of peace between all countries. And this message is for everyone, all the countries in Latin America and the U.S. as well.\"\nsentence 2: Ecuador is now allies with Colombia and Venezuela.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Felicity Huffman and Patricia Arquette became first-time Emmy winners as they received lead actress honors, while Tony Shalhoub and James Spader, once again, proved favorites in the best actor category.\nsentence 2: Patricia Arquette collected best drama actress for psychic crime drama \"Medium\", while James Spader won best actor for \"Boston Legal\" for a second year.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Talks between the Boston Globe and its unions continued past a midnight deadline amid threats that the newspaper could be closed within weeks. Its owner, The New York Times, said it would file a notice with the government on Monday that it would shut the paper if there was no agreement on cost cuts. The owners want the unions to agree to $20m (£13.4m) in money saving measures. Guaranteed jobs for life are expected to be a sticking point, with the unions saying they are not negotiable.\nsentence 2: The Boston Globe is owned by The New York Times.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Two of Gianni Versace's favorite buzzwords were quality and future, so after the 50-year-old designer was murdered last July outside his Miami Beach, Fla. mansion, it was somehow inevitable that his family would have to go about putting those words together: They had to ask themselves how they could ensure the future of the company Versace had built without sacrificing its reputation for quality.\nsentence 2: Gianni Versace is a designer.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Hunting reef sharks is now banned throughout Maldivian waters. The government decision has made the Indian Ocean archipelago the first nation in the region to outlaw the practice. Shark numbers have plummeted in the Maldives in recent years because a significant minority of fishermen target sharks for their lucrative fins, which are used in shark-fin soup, a luxury Asian dish. Once its fins have been cut off, the shark is often returned to the sea where it suffocates over many painful hours.\nsentence 2: Due to the decreasing number of sharks, Maldives have banned the hunt of reef sharks.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Only 14 percent of U.S. mothers exclusively breast-feed their babies for the minimum recommended six months.\nsentence 2: There are many benefits from breast-feeding.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: A bus collision with a truck in Uganda has resulted in at least 30 fatalities and has left a further 21 injured.\nsentence 2: 30 die in a bus collision in Uganda.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: KANDAHAR, Afghanistan — Five suicide bombers stormed a government office in Kandahar on Wednesday morning, killing 13 people, including two provincial government officials, and wounding 14.  One militant detonated a car bomb at the entrance gate of the provincial council office, as the others stormed the compound with assault rifles and hand grenades. Seven civilians and six police officers were killed in the 20-minute gun battle, which ended when two of the militants blew themselves up in the main hall, said the provincial police chief, Matiullah Qati.\nsentence 2: Five government officials were killed in the suicide bomber attack in Kandahar.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Political change in eastern Europe and the removal of trade barriers in the Far East have given the four multinationals-Philip Morris, BAT Industries, R J Reynolds and Rothmans International-access to big potential new markets.\nsentence 2: Trade liberalisation happened in China.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Earlier this year, Kai-Uwe Ricke, chief executive of Deutsche Telekom, floated the possibility that T-Mobile USA might be sold.\nsentence 2: Deutsche Telekom sold T-Mobile USA.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The car which crashed against the mail-box belonged to James Clark, 68, an acquaintance of James Jones' family.\nsentence 2: Clark is a relative of Jones'.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: AT&T Corp. says it will stop selling traditional local and long-distance residential service in seven states, blaming its move on a court decision that it says will result in higher prices for its use of regional networks.\nsentence 2: AT&T blames a court decision that will cause higher prices.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: It could mean to leave in the street to thousands of workers.\nsentence 2: It could lead to thousands of job losses.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: In the United States Senate on Tuesday, Senators Byron Dorgan, a Democrat from North Dakota, and Mike Enzi, a Republican from Wyoming, introduced the \"Freedom to Travel to Cuba Act\" (S.428), a bill that would lift the travel restrictions that have prevented U.S. citizens from visiting Cuba since the early 1960s. The bill is co-sponsored by 20 senators, and the House of Representatives is considering a companion measure, H.R. 874, introduced by Representatives Bill Delahunt and Jeff Flake. The house measure has 121 cosponsors.\nsentence 2: Byron Dorgan was born in Wyoming.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Eleven years after 852 people, mostly Swedes, perished when the ferry Estonia sank on a stormy Baltic night, an exhibition in the National Maritime Museum in Stockholm brings back the pain and controversy which have haunted Sweden since the disaster.\nsentence 2: 100 or more people lost their lives in a ferry sinking.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Moscow (USSR), 12 Jul 89 (PRAVDA)- Blood is flowing in Columbia, where last year, according to official statistics, there were 4,600 victims of political violence, including Jaime Pardo Leal (president of Colombia's national coordination committee), around 30 deputies and many municipal advisors and mayors.\nsentence 2: Around 30 deputies were killed on 12 Jul 89.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Kohl participated in the late stage of WWII as a teenage soldier. He joined the Christian-Democratic Union (CDU) in 1947.\nsentence 2: The name of Helmut Kohl's political party is the Christian Democratic Union.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The president of the organization for the construction of the new Acropolis Museum, professor Dimitrios Pandermalis, announced that the Museum will be ready to operate as an exhibition center for archaeological treasures in 2007. In response to this statement, the Greek government re-issued demands regarding the subject of the Parthenon Marbles' restoration to Greece from the United Kingdom. After visiting the construction site, Greek Culture Minister George Voulgarakis reiterated yesterday that the new Athens museum would be ready to receive visitors by the end of next year.\nsentence 2: Demetrios Pandermalis is the president of the organization for the construction of the new Acropolis Museum.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Japan's Toshiba Corp. announced Tuesday that it has developed the first laptop computer with its new HD DVD drive: a next-generation disc format it is promoting over a rival standard pushed by Sony Corp.\nsentence 2: Toshiba Corp.'s headquarters is in Japan.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The two attacks last week by the Islamic Resistance Movement, as Hamas is formally known, dramatized for both Israelis and Palestinians the dangers they face in pursuing peaceful coexistence.\nsentence 2: The Islamic Resistance Movement is also known as Hamas.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: At the southeastern tip of the city, Xochimilco, another small town subsumed by the city, is a popular tourist destination because of its chinampas, or \"floating gardens,\" boats made out of reeds on which the Indians have grown plants since pre-Columbian times.\nsentence 2: Xochimilco is a popular tourist attraction because of its chinampas, or floating gardens.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Pakistan's President Pervez Musharraf held talks with British Prime Minister Gordon Brown in London on Tuesday, reassuring his host that Pakistan will hold a fair election next month and is ready to continue a sustained fight against terrorism and extremism. The visit has been widely called President Musharraf's \"charm offensive.\" The Pakistani leader has held talks in Brussels, Paris, at the World Economic Forum in Davos, Switzerland and now in London in an effort which has been seen as an attempt to shore up European support for his government.\nsentence 2: Musharraf met Brown in London.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The steel division of Broken Hill Proprietary, the Australian resources group, and North Star steel, part of the privately-owned Cargill group in the US, are joining forces to build and operate a new steel mini-mill in the US Midwest.\nsentence 2: Australia's Broken Hill Proprietary and the US's North Star Steel will build and operate one in the US Midwest.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The richest provinces, Ontario, Alberta and B.C, have spent billions on tax cuts and slashing services while at the same time howling for Ottawa to give them more money for medicare.\nsentence 2: Ottawa promises more money to upgrade the literacy levels and skills of natives and high school dropouts.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The Argentinian propaganda made the Gurkhas out to be evil savages who ate their PoW's. However instead of causing the Argentinian conscripts fight to the end, it caused them to run away, the Gurkhas never saw more than brief token resistance.\nsentence 2: The Gurkhas come from Nepal.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Harvey Weinstein, the co-chairman of Miramax, who was instrumental in popularizing both independent and foreign films with broad audiences, agrees.\nsentence 2: Harvey Weinstein is the co-chairman of Miramax.",
+        "label": "entailment"
+    }
+]

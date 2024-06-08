@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "first sentence: How did Britishers help India?\nsecond sentence: How did Britishers help india during governance?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Is it possible to go invisible to certain Twitter followers without actually blocking them?\nsecond sentence: Does following someone on Twitter imply that I support them?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: If I had some lithium metal, how could I easily prove to my friends that it reacts with nitrogen, assuming they like talking about chemistry?\nsecond sentence: How does lithium metal react with water?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I tell if a guy likes me by his body language?\nsecond sentence: How do you know if a guy likes you by his body language?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What do you think of gravity as an entropy issue?\nsecond sentence: What do you think of gravity as an entropy effect?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Is lamb meat considered a red meat or a white meat?\nsecond sentence: Is pork considered red meat or white meat?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Which is better, Android or Linux Live TV box?\nsecond sentence: What is best, Linux or Android live TV box? I do have smart TV.",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Who is the worst actor in India?\nsecond sentence: Who is the worst actor of Bollywood?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What are the safety precautions on handling shotguns proposed by the NRA in Rhode Island?\nsecond sentence: What are the safety precautions on handling shotguns proposed by the NRA in Kentucky?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Why should you ever tell your child Santa Claus exists?\nsecond sentence: What's the best way to tell your child Santa Claus isn't real?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is the worst experience that you have had with a teacher/professor?\nsecond sentence: What was your worst experience with your professor in the university?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is it like to be in a mental hospital?\nsecond sentence: What would it be like in a mental hospital? What kind of things would happen?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What are the best travel places in Taiwan?\nsecond sentence: What is the best travel place?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Why does the media constantly distort Donald Trump as a bad man?\nsecond sentence: Why are the media biased against Donald Trump?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is the rate of acceptance into McKinsey's MD Fellow program?\nsecond sentence: Why does NYUAD have a very low acceptance rate?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Can I bribe someone with an iPhone 7 to drop allegations they put against me?\nsecond sentence: Can I bribe someone with an iPhone 7 to drop allegations against me?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What are tanks wholesale?\nsecond sentence: What is tanks wholesale?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Does Fermat's last theorem have practical applications yet?\nsecond sentence: Is there any practical use or application of Fermat's last theorem?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is are the differences between system dynamic range, instrument dynamic range, and instantaneous dynamic range?\nsecond sentence: What is the difference in application between the Chezy and Manning formulas in fluid dynamics?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Are there any historical examples of a Furry phenomena or culture that predate the 1960s?\nsecond sentence: Why is the 1960s considered a cultural decade?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Which is the best college for Fine Arts in pune?\nsecond sentence: Which is the best college for a 'Bachelor of Fine Arts' in Pune?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I get to speak fluently English?\nsecond sentence: How can I understand english?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What are some mind-blowing facts about AT&T?\nsecond sentence: What are some mind blowing facts about Illinois?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are some things new employees should know going into their first day at Biomed Realty Trust?\nsecond sentence: What are some things new employees should know going into their first day at Education Realty Trust?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Do some people really have black and white dreams?\nsecond sentence: Do people dream in color or black and white?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What does Dima Korolev think of Putin?\nsecond sentence: What is Dima Korolev's IQ?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How can I have a show/hide control of photos from Panoramio on a Google Map, out of the map itself?\nsecond sentence: How can I know which my Panoramio photos were selected for Google Maps?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Why do people dislike public displays of affection (PDA)?\nsecond sentence: Is hating PDA a bad thing?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Is it okay to have a mild shoulder pain after rock climbing for the first time(on silos)? I don't work out or do much physical work normally.\nsecond sentence: I had a bad habit of masturbation. Sometimes I would do it 2-3 times a day. I used to do it vigorously. This went on for few years. Now my right arm feels weaker than my left. My right shoulder mass and size has decreased drastically. Any advice or suggestions?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What causes borderline personality disorder and when?\nsecond sentence: What causes sociopathy and borderline personality disorders?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is the best way to build a fortune over 10 years from scratch?\nsecond sentence: Self respect comes only when someone ask your caste but not when asked while filling job application form ?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Will there be a nuclear war between India and Pakistan?\nsecond sentence: What will be the disaster effect, if nuclear war breaks out between India and Pakistan?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What's the difference between cat 5, cat 6 and cat 7 Ethernet cables?\nsecond sentence: What are the advantages of using an Ethernet cable over Wi Fi?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the pros and cons of ad vs transaction revenue models?\nsecond sentence: Why is paytm not listed on stock market yet?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Who created the Islamic State?\nsecond sentence: Who founded the Islamic state?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Any solution for night vision after lasik?\nsecond sentence: Does a bat have vision at night?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Does Samsung S3 neo support otg?\nsecond sentence: What is your review of Samsung Galaxy S3 Neo?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I overcome my social media addiction??\nsecond sentence: How do I overcome my social media addiction?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is a good way to learn the violin?\nsecond sentence: How can I learn how to play violin?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How can I stop being so desperate to have a girlfriend?\nsecond sentence: How can I stop being so desperate to have a girlfriend in India?",
+        "label": "True"
+    }
+]

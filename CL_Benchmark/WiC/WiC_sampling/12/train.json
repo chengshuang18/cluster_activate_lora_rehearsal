@@ -1,0 +1,162 @@
+[
+    {
+        "label": "True",
+        "sentence": "word: party\nThe green party took 12% of the vote.\nIn 1992 Perot tried to organize a third party at the national level."
+    },
+    {
+        "label": "True",
+        "sentence": "word: day\nIt should arrive any day now.\nThese days it is not unusual."
+    },
+    {
+        "label": "False",
+        "sentence": "word: application\nThe application of indexes to tables of data.\nThe iPhone application VR+ connects to major social networks."
+    },
+    {
+        "label": "False",
+        "sentence": "word: choke\nChoke a carburetor.\nThe pirate choked the sailor to death."
+    },
+    {
+        "label": "True",
+        "sentence": "word: be\nI shall be writing to you soon.\nIt has been three years since my grandmother died. (similar to My grandmother died three years ago, but emphasizes the intervening period)."
+    },
+    {
+        "label": "False",
+        "sentence": "word: part\nHe wanted to feel a part of something bigger than himself.\nShe played the part of Desdemona."
+    },
+    {
+        "label": "False",
+        "sentence": "word: strike\nStrike a bargain.\nWe must strike the enemy's oil fields."
+    },
+    {
+        "label": "True",
+        "sentence": "word: head\n12 head of big cattle and 14 head of branded calves.\nThey shot 20 head of quail."
+    },
+    {
+        "label": "False",
+        "sentence": "word: appear\nHe had to appear in court last month.\nHomo sapiens appeared millions of years ago."
+    },
+    {
+        "label": "False",
+        "sentence": "word: clap\nIf your dick has \"the drip\" you probably have the clap and need to go to the sex clinic.\nOff in the distance, he heard the clap of thunder."
+    },
+    {
+        "label": "False",
+        "sentence": "word: make\nMake my day.\nMake revolution."
+    },
+    {
+        "label": "False",
+        "sentence": "word: direction\nKeep going in the same direction.\nHe had no direction in his life."
+    },
+    {
+        "label": "False",
+        "sentence": "word: account\nHe asked to see the executive who handled his account.\nHe predicted that although it is of small account now it will rapidly increase in importance."
+    },
+    {
+        "label": "False",
+        "sentence": "word: make\nWhat do you make of his remarks?\nHow much do you make a month in your new job?"
+    },
+    {
+        "label": "True",
+        "sentence": "word: communicate\nMany deaf people communicate with sign language.\nHe and his sons haven't communicated for years."
+    },
+    {
+        "label": "False",
+        "sentence": "word: cut\nCut recording tape.\nCut from one scene to another."
+    },
+    {
+        "label": "False",
+        "sentence": "word: voice\nO Marcus, I am warm'd; my heart Leaps at the trumpet's voice.\nA shrill voice sounded behind us."
+    },
+    {
+        "label": "False",
+        "sentence": "word: energy\nJogging works off my excess energy.\nEuropeans often laugh at American energy."
+    },
+    {
+        "label": "True",
+        "sentence": "word: apply\nI apply this rule to get good results.\nApply a magnetic field here."
+    },
+    {
+        "label": "True",
+        "sentence": "word: hegemony\nThe consolidation of the United States' hegemony over a new international economic system.\nTo say they have priority is not to say they have complete hegemony."
+    },
+    {
+        "label": "False",
+        "sentence": "word: pull\nPull one's horse to a stand.\nPull the ball."
+    },
+    {
+        "label": "True",
+        "sentence": "word: exercise\nSome parents exercise their infants.\nThis puzzle will exercise your mind."
+    },
+    {
+        "label": "True",
+        "sentence": "word: know\nI know that the President lied to the people.\nI want to know who is winning the game!"
+    },
+    {
+        "label": "False",
+        "sentence": "word: hold\nTo hold true.\nHold that position behind the trees!"
+    },
+    {
+        "label": "True",
+        "sentence": "word: fabric\nThe fabric of our lives.\nThe fabric of the universe."
+    },
+    {
+        "label": "True",
+        "sentence": "word: roughcast\nRoughcast a wall.\nTo roughcast a wall or building."
+    },
+    {
+        "label": "True",
+        "sentence": "word: occur\nPrecious stones occur in a large area in Brazil.\nSexism occurs in many workplaces."
+    },
+    {
+        "label": "False",
+        "sentence": "word: catch\nI have some free time tonight so I think I'll catch a movie.\nThe fashion did not catch."
+    },
+    {
+        "label": "True",
+        "sentence": "word: suit\nThey buried him in his best suit.\nBe sure to keep your nose to the grindstone today; the suits are making a \"surprise\" visit to this department."
+    },
+    {
+        "label": "True",
+        "sentence": "word: level\nTake the elevator and get off at the promenade level.\nWhat level is the office on?"
+    },
+    {
+        "label": "True",
+        "sentence": "word: air\nI need some fresh air.\nA smell of chemicals in the air."
+    },
+    {
+        "label": "False",
+        "sentence": "word: find\nFind the product of two numbers.\nShe found the time and energy to take care of her aging parents."
+    },
+    {
+        "label": "True",
+        "sentence": "word: strike\nWe will strike a medal in your honour.\nStrike a medal."
+    },
+    {
+        "label": "True",
+        "sentence": "word: drop\nHe had a drop too much to drink.\nThere is not a drop of pity in that man."
+    },
+    {
+        "label": "False",
+        "sentence": "word: flood\nFlood the market with tennis shoes.\nThe images flooded his mind."
+    },
+    {
+        "label": "False",
+        "sentence": "word: office\nAn executive or judical office.\nHe rented an office in the new building."
+    },
+    {
+        "label": "True",
+        "sentence": "word: beg\nI beg your pardon. I didn't mean to cause offence.\nHe begged her to go to the prom with him."
+    },
+    {
+        "label": "False",
+        "sentence": "word: difficulty\nThey agreed about the difficulty of the climb.\nFinished the test only with great difficulty."
+    },
+    {
+        "label": "True",
+        "sentence": "word: head\nThe head of the list.\nThe head of the stairs."
+    },
+    {
+        "label": "False",
+        "sentence": "word: touch\nDon't touch my CDs!\nStefan was touched by the song's message of hope."
+    }
+]

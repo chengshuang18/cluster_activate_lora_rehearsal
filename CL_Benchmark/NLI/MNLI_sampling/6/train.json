@@ -1,0 +1,242 @@
+[
+    {
+        "sentence": "sentence 1: The errors range from the trivial (misspelling the name of former Gov.\nsentence 2: A trivial error that occurred was a simple name misspelling.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: well that's that's good exercise and i don't do enough of that either\nsentence 2: I do enough of that great exercise. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Examples of condition information include, among others, (1) averages of standardized condition rating codes; (2) percentage of assets above, at, or below acceptable condition; or (3) narrative information.\nsentence 2: Condition information may be the narrative information.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: You certainly won't have to go out of your way to hear music performances.\nsentence 2: There are many musical performances because music is a big part of the culture.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: But what's interesting is how similar Lockheed's tactics remain to those it deployed when it was running what was called the grease machine.\nsentence 2: The tactics are very similar to those developed by the CEO of Lockheed during the grease machine era.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: It's not that air bags don't work.\nsentence 2: Air bags don't work at all.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: they do the same old things they did in high school\nsentence 2: they do the same things they used to do in high school",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Rediscovering Arendt's public-private split wouldn't necessarily entail abandoning the feminist notion that the personal is political.\nsentence 2: The idea that what's personal is also political is a feminist position.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Women dressed in black chat outside their houses; the men gather in shady squares to discuss the day's news and play p??tanque, or boules.\nsentence 2: Women wear black.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: uh-huh yeah you too you too\nsentence 2: Same to you.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The formidable barrier of the Pyrenees forms the frontier with Spain.\nsentence 2: Pyrenees forms a formidable barrier with Spain.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: exactly and you know it's gonna really hurt the the middle class uh people i think because uh they're the ones that'll probably have to uh uh carry the brunt of the load\nsentence 2: The middle class people will be hurt by it.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Depending on user needs and the auditor's qualifications, the auditor may choose to apply performance audit standards in chapters 7 and 8 to the objectives in paragraph 2.6 instead of following the attestation standards in chapter 6.\nsentence 2: An auditor may choose to apply performance audit standards in chapters 7 and 8 to the objectives in paragraph 2.6 instead of following the attestation standards in chapter 6 based on the needs of the user along with the auditor's qualifications. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Particularly true for household sector-E-mail, Electronic bill paying, FAX, long-distance call\nsentence 2: That is not true for the households.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: uh-huh but those people never get caught the people that\nsentence 2: Those are the people who don't get caught.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Best  Commercial Quality Assurance Practices Offer Improvements for DOD.\nsentence 2: The DOD is very resistant to change and improvement.  ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The Turkish-style supper clubs called gazinos offer an evening of folk music and belly-dancing, usually with dinner and drinks included.\nsentence 2: Dinner and drinks are not really included in an evening of folk music at the gazinos.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: it is nice he matter of fact he was here today it was the first really warm weather we've had and he came out and cut the yard and trimmed the hedges and all that\nsentence 2: He came today and mowed the lawn and trimmed the hedges.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: it's got the the the good old three fifty standard engine in it regular gas engine and that engine i understand i can i can actually work on that engine\nsentence 2: The three fifty is one kind of engine I just don't understand. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: We heard that some of our franchises were doing this sort of thing, and we get angry when we hear about them doing it.\nsentence 2: We were furious when we found out that our franchises were doing this.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: This legislation allowed us to create a technical and scientific career track at a compensation level consistent to the SES.\nsentence 2: The compensation level for the career track is consistent to the SES.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: But even those who don't should realize that Buchanan's method--forming his conclusions based on prejudice, then rustling up the support for them--invariably produces bad history.\nsentence 2: Buchanan's method produces less than stellar history due to his prejudice.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: (Other women, though, were prepared to testify against him and didn't get the chance.)\nsentence 2: There were countless women willing to offer their testimony.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Upstairs is an exhibit on the history of banking and the short-lived Irish Parliament.\nsentence 2: An exhibit on the history of banking and the short-lived Irish Parliament are upstairs.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: (Click to learn more about the surprising Islamic origins of this argument and what Ludwig Wittgenstein had to say about it.)\nsentence 2: You cannot learn anything about Islam. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The place also offers a terrific view.\nsentence 2: A terrific view can be seen at the place.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: For comprehensive listing of what's going on in Paris while you are there, buy one of the weekly guides, Pariscope (with an English-language supplement) or L'Officiel des Spectacles.\nsentence 2: The guides are also offered online for a small fee.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Amarillo Dumas Panhandle\nsentence 2: Amarillo Dumas Panhandle",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Are you well, sir? Gauve asked Jon.\nsentence 2: Guave asked Jon if he was okay.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The symmetry of the large central courtyard has a simple elegance.\nsentence 2: The courtyard is unevenly skewed to one side.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: And then, at 6:30am on D-Day, came the first of a fleet of 4,266 vessels to turn the beaches into beachheads with their now famous code Sword, Juno, Gold, Omaha, and Utah.\nsentence 2: The fleet of vessels did not all arrive at the same time.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The Bournemouth train left at 3.30.\nsentence 2: The train left at 3.30 carrying our intrepid heroes.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Other new requirements address redistricting, cases involving eviction from public housing of individuals charged with or convicted of drug violations and participation in government rulemaking and solicitation.\nsentence 2: They smoked with those that were about to be charged.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: First of all, my extreme apologies for the spelling mistake.\nsentence 2: I apologize for making spelling errors.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: These are the seven swords.\nsentence 2: These are the seven seas. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: A second problem is that a Gulf War Syndrome with consistent symptoms has yet to be defined.\nsentence 2: Symptoms of a Gulf War Syndrome have been defined.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Thou shalt not bow down before any other school-targeting marketers other than me.\nsentence 2: You're not allowed to bow down to anyone but me. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: As for middle-class mores, a culture eager to embrace the V-chip surely subscribes to other beliefs besides the desirability of transgression at any cost.\nsentence 2: A culture eager for the V-chip subscribe to ideas in building a greater society. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: He was less successful in fighting China over territory on the Tibetan frontier.\nsentence 2: He did not achieve total victory in the fight with China over Tibetan territory.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: What can we do? asked Tuppence, her spirits rising.\nsentence 2: Tuppence lost all hope and stopped trying to help.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: OPPORTUNITY COST - The value of the alternatives foregone by adopting a particular strategy or employing resources in a specific manner.\nsentence 2: Mis-opportunity cost is the amount of alternatives not ventured by using a certain strategy or resource/",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The fellow knew every dirty trick and was eager to use them all.\nsentence 2: The fellow was ready to use every dirty trick, and he knew them all.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: hum-um mine don't either mine don't either they have um my mom has a uh has a MasterCard and a Visa card and that's it\nsentence 2: My mother had very poor experience with credit cards, and keeps to a small number for that reason. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: oh yes and the the numbers are still very skewed to say the least\nsentence 2: The numbers are really focused on one side. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: and they're wondering where does that cholesterol go\nsentence 2: Where does the cholesterol go?",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Although there are no reliable accounts of this period, third-century Chinese documents speak of a Japanese priestess-queen, Himiko, ruling over a land of law-abiding people who enjoyed alcohol and were divided into classes distinguished by tattoo marks.\nsentence 2: History is an important study to look at, especially large civilizations.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: In general, look for good prices at hypermarkets outside the major towns.\nsentence 2: Generally, look for good prices at the markets that aren't in major towns.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: A count of the languages spoken all over India, leaving out the dialects, comes to 1,652, written in 13 different alphabets.\nsentence 2: The common language of India is English. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: well he at least saw it one time\nsentence 2: He has not seen it yet.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: hopefully\nsentence 2: Maybe this will happen.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Next is the King's Bedchamber, perhaps the most richly decorated room in the royal apartments.\nsentence 2: The King kept his bedchamber as basic as possible.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: After acquiring as many cable companies as it could, AT and T and its affiliates are now converting the cable system so that it can carry the Internet.\nsentence 2: AT and T was unable to acquire any cable companies.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: i think because they were they were scheduling a video release of it in July and then when it won all those awards uh they pushed it back to August so but yeah that one is definitely worth seeing it's really good\nsentence 2: They put zero planning into the release of the video.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Ashoka began by killing all his rivals before conquering Kalinga in 260 b.c.\nsentence 2: Asoka should have left his enemies alone. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Her hands crackled-\nsentence 2: Her hands made noise.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Yes; you see she went to the mater, and, Oh, here's Evie herself. Miss Howard entered. \nsentence 2: Miss Howard left.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The person, who escapes the greatest number of times without allowing the vehicle to overheat, wins.\nsentence 2: The game was being played by two players.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Shannon what and why, he repeated silently.\nsentence 2: What and why, he asked Shannon.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: If the attestation engagement is part of a larger audit, this information may be communicated as part of that audit.\nsentence 2: The attestation engagement information can't be considered part of the audit.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: big garage a big basement just like my parents house except for on the water\nsentence 2: Tiny garage, Tiny basement and nothing like my parents house. ",
+        "label": "contradiction"
+    }
+]

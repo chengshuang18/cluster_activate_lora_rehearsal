@@ -1,0 +1,242 @@
+[
+    {
+        "sentence": "sentence 1: um it just happens they built a shopping center next to it  but um they put up a nice fence so we still have a lot of privacy\nsentence 2: They've built a shopping center next to it which is going to cause privacy issues. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: By Gallant's own admission in the introduction, she composes with an eye to craft, not the deeper heart of a story.\nsentence 2: Gallant cares nothing for the deeper heart of the story. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: 5 million in VAWA funding.\nsentence 2: Less than a million in VAWA funding.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: An album of the most beautiful photos of Earth taken from the height of several meters above ground, and put together by the best photographers and over-realistic painters in the world.\nsentence 2: The album was only done in chalk sketches.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Hall says that the students will do eligibility screening to determine whether callers qualify for legal assistance from TRLA.\nsentence 2: TRLA will provide legal assistance to eligible students.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: But by phasing in rates, they may be able to have their cake and eat it, too-- smaller periodic increases and fewer cases to litigate.\nsentence 2: Phasing in rates can result in large increases.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: At the southern end of the marina is the Victorian-style Balboa Pavilion, which was built as a bath house in 1902 and hosted big-band dances in the 1940s.\nsentence 2: The northern end of the bath houses were built in 1903.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Services also operate down the west coast to Rennes, Bordeaux, and the Pyrenees.\nsentence 2: Services also operate through Rennes, Bordeaux and the Pyrenees which are down the west coast.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Change in government saving represents tax revenue loss in first year due solely to tax deduction for IRA contribution.\nsentence 2: The changes always represent tax revenue loss.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The Explorer smiled.\nsentence 2: The explorer was happy.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Spin  Inside the Clinton Propaganda Machine , by Howard Kurtz (The Free Press).\nsentence 2: As a writer, Howard Kurtz tends to stay away from political topics.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: In general, Suharto did a supremely effective job of dividing, co-opting, and simply eliminating his opponents.\nsentence 2: No one could defeat Suharto, and he only stepped down as his health began to fail.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: You're such young things, both of you.\nsentence 2: You're both minors.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: OK? So do we have a deal?\nsentence 2: Do we have a three-way deal right now?",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Snorkelling equipment is relatively cheap in the shops, but test the face mask carefully before you buy it.\nsentence 2: Any snorkel equipment will cost a lot at the shops.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Clinton : I will continue.\nsentence 2: Clinton decided to keep his office as president.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The model assumes constant unit variable costs.\nsentence 2: Wild fluctuations have been observed in the variable costs.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: one day i gave her the checkbook and i said i'm not doing this anymore you do it you learn it and i've been happy ever since\nsentence 2: One day I gave her the checkbook and told her to learn it.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The 11th-century Basilique Saint-Sernin is an undisputed masterpiece among France's Roman?­esque churches.\nsentence 2: There is no dispute as to whether the Basilique Saint-Sernin is a masterpiece.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: He was less successful in fighting China over territory on the Tibetan frontier.\nsentence 2: He did not achieve total victory in the fight with China over Tibetan territory.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: 'I do want to see it for myself.\nsentence 2: I'd like to see the contract with my own eyes. ",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Most of the remains seen at the site today constitute the second palace built following the disaster which also coincided with a Golden Age of Minoan society or the New Palace era 1700 b.c., when the people were rich through trade, and artistic endeavor was at its peak.\nsentence 2: After the disaster, the people underwent two thousands years of neverending poverty and misery.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The treasures of the Ca'd'Oro's Galleria Franchetti of Renaissance art include Andrea Mantegna's St. Sebastian and Titian's Venus at the Mirror.\nsentence 2: Important treasures and artworks are no longer kept inside the gallery of renaissance art due to security reasons.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Young army officers and the professional classes were becoming increasingly interested in West?Υrn ways of government and social organization.\nsentence 2: Some of the officers in the army started learning about western systems of governance. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: But all year round, you can visit the monumental 18th-century Grandes-Ecuries (stables), now a horse museum ' with live horses contentedly munching hay next to wooden statues.\nsentence 2: The horses are still used for riding and for show.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Bill and Monica also at one point planned a tryst on Martha's Vineyard, but Bill finally chickened out, says the publication.\nsentence 2: Bill and Monica made plans but later didn't follow through on them.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: yeah yeah  you see a lot of activity outside people riding bikes or playing ball or jogging or doing this and that and uh they're trying to to unwind\nsentence 2: People don't do anything outside here. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The act requires that auditors for each of the 24 departments and agencies named in the CFO Act report, as part of their annual audits of the agenciesa financial statements, whether the agenciesa financial management systems comply substantially with federal financial management systems requirements, applicable federal accounting standards, and SGL at the transaction level.\nsentence 2: The report should have included more agencies.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: GDP is also the measure cited in economic trend analyses and for cross-country comparisons by many, including the President's Council of Economic Advisers, the International Monetary Fund, and the Organization for Economic Cooperation and Development (OECD).\nsentence 2: GDP is an appropriate measure for these analyses.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: What did Gore ever do to deserve this?\nsentence 2: Gore was found deplorable by some members of the opposing party.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: uh once you get over all the other hurdles just the economics of it uh it's not as much of an impact to stay home as it were if you figure in what it would cost you to go back to work and you know the\nsentence 2: Staying home is a really horrible thing because of economics.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: But the wound was already healing.\nsentence 2: The wound was beginning to visibally heal already.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: She asked the panel how to balance this need with the many important scientific questions that still need to be answered.\nsentence 2: The panel gave a satisfactory answer to her question.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: with what i'm involved with doing is kind of a controversial job anyway\nsentence 2: It would be hard for me to just quit my job.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: yes me too\nsentence 2: no, not me",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: It's not that air bags don't work.\nsentence 2: Air bags don't work at all.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Edinburgh Crystal has an excellent retail store on site and a factory shop where second-quality goods are sold.\nsentence 2: There is a great place to buy crystal.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The candy-store colors that Close reined in for decades return here with a vengeance, but they seem more frivolous than emotionally charged.\nsentence 2: Close designed the scene after a candy store from her youth.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: The siq walls narrow until you reach a cleft, through which you glimpse El Khazneh (the Treasury), and then the siq opens out to bring you face to face with the ancient city's most famous sight.\nsentence 2: The siq walls widen gradually as you go along.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: And while multinational chains have made inroads, they seem less blatant here than elsewhere.\nsentence 2: Multinational chains seem less blatant than in other places. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: no i haven't read too many i i'm more of a fiction and nonfiction reader that not not of that nature though so\nsentence 2: I have read so many!",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: This involves a morning or afternoon of theory and shallow water work, giving you the chance to try out the basic techniques before you decide to do the full open water course.\nsentence 2: The full open water course should be done before trying out the basic techniques.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: For a more skeptical view of these issues, check out these sensible   What Really Happened at Roswell and Abduction by Aliens or Sleep Paralysis .\nsentence 2: What Really Happened at Roswell, Abduction by Aliens, and Sleep Paralysis provide a more skeptical view of these issues. ",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Having done so, they finally agree to marry but with  She has privacy, freedom to pursue her own life and friends, control over money, etc.\nsentence 2: Despite their eventual agreement to wed, she still had her own privacy, freedom and control.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: On the Adriatic, Pesaro honors its native son Rossini from mid-August to late September.\nsentence 2: Rossini is honoured  from August to September.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: uh Marino makes me just crazy mad sometimes because of some of the stupid stuff he does but he's a good quarterback he's got a good arm sometimes it's too good because he throws too hard\nsentence 2: I don't like Marino because he's not that good and he has a weak arm.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: dull, provincial, and oddly prevalent on U.S. comedy shows.\nsentence 2: It has become a cliché on U.S. comedy shows.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: In the precincts of the American left that still dream of Fidel and Che in the Sierra Maestra, Rieff's book was greeted with murmurings of disapproval--the kind of murmurings that had greeted Sontag's famous Town Hall declaration of the moral equivalence of communism and fascism some years before.\nsentence 2: 70% of the American left like Fidel and Che.",
+        "label": "neutral"
+    },
+    {
+        "sentence": "sentence 1: Generally, if they had the resources they don't need shelter and they can afford private counseling.\nsentence 2: They can afford fancy therapists, they don't need help.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: But the quintet's foray into electric jazz was a natural extension of Miles' studio experimentation, and of his voracious search for new colors and textures.\nsentence 2: Electric jazz was an aspect of Mike's studio experimentation.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: In the antebellum era, New England-based Conscience Whigs denounced the North's pro-South Cotton Whigs as corrupt.\nsentence 2: The Cotton Whigs, who were pro-South, were berated by the Conscience Whigs as corrupt.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: He also identifies a number of highly technical problems with the experiment that, he says, render it meaningless.\nsentence 2: He says, that a number of highly technial problems with the experiment that he identifies, render it meaningless.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Morris' commission alone amounts to more than all the money Democrats have had to give back to suspicious contributors.\nsentence 2: Democrats had to give money back to shady contributors.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: you know today's young people are short-term pleasure oriented and everything has to be an immediate reward and it has to be fun\nsentence 2: Young people today realize not everything can be fun. ",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The Moors were defeated and expelled or killed.\nsentence 2: The Moors won an unexpected victory.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Moreover, as interpreted by the Commission, the presence requirement sustains Congress' clear goal, since the early 1980s, of restricting LSC representation to aliens with lawful status.\nsentence 2: Aliens of legal and illegal status may seek representation from the LSC.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The entrance from the south, at Amar Singh Gate, takes you up a ridged elephant's ramp, sloped to slow down any potential attackers.\nsentence 2: There is a ramp to slow down potential attackers.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: A hint of something foreign ”different ”that there has always been about you.\nsentence 2: There is a touch of foreign that is characteristic of you.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: What can we do? asked Tuppence, her spirits rising.\nsentence 2: Tuppence lost all hope and stopped trying to help.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The Post is pouring resources into tech coverage.\nsentence 2: The post is spending a lot on their tech coverage.",
+        "label": "entailment"
+    }
+]

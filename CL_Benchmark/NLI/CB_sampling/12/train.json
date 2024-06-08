@@ -1,0 +1,22 @@
+[
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: When he was there we were Bonnie and Clyde, now he was gone we were Blondie and Dagwood. Or rather, now he was gone, I was Dennis. If I 'd been smarter or less vain I might have realized that this meant that my former role was now vacant.\nsentence 2: this meant her former role was now vacant"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: B: but, uh, I can definitely, uh, see on down the road, you know, where we do have kids and are getting to that age, that's going to be a definite concern. A: Yeah, you talked before, about the school funding. I think there's only going to be one solution to school funding which I don't think will be necessarily the best way\nsentence 2: the one solution to school funding will be necessarily the best way"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: A: Uh, well, it would depend on when you go it's not excessively crowded on the weekends. B: See I'd want to be there in the mornings like from nine thirty to ten thirty. A: Oh, I don't think that would be bad at all.\nsentence 2: that would be bad"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: ``And you're not having this dress,'' Nora said, bending down to look at the price tag. ``It's two and a half guineas!'' she hissed at Louise who could tell that she was genuinely appalled.\nsentence 2: Nora was genuinely appalled"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: Why should this topic matter? You talked about everything else as you usually do. Why should I feel Maelmuire is important?\nsentence 2: Maelmuire is important"
+    }
+]

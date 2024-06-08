@@ -1,0 +1,34 @@
+[
+    {
+        "label": "A",
+        "sentence": "Which sentence is the effect of \"I saw a woman getting robbed on the street.\"? Choose one between A and B.\nA: I called 911.\nB: I hailed a cab."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The doctors amputated the patient's leg.\"? Choose one between A and B.\nA: It was badly bruised.\nB: It was severely infected."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The benefactor requested to stay anonymous.\"? Choose one between A and B.\nA: He wanted to maintain his privacy.\nB: He supported the cause behind his donation."
+    },
+    {
+        "label": "A",
+        "sentence": "Which sentence is the cause of \"The man went away for the weekend.\"? Choose one between A and B.\nA: He wanted to relax.\nB: He felt content."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"I tossed the ball upwards.\"? Choose one between A and B.\nA: The ball rolled across the ground.\nB: The ball hit the ceiling."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"The bodybuilder lifted weights.\"? Choose one between A and B.\nA: The gym closed.\nB: Her muscles became fatigued."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the effect of \"I finished a page of the book.\"? Choose one between A and B.\nA: I ripped out the next page.\nB: I turned to the next page."
+    },
+    {
+        "label": "B",
+        "sentence": "Which sentence is the cause of \"The man made an error in his calculations.\"? Choose one between A and B.\nA: He checked his work.\nB: His work was hasty."
+    }
+]

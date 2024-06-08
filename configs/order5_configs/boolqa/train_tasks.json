@@ -10,6 +10,10 @@
     "WiC": [ 
     ],
     "MultiRC": [ 
+        {
+            "sampling strategy": "full",
+            "dataset name": "MultiRC_sampling/2"
+        }
     ],
     "COPA": [
     ],

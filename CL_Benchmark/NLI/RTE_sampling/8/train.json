@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "sentence 1: Armed police were deployed at UCL Hospital, near Warren Street tube station, after reports of a suspect entering the hospital. There was speculation that one of the bombers may have been injured and sought treatment at the hospital. A Scotland Yard spokesman had said \"We are dealing with an incident at University College Hospital and we have armed officers deployed there. We cannot go in any further detail at this stage.\" A UCL spokeswoman confirmed that an email had been sent to staff asking them to be on the lookout for the suspect. At 16:00 a spokesman for the Metropolitan police confirmed that the incident was over, but armed police returned to the hospital 30 minutes later to search the premises. Police have now also confirmed this is unrelated to the explosions.\nsentence 2: Police report there has been an explosion in the tube station.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Spain will recruit 500 extra police to fight Basque separatists ETA and Islamist militants in the next four years, Interior Minister Alfredo Perez Rubalcaba said on Tuesday. Including the new recruits, the number of anti-terrorism officers will have increased by 1,800 since the Socialist government took office in 2004, days after Islamist militants killed 191 people by bombing Madrid trains, Rubalcaba told a parliamentary committee. ETA has killed more than 800 people in four decades in its fight for an independent Basque Country composed of part of northern Spain and southern France. Its last fatal attack came on May 14, authorities believe, when a car bomb wrecked a police barracks in the Spanish Basque Country, killing one officer. The government will also provide an additional 800 officers to combat organised crime and another 1,248 staff to tackle domestic violence, Rubalcaba said.\nsentence 2: ETA fights for the independence of Basque Country.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The Christian Democrats (CDU) won 35.2% of the vote, or 225 seats, against 34.3% for Chancellor Gerhard Schroeder's Social Democrats (SPD).\nsentence 2: It seems unlikely that there will be a coalition between Gerhard Schroeder's Social Democrats and Angela Merkel's Christian Democratic Union.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Now GMFanuc Robotics has perfected a robotic solution that is three times faster than manual spraying, can reproduce a spray pattern to an accuracy of 0.03 inch, and can be programmed easily to handle a wide range of garments.\nsentence 2: Robots are used to spray dye on garments.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: C&D Technologies announced that it has closed the acquisition of Datel, Inc.\nsentence 2: Datel acquired C&D Technologies",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: PORT-AU-PRINCE, Haiti — Paul Collier, a leading poverty guru, spent a recent morning here waxing positive about how the world's economic freefall might prove the perfect moment for Haiti to sell more exports like T-shirts and mangoes to Americans.  His improbable enthusiasm coincided with appearances by a bevy of luminaries descending on Haiti this month, including Ban Ki-moon, the United Nations secretary general, and the entire Security Council. All of them came to stress that this destitute nation stands at a crossroads between salvation and \"the darkness,\" as Mr. Ban put it.\nsentence 2: The United Nations Secretary General Ban Ki-moon comes from Haiti.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Today about 75% of people live in cities or towns. Art and culture are an important part of France.\nsentence 2: 75 people live in France.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The terror attacks, it was clear, had blasted a hole in the dam holding back Mumbai's reservoir of woes. While the protesters seemed to be reacting to a tragedy that had left at least 164 people dead and 308 injured, they were really venting the frustrations of having to cope with life in a city with an infrastructure so stretched that simply getting to work and back is an ordeal. At peak hour, the commuter trains - which carry six million people each day - are packed with up to 5,000 commuters, even though they're built for 1,800. Every day, an average of 11 people die on the railway system, either because they fall off the trains or because they're hit by passing locomotives as they cross the tracks.\nsentence 2: 11 people died in the terror attacks in Mumbai.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The lion's share of this traffic comes from Angola, where diamonds from the area controlled by UNITA (National Union for the Total Independence of Angola) rebels are subject to an embargo.\nsentence 2: Angola was subject to an embargo on the export of diamonds.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The Independent Police Complaints Commission (IPCC) is trying to reassure lawyers for the family of Jean Charles de Menezes that the inquiry is still on track.\nsentence 2: Police issued John Wadham's statement after lawyers for the de Menezes family met with the complaints commission, demanding more information about the killing.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The documents commented by the magazine date of April 25, 2002, epoch in which the Brazilian president was Fernando Henrique Cardoso.\nsentence 2: The Brazilian President is Luiz Inácio Lula da Silva.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Most people are familiar with the idea of St. Bernards or other dogs taking part in rescue and recovery efforts. Robots might also take part in search and rescue missions.\nsentence 2: Robots are used to find missing victims.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: However, witnesses said some of the black-clad gunmen who attacked a police station and government buildings in Baquba, 60 km (40 miles) northwest of Baghdad, proclaimed loyalty to Zarqawi and wore yellow headbands linking them to his group.\nsentence 2: Some of the gunmen showed loyalty to Baquba's group.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: ARCHEOLOGISTS and forensic experts believe they have identified the skeleton of Cleopatra's younger sister, murdered more than 2,000 years ago on the orders of the Egyptian queen.  The remains of Princess Arsinöe, put to death in 41BC on the orders of Cleopatra and her Roman lover Mark Antony to eliminate her as a rival, are the first relics of the Ptolemaic dynasty to be identified.  The breakthrough, by an Austrian team, has provided pointers to Cleopatra's true ethnicity. Scholars have long debated whether she was Greek or Macedonian like her ancestor the original Ptolemy, a Macedonian general who was made ruler of Egypt by Alexander the Great, or whether she was north African.\nsentence 2: The name of Queen Cleopatra's sister was Arsinöe.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Police were called to the Highgrove House, the home belonging to Prince Charles and his wife Camilla on Tuesday night after police received a call that there was an intruder on the property. \"He was detained within the grounds and did not gain access to any buildings,\" said a spokesperson for the police, Tony Rymer. A spokesperson for the estate refused to comment to the media calling it \"a matter for the police\" and that any comments on the intrusion should be given through them. According to a Gloucester Police spokeswoman, a man from Bristol, England was arrested after wielding a pitchfork around the property. The name of the 55-year-old has not been released, but police charged him with trespassing. He was later released after posting bail. Camilla and Charles, who were both present and sleeping on the estate at the time, were not injured.\nsentence 2: Prince Charles owns an estate in Bristol.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: In the year 538, Cyrus set in place a policy which demanded the return of the various gods to their proper places.\nsentence 2: Cyrus issued a declaration in 538 that would allow the Jews to go back to their homeland.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Warheads believed to contain the deadly nerve agent cyclosarin that were found by Polish troops in Iraq date back to Saddam Hussein's war with Iran in the 1980s, authorities said Friday.\nsentence 2: Polish troops confiscated Warheads",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Salvadoran reporter Mauricio Pineda, a sound technician for the local Canal Doce television station, was shot to death today in Morazan Department in the eastern part of the country.\nsentence 2: Mauricio Pineda was killed by gunfire.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The city continued to grow through much of the 20th century.\nsentence 2: The city continued to grow, but its services deteriorated.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: On Tuesday, BVA published a telephone poll conducted for French magazine Le Figaro and news channel LCI to gauge support for right-wing presidential candidates. 73% of Union pour un Mouvement Populaire (Union for a Popular Movement or UMP) party supporters identified Interior Minister Nicolas Sarkozy as their preferred candidate for May's presidential election. The UMP is one of the two major parties in France, and represents conservative politics. It was formed in 2002 as a union of several right-wing parties, and currently controls the legislature (the National Assembly) and the executive. Current president Jacques Chirac is aligned with the UMP.\nsentence 2: Nicolas Sarkozy is supported by the Union pour un Mouvement Populaire.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: If no settlement is reached, a divided Cyprus will join the European Union on May 1, 2004.\nsentence 2: Cyprus was divided into two parts on May 1, 2004.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: In 1962, Armstrong was transferred to astronaut status. He served as command pilot for the Gemini 8 mission, launched March 16, 1966, and along with David Scott, performed the first successful docking of two vehicles in space by mating his Gemini 8 with an uninhabited Agena rocket.\nsentence 2: Neil Armstrong was the first man who landed on the Moon.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Injections of human stem cells seem to directly repair some of the damage caused by spinal cord injury, according to research that helped partially paralyzed mice walk again.\nsentence 2: Anderson and colleagues used fetal neural stem cells, a type that are slightly more developed than embryonic stem cells because they're destined to make cells for the central nervous system.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: In Britain, they channel their energies into gardening and riding. In Holland, they travel by bicycle to prove that they are of the people. But, conforming to a national stereotype, the Italian royal family, exiled from their homeland for 60 years, prefer fast cars and beautiful women.\nsentence 2: Italian royal family returns home.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Nigeria's Kano State and US drugs firm Pfizer have agreed to settle a multi-million dollar lawsuit out of court, lawyers for both sides say. Pfizer has been accused of killing 11 children and injuring 181 others when an antibiotic was tested on them during a meningitis epidemic in 1996. The company denies the claims, saying they were victims of the outbreak. The Kano State lawyer told the BBC compensation would be paid to victims, but figures could not yet be disclosed. Barrister Aliyu Umar said money would also be given to a local hospital.\nsentence 2: Pfizer is accused of murdering 11 children.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Jyestadeva (1500-1610), was an astronomer of the Kerala school founded by Madhava of Sangamagrama and a student of Damodara. He is most known for writing the first calculus text, the Yuktibhasa . He also authored the Drk-karana on astronomical observations.\nsentence 2: Jyestadeva is the author of the Yuktibhasa.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Athletics' governing body, the IAAF, last week cleared Ottey of accusations of steroid use and lifted a two-year ban after their arbitration panel said the IOC-accredited lab in Lausanne improperly tested Ottey's urine sample.\nsentence 2: Sportswomen have been accused of doping.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Today Wikipedia, the free encyclopedia that anyone with access to the Internet can edit, was the victim of an onslaught of practical jokes, as April Fool's Day kicked in various timezones around the world, at least those parts which follow the Gregorian calendar. It is believed that Wikipedia contributors were kept busy tidying up and removing prank articles and changes made by other Wikipedia contributors, and were expecting to be cleaning up the aftermath for days afterwards.\nsentence 2: Readers of online encyclopedias can edit the contents.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The plant, located in Romulus, near Wayne, is about 15 miles southwest of Detroit. Initial reports stated that a single explosion in a chemical tank was the cause of the fire. The cause of this explosion has not yet been determined. Detroit ABC affiliate WXYZ confirmed that all employees made it out of the plant before the explosion occurred, and that HAZMAT teams were on the scene of the fire. Wayne County Sheriff Warren Evans announced that no injuries ere reported in the initial explosion. However, approximately 32 people were treated for breathing problems at nearby Oakwood Annapolis Hospital, due to the subsequent fire.\nsentence 2: Romulus is found southwest of Detroit.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Bombs exploded in two Turkish cities Thursday only days before Turkey plays host to a NATO summit.\nsentence 2: Turkey plays host to suicide bombers.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The G8 summit, held June 8-10, brought together leaders of the world's major industrial democracies, including Canada, France, Germany, Italy, Japan, Russia, United Kingdom, European Union and United States.\nsentence 2: Canada participates in the G8 summit.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: A massive polio immunization drive is under way in more than 20 nations of West and Central Africa, but in Cote d'Ivoire violence has forced a postponement of the vaccination campaign, the Global Polio Eradication Initiative (GPEI) announced November 18.\nsentence 2: Polio is under control in the world.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: South Korean President Roh Moo-hyun Thursday asked the Board of Audit and Inspection (BAI) to investigate questions arising about the Foreign Ministry's response to the kidnapping of a South Korean in Iraq who was later killed by Muslim militants, according to Yonhap.\nsentence 2: A South Korean in Iraq was killed by Muslim militants.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: Prime Minister Mahmoud Abbas has offered 'the hand of peace' to Israel after his landslide victory in Sunday's presidential election.\nsentence 2: Mahmoud Abbas has won a landslide victory in Sunday's presidential election.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: In fact, Woolsey had had no first-hand experience with the world of spies until President Bill Clinton appointed him Director of Central Intelligence.\nsentence 2: James Woolsey is the director of the CIA.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: There are discussions in California and Arizona to allow illegal aliens to have driver's licenses.\nsentence 2: California driver's licenses granted to illegal immigrants.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: The 84-year-old pope was wheeled to a hospital window, and blessed the crowd by making the sign of the cross in clear gestures, as a Vatican photographer snapped pictures.\nsentence 2: The pope made the sign of the cross.",
+        "label": "entailment"
+    },
+    {
+        "sentence": "sentence 1: The longest mission to Salyut 7 was also a record-breaker, lasting 237 days (nearly eight months) in space.\nsentence 2: 237 days is the record for the longest stay in space by a human.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Romania currently supplies one of the world's largest contingents of troops in Iraq, with nearly 1000 people.\nsentence 2: Romania sent 730 troops in Iraq.",
+        "label": "contradiction"
+    },
+    {
+        "sentence": "sentence 1: Nagin defended his plan to return up to 180,000 people to the city, within a week and a half, despite concerns about the short supply of drinking water and heavily polluted floodwaters.\nsentence 2: As many as 180,000 people could return within 10 days to a city that held 460,000 before Hurricane Katrina struck.",
+        "label": "contradiction"
+    }
+]

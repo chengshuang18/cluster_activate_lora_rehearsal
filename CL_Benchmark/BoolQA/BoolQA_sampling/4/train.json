@@ -1,0 +1,162 @@
+[
+    {
+        "label": "True",
+        "sentence": "question: do you need a photo id to vote in texas\npassage: Voter ID laws in the United States -- Voter ID laws go back to 1950, when South Carolina became the first state to start requesting identification from voters at the polls. The identification document did not have to include a picture; any document with the name of the voter sufficed. In 1970, Hawaii joined in requiring ID, and Texas a year later. Florida was next in 1977, and Alaska in 1980 to become the first five states in the United States to request identification of some sort from voters at the polls."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are pecans and walnuts in the same family\npassage: Juglandaceae -- The nine or ten genera in the family have a total of ca 50 species, and include the commercially important nut-producing trees walnut (Juglans), pecan (Carya illinoinensis), and hickory (Carya). The Persian walnut, Juglans regia, is one of the major nut crops of the world. Walnut, hickory, and gaulin are also valuable timber trees."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is season 7 the last season of dance moms\npassage: Dance Moms (season 7) -- The seventh and final season of Dance Moms, an American dance reality television created by Collins Avenue Productions, premiered on November 29, 2016, on Lifetime television network. This is the final season starring Abby Lee Miller. She announced her exit in a statement on Instagram. Chloe Lukasiak returned to ``Dance Moms'' to guest star in the show's series finale and Season 7B."
+    },
+    {
+        "label": "False",
+        "sentence": "question: do you have to pay to make a reservation at a restaurant\npassage: Table reservation -- Most restaurants do not charge a customer who fails to honor their reservations, and courts have tended not to impose substantial penalties on restaurants that fail to honor reservations. Nonetheless, it is generally considered polite to call and cancel a reservation once it is known one will not use it."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is new zealand located on the pacific ring of fire\npassage: Ring of Fire -- About 90% of the world's earthquakes and 81% of the world's largest earthquakes occur along the Ring of Fire. All but three of the world's 25 largest volcanic eruptions of the last 11,700 years occurred at volcanoes in the Ring of Fire. The Ring of Fire is a direct result of plate tectonics: the movement and collisions of lithospheric plates, especially subduction in the northern portion. The southern portion is more complex, with a number of smaller tectonic plates in collision with the Pacific plate from the Mariana Islands, the Philippines, Bougainville, Tonga, and New Zealand."
+    },
+    {
+        "label": "False",
+        "sentence": "question: do away goals count in league one playoffs\npassage: English Football League play-offs -- Before the 1999--2000 season away goals were used as a tie-breaker after extra time had been played, however, this was abolished following a club initiative launched by then-Ipswich Town chairman David Sheepshanks, after his club had twice lost on away goals in 1997 and 1999. Since then away goals have played no part in the play-off system."
+    },
+    {
+        "label": "True",
+        "sentence": "question: mosque comes from the arabic word masjid meaning\npassage: Mosque -- A mosque (/mɒsk/; from Arabic: مسجد‎, translit. masjid‎) is a place of worship for followers of Islam."
+    },
+    {
+        "label": "False",
+        "sentence": "question: does the ampulla of vater only contain pancreatic juice\npassage: Ampulla of Vater -- Various smooth muscle sphincters regulate the flow of bile and pancreatic juice through the ampulla: the sphincter of the pancreatic duct, the sphincter of the bile duct, and the sphincter of Oddi."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you drink on the street in china\npassage: Drinking in public -- Drinking in public is most commonly accepted."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is taylor still on the bold and beautiful\npassage: Taylor Hayes (The Bold and the Beautiful) -- Taylor Hayes is a fictional character from the American CBS soap opera The Bold and the Beautiful, portrayed by Hunter Tylo. The character was created by William J. Bell and debuted during the episode dated June 6, 1990. Tylo appeared as a regular continuously until 1994 when she took a hiatus for a few months before being written back into the series. In 1996, she left the serial after being cast on Melrose Place, where she was soon fired on the grounds of being pregnant, and returned shortly after. In 2002, Tylo and the show's executive producer Bradley Bell had mutually agreed that the character was ``played out'', and Taylor was subsequently killed off, last appearing on October 30, 2002. Tylo returned in 2004, reprising Taylor as a ghost. She returned on a permanent basis in April 2005, with the character revealed to be alive. Tylo exited The Bold and the Beautiful again in July 2013, but returned for multiple guest appearances in 2014. She returned again in April 2018."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is possible for twins to have different dads\npassage: Superfecundation -- Superfecundation is the fertilization of two or more ova from the same cycle by sperm from separate acts of sexual intercourse, which can lead to twin babies from two seperate biological fathers. The term superfecundation is derived from fecund, meaning the ability to produce offspring. Heteropaternal superfecundation refers to the fertilization of two separate ova by two different fathers. Homopaternal superfecundation refers to the fertilization of two separate ova from the same father, leading to fraternal twins. While heteropaternal superfecundation is referred to as a form of atypical twinning, genetically, the twins are half siblings. Superfecundation, while rare, can occur through either separate occurrences of sexual intercourse or through artificial insemination."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is colby jack the same as monterey jack\npassage: Colby-Jack -- Colby-Jack, or Cojack, is a cheese produced from a mixture of Colby and Monterey Jack cheeses. It is generally sold in a full-moon or a half-moon shape when it is still young and mild in flavor. The cheese has a semi-hard texture. The flavor of Colby-Jack is mild to mellow."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you drink alcohol outside in the uk\npassage: Drinking in public -- Drinking in public is legal in England and Wales -- one may carry a drink from a public house down the street (though it is preferred that the user requests a plastic glass to avoid danger of breakage and because the taking of the glass could be considered an offence of Theft as only the drink has been purchased), and one may purchase alcohol at an off-licence and immediately begin drinking it outside. Separately, one may drink on aeroplanes and on most National Rail train services, either purchasing alcohol on-board or consuming one's own."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the movie mighty joe young a true story\npassage: Mighty Joe Young (1998 film) -- Mighty Joe Young is a 1998 American adventure film based on the 1949 film of the same name about a giant mountain gorilla brought to a wildlife preserve in Los Angeles by a young woman who raised him and a zoologist to protect him from the threat of poachers until one seeks Joe out in order to take his revenge. It was directed by Ron Underwood and stars Bill Paxton, Charlize Theron, and creature suit actor John Alexander as the title character. In this version, the ape is much larger than in the original. The film grossed $50.6 million in the United States against a production budget of $90 million."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can puerto rico vote in the presidential elections\npassage: Federal voting rights in Puerto Rico -- Voting rights of United States citizens in Puerto Rico, like the voting rights of residents of other United States territories, differ from those of United States citizens in each of the fifty states and the District of Columbia. Residents of Puerto Rico and other U.S. territories do not have voting representation in the United States Congress, and are not entitled to electoral votes for President. The United States Constitution grants congressional voting representation to U.S. states, which Puerto Rico and other U.S. territories are not, specifying that members of Congress shall be elected by direct popular vote and that the President and the Vice President shall be elected by electors chosen by the States."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the very first mcdonald's still open\npassage: McDonald's No. 1 Store Museum -- A museum also exists at the original McDonald's site in San Bernardino on U.S. Route 66 in California. It is a reconstruction operated by the owner of the Juan Pollo chain and is not affiliated with McDonald's Corporation."
+    },
+    {
+        "label": "False",
+        "sentence": "question: did the vikings win the battle of hastings\npassage: Battle of Hastings -- The Battle of Hastings was fought on 14 October 1066 between the Norman-French army of William, the Duke of Normandy, and an English army under the Anglo-Saxon King Harold Godwinson, beginning the Norman conquest of England. It took place approximately 7 miles (11 kilometres) northwest of Hastings, close to the present-day town of Battle, East Sussex, and was a decisive Norman victory."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you use sterling in the isle of man\npassage: Manx pound -- The Isle of Man is in a one-sided de facto currency union with the United Kingdom: the Manx government has decided to make UK currency legal tender on the island, and to back its own notes and coins with Bank of England notes."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is bilbo baggins the same actor in the hobbit\npassage: Ian Holm -- His other well-known film roles include Ash in Alien, Sir William Gull in From Hell, Father Vito Cornelius in The Fifth Element, and the hobbit Bilbo Baggins in The Lord of the Rings and The Hobbit film series."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is there any chi chi's still open\npassage: Chi-Chi's -- One lone restaurant was still open in Utah until 2011."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the movie remember me based on a book\npassage: Remember Me (2010 film) -- Remember Me is a 2010 American romantic coming-of-age drama film directed by Allen Coulter, and screenplay by Will Fetters. It stars Robert Pattinson, Emilie de Ravin, Chris Cooper, Lena Olin and Pierce Brosnan."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is a line segment part of a line\npassage: Line segment -- In geometry, a line segment is a part of a line that is bounded by two distinct end points, and contains every point on the line between its endpoints. A closed line segment includes both endpoints, while an open line segment excludes both endpoints; a half-open line segment includes exactly one of the endpoints."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is palestine a member state of the un\npassage: International recognition of the State of Palestine -- As of 3 August 2018, 137 of the 193 member states of the United Nations and two non-member states have recognized the State of Palestine. Many of the countries that do not recognize the State of Palestine nevertheless recognize the PLO as the ``representative of the Palestinian people''. On 29 November 2012, the UN General Assembly passed a motion changing Palestine's ``entity'' status to ``non-member observer state'' by a vote of 138 to 9, with 41 abstentions."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is south korea the same as republic of korea\npassage: South Korea -- South Korea, officially the Republic of Korea is a country in East Asia, constituting the southern part of the Korean Peninsula and lying east to the Asian mainland.The name Korea is derived from Goguryeo which was one of the great powers in East Asia during its time, ruling most of the Korean Peninsula, Manchuria, parts of the Russian Far East and Inner Mongolia, under Gwanggaeto the Great. South Korea lies in the north temperate zone and has a predominantly mountainous terrain. It comprises an estimated 51.4 million residents distributed over 99,392 km (38,375 sq mi). The capital and largest city is Seoul, with a population of 10 million."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the house of representatives in the legislative branch\npassage: United States Congress -- The United States Congress is the bicameral legislature of the Federal government of the United States consisting of two chambers: the Senate and the House of Representatives."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the song drinking problem by midland a remake\npassage: Drinkin' Problem -- ``Drinkin' Problem'' is the debut single of the American country music band Midland. It was released on February 27, 2017, as the first single from their debut album On the Rocks. The band members wrote the song with Josh Osborne and Shane McAnally, the latter of whom also produced it."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can a brown recluse spider kill a human\npassage: Brown recluse spider -- The bite frequently is not felt initially and may not be immediately painful, but it can be serious. The brown recluse bears a potentially deadly hemotoxic venom. Most bites are minor with no necrosis. However, a small number of brown recluse bites do produce severe dermonecrotic lesions (i.e. necrosis); an even smaller number produce severe cutaneous (skin) or viscerocutaneous (systemic) symptoms. In one study of clinically diagnosed brown recluse bites, skin necrosis occurred 37% of the time, while systemic illness occurred 14% of the time. In these cases, the bites produced a range of symptoms common to many members of the genus Loxosceles known as loxoscelism, which may be cutaneous and viscerocutaneous. In very rare cases, bites can even cause hemolysis--the bursting of red blood cells."
+    },
+    {
+        "label": "True",
+        "sentence": "question: south carolina one of the original 13 colonies\npassage: Colonial period of South Carolina -- The history of the colonial period of South Carolina focuses on the English colonization that created one of the original Thirteen Colonies. Major settlement began after 1651 as the northern half of the British colony of Carolina attracted frontiersmen from Pennsylvania and Virginia, while the southern parts were populated by wealthy English people who set up large plantations dependent on slave labor, for the cultivation of cotton, rice, and indigo."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is leave no trace based on a book\npassage: Leave No Trace (film) -- Leave No Trace is a 2018 American drama film directed by Debra Granik and written by Granik and Anne Rosellini, based on the book My Abandonment by Peter Rock. The plot follows a veteran father with PTSD (Ben Foster) who lives in the forest with his young daughter (Thomasin McKenzie). It premiered at the 2018 Sundance Film Festival and was released by Bleecker Street in the United States on June 29, 2018. The film received critical acclaim, with praise for the performances of Foster and McKenzie, and is one of few films to hold an approval rating of 100% on Rotten Tomatoes."
+    },
+    {
+        "label": "False",
+        "sentence": "question: do banks in the us have iban numbers\npassage: International Bank Account Number -- Banks in the United States do not use IBAN as account numbers for U.S. accounts. Any adoption of the IBAN standard by U.S. banks would likely be initiated by ANSI ASC X9, the U.S. financial services standards development organization: a working group (WGAB20) was established as an X9 subcommittee to generate an IBAN construction for U.S. bank accounts."
+    },
+    {
+        "label": "True",
+        "sentence": "question: did the captain of the titanic go down with the ship\npassage: Edward Smith (sea captain) -- In 1904, Smith became the commodore of the White Star Line, and was responsible for controlling its flagships. He successfully commanded the Baltic, Adriatic and the Olympic. In 1912, he was the captain of the maiden voyage of the RMS Titanic, which struck an iceberg and sank on 15 April 1912; over 1,500 perished in the sinking, including Smith who went down with the ship. For his stoicism and fortitude in the face of adversity, Smith became an icon of British ``stiff upper lip'' spirit and discipline."
+    },
+    {
+        "label": "False",
+        "sentence": "question: does christina die in the book of henry\npassage: The Book of Henry -- Susan slips away from the talent show and puts the plan into motion. As she is about to pull the trigger, however, she realizes that Henry's plan, though ingenious, is the construct of a child, and that she must act as an adult. She immediately confronts Glenn and tells him that she is going to expose him for what he has done to Christina. Glenn replies that everyone will believe him, not her, and he tells her that he is going to call his police chief to come and bring her in. At the same time, affected by Christina's dance performance at the talent show, Principal Wilder decides to follow through on the abuse accusation and contacts the authorities. Glenn returns home, calls his relative at Social Services, and learns that an investigation is being opened into his abuse of Christina. As the police arrive at his house, Glenn kills himself. Susan legally adopts Christina as her daughter. She also finishes writing one of her children's books, as Henry had urged her to do."
+    },
+    {
+        "label": "True",
+        "sentence": "question: do xbox 360 games work on an xbox one s\npassage: List of backward compatible games for Xbox One -- The Xbox One gaming console has received updates from Microsoft since its launch in 2013 that enable it to play select games from its two predecessor consoles, Xbox and Xbox 360. On June 15, 2015, backward compatibility with supported Xbox 360 games became available to eligible Xbox Preview program users with a beta update to the Xbox One system software. The dashboard update containing backward compatibility was released publicly on November 12, 2015. On October 24, 2017, another such update added games from the original Xbox library. The following is a list of all backward compatible games on Xbox One under this functionality."
+    },
+    {
+        "label": "True",
+        "sentence": "question: does harley davidson have a plant in india\npassage: Harley-Davidson India -- Harley-Davidson India is a wholly owned subsidiary of Harley-Davidson, based in Gurgaon, Haryana, India. Harley-Davidson India commenced operations in August 2009 and appointed its first dealership in July 2010."
+    },
+    {
+        "label": "True",
+        "sentence": "question: was france a republic after the french revolution\npassage: French First Republic -- In the history of France, the First Republic (French: Première République), officially the French Republic (République française), was founded on 22 September 1792 during the French Revolution. The First Republic lasted until the declaration of the First Empire in 1804 under Napoleon, although the form of the government changed several times. This period was characterized by the fall of the monarchy, the establishment of the National Convention and the Reign of Terror, the Thermidorian Reaction and the founding of the Directory, and, finally, the creation of the Consulate and Napoleon's rise to power."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there going to be a final space season 2\npassage: Final Space -- The second season is scheduled to air sometime in 2019."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there a military base in spokane wa\npassage: Fairchild Air Force Base -- Fairchild Air Force Base (AFB) (IATA: SKA, ICAO: KSKA, FAA LID: SKA) is a United States Air Force base, located approximately twelve miles (20 km) southwest of Spokane, Washington."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is raid 1+0 the same as raid 10\npassage: Nested RAID levels -- RAID 10, also called RAID 1+0 and sometimes RAID 1&0, is similar to RAID 01 with an exception that two used standard RAID levels are layered in the opposite order; thus, RAID 10 is a stripe of mirrors."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is weed legal in the uk for personal use\npassage: Cannabis in the United Kingdom -- According to the Home Office, ``It remains illegal for UK residents to possess cannabis in any form''. Giving evidence to 1997--98 parliamentary select committee hearings, the British Medical Association (BMA) said that users of cannabis for medical purposes should be aware of the risks, should enroll for clinical trials, and should talk to their doctors about new alternative treatments; but the BMA did not advise them to stop."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is life liberty and property in the constitution\npassage: Life, Liberty and the pursuit of Happiness -- The phrase can also be found in Chapter III, Article 13 of the 1947 Constitution of Japan, and in President Ho Chi Minh's 1945 declaration of independence of the Democratic Republic of Vietnam. An alternative phrase ``life, liberty, and property'', is found in the Declaration of Colonial Rights, a resolution of the First Continental Congress. The Fifth Amendment and Fourteenth Amendment to the United States Constitution declare that governments cannot deprive any person of ``life, liberty, or property'' without due process of law. Also, Article 3 of the Universal Declaration of Human Rights reads, ``Everyone has the right to life, liberty, and security of person''."
+    }
+]

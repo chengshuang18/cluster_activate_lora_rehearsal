@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "first sentence: What are the weird facts that you know?\nsecond sentence: What are the most interesting facts you know?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is the typical weather during December in London and how does it compare to the summer months?\nsecond sentence: How can the weather of London in December be described, and how does it compare to that of the same city in summer?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Do criminals like Salman Khan, Ankit Tiwari, Sooraj Pancholi and his father deserve your respect?\nsecond sentence: What's so special in Salman Khan that almost all Indians are his die hard fans? He can't act, had criminal records, and has beaten up his girlfriends",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What were the major effects of the cambodia earthquake, and how do these effects compare to the Lima-Callao earthquake in 1746?\nsecond sentence: What were the major effects of the cambodia earthquake, and how do these effects compare to the Arica earthquake in 1868?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is the best video editor?\nsecond sentence: What are the best video editors online?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Astrology : How do darakaraka different from 7th house lord?\nsecond sentence: What happens in aquarius ascendant when the 7th house lord is in the 8th house with kethu and moon is in the 7th house?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What precautions should be taken during the process of distillation?\nsecond sentence: What precautions are to be taken during Orthodontic treatment?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Is the new JEE mains system better for NITs ?\nsecond sentence: Will I get an NIT seat in any of the NIT's with my 75 marks in the JEE Mains exam?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I check the balance of a Delhi metro card online?\nsecond sentence: How is the Delhi metro financed?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is the sum of all prime numbers p and q, which satisfy the equation: [math]p^2 - p + 1 = q^3[/math]?\nsecond sentence: What is the angle between vectors (P+Q) and (P-Q) given that the magnitude of the resultant vector (P+Q) is sq. root(3P^2 - Q^2)?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are some mannerism examples?\nsecond sentence: What are manners for?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How can we find out dt the the erson is on another call or not in imo video call? Whts the diff between available stauts and online status\nsecond sentence: I spent 10 weeks training for a job and realized quickly this is not for me (call center).  The benefits are good but not the pay or job. How long should I try it out before finding a new job?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are some animals that live in the desert?\nsecond sentence: What are examples of animals that live in the desert?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Why is sashimi healthy?\nsecond sentence: Which sashimi is the healthiest?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Can you miss someone you've never met?\nsecond sentence: Can you miss someone you never met?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is the most significant fact about Sargon?\nsecond sentence: What’s the most important thing for a project manager to do?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I apply for 6 months internship for MBA at IBM?\nsecond sentence: Should I still apply for a Google internship with a 2.6 GPA?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Which team has more chances of winning IPL 2015?\nsecond sentence: Who do you think would win the IPL Season 7?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the requisites to become a mentalist,reading people minds?\nsecond sentence: How can we read someone's mind?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How can I buy happiness in sex?\nsecond sentence: How can I buy happiness with a date?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is the conceptual relationship why inner products are part of matrix multiplication?\nsecond sentence: What is the relationship between matrix multiplication and the dot product?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Who are you voting for U.S. President in November 2016 and why?\nsecond sentence: Who are you voting for in the upcoming presidential election and why?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is patination oil used for?\nsecond sentence: I actually do not know how does this work…?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Is Hillary Clinton seriously ill?\nsecond sentence: Does Hillary Clinton have health issues we, as voters, should be concerned about?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How is the University of Chicago's new Masters in Analytics program?\nsecond sentence: How does DePaul MS in predictive analytics compare to University of Chicago MS in analytics?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I increase IQ?\nsecond sentence: What shall I do to improve my IQ?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Where can one listen to the Jackie Kennedy tapes?\nsecond sentence: I'm 39. I suffer from MIGRAINES SINCE, I was 19yrs old, and diagnosed with FIBROMYALGIA in 2010, I have 5 DEGENERATIVE DISC and SPURRED DISC?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is best i5 6th or i5 7th gen?\nsecond sentence: Which is the best i5 6th gen or 7th gen?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How do I get a girl that I like to be my girlfriend?\nsecond sentence: When should I ask a girl to be my girlfriend and how should I do it?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the rules of service agreement bond in India?\nsecond sentence: What are some unwritten rules in India?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Which masters degree should i choose if I want to be content writer/copy writer after fine art degree?\nsecond sentence: How do I become a content writer?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Is ezetimibe good or bad?\nsecond sentence: Is Masturbation good or bad?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What came first Jainism or Hinduism?\nsecond sentence: Which religion came first, Jainism or Hinduism?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What are the best horror movies that will keep you up at night?\nsecond sentence: What are some best horror movies?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: If I should start a vinyl wrapping business for leased cars on the side for $1100 would people support it?\nsecond sentence: How can you avoid having a problem with someone else on a plane without moving your seat, causing any discomfort to yourself, or having any problem?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do spatial transformer networks work?\nsecond sentence: Explanation-Based Neural Network Learning seems like one way to get neural network to work with lack of data. Why is it not popular?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What should I know before visiting Italy?\nsecond sentence: What should I know about Italy?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How do you mass save photos from text messages on an iPhone?\nsecond sentence: Can you text someone after you block their number?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Where is the weirdest place you've had sex?\nsecond sentence: Where or what is the strangest place you have ever had sex?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Is there any eligibility criteria for buying a Rolls Royce or is it that anyone with money can buy one?\nsecond sentence: What is the criteria to buy a Rolls-Royce?",
+        "label": "True"
+    }
+]

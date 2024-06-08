@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "Text: although this idea is `` new '' the results are tired ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: that skins comes as a welcome , if downbeat , missive from a forgotten front ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: stevens ' vibrant creative instincts ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: a startling story that works both as a detailed personal portrait and as a rather frightening examination of modern times ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: godard can still be smarter than any 50 other filmmakers still at work . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: is well established ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: warm up to ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: this was lazy but enjoyable ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: serenity and discipline ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: blemishes ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: is painfully formulaic and stilted . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: sharp as a samurai sword ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: throughout this funny film ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: with no good inside dope , and no particular bite ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: this slick and sprightly cgi feature ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: of director john stockwell ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: offers nothing ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: 's also somewhat clumsy ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: be put to sleep or bewildered by the artsy and often pointless visuals ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: miller eloquently captures the moment when a woman 's life , out of a deep-seated , emotional need , is about to turn onto a different path . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: films that leaps over national boundaries and celebrates universal human nature ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: the trap of the maudlin or tearful ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: i like all four of the lead actors a lot and they manage to squeeze a few laughs out of the material , ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: a positively thrilling combination ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: , retrospectively , his most personal work yet . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: 's not original enough ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: of women torn apart by a legacy of abuse ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: with heavy-handed symbolism , dime-store psychology and endless scenic shots that make 105 minutes seem twice as long ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: a thoughtful and surprisingly affecting portrait of a screwed-up man who dared to mess with some powerful people , seen through the eyes of the idealistic kid who chooses to champion his ultimately losing cause . ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: nobody in the viewing audience cares ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: do n't think most of the people who loved the 1989 paradiso will prefer this new version . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: does n't do more than expand a tv show to movie length . ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: finest kind ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: provides the kind of ` laugh therapy ' i need from movie comedies -- ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: good-bad that makes eight legged freaks a perfectly entertaining summer diversion ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: why would anyone cast the magnificent jackie chan in a movie full of stunt doubles and special effects ? ",
+        "label": "Bad"
+    },
+    {
+        "sentence": "Text: can honestly describe as looking , sounding and simply feeling like no other film in recent history ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: the sweet cinderella story ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: keeps us riveted with every painful nuance , unexpected flashes of dark comedy and the character 's gripping humanity ",
+        "label": "Good"
+    },
+    {
+        "sentence": "Text: a sharper , cleaner script ",
+        "label": "Good"
+    }
+]

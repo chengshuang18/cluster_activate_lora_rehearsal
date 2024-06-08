@@ -1,0 +1,22 @@
+[
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: Robert Erwin, president of Biosource, called Plant Genetic's approach ``interesting'' and ``novel,'' and ``complementary rather than competitive.'' ``There is a large market out there hungry for hybrid seeds,'' he said. Mr. Robinson of Delta & Pine, the seed producer in Scott, Miss., said Plant Genetic's success in creating genetically engineered male steriles doesn't automatically mean it would be simple to create hybrids in all crops.\nsentence 2: it would be simple to create hybrids in all crops"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: B: What you want. where do they get it?. A: Well, I don't know, I guess they don't have it at home, B: I can't imagine it would stay fresh long enough to,\nsentence 2: it would stay fresh long enough"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: B: so there's only been really one working. A: Uh-huh, same here. Uh-huh. B: And, uh, it works for me but I can't see that it would work for probably the majority of people.\nsentence 2: it would work for probably the majority of people"
+    },
+    {
+        "label": "entailment",
+        "sentence": "sentence 1: Ockleton, Morpurgo, Cornelius, Dysart and half a dozen others too drunk to mention. But there was so much coming and going that any one of us could have slipped out, pushed Everett through the window and slipped back again without being noticed. Damn it all we didn't even notice Everett was missing until a porter tripped over him in the quad so anything's theoretically possible.\nsentence 2: Everett was missing"
+    },
+    {
+        "label": "contradiction",
+        "sentence": "sentence 1: A: Well, presumably those who find out such information, if they are doing it, I would prefer to not to be known, and, I mean, you know, the classic, oh, I don't know C I  conspiracy theories or whatever, would have such parties trying to do it without your knowledge. So there's,, things that invade that second type of privacy where you do know about them and possibly things that invade that second type of privacy without you knowing about it, and I can't talk about the second one other than to generate paranoia. It's a surmise and, I'd like to think that it's quite low, at least in this country. B: to surmise. It is there. A: I don't think I'd like the KGB monitoring my phone or anything like that.\nsentence 2: he would like the KGB monitoring his phone"
+    }
+]

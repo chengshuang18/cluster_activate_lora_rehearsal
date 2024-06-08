@@ -1,0 +1,162 @@
+[
+    {
+        "label": "True",
+        "sentence": "question: is the sale of goods act 1979 still in force\npassage: Sale of Goods Act 1979 -- The Sale of Goods Act 1979 (c 54) is an Act of the Parliament of the United Kingdom which regulated English contract law and UK commercial law in respect of goods that are sold and bought. The Act consolidated the original Sale of Goods Act 1893 and subsequent legislation, which in turn had codified and consolidated the law. Since 1979, there have been numerous minor statutory amendments and additions to the 1979 Act. It was replaced for consumer contracts from 1 October 2015 by the Consumer Rights Act 2015(c 15) but remains the primary legislation underpinning B2B transactions for selling / buying goods ."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the movie red sparrow based on a book\npassage: Red Sparrow (novel) -- Before the book was published, Matthews sold the movie rights for Red Sparrow for a seven-figure amount. He was also awarded a contract for a sequel to the book. The sequel is named Palace of Treason. He also wrote a third volume named The Kremlin's Candidate. The 2018 film adaptation of Red Sparrow stars Jennifer Lawrence and Joel Edgerton."
+    },
+    {
+        "label": "False",
+        "sentence": "question: did anyone die in the battle of fort sumter\npassage: Battle of Fort Sumter -- The resupply of Fort Sumter became the first crisis of the administration of the newly inaugurated U.S. President Abraham Lincoln following his victory in the election of November 6, 1860. He notified the Governor of South Carolina, Francis W. Pickens that he was sending supply ships, which resulted in an ultimatum from the Confederate government for the immediate evacuation of Fort Sumter, which Major Anderson refused. Beginning at 4:30 a.m. on April 12, the Confederates bombarded the fort from artillery batteries surrounding the harbor. Although the Union garrison returned fire, they were significantly outgunned and, after 34 hours, Major Anderson agreed to evacuate. There were no deaths on either side as a direct result of this engagement, although a gun explosion during the surrender ceremonies on April 14 caused two Union deaths."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can you get the channel w on freeview\npassage: W (UK TV channel) -- W (formerly Watch) is a British general entertainment channel broadcasting in the United Kingdom and Ireland, as part of the UKTV network. The channel launched on 7 October 2008 on satellite through Sky, Virgin Media, Smallworld Cable, BT TV, TalkTalk TV, and TVPlayer (When subscribed to TVPlayer Plus). On 15 February 2016, the channel was rebranded as W."
+    },
+    {
+        "label": "False",
+        "sentence": "question: do the fa cup runners up qualify for europe\npassage: FA Cup -- The FA Cup winners qualify for the following season's UEFA Europa League (formerly named the UEFA Cup; from its launch in 1960 until 1998, they entered the now-defunct UEFA Cup Winners' Cup instead). This European place applies even if the team is relegated or is not in the English top flight. In the past, if the FA Cup winning team also qualified for the following season's Champions League or Europa League through their league position, then the losing FA Cup finalist were given this European berth instead. FA Cup winners enter the Europa League at the group stage. Losing finalists, if they haven't qualified for Europe via the league, began earlier, at the play-off or third qualifying round stage. From the 2015--16 UEFA Europa League season, however, UEFA does not allow the runners-up to qualify for the Europa League through the competition. If the winner -- and until 2015, the runner-up -- has already qualified for Europe through their league position (with the exception of the UEFA Cup until 1998), the FA Cup berth is then given to the highest-place team in the league who has not yet qualified."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can an nba team go over the salary cap\npassage: NBA salary cap -- Unlike the NFL and NHL, the NBA features a so-called soft cap, meaning that there are several significant exceptions that allow teams to exceed the salary cap to sign players. This is done to allow teams to keep their own players, which, in theory, fosters fan support in each individual city. By contrast, the NFL and NHL caps are considered hard, meaning that they offer relatively few (if any) circumstances under which teams can exceed the salary cap. The NBA version of the ``soft'' cap does, however, offer less leeway to teams than that of the MLB. MLB does allow teams to spend as much as they want on salary, but it penalizes them a percentage of the amount by which they exceed the soft cap. The percentage increases as the number of consecutive years a team exceeds the cap grows, resetting only when a team falls under the cap."
+    },
+    {
+        "label": "True",
+        "sentence": "question: did deion sanders play baseball and football at the same time\npassage: Deion Sanders -- During his best year in the majors, the 1992 season, he hit .304 for the team, stole 26 bases, and led the NL with 14 triples in 97 games. During the 1989 season, he hit a major league home run and scored a touchdown in the NFL in the same week, the only player ever to do so. Sanders is also the only man to play in both a Super Bowl and a World Series. Deion Sanders and Bo Jackson were the pre-eminent multi-sport athletes of their time, but prior to the 1990 season, they had never squared off against each other in a professional game. That changed in 1990, when Jackson and Sanders met five times on the diamond -- the most memorable of which came on July 17th, in what was billed as ``The Bo and Prime Time Show.'' After Bo Jackson's three-homer night, Sanders said, ``He's (Bo's) one of the best athletes who ever put on a uniform.''"
+    },
+    {
+        "label": "True",
+        "sentence": "question: has any hockey team comeback from 3-1\npassage: List of teams to overcome 3–1 series deficits -- The following is the list of teams to overcome 3--1 series deficits by winning three straight games to win a best-of-seven playoff series. In the history of major North American pro sports, teams that were down 3--1 in the series came back and won the series 52 times, more than half of them were accomplished by National Hockey League (NHL) teams. Teams overcame 3--1 deficit in the final championship round eight times, six were accomplished by Major League Baseball (MLB) teams in the World Series. Teams overcoming 3--0 deficit by winning four straight games were accomplished five times, four times in the NHL and once in MLB."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is a fixed asset a non current asset\npassage: Fixed asset -- Moreover, a fixed/non-current asset can also be defined as an asset not directly sold to a firm's consumers/end-users. As an example, a baking firm's current assets would be its inventory (in this case, flour, yeast, etc.), the value of sales owed to the firm via credit (i.e. debtors or accounts receivable), cash held in the bank, etc. Its non-current assets would be the oven used to bake bread, motor vehicles used to transport deliveries, cash registers used to handle cash payments, etc. While these non-current assets have value, they are not directly sold to consumers and cannot be easily converted to cash."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can you do an autopsy on a living person\npassage: Autopsy -- An autopsy (post-mortem examination, obduction, necropsy, or autopsia cadaverum) is a highly specialized surgical procedure that consists of a thorough examination of a corpse by dissection to determine the cause and manner of death or to evaluate any disease or injury that may be present for research or educational purposes. It is usually performed by a specialized medical doctor called a pathologist. In most cases, a medical examiner or coroner can determine cause of death and only a small portion of deaths require an autopsy."
+    },
+    {
+        "label": "False",
+        "sentence": "question: in the game of chess can a queen move like a knight\npassage: Queen (chess) -- The queen can be moved any number of unoccupied squares in a straight line vertically, horizontally, or diagonally, thus combining the moves of the rook and bishop. The queen captures by occupying the square on which an enemy piece sits."
+    },
+    {
+        "label": "True",
+        "sentence": "question: do they still make new episodes of spongebob squarepants\npassage: SpongeBob SquarePants -- Nickelodeon held a preview for the series in the United States on May 1, 1999, following the television airing of the 1999 Kids' Choice Awards. The series officially premiered on July 17, 1999. It has received worldwide critical acclaim since its premiere and gained enormous popularity by its second season. A feature film, The SpongeBob SquarePants Movie, was released in theaters on November 19, 2004, and a sequel was released on February 6, 2015. On June 24, 2017, the series began airing its eleventh season with the episodes 'The Check-Up/Spot Returns.' In May 2017, the show was announced to be renewed for a 12th season."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is 844 a toll free number in canada\npassage: Toll-free telephone numbers in the North American Numbering Plan -- In the United States of America, Canada, and other countries participating in the North American Numbering Plan, a toll-free telephone number has one of the area codes 800, 833, 844, 855, 866, 877, and 888."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can the president of the philippines be re elected\npassage: President of the Philippines -- Filipinos refer to their President as Pangulo or Presidente. The President serves a single, fixed, six-year term without possibility of re-election. On June 30, 2016, Rodrigo Duterte was sworn in as the 16th and current president."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you have a negative handicap in golf\npassage: Handicap (golf) -- Note 1: If a player's Playing Handicap is negative (a so-called ``Plus'' Playing Handicap) he gives Handicap Strokes to the course, commencing at stroke index 18."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is activated carbon the same as activated charcoal\npassage: Activated carbon -- Activated carbon, also called activated charcoal, is a form of carbon processed to have small, low-volume pores that increase the surface area available for adsorption or chemical reactions. Activated is sometimes substituted with active."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are they going to make another season of anne with an e\npassage: Anne (TV series) -- On August 3, 2017, both CBC and Netflix renewed the series for a 10-episode second season to premiere in 2018. Season 2 began production in November 2017."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is oops i did it again a remake\npassage: Oops!... I Did It Again (song) -- ``Oops!... I Did It Again'' is a song by American singer Britney Spears, from her second album of the same name. It was released on March 27, 2000, by Jive Records as the lead single from the album. The song was written and produced by Max Martin and Rami Yacoub. ``Oops!... I Did It Again'' is a song that lyrically speaks of a female who views love as a game, and she decides to use that to her advantage by playing with her lover's emotions. Its bridge features a dialogue which references the blockbuster film Titanic (1997)."
+    },
+    {
+        "label": "False",
+        "sentence": "question: the white queen is it a true story\npassage: The White Queen (novel) -- The White Queen is a 2009 historical novel by Philippa Gregory, the first of her series The Cousins' War. It tells the story of Elizabeth Woodville, queen consort of King Edward IV of England. The 2013 BBC One television series The White Queen is a 10-part adaptation of Gregory's novels The White Queen, The Red Queen (2010) and The Kingmaker's Daughter (2012), and features Rebecca Ferguson as Elizabeth Woodville."
+    },
+    {
+        "label": "False",
+        "sentence": "question: do great white sharks have any natural predators\npassage: Great white shark -- The great white shark has no known natural predators other than, on very rare occasions, the killer whale. The great white shark is arguably the world's largest known extant macropredatory fish, and is one of the primary predators of marine mammals. It is also known to prey upon a variety of other marine animals, including fish and seabirds. It is the only known surviving species of its genus Carcharodon, and is ranked first in having the most recorded shark bite incidents on humans."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there a toll on the mackinac bridge\npassage: Mackinac Bridge -- The Mackinac Bridge is currently a toll bridge on Interstate 75 (I-75). Prior to the coming of I-75, the bridge carried US Highway 27 (US 27). It is one of only three segments of I-75 that are tolled, the others being the American half of the International Bridge near Sault Ste. Marie, Michigan, and Alligator Alley in Florida. The current toll is $4.00 for automobiles and $5.00 per axle for trucks. The Mackinac Bridge Authority raised the toll in 2007 to fund a $300 million renovation program, which would include completely replacing the bridge deck."
+    },
+    {
+        "label": "False",
+        "sentence": "question: does reaching base on an error count towards obp\npassage: On-base percentage -- By factoring in only hits, walks and times hit by pitch, OBP does not credit the batter for reaching base due to fielding errors or decisions, as it does not increase when the batter reaches base due to fielding error, fielder's choice, dropped/uncaught third strike, fielder's obstruction, or catcher's interference."
+    },
+    {
+        "label": "False",
+        "sentence": "question: did they use real whales in free willy 2\npassage: Free Willy 2: The Adventure Home -- Free Willy 2: The Adventure Home is a 1995 American family film, directed by Dwight Little, and released by Warner Bros. under its Family Entertainment banner. It is a sequel to the 1993 film Free Willy, also starring Jason James Richter and August Schellenberg. Free Willy 3: The Rescue, was subsequently released in 1997, making a trilogy. A fourth nonconsecutive film, Free Willy: Escape from Pirate's Cove was released on DVD in Spring 2010. Keiko the Orca does not actually appear in this film unlike the original movie. Willy is played by a robotic double while the Free Willy Keiko Foundation devised a plan to bring him to the Oregon Coast Aquarium where he would be rehabilitated for poor health."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are grace and frankie sisters in the show\npassage: Grace and Frankie -- Grace and Frankie is an American comedy web television series created by Marta Kauffman and Howard J. Morris for Netflix. The series stars Jane Fonda and Lily Tomlin in the title roles of Grace and Frankie, two unlikely friends who are brought together after their husbands announce that they are in love and plan to get married. Sam Waterston, Martin Sheen, Brooklyn Decker, Ethan Embry, June Diane Raphael, and Baron Vaughn co-star in supporting roles. It premiered on Netflix on May 8, 2015, with all 13 episodes of the first season released simultaneously. The second, third, and fourth seasons, also consisting of 13 episodes each, have been released on May 6, 2016, March 24, 2017, and January 19, 2018, respectively."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are the oscars the same as the academy awards\npassage: Academy Awards -- The Academy Awards, also known as the Oscars, are a set of 24 awards for artistic and technical merit in the American film industry, given annually by the Academy of Motion Picture Arts and Sciences (AMPAS), to recognize excellence in cinematic achievements as assessed by the Academy's voting membership. The various category winners are awarded a copy of a golden statuette, officially called the ``Academy Award of Merit'', which has become commonly known by its nickname ``Oscar''. The sculpture was created by George Stanley. The awards, first presented in 1929 at the Hollywood Roosevelt Hotel, are overseen by AMPAS."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are any of the dad's army cast still alive\npassage: Frank Williams (actor) -- Frank Williams (born 2 July 1931) is an English actor best known for playing Timothy Farthing, the vicar in the BBC comedy Dad's Army. He and Ian Lavender are the last surviving major cast members. He reprised the role of Farthing in the 2016 film adaptation of the series."
+    },
+    {
+        "label": "False",
+        "sentence": "question: were there any survivors on the andrea gail\npassage: Andrea Gail -- All six of the crew were lost at sea."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is everyone with a phd called a doctor\npassage: Doctor (title) -- Doctor is an academic title that originates from the Latin word of the same spelling and meaning. The word is originally an agentive noun of the Latin verb docēre (dɔˈkeːrɛ) 'to teach'. It has been used as an academic title in Europe since the 13th century, when the first Doctorates were awarded at the University of Bologna and the University of Paris. Having become established in European universities, this usage spread around the world. Contracted ``Dr'' or ``Dr.'', it is used as a designation for a person who has obtained a Doctorate (e.g. PhD). In many parts of the world it is also used by medical practitioners, regardless of whether or not they hold a doctoral-level degree."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there something at the end of the new pirates of the caribbean movie\npassage: Pirates of the Caribbean: Dead Men Tell No Tales -- In a post-credits scene, Will and Elizabeth sleep in their bedroom but the silhouette of an apparently resurrected Davy Jones appears. Will wakes up, assuming it was a nightmare, but a small puddle filled with barnacles under the bed implies that Jones has indeed returned."
+    },
+    {
+        "label": "True",
+        "sentence": "question: has the us post office ever been in debt\npassage: United States Postal Service -- On September 30, 2014, the USPS failed to make a $5.7 billion payment on this debt, the fourth such default."
+    },
+    {
+        "label": "False",
+        "sentence": "question: do you have to leave a return address\npassage: Return address -- The return address is not required on postal mail. However, lack of a return address prevents the postal service from being able to return the item if it proves undeliverable; such as from damage, postage due, or invalid destination. Such mail may otherwise become dead letter mail."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are overhead press and shoulder press the same\npassage: Overhead press -- The press, overhead press or shoulder press is a weight training exercise with many variations, typically performed while standing, in which a weight is pressed straight upwards from racking position until the arms are locked out overhead, while the legs, lower back and abs maintain balance. The exercise helps build muscular shoulders with bigger arms, and is one of the most difficult compound upper-body exercises."
+    },
+    {
+        "label": "False",
+        "sentence": "question: will there be another season of nicky ricky dicky and dawn\npassage: Nicky, Ricky, Dicky & Dawn -- The series was originally picked up for 13 episodes on March 13, 2014, but was later increased to 20 episodes. The series premiered on September 13, 2014. On November 18, 2014, the series was renewed for a second season. The second season premiered on May 23, 2015. On February 9, 2016, Nickelodeon renewed Nicky, Ricky, Dicky & Dawn for a third season of 14 episodes. It was also confirmed that Matt Fleckenstein would step down as show runner. Actress Lizzy Greene announced on her Twitter account that production for season three started on April 26, 2016. The third season premiered on January 7, 2017. The series was renewed for a fourth season and had its episode order for the third season increased from 14 to 24 by Nickelodeon on March 20, 2017. On October 4, 2017, it was announced that Mace Coronel would be leaving both Nicky, Ricky, Dicky & Dawn, about five episodes before the end of the fourth season, and Nickelodeon. On November 15, 2017, Nickelodeon announced that the fourth season would be the last."
+    },
+    {
+        "label": "False",
+        "sentence": "question: does disney still have the great movie ride\npassage: The Great Movie Ride -- The Great Movie Ride closed on August 13, 2017, becoming the last operating attraction from the park's opening day to close. The attraction is slated to be replaced by Mickey & Minnie's Runaway Railway."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is manas national park is name after the river\npassage: Manas National Park -- The name of the park is originated from the Manas River, which is named after the serpent goddess Manasa. The Manas river is a major tributary of Brahmaputra River, which passes through the heart of the national park."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there such a thing as a ground squirrel\npassage: Ground squirrel -- The ground squirrels are members of the squirrel family of rodents (Sciuridae) which generally live on or in the ground, rather than trees. The term is most often used for the medium-sized ground squirrels, as the larger ones are more commonly known as marmots (genus Marmota) or prairie dogs, while the smaller and less bushy-tailed ground squirrels tend to be known as chipmunks. Together, they make up the ``marmot tribe'' of squirrels, Marmotini, and the large and mainly ground squirrel subfamily Xerinae, and containing six living genera. Well-known members of this largely Holarctic group are the marmots (Marmota), including the American groundhog, the chipmunks, the susliks (Spermophilus), and the prairie dogs (Cynomys). They are highly variable in size and habitus, but most are remarkably able to rise up on their hind legs and stand fully erect comfortably for prolonged periods. They also tend to be far more gregarious than other squirrels, and many live in colonies with complex social structures. Most Marmotini are rather short-tailed and large squirrels, and the alpine marmot (Marmota marmota) is the largest living member of the Sciuridae, at 53--73 cm in length and weighing 5--8 kg."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is beijing in the same time zone as shanghai\npassage: Time in China -- The time in China follows a single standard time offset of UTC+08:00 (eight hours ahead of Coordinated Universal Time), despite China spanning five geographical time zones. The official national standard time is called Beijing Time (Chinese: 北京时间) domestically and China Standard Time (CST) internationally. Daylight saving time has not been observed since 1991."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are isle of man pounds legal tender in england\npassage: Manx pound -- UK notes and coins (whether from banks in England, Scotland, or Northern Ireland) are generally accepted in the Isle of Man, but Manx notes and coins are not generally accepted in the UK. To assist those travelling, the ATMs at the Sea Terminal, Douglas, and at Isle of Man Airport issue Bank of England notes only. A number of businesses accept euros."
+    },
+    {
+        "label": "True",
+        "sentence": "question: does the great lakes connected to the ocean\npassage: Great Lakes Waterway -- Together with the Saint Lawrence Seaway, the Waterway allows both ocean-going vessels and the ore, grain and coal-bearing lake freighters to travel from the system's saltwater outlet to its far interior. The Waterway has larger locks and deeper drafts than the lower Seaway, limiting large freighters to the four lakes upstream of the Welland Canal and Lake Ontario, and similarly restricting passage beyond the canal by larger ocean vessels. The two waterways are often jointly and simply referred to as the ``St. Lawrence Seaway'', since the Great Lakes, together with the St. Lawrence River, comprise a single navigable body of freshwater linking the Atlantic Ocean to the continental interior."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is david tennant in jessica jones series 2\npassage: Jessica Jones (season 2) -- Krysten Ritter stars as Jones, with Rachael Taylor, Carrie-Anne Moss, and Eka Darville also returning from the first season, as well as Wil Traval and David Tennant in guest roles. They are joined by J.R. Ramirez, Terry Chen, Leah Gibson, and Janet McTeer. The second season was ordered in January 2016, with filming beginning in April 2017, back-to-back with the miniseries Marvel's The Defenders. Filming concluded in September 2017."
+    }
+]

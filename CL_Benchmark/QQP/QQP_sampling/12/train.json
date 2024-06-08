@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "first sentence: Cqn the president remove the prime minister of india?\nsecond sentence: Is there a service to clean the valves of a direct injected engine in Ontario, Canada?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How can I control my bad feelings and emotions?\nsecond sentence: How do I control emotions..Like Heart Breaking emotions?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Why sensor board nvr imposes a ban on movies like great grand masti instead of imposing ban on meaningful movies like udta punjab?\nsecond sentence: Where is the cross and dot product used in physics?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is a good anime?\nsecond sentence: How do I watch Japanese anime in Chinese?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Anybody wants know to know how you can make an extra $1000 a month?\nsecond sentence: How can I make an extra $1000 a month?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: If I had some lithium metal, how could I easily prove to my friends that it reacts with nitrogen, assuming they like talking about chemistry?\nsecond sentence: How does lithium metal react with water?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What does Donald Trump's success as a candidate tell us about the American public?\nsecond sentence: What can Donald Trump's popularity tell us about American values?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What is the best test application?\nsecond sentence: Do I get views for a anonymous question?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Which top colleges can I get into for btech CSE with rank 4969 in ComedK 2016?\nsecond sentence: My JoSAA 2016 merit rank is 18879 .In which top college and discipline can I get into?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I revise for my theory test?\nsecond sentence: How do you  Revise the Theory Test?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How do I study geography in UPSC?\nsecond sentence: How should I study geography for UPSC examination?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Why are we afraid of failure?\nsecond sentence: What are we really afraid of ?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the signs that a Taurus man really likes you?\nsecond sentence: I'm a Taurus but why do I feel like an Aries?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Which hotel in Kolkata allows unmarried couples to rent rooms?\nsecond sentence: In which hotel can a couple (unmarried) stay overnight in Banglore?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What is the answer to 2+3*?\nsecond sentence: What is the answer to 2 1/2 (-3 3/4)?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How much do CPAs cost per hour on average?\nsecond sentence: How much does Target pay its employees per hour?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Does vinegar help flush meth out of my system?\nsecond sentence: What's the best method to get meth out of your system?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do non-US citizens apply for Merch By Amazon?\nsecond sentence: My parents are sympathetic and helpful to others with mental illnesses but are insensitive towards mine. Could someone help me understand why?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the most interesting fashion styles?\nsecond sentence: What are the top fashion styles?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What are the websites where I can learn VBA for creating macros for CATIA V-5 also suggest me some institutes?\nsecond sentence: Should I learn AutoCAD, CATIA with GD&T or CATIA, Creo with GD&T? Suggest me other combinations.I am a fresher.",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Would you be buying iPhone 7? Why or why not?\nsecond sentence: Why would you buy an iPhone 7?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Which car services are available in Kitchener, ON? How good are they compared to taxis and relative to each other?\nsecond sentence: Which car services are available in Honolulu? How good are they compared to taxis and relative to each other?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How can I study in B.TECH 1st year efficiently? I am not able to study. Please help.?\nsecond sentence: How can I study in B.TECH 1st year efficiently? I am not able to study. Please help.",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What are some examples of atomic energy?\nsecond sentence: How do you atomize energy? What are some examples?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are some tips for training for a half marathon?\nsecond sentence: What are some tips on training for a half marathon?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Why do you need to calculate the total gross monthly income?\nsecond sentence: How do you determine your gross monthly income?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What job profiles in SSC-CGL provide enough time to prepare for civil services?\nsecond sentence: What should be the job preference in SSC CGL 2016, if I want to prepare for civil services?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Why are most airliners painted white?\nsecond sentence: Why are airplanes commonly painted white?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Folks with Aspergers. Would you rather be home schooled or attend a small private school for middle & high school? Why?\nsecond sentence: Radioactive isotope half-life is 8 days, if at some time sample contains 10^14 nuclei, what is the time to make the residual becomes 10^6 nuceli?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Is there any eligibility criteria for buying a Rolls Royce or is it that anyone with money can buy one?\nsecond sentence: What is the criteria to buy a Rolls-Royce?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: Can I combine the output of two bolts into one bolt in Apache Storm using shuffle grouping? If yes, How\nsecond sentence: Can I combine the output of two bolts to one bolt in Apache Storm using shuffle grouping? If yes, how?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: What happens to my muscles if I don't take some form of protein RIGHT before I sleep? \nsecond sentence: After heavy weight lifting workout, if I don't eat any proteins, will my body use my fats to recover the muscles and make me more lean?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do I motivate myself during hard times?\nsecond sentence: How can I stay motivated myself during hard times?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: \"Does the Rigveda statement \"\"Truth is one - \"\"ekam sad vipra bahudha vadanti agnim yamam matariswanam ahuh\"\" decisively point to the oneness of God, or its about the uniqueness and unambiguity of Truth?\"\nsecond sentence: Does God exist?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Why doesn't Aamir Khan attend Bollywood award functions?\nsecond sentence: Why is Aamir Khan not loved by other Bollywood actors?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: How do we deal with depression?\nsecond sentence: How can I get rid of my depression?",
+        "label": "True"
+    },
+    {
+        "sentence": "first sentence: How is the word 'countermand' used in a sentence?\nsecond sentence: How is the word 'gape' used in a sentence?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are the best ways to optimize my website to convert sales?\nsecond sentence: How can I optimize my website?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: What are some mind-blowing facts about AT&T?\nsecond sentence: What are some mind blowing facts about Illinois?",
+        "label": "False"
+    },
+    {
+        "sentence": "first sentence: Why do people get upset when celebrities die? Why do we mourn the loss of celebrities we never met in person?\nsecond sentence: Why do we mourn the loss of celebrities we never met in person?",
+        "label": "True"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "label": "True",
+        "sentence": "question: can you drink alcohol outside in the uk\npassage: Drinking in public -- Drinking in public is legal in England and Wales -- one may carry a drink from a public house down the street (though it is preferred that the user requests a plastic glass to avoid danger of breakage and because the taking of the glass could be considered an offence of Theft as only the drink has been purchased), and one may purchase alcohol at an off-licence and immediately begin drinking it outside. Separately, one may drink on aeroplanes and on most National Rail train services, either purchasing alcohol on-board or consuming one's own."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can you throw a ball into the goal\npassage: Throw-in -- A goal cannot be scored directly from a throw-in; if a player throws the ball directly into their own goal without any other player touching it, the result is a corner kick to the opposing side. Likewise an offensive goal cannot be scored directly from a throw in; the result in this case is a goal kick for the defending team."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are the old two pound coins still legal tender\npassage: Two pounds (British coin) -- The British two pound (£2) coin is a denomination of the pound sterling. Its obverse has featured the profile of Queen Elizabeth II since the coin's introduction. Three different portraits of the Queen have been used, with the current design by Jody Clark being introduced in 2015. The reverse design features Britannia."
+    },
+    {
+        "label": "False",
+        "sentence": "question: did the actor who played freddy krueger die\npassage: Robert Englund -- Robert Barton Englund (born June 6, 1947) is an American actor, voice actor, singer, and director, best known for playing the infamous serial killer Freddy Krueger in the Nightmare on Elm Street film series. He received a Saturn Award nomination for Best Supporting Actor for A Nightmare on Elm Street 3: Dream Warriors in 1987 and A Nightmare on Elm Street 4: The Dream Master in 1988. Englund is a classically trained actor."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is south korea qualified for the world cup\npassage: South Korea national football team -- For the combined qualification matches for the 2018 FIFA World Cup and the 2019 AFC Asian Cup, South Korea was drawn with Kuwait, Lebanon, Myanmar, and Laos in Group G of the second round. After winning seven matches without conceding a goal, South Korea qualified for the third round of the AFC qualifiers for the 2018 World Cup. Following a series of poor results in the third round of qualifiers, including defeats to China and Qatar, head coach Uli Stielike was sacked and was replaced by former U-20 and U-23 coach Shin Tae-yong for the remainder of the qualifying round. Under Shin, the team managed to qualify as the second-placed team in their group following two goalless draws against Iran and Uzbekistan, sending South Korea to the World Cup for the ninth consecutive time."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is it possible to have natural silver hair\npassage: Human hair color -- Natural hair color can be black, blond, brown, red, or white; all natural hair colors including grey, white and lightest blond, are shades of brown."
+    },
+    {
+        "label": "False",
+        "sentence": "question: does chuck die in gossip girl season 5\npassage: Chuck Bass -- At the beginning of the season Chuck and Blair make a pact not to be together until Blair succeeds at Waldorf designs and Chuck takes down Bart. After many failed attempts of taking down Bart, Bart and Chuck end up in a fight. This leads to Bart falling off a building and dying. Blair is the only witness to this event and so Chuck and Blair get married so Blair does not have to testify against Chuck."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is petey from the little rascals still alive\npassage: Pete the Pup -- Pete the Pup (original, 1924 -- June 1930; second Pete, September 9, 1929 -- January 28, 1946) was a character in Hal Roach's Our Gang comedies (later known as The Little Rascals) during the 1930s. Otherwise known as ``Pete, the Dog With the Ring Around His Eye'', or simply ``Petey'', he was well known for having a circled eye that was added on by Hollywood make-up artist Max Factor and credited as an oddity in Ripley's Believe It or Not. The original Pete (sired by ``Tudor's Black Jack'') was an APBT named ``Pal, the Wonder Dog'', and had a natural ring almost completely around his right eye; dye was used to finish it off."
+    },
+    {
+        "label": "False",
+        "sentence": "question: does the ampulla of vater only contain pancreatic juice\npassage: Ampulla of Vater -- Various smooth muscle sphincters regulate the flow of bile and pancreatic juice through the ampulla: the sphincter of the pancreatic duct, the sphincter of the bile duct, and the sphincter of Oddi."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the one and only ivan a movie\npassage: The One and Only Ivan (film) -- The One and Only Ivan is an American fantasy film based on the children's novel of the same name and directed by Thea Sharrock. The screenplay was written by Mike White and Sam Rockwell stars as the voice of the titular Ivan."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is it possible to be born with two uteruses\npassage: Uterus didelphys -- Uterus didelphys (sometimes also uterus didelphis) represents a uterine malformation where the uterus is present as a paired organ when the embryogenetic fusion of the Müllerian ducts fails to occur. As a result, there is a double uterus with two separate cervices, and rarely a double vagina as well. Each uterus has a single horn linked to the ipsilateral fallopian tube that faces its ovary."
+    },
+    {
+        "label": "False",
+        "sentence": "question: are police dogs considered officers of the law\npassage: Police dog -- It is a felony to assault or kill a federal law enforcement animal, and it is a crime in most states to assault or kill a police animal. Yet despite common belief , police dogs are not treated as police officers for the purpose of the law, and attacking a police dog is not punishable in the same manner as attacking a police officer. Though many police departments formally swear dogs in as police officers, this swearing-in is purely honorary, and carries no legal significance."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is dark horse based on a true story\npassage: Dark Horse: The Incredible True Story of Dream Alliance -- Dark Horse: The Incredible True Story of Dream Alliance is a 2014 documentary directed by Louise Osmond."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is silence of the lambs the first movie\npassage: The Silence of the Lambs (film) -- The Silence of the Lambs is a 1991 American horror-thriller film directed by Jonathan Demme and starring Jodie Foster, Anthony Hopkins, and Scott Glenn. It was adapted by Ted Tally from Thomas Harris's 1988 novel of the same name. The novel was Harris's second to feature the character of Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer. The film was the second adaptation of a Harris novel to feature Lecter, preceded by the Michael Mann-directed Manhunter in 1986. In the film, Clarice Starling, a young U.S. FBI trainee, seeks the advice of the imprisoned Dr. Lecter to apprehend another serial killer, known only as ``Buffalo Bill''."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is puerto rico part of the us territory\npassage: Puerto Rico -- Puerto Rico (pɔrtə ɹikoʊ, Spanish: pwɛrtɔ rikɔ) (Spanish for ``Rich Port''), officially the Commonwealth of Puerto Rico (Spanish: Estado Libre Asociado de Puerto Rico, lit. ``Free Associated State of Puerto Rico'') and briefly called Porto Rico, is an unincorporated territory of the United States located in the northeast Caribbean Sea."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are federal taxes based on adjusted gross income\npassage: Adjusted gross income -- In the United States income tax system, adjusted gross income (AGI) is an individual's total gross income minus specific deductions. Taxable income is adjusted gross income minus allowances for personal exemptions and itemized deductions. For most individual tax purposes, AGI is more relevant than gross income."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is a passport card a valid form of id\npassage: United States Passport Card -- The U.S. Passport Card is the de facto national identification card of the United States and a limited travel document issued by the federal government of the United States in the size of a credit card. Like a U.S. passport book, the passport card is only issued to U.S. citizens and U.S. nationals exclusively by the U.S. Department of State and is compliant to the standards for identity documents set by the REAL ID Act and can be used as proof of U.S. citizenship. The passport card's intended primary purpose is for identification and to allow cardholders to travel by domestic air flights within the United States and to enter and exit the United States via land and sea between member states of the Western Hemisphere Travel Initiative (WHTI). However, the passport card cannot be used for international air travel."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the bank of england a private limited company\npassage: Bank of England -- In 1977, the Bank set up a wholly owned subsidiary called Bank of England Nominees Limited (BOEN), a private limited company, with two of its hundred £1 shares issued. According to its Memorandum & Articles of Association, its objectives are: ``To act as Nominee or agent or attorney either solely or jointly with others, for any person or persons, partnership, company, corporation, government, state, organisation, sovereign, province, authority, or public body, or any group or association of them...'' Bank of England Nominees Limited was granted an exemption by Edmund Dell, Secretary of State for Trade, from the disclosure requirements under Section 27(9) of the Companies Act 1976, because ``it was considered undesirable that the disclosure requirements should apply to certain categories of shareholders.'' The Bank of England is also protected by its royal charter status, and the Official Secrets Act. BOEN is a vehicle for governments and heads of state to invest in UK companies (subject to approval from the Secretary of State), providing they undertake ``not to influence the affairs of the company''. BOEN is no longer exempt from company law disclosure requirements. Although a dormant company, dormancy does not preclude a company actively operating as a nominee shareholder. BOEN has two shareholders: the Bank of England, and the Secretary of the Bank of England.."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is the cardiovascular and circulatory system the same\npassage: Circulatory system -- The circulatory system, also called the cardiovascular system or the vascular system, is an organ system that permits blood to circulate and transport nutrients (such as amino acids and electrolytes), oxygen, carbon dioxide, hormones, and blood cells to and from the cells in the body to provide nourishment and help in fighting diseases, stabilize temperature and pH, and maintain homeostasis."
+    },
+    {
+        "label": "False",
+        "sentence": "question: did anyone die in the battle of fort sumter\npassage: Battle of Fort Sumter -- The resupply of Fort Sumter became the first crisis of the administration of the newly inaugurated U.S. President Abraham Lincoln following his victory in the election of November 6, 1860. He notified the Governor of South Carolina, Francis W. Pickens that he was sending supply ships, which resulted in an ultimatum from the Confederate government for the immediate evacuation of Fort Sumter, which Major Anderson refused. Beginning at 4:30 a.m. on April 12, the Confederates bombarded the fort from artillery batteries surrounding the harbor. Although the Union garrison returned fire, they were significantly outgunned and, after 34 hours, Major Anderson agreed to evacuate. There were no deaths on either side as a direct result of this engagement, although a gun explosion during the surrender ceremonies on April 14 caused two Union deaths."
+    },
+    {
+        "label": "True",
+        "sentence": "question: can you drink on the street in edinburgh\npassage: Drinking in public -- The City of Edinburgh allows the consumption of alcohol in public places but under the Edinburgh by-law, anyone drinking in public would have to stop if asked by police. In the Strathclyde region that includes Glasgow, the consumption of alcohol or possession of an open container of alcohol, in public places has been illegal since 1996. Breaking this law can mean a fine. This ban was enforced due to the increase in drink-related violent crime. In the Perth & Kinross local authority the consumption of alcohol in public places is illegal in the following places: Alyth, Crieff, Kinross, Scone, Aberfeldy, Blairgowrie, Dunkeld & Birnam, Milnathort, Coupar Angus, Errol, Perth City. Drinking publicly in these areas is chargeable offence. In St Andrews in Fife it is illegal to drink or even have an open drinks container on the street. On the spot fines can be handed out by the police. It is however legal to consume alcohol on any of the beaches in St Andrews."
+    },
+    {
+        "label": "True",
+        "sentence": "question: salto ángel is the tallest waterfall in the world\npassage: Angel Falls -- Angel Falls (Spanish: Salto Ángel; Pemon language: Kerepakupai Meru meaning ``waterfall of the deepest place'', or Parakupá Vená, meaning ``the fall from the highest point'') is a waterfall in Venezuela. It is the world's highest uninterrupted waterfall, with a height of 979 meters (3,212 ft) and a plunge of 807 meters (2,648 ft). The waterfall drops over the edge of the Auyán-tepui mountain in the Canaima National Park (Spanish: Parque Nacional Canaima), a UNESCO World Heritage site in the Gran Sabana region of Bolívar State. The height figure 979 metres (3,212 ft) mostly consists of the main plunge but also includes about 400 metres (0.25 mi) of sloped cascade and rapids below the drop and a 30-metre (98 ft) high plunge downstream of the talus rapids."
+    },
+    {
+        "label": "True",
+        "sentence": "question: was silence of the lambs based on a book\npassage: The Silence of the Lambs (novel) -- The Silence of the Lambs is a novel by Thomas Harris. First published in 1988, it is the sequel to Harris' 1981 novel Red Dragon. Both novels feature the cannibalistic serial killer Dr. Hannibal Lecter, this time pitted against FBI Special Agent Clarice Starling. Its film adaptation directed by Jonathan Demme was released in 1991 to box office success and critical acclaim."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is it legal to have a gun in florida\npassage: Gun laws in Florida -- Florida is considered accommodating to guns, by national standards. There are 56 laws relating to owning, transporting, and using guns. Convicted felons have few rights to gun possession."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is sara dead in prison break season 3\npassage: Sara Tancredi -- In this season, standbys are used to portray the character, including Katie A. Keane in the photographs for the episode ``Call Waiting''. She is revealed to have been kidnapped by The Company, and is said in ``Good Fences'' to have been murdered in response to a failed rescue attempt. She was decapitated and her head was sent to Lincoln Burrows in a box. Michael swears to avenge her death."
+    },
+    {
+        "label": "False",
+        "sentence": "question: did trevor die in the fundamentals of caring\npassage: The Fundamentals of Caring -- Ben and Trevor make it home safely, and having finally coped with the loss of his son, Ben meets his estranged wife and gives her the divorce papers. He continues writing, his next novel being about Trevor. He narrates his writing the last few lines, informing the audience that he eventually quit as Trevor's caregiver, but the two remained friends. On Trevor's 21st birthday, Ben went into his room to find Trevor lying dead on the floor and his new caregiver crying on the floor next to him, only to find out Trevor was faking. The caregiver quit the next day."
+    },
+    {
+        "label": "True",
+        "sentence": "question: was cheryl blossom in the original archie comics\npassage: Cheryl Blossom -- Cheryl Blossom was introduced in 1982 in Betty and Veronica #320 as a third love interest for Archie Andrews, but she and her twin brother Jason disappeared two years later. One of the reasons she disappeared at first was because she was deemed too sexual for a children's comic."
+    },
+    {
+        "label": "False",
+        "sentence": "question: stand by me movie based on a true story\npassage: Stand by Me (film) -- Stand by Me is a 1986 American coming-of-age drama film directed by Rob Reiner, and starring Wil Wheaton, River Phoenix, Corey Feldman, and Jerry O'Connell. The film, whose plot is based on Stephen King's novella The Body (1982) and title is derived from Ben E. King's eponymous song, which plays over the ending credits, tells the story of four boys in a small town in Oregon who go on a hike to find the dead body of a missing child."
+    },
+    {
+        "label": "False",
+        "sentence": "question: you're the one that i want reunion\npassage: Grease: You're the One That I Want! -- Grease: You're the One That I Want! is an NBC reality television series designed to cast the lead roles of Sandy Dumbrowski and Danny Zuko in a $10 million Broadway revival of the musical Grease to be directed and choreographed by two-time Tony Award-winner Kathleen Marshall. The Broadway production began previews at the Brooks Atkinson Theatre on July 24, 2007, and officially opened on August 19."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is memorial day the last monday in may\npassage: Memorial Day -- Memorial Day or Decoration Day is a federal holiday in the United States for remembering the people who died while serving in the country's armed forces. The holiday, which is currently observed every year on the last Monday of May, was held on May 28, 2018. The holiday was held on May 30 from 1868 to 1970. It marks the unofficial start of the summer vacation season, while Labor Day marks its end."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is the bridge of sighs on the grand canal\npassage: Bridge of Sighs -- The Bridge of Sighs (Italian and Venetian: Ponte dei Sospiri) is a bridge located in Venice, northern Italy. The enclosed bridge is made of white limestone, has windows with stone bars, passes over the Rio di Palazzo, and connects the New Prison (Prigioni Nuove) to the interrogation rooms in the Doge's Palace. It was designed by Antonio Contino (whose uncle Antonio da Ponte had designed the Rialto Bridge) and was built in 1600."
+    },
+    {
+        "label": "False",
+        "sentence": "question: can class a misdemeanor be expunged in texas\npassage: Expungement in Texas -- Texas expungement law allows expungement of arrests which did not lead to a finding of guilt, and class C misdemeanors if the defendant received deferred adjudication, and completed a community supervision. If the defendant was found guilty, pleaded guilty, or pleaded no contest to any offense other than a class ``C'' misdemeanor, it is not eligible for expungement; however, it may be eligible for non-disclosure if deferred adjudication was granted."
+    },
+    {
+        "label": "False",
+        "sentence": "question: did the plane in flight of the phoenix really fly\npassage: Flight of the Phoenix (2004 film) -- A Phoenix that could be taxied but not flown was built for closeups. The Phoenix in flying scenes were done using a radio-controlled model and computer graphics."
+    },
+    {
+        "label": "True",
+        "sentence": "question: do african elephants live in the sahara desert\npassage: Desert elephant -- Desert elephants are not a distinct species of elephant but are African bush elephants (Loxodonta africana) that have made their homes in the Namib and Sahara deserts. It was believed at one time that they were a subspecies of the African bush elephant but this is no longer thought to be the case. Desert-dwelling elephants were once more widespread in Africa than they are now and are currently found only in Namibia and Mali. They tend to migrate from one waterhole to another following traditional routes which depend on the seasonal availability of food and water. They face pressure from poaching and from changes in land use by humans."
+    },
+    {
+        "label": "True",
+        "sentence": "question: are drake and elena married in uncharted 3\npassage: Elena Fisher -- E3 2011 trailer of Uncharted 3: Drake's Deception showed Elena helping Drake and Sully again. It also revealed she's now wearing a ring on her left ring finger. During the game it is revealed that she and Drake were married, and later broke up in between the events of Uncharted 2 and 3, due to what we can only believe was to keep Elena safe. Since the events Uncharted 2, Elena has become an international news correspondent, and has been stationed in Yemen for some time. Nathan Drake and Victor Sullivan discover that Sir Francis Drake made a stop in Yemen on his quest to find the Atlantis of the Sands. Since the two needed to get into Yemen quietly and without opposition, Sullivan called Elena to ask for her help, as Drake was reluctant to speak to her. When Drake and Sullivan arrive in Yemen, Elena gives them permits and talks to them happily as they exit the airport. But Drake and Elena begin to argue over their sudden arrival and over Elena's wedding band. Nate is more interested by the fact that she is still wearing her wedding ring from their estranged marriage. She claims 'it helps in this part of the world' and tells him not to flatter himself. Nate just smiles, knowing she's not being entirely honest with him. But Elena suspects that Nate is not being honest with her, and is worried about his obsession with Sir Francis Drake's expedition. She also voices her concern about Sullivan, and that Nate shouldn't make him run across the globe for him. Elena takes Drake and Sullivan on a walking tour through Yemen, with the Old Quarter as their targeted destination. In order to dodge the city's guards, the trio climb up to the roof tops. From there, Sullivan spots Talbot walking through the town. Drake pursues him, and is eventually cornered by Marlowe's guards. Once Nate defeats the guards, Elena leads Sullivan and Drake into a courtyard. Coincidentally, the courtyard contains a well that contains the coordinates to Iram. While in the catacombs, the three discover a hidden chamber with messages written on the walls, warning about the dangers of Iram and the desert. Nate deduces that these messages were written by Sir Francis Drake. Elena asks Nate to stop looking for Iram."
+    },
+    {
+        "label": "True",
+        "sentence": "question: do pitchers have to hit in the national league\npassage: Designated hitter -- In baseball, the designated hitter rule is the common name for Major League Baseball Rule 5.11, adopted by the American League in 1973. The rule allows teams to have one player, known as the designated hitter (abbreviated DH), to bat in place of the pitcher. Since 1973, most collegiate, amateur, and professional leagues have adopted the rule or some variant. MLB's National League and Nippon Professional Baseball's Central League are the most prominent professional leagues that do not use a designated hitter."
+    },
+    {
+        "label": "False",
+        "sentence": "question: do phone companies have to unlock your phone uk\npassage: SIM lock -- In the United Kingdom, mobile phone network providers are not obliged to provide unlocking, even after the end of the contract. Ofcom, UK's telecom regulator, allowed 3 UK to sell a mobile phone with the SIM card permanently superglued to the phone. Most operators offer some form of unlocking service, depending on the state of the contract and the model of phone, but usually for a charge. The full Oftel 2002 SIM-lock position paper specifies that there is no SIM-locking law in the UK; the regulator wants only ``consumer awareness''. The examples within the position paper are just ``examples'' of current carrier practices for illustration purposes, but do not reflect any official Oftel regulation. The main networks often agree to unlock handsets for a charge, either at the end of a contract or, for prepaid handsets, after several months. Some Blackberry handsets supplied by Vodafone (e.g., Storm) are examples of a UK carrier not offering unlocking codes. As of April 2011 O will unlock any of their pay-monthly phones for free, even if they're still in contract, with the exception of handsets made exclusively for them, such as their Palm devices. Carphone Warehouse, one of the largest UK phone retailers, offers unlocked phones with most PAYG deals. As of January 1st 2014 all phones sold by 3 UK are unlocked. Phones bought before this date will be unlocked for free."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there going to be an avengers 3\npassage: Avengers: Infinity War -- Avengers: Infinity War is a 2018 American superhero film based on the Marvel Comics superhero team the Avengers, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to 2012's The Avengers and 2015's Avengers: Age of Ultron, and the nineteenth film in the Marvel Cinematic Universe (MCU). The film is directed by Anthony and Joe Russo, written by Christopher Markus and Stephen McFeely, and features an ensemble cast including Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Benedict Cumberbatch, Don Cheadle, Tom Holland, Chadwick Boseman, Paul Bettany, Elizabeth Olsen, Anthony Mackie, Sebastian Stan, Danai Gurira, Letitia Wright, Dave Bautista, Zoe Saldana, Josh Brolin, and Chris Pratt. In the film, the Avengers and the Guardians of the Galaxy attempt to stop Thanos from amassing the all-powerful Infinity Stones."
+    },
+    {
+        "label": "True",
+        "sentence": "question: is there a series 5 of person of interest\npassage: Person of Interest (TV series) -- Person of Interest is an American science fiction crime drama television series that aired on CBS from September 22, 2011, to June 21, 2016, its five seasons comprising 103 episodes. The series was created by Jonathan Nolan, with Nolan, J.J. Abrams, Bryan Burk, Greg Plageman, Denise Thé, and Chris Fisher serving as executive producers."
+    },
+    {
+        "label": "False",
+        "sentence": "question: is scotland still part of the european union\npassage: Scotland -- In the aftermath of the United Kingdom's decision to withdraw from the European Union in 2016, the Scottish Government has called for there to be a joint approach from each of the devolved governments. In early 2017, the devolved governments met to discuss Brexit and agree on Brexit strategies from each devolved government which lead for Theresa May to issue a statement that claims that the devolved governments will not have a central role or decision making process in the Brexit process, but that the UK Government plans to ``fully engage'' Scotland in talks alongside the governments of Wales and Northern Ireland."
+    }
+]

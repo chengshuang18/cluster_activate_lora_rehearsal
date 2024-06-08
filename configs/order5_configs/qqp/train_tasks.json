@@ -4,19 +4,43 @@
     "TC": [
     ],
     "NLI": [   
+        {
+            "sampling strategy": "full",
+            "dataset name": "MNLI_sampling/7"
+        },
+        {
+            "sampling strategy": "full",
+            "dataset name": "CB_sampling/7"
+        } 
     ],
-    "QQP": [
+    "QQP": [ 
         {
             "sampling strategy": "full",
             "dataset name": "QQP"
         }
     ],
     "WiC": [ 
+        {
+            "sampling strategy": "full",
+            "dataset name": "WiC_sampling/7"
+        }
     ],
     "MultiRC": [ 
+        {
+            "sampling strategy": "full",
+            "dataset name": "MultiRC_sampling/7"
+        }
     ],
     "COPA": [
+        {
+            "sampling strategy": "full",
+            "dataset name": "COPA_sampling/7"
+        }
     ],
     "BoolQA": [
+        {
+            "sampling strategy": "full",
+            "dataset name": "BoolQA_sampling/7"
+        }
     ]
 }
