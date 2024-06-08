@@ -2,11 +2,11 @@
     "SC": [
         {
             "sampling strategy": "full",
-            "dataset name": "IMDB"
+            "dataset name": "IMDB_sampling/13"
         },
         {
             "sampling strategy": "full",
-            "dataset name": "SST-2"
+            "dataset name": "SST-2_sampling/13"
         },
         {
             "sampling strategy": "full",
@@ -16,55 +16,55 @@
     "TC": [
         {
             "sampling strategy": "full",
-            "dataset name": "dbpedia"
+            "dataset name": "dbpedia_sampling/13"
         },
         {
             "sampling strategy": "full",
-            "dataset name": "agnews"
+            "dataset name": "agnews_sampling/13"
         }
     ],
     "NLI": [   
         {
             "sampling strategy": "full",
-            "dataset name": "MNLI"
+            "dataset name": "MNLI_sampling/13"
         },
         {
             "sampling strategy": "full",
-            "dataset name": "CB"
+            "dataset name": "CB_sampling/13"
         },
         {
             "sampling strategy": "full",
-            "dataset name": "RTE"
+            "dataset name": "RTE_sampling/13"
         }
     ],
     "QQP": [ 
         {
             "sampling strategy": "full",
-            "dataset name": "QQP"
+            "dataset name": "QQP_sampling/13"
         }
     ],
     "WiC": [ 
         {
             "sampling strategy": "full",
-            "dataset name": "WiC"
+            "dataset name": "WiC_sampling/13"
         }
     ],
     "MultiRC": [ 
         {
             "sampling strategy": "full",
-            "dataset name": "MultiRC"
+            "dataset name": "MultiRC_sampling/13"
         }
     ],
     "COPA": [
         {
             "sampling strategy": "full",
-            "dataset name": "COPA"
+            "dataset name": "COPA_sampling/13"
         }
     ],
     "BoolQA": [
         {
             "sampling strategy": "full",
-            "dataset name": "BoolQA"
+            "dataset name": "BoolQA_sampling/13"
         }
     ]
 }
